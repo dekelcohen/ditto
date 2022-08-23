@@ -1,5 +1,13 @@
 [
   {
+    "name": "news/PER_ORG_20K",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/news/PER_ORG_20K/train.txt",
+    "validset": "data/news/PER_ORG_20K/valid.txt",
+    "testset":  "data/news/PER_ORG_20K/test.txt"
+  },
+  {
     "name": "wdc_all_small",
     "task_type": "classification",
     "vocab": ["0", "1"],

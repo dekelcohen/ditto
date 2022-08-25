@@ -1,5 +1,13 @@
 [
   {
+    "name": "news/ORG_2_toks_5K",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/news/ORG_2_toks_5K/train.txt",
+    "validset": "data/news/ORG_2_toks_5K/valid.txt",
+    "testset":  "data/news/ORG_2_toks_5K/test.txt"
+  },
+  {
     "name": "news/ORG_2_toks_20K",
     "task_type": "classification",
     "vocab": ["0", "1"],

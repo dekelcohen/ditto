@@ -252,7 +252,20 @@ def tune_threshold(config, model, hp):
 
     return th
 
+def eval_results(input_path, output_path):
+    predicts = []
+    with jsonlines.open(output_path, mode="r") as reader:
+        for line in reader:
+            predicts.append(int(line['match']))    
 
+    labels = []
+    with open(input_path) as fin:
+        for line in fin:
+            labels.append(int(line.split('\t')[-1]))
+
+    f1 = sklearn.metrics.f1_score(labels, predicts)
+        
+    return f1
 
 def load_model(task, path, lm, use_gpu, fp16=True):
     """Load a model for a specific task.
@@ -334,3 +347,6 @@ if __name__ == "__main__":
             lm=hp.lm,
             dk_injector=dk_injector,
             threshold=threshold)
+    
+    test_f1 = eval_results(hp.input_path, hp.output_path)
+    print(f'test_f1={test_f1}')

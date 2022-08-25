@@ -1,0 +1,979 @@
+COL name VAL global industry analysts inc	COL name VAL global indicators and analysis	0
+COL name VAL hurras al_deen	COL name VAL horas al_din	0
+COL name VAL the electoral machinery	COL name VAL boustany united machineries company	0
+COL name VAL bidayyat for audiovisual arts	COL name VAL audiovisual arts	1
+COL name VAL border guards	COL name VAL border guard police	0
+COL name VAL global agenda council on the future of government	COL name VAL 2030 agenda	0
+COL name VAL committee for a responsible budget	COL name VAL committee for a responsible federal budget	1
+COL name VAL the hague academy of international law	COL name VAL the international academy of peace ambassadors	0
+COL name VAL friends of lebanon	COL name VAL friends of labaki	0
+COL name VAL occupy abai	COL name VAL the iup iclp	0
+COL name VAL carbon market watch	COL name VAL market weekly watch	0
+COL name VAL the abi samra police station	COL name VAL tourzaya police station	0
+COL name VAL the sports business group	COL name VAL int l support group	0
+COL name VAL rafik hariri center for the middle east	COL name VAL the rafic hariri center	1
+COL name VAL mezwej ensemble	COL name VAL unosom ii	0
+COL name VAL the rota court	COL name VAL rota court	1
+COL name VAL transfiguration church	COL name VAL the church of transfiguration	1
+COL name VAL the national consortium for the study of terrorism and the responses to terrorism	COL name VAL the national consortium for the study of terrorism and responses to terrorism	1
+COL name VAL institute of child development	COL name VAL the institute of development studies	1
+COL name VAL unifil hq	COL name VAL the unifil ao	0
+COL name VAL united kingdom	COL name VAL united kingdom independence party	0
+COL name VAL sos fund	COL name VAL the sos fund	1
+COL name VAL the international association of francophone mayors	COL name VAL association of francophone mayors conference	1
+COL name VAL taco bell	COL name VAL taco bells	1
+COL name VAL yabroud army	COL name VAL x apartments	0
+COL name VAL the beirut chamber of navigation	COL name VAL the international chamber of navigation	1
+COL name VAL the palestine committee of the non aligned movement	COL name VAL non aligned summit	0
+COL name VAL the villa audi	COL name VAL the villa arson	0
+COL name VAL the athens observatory	COL name VAL the censorship observatory	0
+COL name VAL zuwwar alimam ali al_reda	COL name VAL the al_imam al_rida brigade	0
+COL name VAL recycle beirut	COL name VAL recycle lebanon	0
+COL name VAL the umayyad caliphate	COL name VAL islamic caliphate	0
+COL name VAL the state lawsuits authority	COL name VAL state authority	1
+COL name VAL independent sunni deputies	COL name VAL the independent sunni deputies	1
+COL name VAL arab league committee	COL name VAL the women committee of the arab league	1
+COL name VAL panorama des cinemas du maghreb et du moyen orient	COL name VAL bcd cinemas s a l	0
+COL name VAL the international parliament for tolerance and peace	COL name VAL the globalcouncil for tolerance and peace	0
+COL name VAL boutique hub beirut	COL name VAL bharta biotech	0
+COL name VAL new england revolution	COL name VAL new england aquarium	0
+COL name VAL the tehran modern art gallery	COL name VAL the musee d art moderne	0
+COL name VAL the royal opera house	COL name VAL the frankfurt opera house	0
+COL name VAL metropolitan art society	COL name VAL the metropolitan art society	1
+COL name VAL eu border guard	COL name VAL the border guards	0
+COL name VAL doosan heavy industries	COL name VAL b hive	0
+COL name VAL blues band lb	COL name VAL the monday blues band	0
+COL name VAL euromoney conferences	COL name VAL g 8 conference	0
+COL name VAL islamic caliphate	COL name VAL the supporters of the islamic caliphate	1
+COL name VAL aub international advisory council	COL name VAL the international advisory council of aunohr	1
+COL name VAL the youth sports club	COL name VAL bhairi youth cultural sports club	1
+COL name VAL the chamber of accounts	COL name VAL accounts chamber	1
+COL name VAL gaza guard	COL name VAL the greedy goose	0
+COL name VAL the u s capitol police	COL name VAL u s capitol police	1
+COL name VAL pollenzo university	COL name VAL penza university	0
+COL name VAL nour al_din al_zinki battalion	COL name VAL the nour al_din al_zinki battalion	1
+COL name VAL idal nabil itani	COL name VAL wwf nepal	0
+COL name VAL the chevening alumni lebanon	COL name VAL chevening scholarships	0
+COL name VAL faylaq al_	COL name VAL failaq al_	1
+COL name VAL indian home affairs	COL name VAL home affairs	1
+COL name VAL the qibyah school	COL name VAL the social arab club	0
+COL name VAL al_sharq al_awsat	COL name VAL al_ossoud al_sharqiya	0
+COL name VAL khatib and alami	COL name VAL khatib alami	1
+COL name VAL malaysia korea partners	COL name VAL malaysia airlines bhd	0
+COL name VAL the nbn tv	COL name VAL nbn t v	0
+COL name VAL the forry associates ltd company	COL name VAL baroudi associates	0
+COL name VAL the my rights movement	COL name VAL rights movement	1
+COL name VAL homenetmen beirut basketball club	COL name VAL bread basket	0
+COL name VAL the brazilian chamber of deputies	COL name VAL the mexican chamber of deputies	1
+COL name VAL black label	COL name VAL label queen	0
+COL name VAL france press	COL name VAL institut france presse	1
+COL name VAL the bristol group	COL name VAL first bristol group	1
+COL name VAL l armoire de lana	COL name VAL under armour	0
+COL name VAL the eastern christian community	COL name VAL eastern christianity	1
+COL name VAL united nations disengagement observer force	COL name VAL the u n disengagement observer force	0
+COL name VAL sgbl partners	COL name VAL bgc partners	0
+COL name VAL the damascus opera house	COL name VAL opera house	1
+COL name VAL gsm networks	COL name VAL art networks	0
+COL name VAL freedom house index	COL name VAL freedom house	1
+COL name VAL iup icl	COL name VAL iup iclp	1
+COL name VAL syriac union party	COL name VAL union party	1
+COL name VAL terraform global inc	COL name VAL terraform global	1
+COL name VAL esmod beyrouth	COL name VAL the ne a beyrouth	0
+COL name VAL the special assembly of the synod of bishops for the middle east	COL name VAL the special assembly for the middle east	0
+COL name VAL samsung electronics	COL name VAL samsung electronics co ltd	0
+COL name VAL the bashir gemayel foundation	COL name VAL bashir gemayel foundation	1
+COL name VAL chouf cedar reserve	COL name VAL chouf reserve	1
+COL name VAL the service for youth and education foundation of turkey	COL name VAL youth education pack	0
+COL name VAL the teal group	COL name VAL the tecom group	0
+COL name VAL doosan heavy industries	COL name VAL sumitomo heavy industries	0
+COL name VAL king hussein foundation	COL name VAL the king baudouin foundation	0
+COL name VAL kafalat corporation	COL name VAL kafalat loans kafalat	0
+COL name VAL palestinian news network	COL name VAL al_sham news network	0
+COL name VAL the mediterranean union	COL name VAL the union for the mediterranean	1
+COL name VAL fabrica de explosivos de mocambique	COL name VAL food fabrication	0
+COL name VAL the cinephilia intensive screenwriting lab for shorts	COL name VAL the cisl for shorts	0
+COL name VAL recycling beirut	COL name VAL the green glass recycling initiative lebanon	0
+COL name VAL the banca d italia	COL name VAL l etoile	0
+COL name VAL swiss butter	COL name VAL swiss re	0
+COL name VAL parent council	COL name VAL kia brands	0
+COL name VAL eastern conference	COL name VAL london conference	0
+COL name VAL the academy of france	COL name VAL academie francaise	1
+COL name VAL home affairs	COL name VAL state affairs	0
+COL name VAL non opec output	COL name VAL non opec oil	0
+COL name VAL the non aligned group	COL name VAL non aligned movement tehran	0
+COL name VAL the european union emissions trading system	COL name VAL l emission	0
+COL name VAL the washington post company	COL name VAL the washington post co	0
+COL name VAL nbn tv	COL name VAL the nbn tv	1
+COL name VAL aub community	COL name VAL community court	0
+COL name VAL jaish al_ashair	COL name VAL jaish al_adl	0
+COL name VAL abou_merhi nigeria	COL name VAL setraco nigeria	0
+COL name VAL the marriott hotel	COL name VAL the marriot hotel	1
+COL name VAL the arfan school	COL name VAL irfan schools	0
+COL name VAL 1325 national action plan	COL name VAL the mediterranean action plan	0
+COL name VAL google security blog	COL name VAL la cigale	0
+COL name VAL 100 lives	COL name VAL beirut loves	0
+COL name VAL mohammad v university	COL name VAL the mohammad v university	1
+COL name VAL bank audi suisse sa	COL name VAL bank audi sal	0
+COL name VAL women and family affairs	COL name VAL women and family and child department	0
+COL name VAL the mediterranean businessmen union	COL name VAL mediterranean universities union	0
+COL name VAL esbat al_ansar	COL name VAL islamic osbat al_ansar	1
+COL name VAL the world forum for religions and humanity	COL name VAL religion and public life	0
+COL name VAL sheffield united	COL name VAL the university of sheffield	0
+COL name VAL the egyptian forum to fight stigma and discrimination against people with hiv	COL name VAL the g 20 with	0
+COL name VAL ettijahat independent culture	COL name VAL ettijihat independent culture	1
+COL name VAL nna bemo bank	COL name VAL banque bemo s a l	0
+COL name VAL sawt shaab	COL name VAL sawt ash shaab	1
+COL name VAL one stop shop	COL name VAL in shape	0
+COL name VAL open society foundations	COL name VAL the open society institute	0
+COL name VAL jamiaat al_imdad al_khayriya al_islamiya	COL name VAL jamaat e islami	0
+COL name VAL the bachir gemayel foundation	COL name VAL bachir gemayel academy	0
+COL name VAL the american institute of geophysics	COL name VAL the american institute of architects	1
+COL name VAL anibal zahleanibal	COL name VAL anibal zahle anibal	1
+COL name VAL border police	COL name VAL border guard police	1
+COL name VAL lavazzo espresso	COL name VAL beirut loves	0
+COL name VAL the kamel youssef jaber cultural and social center	COL name VAL kamel youssef jaber center	1
+COL name VAL the international commission on the clinical use of human germline genome editing	COL name VAL the human genome organization	0
+COL name VAL a just transition fund	COL name VAL jesuit university	0
+COL name VAL al_mayadeen news	COL name VAL al_mayadeen network	0
+COL name VAL chanel haute couture	COL name VAL haute couture	1
+COL name VAL ahrar al_sunna brigade baalbek	COL name VAL ahrar al_sunna brigade	1
+COL name VAL the saudi arabian oil company	COL name VAL the saudi arabian oil co	1
+COL name VAL badr al_kubra	COL name VAL al_akhbar s a l	0
+COL name VAL space corps	COL name VAL peace corps	1
+COL name VAL world forum of religions and humanity	COL name VAL the pew forum on religion and public life	0
+COL name VAL the road and employment project	COL name VAL the studies coordination and project implementation department	0
+COL name VAL the shaam news network	COL name VAL sham network	1
+COL name VAL bilal bin rabbah	COL name VAL bilal bin rabah mosque	1
+COL name VAL ashrafieh gallery	COL name VAL intermeuble gallery sofil center ashrafieh	0
+COL name VAL gata events and promotions	COL name VAL gata events promotions	1
+COL name VAL the lebanese pharmacists union	COL name VAL the pharmacists union	1
+COL name VAL the european union emissions trading system	COL name VAL the european emissions trading system	1
+COL name VAL royal opera house	COL name VAL the frankfurt opera house	0
+COL name VAL the beirut dance project	COL name VAL the beirut dance studio	0
+COL name VAL the al_ansar football club	COL name VAL ansar football club	0
+COL name VAL the syrian law journal	COL name VAL syrian law journal	1
+COL name VAL the boustani united machineries company	COL name VAL the electoral machinery	0
+COL name VAL burj al_barajenah	COL name VAL burj hammoud	0
+COL name VAL tv5 monde	COL name VAL tv5 monde channel	1
+COL name VAL the moscow city court	COL name VAL moscow hospital no	0
+COL name VAL the campaign against anti semitism in the u k	COL name VAL campaign against racism	0
+COL name VAL pax americana	COL name VAL no pax americana	1
+COL name VAL indian home affairs	COL name VAL european home affairs	0
+COL name VAL global future council on energy	COL name VAL global agenda council on future cities	0
+COL name VAL bilal bin rabbah	COL name VAL the bilal bin rabah mosque	1
+COL name VAL the radio liban	COL name VAL radio du liban	1
+COL name VAL the london donors conference	COL name VAL donors london conference	1
+COL name VAL hsbc switzerland	COL name VAL the european union of coptic organisations switzerland	0
+COL name VAL the kuwait association of accountants and auditors	COL name VAL arab federation of accountants and auditors	0
+COL name VAL edible routes private limited	COL name VAL edible routes	0
+COL name VAL al_salam mosques	COL name VAL the two holy mosques	0
+COL name VAL the mzaar ski resort	COL name VAL the aura resort	0
+COL name VAL the aura resort	COL name VAL the eden bay resort	0
+COL name VAL unrwa lebanon filed office	COL name VAL unrwa affairs lebanon	0
+COL name VAL tayyar center	COL name VAL the douar center	0
+COL name VAL hay at ulama al_	COL name VAL hay at ulama al_muslimin	1
+COL name VAL higher institute of business	COL name VAL institute of business administration	1
+COL name VAL combatting human trafficking and moral protection bureau	COL name VAL torafugu tei	0
+COL name VAL sabaa party	COL name VAL sabaa seven party	1
+COL name VAL arab affairs	COL name VAL us affairs	0
+COL name VAL brighton hove albion	COL name VAL b hive	0
+COL name VAL the ramadan charitable kitchen	COL name VAL the ramadan kitchen	1
+COL name VAL the u k treasury	COL name VAL the uk treasury	1
+COL name VAL kafalat loans kafalat	COL name VAL kafalat plus	0
+COL name VAL royal college of obstetrics and gynecology	COL name VAL the department of obstetrics and gynecology	0
+COL name VAL non aligned movement	COL name VAL the non aligned movement	1
+COL name VAL top tech	COL name VAL dubai docs	0
+COL name VAL the salafi dar al_hadith institute	COL name VAL al_hadath news	0
+COL name VAL the denver art museum	COL name VAL the denver museum of nature and science	0
+COL name VAL boustany united machineries	COL name VAL boustany united machineries company	1
+COL name VAL the la sapienza university	COL name VAL la sapienza university	1
+COL name VAL the us diplomatic mission	COL name VAL the diplomatic mission	1
+COL name VAL the daily telegraph	COL name VAL le telegraphe	0
+COL name VAL samsung electronics co	COL name VAL lg electronics	0
+COL name VAL almawarid bank	COL name VAL al_mawared bank	1
+COL name VAL sun investment	COL name VAL union investment	0
+COL name VAL red shoe	COL name VAL radio sawa	0
+COL name VAL the villa audi mosaic museum	COL name VAL audi villa museum	1
+COL name VAL al_sharq forum	COL name VAL hay al_sharawneh	0
+COL name VAL antoine hakim joailliers	COL name VAL the jewelers syndicate	0
+COL name VAL world forum of religions and humanity	COL name VAL berkley center for religion peace and world affairs	0
+COL name VAL action plan	COL name VAL gender action plan	1
+COL name VAL rashid karami educational foundation	COL name VAL rashid karami international fair	0
+COL name VAL pretoria high court	COL name VAL border guard	0
+COL name VAL the pakistan alpine club	COL name VAL alpine club	1
+COL name VAL esmod beirut	COL name VAL eid beirut	0
+COL name VAL al_balqa applied university	COL name VAL balqa university	0
+COL name VAL eastern christianity	COL name VAL the eastern christian community	1
+COL name VAL resolute union	COL name VAL resolute army	0
+COL name VAL house of musical arts	COL name VAL house of music	0
+COL name VAL baghdad investment commission	COL name VAL the baghdad investment commission	1
+COL name VAL rekloose blues band	COL name VAL paint pals	0
+COL name VAL ketchum raad middle east	COL name VAL tbwaraad middle east	0
+COL name VAL black matters	COL name VAL black lives matter	0
+COL name VAL the lebanese society for obstetrics and gynecology	COL name VAL the lebanese obstetrics and gynecology association	1
+COL name VAL emissions trading system	COL name VAL the european union emissions trading system	1
+COL name VAL the iraq news agency	COL name VAL the iraqi news agency	1
+COL name VAL nour al_din al_	COL name VAL nour al_din zenki	0
+COL name VAL the migrants in countries in crisis initiative	COL name VAL syria in crisis	0
+COL name VAL agenzia fides	COL name VAL agenzia giornalistica italia	0
+COL name VAL official gazette	COL name VAL the official gazette	1
+COL name VAL nippon steel	COL name VAL nbn t v	0
+COL name VAL lebanese forces and future	COL name VAL lebanese forces future	1
+COL name VAL the international chamber of navigation	COL name VAL international navigation chamber	1
+COL name VAL syriac union party	COL name VAL european syriac union	0
+COL name VAL the french secular mission	COL name VAL french secular mission	1
+COL name VAL the saint mary orthodox college	COL name VAL beirut annunciation orthodox college	0
+COL name VAL banque bemo saudi fransi	COL name VAL bemo bank	0
+COL name VAL the parties list	COL name VAL the beirutis list	0
+COL name VAL the nigeria labor congress	COL name VAL abou_merhi nigeria	0
+COL name VAL virgin australia	COL name VAL the virgin group	0
+COL name VAL the open government partnership	COL name VAL appian way	0
+COL name VAL superiors general of congregation of the maronite sisters	COL name VAL the congregation of the sisters of the rosary	0
+COL name VAL maghie ghali action for hope	COL name VAL action for hope cultural center	0
+COL name VAL recycling beirut	COL name VAL a press recognition panel	0
+COL name VAL ultrasound of obstetrics and gynecology	COL name VAL the lebanese obstetrics and gynecology association	0
+COL name VAL sumitomo heavy industries	COL name VAL doosan heavy industries	0
+COL name VAL occidental petroleum	COL name VAL ashton united	0
+COL name VAL the policy and regulatory committee	COL name VAL policy and security committee	1
+COL name VAL the save our startups sos fund	COL name VAL the sos fund	0
+COL name VAL palestine tv	COL name VAL palestine radio	0
+COL name VAL daraj com	COL name VAL daraj media	0
+COL name VAL the institute of development studies	COL name VAL the institute of american studies	1
+COL name VAL the non aligned group	COL name VAL non aligned countries foreign ministers	0
+COL name VAL the ecole zahret al_ihsan	COL name VAL zahrat el_ihsan	1
+COL name VAL the academy of country music awards	COL name VAL the academy of internet awards	0
+COL name VAL the international fairs and promotions	COL name VAL ifp international fairs and promotions s a l	0
+COL name VAL helmut lang	COL name VAL blue helmets	0
+COL name VAL rashid karami international forum	COL name VAL the karama forum	0
+COL name VAL the egyptian initiative for personal rights	COL name VAL egyptian rights group	0
+COL name VAL nelson publishing house	COL name VAL publishing house dawawine	0
+COL name VAL the international lebanese committee for unscr 1559	COL name VAL unesco committee	0
+COL name VAL the higher institute of business	COL name VAL institute of business administration	1
+COL name VAL blues band lb	COL name VAL real deal blues band	0
+COL name VAL the antonine catholic order	COL name VAL the antonine order	1
+COL name VAL the capability development plan	COL name VAL strategic capabilities office	0
+COL name VAL eric escudero	COL name VAL baroudi associates	0
+COL name VAL the society of gynecological oncologists in lebanon	COL name VAL the lebanese society for obstetrics and gynecology	0
+COL name VAL cafe najjar	COL name VAL cafe najjar mira osseiran	0
+COL name VAL medical park loipl	COL name VAL label queen and	0
+COL name VAL islamic message	COL name VAL social message association	0
+COL name VAL committee for inventory seizure and management of terrorist funds	COL name VAL the fantastic four	0
+COL name VAL the forum of humanitarian associations	COL name VAL humanitarian ingo forum	0
+COL name VAL tatweej academy	COL name VAL the tatweej academy for excellence awards	0
+COL name VAL rafik hariri center for the middle east	COL name VAL the rafik hariri center for the middle east	1
+COL name VAL the gemological institute of america	COL name VAL the american institute of geophysics	1
+COL name VAL jaish al_adl	COL name VAL jaish al_sham	0
+COL name VAL the naqshbandi army	COL name VAL the army of the men of the naqshabandi order	0
+COL name VAL the international chamber of navigation of beirut	COL name VAL the beirut international chamber of navigation	1
+COL name VAL nexus lebanon	COL name VAL nexus frontiertech	0
+COL name VAL ex snc	COL name VAL snc a a m	0
+COL name VAL safe nation collaborative	COL name VAL the safe nation collaborative	1
+COL name VAL landmine and cluster munition monitoring group	COL name VAL monitoring group	0
+COL name VAL bharatiya janata	COL name VAL the bharatiya janata party	1
+COL name VAL l armoire de lana	COL name VAL under armour inc	0
+COL name VAL the conferences palace	COL name VAL g 8 conference	0
+COL name VAL m gourmet	COL name VAL la posta gourmet	0
+COL name VAL swiss economic affairs ministry	COL name VAL swiss air	0
+COL name VAL aramoun rockets	COL name VAL l armonial	0
+COL name VAL bau nna	COL name VAL au nna	1
+COL name VAL the mediterranean refinery company	COL name VAL oil refineries	0
+COL name VAL middle east strategic perspectives	COL name VAL the middle east strategic alliance	1
+COL name VAL adobe analytics	COL name VAL google analytics	0
+COL name VAL the united rocket and space corporation	COL name VAL the u s space and rocket center	0
+COL name VAL kataeb abdallah azzam	COL name VAL jamaa kataeb abdullah azam	1
+COL name VAL the kirkuk provincial council	COL name VAL the ninevah provincial council	0
+COL name VAL the palestinian business network	COL name VAL international business associations network	0
+COL name VAL nour al_din al_zinki	COL name VAL nur al_din zinki	0
+COL name VAL rhys dubin ogero	COL name VAL hrw rhys dubin	0
+COL name VAL de telegraaf	COL name VAL the daily telegraph	0
+COL name VAL audi villa museum	COL name VAL villa audeh	0
+COL name VAL the rafik hariri center	COL name VAL rafik hariri center	1
+COL name VAL as shaab	COL name VAL sawt as shaab	1
+COL name VAL the independent sunni deputies	COL name VAL independent sunni deputies	1
+COL name VAL buy and sell in lebanon	COL name VAL lebanon wind power sal	0
+COL name VAL the center of the sons of light	COL name VAL sons of iraq	0
+COL name VAL mawarid bank	COL name VAL the al_mawarid bank	0
+COL name VAL al_sharq al_awsat	COL name VAL hay al_sharawneh	0
+COL name VAL le bristol hotel	COL name VAL le bristol	1
+COL name VAL the douar center	COL name VAL tayyar center	0
+COL name VAL fordham university	COL name VAL samford university	0
+COL name VAL eu border guard	COL name VAL the pretoria high court	0
+COL name VAL mideast markets	COL name VAL u n mideast	0
+COL name VAL neighborhood initiative	COL name VAL neighborhood policy	0
+COL name VAL mashyakhat alaql	COL name VAL the mashyakhat al_aql	1
+COL name VAL alternative media syndicate	COL name VAL mt front altair	0
+COL name VAL jpmorgan nna	COL name VAL jpmorgan chase	0
+COL name VAL zakat al_fitr	COL name VAL b by elefteriades	0
+COL name VAL the hay at ulama al_muslimin	COL name VAL al_masry al_youm	0
+COL name VAL horras al_din	COL name VAL hurras al_deen	0
+COL name VAL art dubai modern	COL name VAL musee national d art moderne	0
+COL name VAL the syrian peshmerga	COL name VAL the peshmerga ministry	0
+COL name VAL united kingdom independence party	COL name VAL united kingdom treasury	0
+COL name VAL the santa factory express	COL name VAL santa factory	1
+COL name VAL the open society institute	COL name VAL the asia society policy institute	0
+COL name VAL trade promotion council	COL name VAL council for the promotion of international trade	1
+COL name VAL al_haramayn brigades	COL name VAL hay al_arman	0
+COL name VAL the mahdi army	COL name VAL mehdi army	1
+COL name VAL the fondation maison des sciences de l homme	COL name VAL the science mission directorate	0
+COL name VAL good companies good jobs initiative	COL name VAL jbs sa	0
+COL name VAL the free syrian army azaz northern storm brigade	COL name VAL northern storm free syrian army	1
+COL name VAL bilal bin rabah mosque	COL name VAL the bin rabah mosque	1
+COL name VAL the syndicate of photojournalists	COL name VAL the photojournalist syndicate	1
+COL name VAL the collaborative for the study of inhaled and atmospheric aerosols	COL name VAL atmospheric and analytical chemistry lab	0
+COL name VAL the al_mawarid bank	COL name VAL al_mawarid bank	1
+COL name VAL the imam ali mosque	COL name VAL the imam hussein mosque association	0
+COL name VAL the beirut dance studio	COL name VAL beirut dance studio	1
+COL name VAL taanayel center	COL name VAL the taanayel center	1
+COL name VAL the center of the sons of light	COL name VAL the league of the sons of beirut	0
+COL name VAL the kamel youssef jaber cultural and social center	COL name VAL kamel youssef jaber cultural and social center	1
+COL name VAL the jewelers syndicate	COL name VAL jewelers souk	0
+COL name VAL kuwait al_rai	COL name VAL kuwaiti al_rai	1
+COL name VAL lebanon science and technology park	COL name VAL the science and technology oasis in lebanon	0
+COL name VAL the garifuna emergency committee	COL name VAL emergency and ambulances committee	0
+COL name VAL the vitamin d council	COL name VAL the fatemiyoun brigade	0
+COL name VAL the home front command	COL name VAL the military front command	0
+COL name VAL paint pals	COL name VAL blues band lb	0
+COL name VAL osons la france	COL name VAL sc eisenstadt	0
+COL name VAL the social club	COL name VAL the qibbeh school	0
+COL name VAL patheos com	COL name VAL legal pathways institute for health and bio law	0
+COL name VAL the burj hammoud public library	COL name VAL burj hammoud	0
+COL name VAL kuwaiti al_rai	COL name VAL kuwait al_rai	1
+COL name VAL the u s office of foreign asset control	COL name VAL the office of foreign assets control	1
+COL name VAL sawt shaab	COL name VAL sawt al_shaab	0
+COL name VAL the vitamin d council	COL name VAL the fatimayoun brigade	0
+COL name VAL scoa nigeria plc	COL name VAL the nigeria labor congress	0
+COL name VAL the los alamos national laboratory	COL name VAL the oak ridge national laboratory	0
+COL name VAL the sudd institute	COL name VAL the amjad institute	0
+COL name VAL atp tour	COL name VAL the atp tour	1
+COL name VAL majid al_futtaim holding	COL name VAL majid al_futtaim group	0
+COL name VAL kuwait nna	COL name VAL kuwait sc	0
+COL name VAL the gemological institute of america	COL name VAL the american institute of architects	1
+COL name VAL net skills	COL name VAL 3d scales	0
+COL name VAL the chambre international de navigation de beyrouth	COL name VAL the beirut international chamber of navigation	1
+COL name VAL blue forest solutions	COL name VAL blue forest	1
+COL name VAL taanayel centre for dairy	COL name VAL taanayel dairy center	1
+COL name VAL the european air safety association	COL name VAL the european union aviation safety agency	0
+COL name VAL the african peace and security architecture	COL name VAL 109 architectes	0
+COL name VAL mutual guarantor funds	COL name VAL the fantastic four	0
+COL name VAL the dutch embassy	COL name VAL dutch embassy	1
+COL name VAL lebanese bird conservation coalition	COL name VAL the u k conservative party	0
+COL name VAL the tatweej academy for excellence awards	COL name VAL the academy of internet awards	0
+COL name VAL the black snake drone squadron	COL name VAL snc saudi	0
+COL name VAL akhaa ahly aley	COL name VAL ekhae ahli	0
+COL name VAL the waterbed hotel	COL name VAL the knowledge hub for waterpipe research	0
+COL name VAL the washington post co	COL name VAL the washington post abc	1
+COL name VAL choueiter haute couture	COL name VAL haute couture	1
+COL name VAL the icelandic met office	COL name VAL b aqleen	0
+COL name VAL kingdom holding co	COL name VAL kingdom holding beirut	0
+COL name VAL african affairs	COL name VAL american affairs	1
+COL name VAL unrwalebanon affairs	COL name VAL unrwa affairs lebanon	0
+COL name VAL tl programs and production	COL name VAL pars oil products talayieh	0
+COL name VAL khatib alami company	COL name VAL khatib alame company	1
+COL name VAL top tech	COL name VAL top tech us inc	0
+COL name VAL u s capitol police	COL name VAL the u s capitol police	1
+COL name VAL the supreme people assembly of north korea	COL name VAL the supreme people assembly	1
+COL name VAL the sudd institute	COL name VAL the serum institute	0
+COL name VAL kuwaiti al_rai	COL name VAL al_ray kuwaiti	0
+COL name VAL malaysian airlines	COL name VAL malaysia airlinesboeing	0
+COL name VAL arab publisher house	COL name VAL publishing house dawawine	0
+COL name VAL hsbc switzerland sa	COL name VAL the european union of coptic organisations switzerland	0
+COL name VAL house of musical arts	COL name VAL the masculinities program	0
+COL name VAL the china center for resources satellite data and application	COL name VAL operational satellite applications program	0
+COL name VAL france press	COL name VAL the francophone press union	1
+COL name VAL jeb jennin	COL name VAL the unions of municipalities of jeb jennine	0
+COL name VAL kingdom holding	COL name VAL kingdom holdings	1
+COL name VAL the national basketball association	COL name VAL national basketball association	1
+COL name VAL hermitage museum	COL name VAL the hermitage museum	1
+COL name VAL armenian agreement	COL name VAL l armonial	0
+COL name VAL jihad al_binaa foundation	COL name VAL jihad al_binaa	1
+COL name VAL recycling beirut	COL name VAL the food establishments recycling nutrients fern international	0
+COL name VAL domaine public architects	COL name VAL domaine public foundation	0
+COL name VAL snc saudi	COL name VAL snc a a m	0
+COL name VAL the socialist union	COL name VAL 3d scales	0
+COL name VAL the lebanese gynecology oncology group	COL name VAL the society of gynecological oncologists in lebanon	0
+COL name VAL bau nna	COL name VAL eu nna	0
+COL name VAL the saudi arabian oil co	COL name VAL the saudi arabian oil company	1
+COL name VAL the shaam news network	COL name VAL the fox news network	0
+COL name VAL by the roots	COL name VAL knee roots	0
+COL name VAL ordinary for armenian	COL name VAL l armonial	0
+COL name VAL syrian law journal	COL name VAL the syrian law journal	1
+COL name VAL international fairs promotions	COL name VAL international fairs and promotions ifp group	1
+COL name VAL the education bureau	COL name VAL the syndication bureau	0
+COL name VAL mandarin oriental hotel	COL name VAL the mandarin oriental	1
+COL name VAL patheos com	COL name VAL the pathways for prosperity commission on technology and inclusive development	0
+COL name VAL this roads and employment project	COL name VAL the road and employment project	1
+COL name VAL border guard forces	COL name VAL border guard police	0
+COL name VAL the hague academy of international law	COL name VAL the academic center of law business	0
+COL name VAL ossoud al_sharqiya	COL name VAL hay al_sharawneh	0
+COL name VAL biladi khadra association	COL name VAL the bilady association	1
+COL name VAL al_moustafa school	COL name VAL al_mustafa high school	1
+COL name VAL combatting human trafficking and moral protection bureau	COL name VAL human trafficking and moral protection bureau	1
+COL name VAL jaish al_ashair	COL name VAL jaish al_ossoud al_sharqiya	0
+COL name VAL the libyan red crescent	COL name VAL radio liban	0
+COL name VAL the khan al_franj	COL name VAL liwaa al_forsan	0
+COL name VAL biological diversity	COL name VAL the center for biological diversity	1
+COL name VAL total e p liban s a l	COL name VAL total e p liban sal	1
+COL name VAL palestine tv	COL name VAL pro palestine	0
+COL name VAL the machinery construction union	COL name VAL staunch machinery	0
+COL name VAL the annenberg school of communication	COL name VAL the sammy ofer school of communications	0
+COL name VAL the fetullahg len group	COL name VAL fethullahg len group	1
+COL name VAL accounts chamber	COL name VAL the chamber of accounts	1
+COL name VAL ahli taiz	COL name VAL al_ahli taizz	0
+COL name VAL home affairs	COL name VAL european home affairs	1
+COL name VAL cana cnrs project	COL name VAL cnn freedom project	0
+COL name VAL lf social affairs apparatus	COL name VAL x apartments	0
+COL name VAL tadamon sur	COL name VAL tadamoun sour	1
+COL name VAL vera moda	COL name VAL vero moda 14	1
+COL name VAL the mediterranean tourism forum	COL name VAL mediterranean tourism forum	1
+COL name VAL the euro mediterranean university	COL name VAL the eastern mediterranean university	0
+COL name VAL border guards	COL name VAL the border guards	1
+COL name VAL union for the mediterranean	COL name VAL union for mediterranean	1
+COL name VAL black lives matter	COL name VAL art lives	0
+COL name VAL arab news	COL name VAL the arab american news	1
+COL name VAL the u s commission on international religious freedom	COL name VAL the united states commission on international religious freedom	1
+COL name VAL al_basheq for trading and fairs	COL name VAL al_bashek for trading and fairs	1
+COL name VAL the asia society policy institute	COL name VAL the asia society	0
+COL name VAL al_haraka al_islamiya al_mujahida	COL name VAL harakat islamiyya al_mujahidda	0
+COL name VAL the transfiguration church	COL name VAL transfiguration church	1
+COL name VAL international panel on exiting violence	COL name VAL the international panel on social progress	0
+COL name VAL blue force	COL name VAL blue forest	0
+COL name VAL akhaa al_ahli aley	COL name VAL akhaa ahly aley	0
+COL name VAL the permanent office of the arab attorneys union	COL name VAL the permanent committee of arab media	0
+COL name VAL the lebanon crisis response program	COL name VAL the lebanon response plan	0
+COL name VAL the northern division	COL name VAL northern division	1
+COL name VAL anti islamist	COL name VAL anti islam nna	0
+COL name VAL arts and media production	COL name VAL media and protocol	0
+COL name VAL the oriental hotel	COL name VAL mandarin oriental hotel	1
+COL name VAL institut fran	COL name VAL institut france presse	0
+COL name VAL premiere properties	COL name VAL har properties	0
+COL name VAL state for planning affairs	COL name VAL state affairs	1
+COL name VAL qingdao haixi heavy duty machinery co	COL name VAL boustany united machineries	0
+COL name VAL the guardian of the two holy mosques	COL name VAL the embassy of the custodian of the two holy mosques	0
+COL name VAL mehdi army	COL name VAL army nna	0
+COL name VAL labico sal offshore	COL name VAL m marine sal offshore	0
+COL name VAL naharnet newsdesk human rights watch	COL name VAL naharnet newsdesk fitch ratings	0
+COL name VAL the arab union for pharmacists	COL name VAL the pharmacist union	1
+COL name VAL al_rajhi capital	COL name VAL al_rajhi bank	0
+COL name VAL international federation of obstetrics and gynecology	COL name VAL ultrasound of obstetrics and gynecology	0
+COL name VAL high ambition coalition	COL name VAL the high ambition coalition	1
+COL name VAL gender mashreq financing facility	COL name VAL the mashreq gender facility	1
+COL name VAL the international chamber of navigation of beirut	COL name VAL the beirut chamber of navigation	1
+COL name VAL label queen	COL name VAL label queen and	1
+COL name VAL the international federation of gynecology and obstetrics carlos fuchtner	COL name VAL the department of obstetrics and gynecology	0
+COL name VAL under armour inc	COL name VAL under armour	1
+COL name VAL the journal of medical ethics	COL name VAL the oman medical journal	0
+COL name VAL the arab weekly	COL name VAL the conversation weekly	0
+COL name VAL harakat al_muqawama al_islamiyya	COL name VAL harakat al_tawhid al_islami	0
+COL name VAL the masculinities program	COL name VAL dine for myschoolpulse	0
+COL name VAL the higher institute of business administration	COL name VAL the higher business institute	1
+COL name VAL the multinational force and observers	COL name VAL the u n disengagement and observer force	0
+COL name VAL fouad chehab foundation	COL name VAL rabab foundation	0
+COL name VAL region party	COL name VAL union party	0
+COL name VAL the special deterrence force	COL name VAL special deterrence force	1
+COL name VAL the booker prize foundation	COL name VAL the breakthrough prize foundation	0
+COL name VAL global atmosphere watch	COL name VAL global fishing watch	0
+COL name VAL virgin mary heart	COL name VAL virgin radio	0
+COL name VAL boueri press	COL name VAL the minister press bureau	0
+COL name VAL royal opera house	COL name VAL the royal opera house of oman	1
+COL name VAL the cancer prevention fellowship program	COL name VAL all progressives congress	0
+COL name VAL shogun investments llc	COL name VAL hawa chicken	0
+COL name VAL boustany united machineries company	COL name VAL the boustani united machineries company	1
+COL name VAL nur al_din zenki	COL name VAL nur al_din zinki	1
+COL name VAL the lebanese forces and future movement	COL name VAL future lebanese forces	1
+COL name VAL batrouniyat restaurant	COL name VAL mounir restaurant	0
+COL name VAL pro damascus palestinian	COL name VAL pro damascus al_watan	0
+COL name VAL ahrar al_sunna	COL name VAL liwaa ahrar al_sunna baalbek	0
+COL name VAL art lives	COL name VAL beirut loves	0
+COL name VAL mohammad v university	COL name VAL thammasat university	0
+COL name VAL open studios	COL name VAL sun studios	0
+COL name VAL 10 downing street	COL name VAL downing street	0
+COL name VAL the non aligned group	COL name VAL the non aligned movement	0
+COL name VAL the nawabenki ganomukhi foundation	COL name VAL beirut souks cinemacity	0
+COL name VAL the cma cgm group	COL name VAL the cme group	0
+COL name VAL sine qua non art	COL name VAL xiao nan guo	0
+COL name VAL the american nazi party	COL name VAL the arab american news	0
+COL name VAL home front command	COL name VAL home front	1
+COL name VAL the department of obstetrics and gynecology	COL name VAL the international federation of gynecology and obstetrics	0
+COL name VAL the committee for the employment of palestinians	COL name VAL the british committee for the universities of palestine	0
+COL name VAL the beirut chamber of navigation	COL name VAL chambers of navigation	1
+COL name VAL the ninevah museum	COL name VAL the ninevah provincial council	0
+COL name VAL oenobiol paris	COL name VAL anibal zahle anibal	0
+COL name VAL the official vaccine platform committee	COL name VAL international platform	0
+COL name VAL the euromed feminist initiative	COL name VAL euromed feminist initiative	1
+COL name VAL dubai docs	COL name VAL top tech	0
+COL name VAL the liberal tigers	COL name VAL astana tigers	0
+COL name VAL jpmorgan chase co	COL name VAL the jpmorgan chase institute	0
+COL name VAL banque bemo s a l	COL name VAL bank bemo	0
+COL name VAL gilbert and rose marie chagoury school of medicine	COL name VAL the gilbert and rose marie chagoury foundation	0
+COL name VAL alaska state troopers	COL name VAL dark troopers	0
+COL name VAL good companies good jobs initiative	COL name VAL cyta company	0
+COL name VAL black label	COL name VAL johnnie walker black label	0
+COL name VAL the baghdad investment commission	COL name VAL baghdad investment commission	1
+COL name VAL the office for budget responsibility	COL name VAL committee for a responsible federal budget	0
+COL name VAL the social arab club	COL name VAL the husseini social club	0
+COL name VAL sawt el_shaiib radio	COL name VAL sawt el_shaab	1
+COL name VAL border guard	COL name VAL eu border guard	1
+COL name VAL terraform power inc	COL name VAL terraform global inc	0
+COL name VAL taco bell	COL name VAL palais de tokyo	0
+COL name VAL special program for research and training in tropical diseases	COL name VAL the consortium for research and training on quality and food safety	0
+COL name VAL the independent race committee	COL name VAL the rock of lebanon and independence	0
+COL name VAL aspen skiing company	COL name VAL the aspen skiing company	1
+COL name VAL the office for budget responsibility	COL name VAL the congressional budget office	0
+COL name VAL dinnieh minyeh future	COL name VAL minyeh dinnieh	1
+COL name VAL action for youth	COL name VAL action for hope	0
+COL name VAL islamic message scouts	COL name VAL islamic message	1
+COL name VAL the inmotion dance studio	COL name VAL the beirut dance studio	0
+COL name VAL media monde tv	COL name VAL tv 5 monde	0
+COL name VAL fethullah g len	COL name VAL fethullahg len group	0
+COL name VAL upper house	COL name VAL royal opera house	0
+COL name VAL a lebanese commission	COL name VAL the lebanese olympic commission	0
+COL name VAL the university of groningen	COL name VAL krnhenbuhl nna	0
+COL name VAL oumni ensemble	COL name VAL unosom ii	0
+COL name VAL the american fox television network	COL name VAL the armenian television network	0
+COL name VAL the iran trade promotion organization	COL name VAL the trade promotion council of india	0
+COL name VAL al_ahli taiz	COL name VAL ahli taiz	0
+COL name VAL arab deterrent force	COL name VAL arab force	1
+COL name VAL office of budget responsibility	COL name VAL the congressional budget office	0
+COL name VAL rafik hariri middle east center	COL name VAL rafik hariri center for the middle east	1
+COL name VAL the european agency for aviation safety	COL name VAL the european union aviation safety agency	1
+COL name VAL boston consulting group	COL name VAL retail consulting group	0
+COL name VAL jamiaat al_imdad al_khayriya al_islamiya	COL name VAL jamaat e islam	0
+COL name VAL non aligned summit	COL name VAL non aligned countries	0
+COL name VAL qatar finance and business academy	COL name VAL the academic center of law business	0
+COL name VAL the beirut container terminal consortium	COL name VAL the u k conservative party	0
+COL name VAL the euro mediterranean university	COL name VAL mediterranean universities union	0
+COL name VAL the lebanese pharmacists union	COL name VAL the arab pharmacists union	0
+COL name VAL the cana cnrs	COL name VAL the cana cnrshas	0
+COL name VAL the al_imam al_rida brigade	COL name VAL zuwwar al_imam ali al_reda	0
+COL name VAL miami heat	COL name VAL the miami heat	1
+COL name VAL leefbaar rotterdam	COL name VAL loughborough university	0
+COL name VAL the union of arab securities	COL name VAL union of arab securities authorities	1
+COL name VAL raad auto tuning	COL name VAL 10 downing street	0
+COL name VAL deutsche welle	COL name VAL the deutsche welle foundation	1
+COL name VAL jobs cross cutting group	COL name VAL jbs sa	0
+COL name VAL the liberal tigers	COL name VAL the melbourne tigers	0
+COL name VAL cnn ibn	COL name VAL appian way	0
+COL name VAL youth action group	COL name VAL youth for climate action	0
+COL name VAL the mainland affairs council	COL name VAL macau affairs council	0
+COL name VAL mideastwire com	COL name VAL u n mideast	0
+COL name VAL sapienza university of rome	COL name VAL la sapienza university	0
+COL name VAL business support unit	COL name VAL the sports business group	0
+COL name VAL the conflict resolution and track ii dialogues program	COL name VAL g 20 talks	0
+COL name VAL the father roberts institute for young deaf people	COL name VAL the father andeweg institute for the deaf	0
+COL name VAL thammasat university	COL name VAL mohammad v university	0
+COL name VAL labor policy committee	COL name VAL monetary policy committee	0
+COL name VAL the my rights movement	COL name VAL knee roots	0
+COL name VAL denver broncos	COL name VAL tunefork studios	0
+COL name VAL the social arab club	COL name VAL club social	1
+COL name VAL intellectual property commercialization office	COL name VAL the cyber crime and intellectual property protection office	0
+COL name VAL shmoukh al_islam	COL name VAL shumoukh al_islam	1
+COL name VAL top donors group	COL name VAL the donors of color network	0
+COL name VAL the venice commission	COL name VAL venice commission	1
+COL name VAL the safe nation collaborative	COL name VAL the nation cry	0
+COL name VAL public accounting organization development committee	COL name VAL the public accountability department	0
+COL name VAL the pharmacists union	COL name VAL the pharmacist union	1
+COL name VAL the malaysian maritime enforcement agency	COL name VAL malaysian airlines	0
+COL name VAL al_ahram newspaper	COL name VAL hay al_arman	0
+COL name VAL ex marine corps	COL name VAL marine corp	0
+COL name VAL the china council for the promotion of international trade	COL name VAL the trade promotion council of india	0
+COL name VAL health mutual funds	COL name VAL the union of mutual health assistance funds	1
+COL name VAL chinook urban mining company	COL name VAL chinook company	0
+COL name VAL akhbar beirut s a l	COL name VAL al_akhbar beirut s a l	1
+COL name VAL tv 5 monde	COL name VAL tv5 monde	0
+COL name VAL the lebanese center for palliative care	COL name VAL international platform	0
+COL name VAL the jesuit university	COL name VAL a just russia	0
+COL name VAL the beirut and mount lebanon chamber	COL name VAL mount lebanon commerce chamber	1
+COL name VAL the arab news	COL name VAL arab news	1
+COL name VAL the butterfly effect technology center	COL name VAL the butterfly effect	0
+COL name VAL the ending childhood obesity echo commission	COL name VAL isha yoga	0
+COL name VAL biological diversity	COL name VAL the united nations convention on biological diversity	0
+COL name VAL france press	COL name VAL the francophone press	1
+COL name VAL the oriental faculty	COL name VAL new faculty orientation facilitator	0
+COL name VAL the los alamos national laboratory	COL name VAL los alamos national laboratory	1
+COL name VAL al_ossoud al_sharqiya	COL name VAL ossoud al_sharqiya	1
+COL name VAL zuwwar alimam ali al_reda	COL name VAL zuwwar imam al_rida	0
+COL name VAL the london conference	COL name VAL donors london conference	1
+COL name VAL fateh palestinian faction	COL name VAL food blast	0
+COL name VAL the uk high court of justice	COL name VAL high court of justice	1
+COL name VAL don balon	COL name VAL plan bey	0
+COL name VAL women and family and child department	COL name VAL woman and child house commission	0
+COL name VAL the us diplomatic mission	COL name VAL diplomatic corp	0
+COL name VAL the grand chamber	COL name VAL the grand cafe	0
+COL name VAL ira nna	COL name VAL abra nna	0
+COL name VAL fouad chehab institution	COL name VAL fouad chahab foundation	0
+COL name VAL sayidat al_najat church	COL name VAL the sayedat al_najat church	1
+COL name VAL hospitality salon culinaire	COL name VAL the culinary institute	0
+COL name VAL the lebanese correction system	COL name VAL the lebanese court system	0
+COL name VAL the lebanese society of obstetrics and gynecology	COL name VAL ultrasound of obstetrics and gynecology	0
+COL name VAL anti al	COL name VAL anti amal	0
+COL name VAL the high ambition coalition for nature and people	COL name VAL development for people and nature association	0
+COL name VAL jeunesses musicales du liban	COL name VAL centre du patrimoine musical libanais	0
+COL name VAL staunch machinery	COL name VAL the electoral machinery	0
+COL name VAL the hezbollah financing and narcoterrorism team	COL name VAL the hizbullah financing and narcoterrorism team	1
+COL name VAL the washington post	COL name VAL the washington post abc news	0
+COL name VAL the russian memorial society	COL name VAL the memoria society	0
+COL name VAL al_mustafa high school	COL name VAL al_moustafa school	1
+COL name VAL the parliament of the former yugoslavrepublic of macedonia	COL name VAL parliament of macedonia	1
+COL name VAL the somali red crescent	COL name VAL the syrian red crescent	0
+COL name VAL the tampa bay times	COL name VAL the tampa bay rays	0
+COL name VAL global investment house kscc	COL name VAL global investment house	1
+COL name VAL the bar support fund	COL name VAL support fund council	0
+COL name VAL indigenous independence	COL name VAL indigenous agency	0
+COL name VAL western conference	COL name VAL eastern conference	1
+COL name VAL the libyan parliament	COL name VAL the paraguayan parliament	0
+COL name VAL economic growth water and environment	COL name VAL usaid economic growth office	0
+COL name VAL aleppo media center	COL name VAL azaz media center	0
+COL name VAL national strategy for marine protected areas	COL name VAL the marine stewardship council	0
+COL name VAL u s marine corps	COL name VAL marine corps	0
+COL name VAL la trobe university	COL name VAL terp o	0
+COL name VAL the konrad adenauer foundation	COL name VAL konrad adenauer foundation	1
+COL name VAL christian dior	COL name VAL christian dior couture	1
+COL name VAL bloomsbury qatar	COL name VAL bloomsbury qatar foundation	1
+COL name VAL marine corp	COL name VAL u s marine corps	0
+COL name VAL the national diabetes association	COL name VAL future deputies	0
+COL name VAL the shogun restaurant	COL name VAL hawa chicken	0
+COL name VAL the jesuit university	COL name VAL jesuit university	1
+COL name VAL the tajamu fastaqem kama umert	COL name VAL fastaqem kama umert	1
+COL name VAL maghie ghali action for hope	COL name VAL make business hub	0
+COL name VAL the arab and african affairs	COL name VAL arab affairs	1
+COL name VAL amer group	COL name VAL the emaar group	0
+COL name VAL the patriotic europeans against the islamization of the occident	COL name VAL ashton united	0
+COL name VAL the customs agents syndicate	COL name VAL 2030 agenda	0
+COL name VAL coronavirus telecare	COL name VAL de telegraaf	0
+COL name VAL the university of ljubljana	COL name VAL the university of lyon	0
+COL name VAL tristan lacroix	COL name VAL lacroix nna	0
+COL name VAL al_azhar conference	COL name VAL g 8 conference	0
+COL name VAL the ending childhood obesity commission	COL name VAL the ending childhood obesity echo commission	1
+COL name VAL union for mediterranean	COL name VAL the union for the mediterranean	1
+COL name VAL praetorian guard	COL name VAL eu border guard	0
+COL name VAL the cana cnrs project	COL name VAL the cnn freedom project	0
+COL name VAL the democratic bloc	COL name VAL the israeli democratic bloc	1
+COL name VAL malaysia plane	COL name VAL malaysia airlines bhd	0
+COL name VAL resolute army	COL name VAL risalat al_hayat group	0
+COL name VAL aley equi club	COL name VAL akha a ahli	0
+COL name VAL chouf reserve	COL name VAL chouf cedar reserve	1
+COL name VAL the university of lorraine	COL name VAL the university of lyon	0
+COL name VAL the general directorate for islamo christian dialogue	COL name VAL general security for the christians	0
+COL name VAL the fifa football project for schools	COL name VAL football for schools	1
+COL name VAL asbat al_ansar	COL name VAL osbat al_ansar islamist	1
+COL name VAL tajaki league	COL name VAL tajik league	1
+COL name VAL baroudi associates	COL name VAL eric escudero	0
+COL name VAL china council for the promotion of international trade	COL name VAL the chinese council for the promotion of international trade	1
+COL name VAL the african peace and security architecture	COL name VAL architecture unit	0
+COL name VAL business center	COL name VAL the saudi lebanese business center	0
+COL name VAL club social	COL name VAL the social club	1
+COL name VAL the skoun lebanese addictions center	COL name VAL lebanese addictions center	1
+COL name VAL arsal hostages committee	COL name VAL hostage justice system	0
+COL name VAL the buena vista social club	COL name VAL club social	0
+COL name VAL the act accelerator	COL name VAL the elevate impact accelerator	0
+COL name VAL malaysian airline system bhd	COL name VAL malaysian airlines	0
+COL name VAL the kuwait association of accountants and auditors	COL name VAL kuwait association of accountants and auditors	1
+COL name VAL malaysia airlines bhd	COL name VAL malaysian airlines	0
+COL name VAL the kennedy center	COL name VAL kennedy center	1
+COL name VAL marine corp	COL name VAL marine corps	1
+COL name VAL lebanese forces future	COL name VAL lebanese forces and future	1
+COL name VAL hostage justice system	COL name VAL arsal hostages committee	0
+COL name VAL the royal opera house	COL name VAL the opera house	1
+COL name VAL the al_mayadine ensemble	COL name VAL the mayal ensemble	0
+COL name VAL the syndicate of expert goldsmiths and jewelers	COL name VAL the jewelers syndicate	0
+COL name VAL the sos fund	COL name VAL the south fund	0
+COL name VAL the global future councils	COL name VAL the global water center	0
+COL name VAL setraco international holding	COL name VAL power international holding	0
+COL name VAL the international chamber of navigation	COL name VAL the international chambers of navigation	1
+COL name VAL policy planning and implementation	COL name VAL policy planning	1
+COL name VAL the opera house	COL name VAL royal opera house	1
+COL name VAL mosque bilal bin rabah	COL name VAL the bilal bin rabah mosque	1
+COL name VAL the lebanese bird conservation coalition	COL name VAL lebanese bird conservation coalition	1
+COL name VAL the vocational sidon institute	COL name VAL sidon vocational institute for young women	1
+COL name VAL the international parliament for tolerance and peace	COL name VAL the international parliament for safety and peace	1
+COL name VAL the mujahedeen battalion stationed	COL name VAL the mujahid party	0
+COL name VAL flying steps	COL name VAL steps wee	0
+COL name VAL the national farmers union	COL name VAL the apple farmers union	0
+COL name VAL abc ashrafieh dbayeh	COL name VAL abc ashrafiyeh	1
+COL name VAL if boutique	COL name VAL joud boutique	0
+COL name VAL agenda for the mediterranean	COL name VAL 2030 agenda	0
+COL name VAL hariri center	COL name VAL harrar center	0
+COL name VAL the french scientific mission	COL name VAL french secular mission	0
+COL name VAL cyber crime and intellectual property protection	COL name VAL intellectual protection	0
+COL name VAL the black stars	COL name VAL the ghana black stars	1
+COL name VAL al_ghaziyeh youth football club	COL name VAL youth club	0
+COL name VAL the u s geophysical institute	COL name VAL the american institute of geophysics	0
+COL name VAL unrwa affairs in lebanon	COL name VAL unrwa affairs lebanon	1
+COL name VAL the syrian mandate committee	COL name VAL the syrian refugees committee	0
+COL name VAL forry associates ltd	COL name VAL the forry associates ltd company	1
+COL name VAL praetorian guard	COL name VAL pretoria high court	0
+COL name VAL the global future councils	COL name VAL global future council on energy	1
+COL name VAL moody analytics	COL name VAL strategy analytics	0
+COL name VAL global fishing watch	COL name VAL global forest watch	0
+COL name VAL labor policy committee	COL name VAL labor committee	1
+COL name VAL the uk treasury	COL name VAL uk treasury	1
+COL name VAL action plan	COL name VAL 1325 national action plan	0
+COL name VAL the mandarin oriental hotel group	COL name VAL the mandarin oriental	0
+COL name VAL lf nna	COL name VAL gulf nna	0
+COL name VAL the international parliament for tolerance and peace	COL name VAL the world council for tolerance and peace	0
+COL name VAL solidere beirut exhibition center	COL name VAL exhibition center	0
+COL name VAL empire theaters	COL name VAL the abraj theaters	0
+COL name VAL christian social union	COL name VAL bavarian christian social union	1
+COL name VAL the united rocket and space corporation	COL name VAL the united rocket space corporation	1
+COL name VAL malaysian airlines	COL name VAL malaysia airlines bhd	0
+COL name VAL the russian information agency	COL name VAL focus information agency	0
+COL name VAL china energy group	COL name VAL pira energy group	0
+COL name VAL menieh donieh	COL name VAL minyeh dinnieh	0
+COL name VAL tadamon zouk	COL name VAL tadamon beirut	0
+COL name VAL the nobel assembly	COL name VAL wwf nepal	0
+COL name VAL sabba party	COL name VAL the psp party	0
+COL name VAL jamaat e islam	COL name VAL jamiat ulema e islam	1
+COL name VAL the salafi dar al_hadith institute	COL name VAL dar al_hadith	0
+COL name VAL batroun youth club	COL name VAL the youth club	1
+COL name VAL al_quds international foundation	COL name VAL the iyilikder foundation	0
+COL name VAL banque bemo sal	COL name VAL nna bemo bank	0
+COL name VAL dutch embassy	COL name VAL the butch embassy	0
+COL name VAL the institute of batroun district development	COL name VAL the institute of development studies	0
+COL name VAL independent culture	COL name VAL ettijihat independent culture	1
+COL name VAL african nation of nigeria	COL name VAL setraco nigeria	0
+COL name VAL jamiaat al_imdad al_khayriya al_islamiya	COL name VAL jamaat e	0
+COL name VAL the tatweej academy for excellence in the arab region awards	COL name VAL tatweej academy	0
+COL name VAL the federation of german industries	COL name VAL federal association of the german tourism industry	0
+COL name VAL sojitz corp	COL name VAL cme group	0
+COL name VAL the mud army	COL name VAL army nna	0
+COL name VAL al_hayat tv	COL name VAL al_hayat daily	0
+COL name VAL the politecnico of milano	COL name VAL the polytechnic school of milan	1
+COL name VAL the hamburger kunsthalle	COL name VAL hamburg port	0
+COL name VAL day of jobs report	COL name VAL jobs and industrial relations	0
+COL name VAL the baathist naqshibandia	COL name VAL the neo baathist army of the men of the naqshbandi order	0
+COL name VAL sgbl beirut	COL name VAL sgbl partners	0
+COL name VAL the economic resilience initiative for the southern neighbourhood and western balkans	COL name VAL neighborhood initiative	0
+COL name VAL the renaissance and virtue party	COL name VAL renaissance capital	0
+COL name VAL council for the promotion of international trade	COL name VAL the china council for the promotion of international trade	1
+COL name VAL 6 led	COL name VAL u n led	0
+COL name VAL the banipal trust for arab literature	COL name VAL the banipal trust for arabic literature	1
+COL name VAL the palestine committee of the non aligned movement	COL name VAL the non aligned group	0
+COL name VAL global fishing watch	COL name VAL global atmosphere watch	0
+COL name VAL let run	COL name VAL u n led	0
+COL name VAL the open society foundations	COL name VAL open society foundations	1
+COL name VAL beirut dance project	COL name VAL the beirut dance project	1
+COL name VAL the independent sunni deputies	COL name VAL independent sunni mps	0
+COL name VAL akhaa ahly aley	COL name VAL akha a ahli	0
+COL name VAL sawt as shaab	COL name VAL sawt shaab	1
+COL name VAL the medical heroes fund	COL name VAL the staff heroes fund	0
+COL name VAL the swingle singers	COL name VAL the staple singers	0
+COL name VAL the aub collaborative for the study of inhaled and atmospheric aerosols	COL name VAL atmospheric and analytical chemistry lab	0
+COL name VAL marine corp	COL name VAL ex marine corps	0
+COL name VAL the journal of medical ethics	COL name VAL medical ethics and humanities	0
+COL name VAL kafalat plus	COL name VAL the civilitas foundation	0
+COL name VAL petroleum sector managing	COL name VAL the managing authority of the oil sector	0
+COL name VAL jpmorgan europe	COL name VAL the jpmorgan chase institute	0
+COL name VAL the dynasty foundation	COL name VAL the han dynasty	0
+COL name VAL the toulkarem school	COL name VAL le telegraphe	0
+COL name VAL international islamic university	COL name VAL florida international university	0
+COL name VAL the naqshabandi army	COL name VAL the army of the men of the naqshabandi order	0
+COL name VAL the poitiers university	COL name VAL goethe university	0
+COL name VAL the strategic council	COL name VAL the marine stewardship council	0
+COL name VAL the dubai folklore society	COL name VAL the aidamoun folklore group	0
+COL name VAL the joint project implementation team	COL name VAL a joint implementation center	0
+COL name VAL the watani alliance	COL name VAL the gavi alliance	0
+COL name VAL the sabaa party	COL name VAL the psp party	0
+COL name VAL ifp international fairs and promotions s a l	COL name VAL the international fairs and promotions	0
+COL name VAL ninth brigade	COL name VAL the ninth alpine regiment	0
+COL name VAL freedom france	COL name VAL fordham university	0
+COL name VAL the women democratic association of morocco	COL name VAL the tunisian association of democratic women and beity	0
+COL name VAL neighborhood policy	COL name VAL expansion and neighborhood policy commissioner	0
+COL name VAL the national immigrant justice center	COL name VAL tahirih justice center	0
+COL name VAL siren associates	COL name VAL forry associates	0
+COL name VAL institut valenica d art modern	COL name VAL the musee d art moderne	0
+COL name VAL the global council for tolerance	COL name VAL the world council for tolerance and peace	0
+COL name VAL rafik hariri middle east center	COL name VAL rafik hariri center	1
+COL name VAL the marriott grand prix hotel	COL name VAL the jw marriott hotel	0
+COL name VAL virgin trains	COL name VAL virgin radio	0
+COL name VAL china council for the promotion of international trade	COL name VAL trade promotion council	0
+COL name VAL sapienza university	COL name VAL la sapienza	0
+COL name VAL bhairi youth cultural sports club	COL name VAL youth club	0
+COL name VAL jihad al_binaa foundation	COL name VAL jihad al_binaa association	0
+COL name VAL the unions of municipalities of jeb jennine	COL name VAL jeb jennin	0
+COL name VAL homenetmen beirut basketball club	COL name VAL homenetmen beirut	0
+COL name VAL christian dior couture	COL name VAL goodyear tire	0
+COL name VAL the lebanese society of obstetrics and gynecology	COL name VAL the international federation of obstetrics and gynecology	0
+COL name VAL indianapolis public schools	COL name VAL sicilsaldo s p	0
+COL name VAL samaha mamlouk	COL name VAL mamlouk samaha	1
+COL name VAL the staple singers	COL name VAL the swingle singers	0
+COL name VAL the arab foundation for freedoms and equality	COL name VAL the foundation for human rights and freedoms	0
+COL name VAL the australia palestine advocacy network	COL name VAL the palestinian business network	0
+COL name VAL the conversation weekly	COL name VAL al_ahram weekly	0
+COL name VAL mandarin oriental hotel	COL name VAL the oriental hotel	1
+COL name VAL the husseini social club	COL name VAL the qibyah school	0
+COL name VAL eu gender action plan	COL name VAL action plan	0
+COL name VAL the butch embassy	COL name VAL the dutch embassy	1
+COL name VAL fondation domaine public	COL name VAL domaine public architects	0
+COL name VAL cocoa and co bakery	COL name VAL anti gcc	0
+COL name VAL the us marine corps	COL name VAL the marine corps	1
+COL name VAL mbc action	COL name VAL mbc 4	0
+COL name VAL the marine exploration department	COL name VAL the 31st marine expeditionary unit	0
+COL name VAL the antioch christian orthodox church of north america	COL name VAL the antiochian diocese of north america	0
+COL name VAL clan del golf	COL name VAL gulf nna	0
+COL name VAL amiri diwan affairs	COL name VAL the emiri diwan	1
+COL name VAL the global terrorism database	COL name VAL the global database of events language and tone	0
+COL name VAL vatican government	COL name VAL vaticanjustice court	0
+COL name VAL the lebanese society of obstetrics and gynecology	COL name VAL the department of obstetrics and gynecology	0
+COL name VAL the badguer center	COL name VAL the badguer restaurant and heritage center	0
+COL name VAL temnine faouka	COL name VAL the lebanese national demining office	0
+COL name VAL shin bet	COL name VAL the shin bet	1
+COL name VAL ultrasound of obstetrics and gynecology	COL name VAL the international federation of gynecology and obstetrics	0
+COL name VAL the chambre international de navigation de beyrouth	COL name VAL the beirut chamber of navigation	0
+COL name VAL bemo saudi fransi finance	COL name VAL libano franaise finance	0
+COL name VAL new fox technology for security and protection	COL name VAL new voices	0
+COL name VAL the sea turtle rescue center	COL name VAL turtle tops	0
+COL name VAL football for schools	COL name VAL sicilsaldo s p	0
+COL name VAL meta platforms inc	COL name VAL med enec	0
+COL name VAL the carwan gallery	COL name VAL taymour grahne gallery	0
+COL name VAL birds of lebanon	COL name VAL friends of lebanon	0
+COL name VAL arab deterrent force	COL name VAL the european deterrence initiative	0
+COL name VAL close naameh landfill	COL name VAL nahmeh landfill	1
+COL name VAL al_akhbar beirut s a l	COL name VAL akhbar beirut s a l	1
+COL name VAL the international chamber of navigation of beirut	COL name VAL the chambre international de navigation de beyrouth	1
+COL name VAL esbat al_ansar	COL name VAL osbat al_ansar	1
+COL name VAL center taanayel	COL name VAL taanayel center	1
+COL name VAL fulbright hays	COL name VAL u s fulbright	0
+COL name VAL the antonio gades dance company	COL name VAL mancopy dance company	0
+COL name VAL no pax americana	COL name VAL pax americana	1
+COL name VAL the baalbek ahrar al_sunna brigade	COL name VAL ahrar al_sunna brigade	1
+COL name VAL the weekly standard	COL name VAL the arab weekly	0
+COL name VAL al_hayat group	COL name VAL al_hayat tv	0
+COL name VAL the naas bikfaya mineral water company	COL name VAL bi bikfaya	0
+COL name VAL the center of genomics and policy	COL name VAL beirut souks cinemacity	0
+COL name VAL sports national academy	COL name VAL beirut sports academy	0
+COL name VAL the fulbright commission	COL name VAL u s fulbright	0
+COL name VAL the saudi arabian monetary authority	COL name VAL the elections monitoring authority	0
+COL name VAL medical park loipl	COL name VAL black label	0
+COL name VAL the foreign press center	COL name VAL the foreign press club	0
+COL name VAL the global initiative against transnational organized crime	COL name VAL the global infrastructure initiative	0
+COL name VAL turing pharmaceuticals	COL name VAL watson pharmaceuticals	0
+COL name VAL the qibyah school	COL name VAL the husseini social club	0
+COL name VAL the ghazieh football youth sports club	COL name VAL the youth sports club	1
+COL name VAL skoun lebanese addiction center	COL name VAL skoun lebanese addictions center	1
+COL name VAL rafik hariri center	COL name VAL the rafic hariri center	1
+COL name VAL abu_jihad al_wazir	COL name VAL al_zawra a	0
+COL name VAL chinook urban mining	COL name VAL chinook urban mining limited	1
+COL name VAL unifil center	COL name VAL unifil hq	0
+COL name VAL foritex s r l	COL name VAL la verticale	0
+COL name VAL our planet our health	COL name VAL sha ar	0
+COL name VAL flying steps	COL name VAL bus stops project	0
+COL name VAL chinook urban mining international	COL name VAL arabian mining company	0
+COL name VAL virginia state police	COL name VAL virgin radio	0
+COL name VAL lg electronics inc	COL name VAL samsung electronics co	0
+COL name VAL the bus stops project	COL name VAL bus stops project	1
+COL name VAL union for mediterranean	COL name VAL the mediterranean union	1
+COL name VAL the union for the protection of juveniles	COL name VAL the union of protection of juveniles	1
+COL name VAL the european deterrence initiative	COL name VAL special deterrence force	0
+COL name VAL dar al_adab publishing house	COL name VAL publishing house dawawine	0
+COL name VAL the convention on biological diversity	COL name VAL the united nations convention on biological diversity	1
+COL name VAL the euro mediterranean university	COL name VAL the euro mediterranean partnership	0
+COL name VAL esbat al_ansar	COL name VAL obsat al_ansar	0
+COL name VAL swiss butter	COL name VAL swiss air	0
+COL name VAL dior couture	COL name VAL goodyear tire	0
+COL name VAL new england patriots	COL name VAL new england	1
+COL name VAL renaissance partnership	COL name VAL renaissance capital	0
+COL name VAL jpmorgan nna	COL name VAL jpmorgan europe	0
+COL name VAL rights group nna	COL name VAL by the roots	0
+COL name VAL the al_mawarid bank	COL name VAL a mawarid bank	0
+COL name VAL the command board	COL name VAL the coast guard command	0
+COL name VAL the father roberts institute for young deaf people	COL name VAL paypal inc	0
+COL name VAL tv department arabic service	COL name VAL arabica tv board	0
+COL name VAL farah al_ata charity association	COL name VAL selim charity association	0
+COL name VAL the bank of athens	COL name VAL the bank of spain	0
+COL name VAL azaz media center	COL name VAL asas media	0
+COL name VAL al_hayat daily	COL name VAL tl t v	0
+COL name VAL haldor topsoe	COL name VAL the idea holders	0
+COL name VAL office of the special envoy for middle east peace	COL name VAL the special synod for the middle east	0
+COL name VAL the royal opera house of muscat	COL name VAL the royal opera house	1
+COL name VAL mad dog films	COL name VAL buta films	0
+COL name VAL eastern conference	COL name VAL the western conference	1
+COL name VAL the separate state of mind	COL name VAL le monde	0
+COL name VAL bachir gemayel foundation	COL name VAL bashir gemayel foundation	1
+COL name VAL the metropolitan opera	COL name VAL the metropolitan art society	0
+COL name VAL quatuor musique del tempo	COL name VAL quatour musique del tempo	1
+COL name VAL the national erasmus office	COL name VAL the national audit office	0
+COL name VAL koelner stadt anzeiger	COL name VAL the culinary institute	0
+COL name VAL unifil tcc	COL name VAL unifil hq	0
+COL name VAL the vocational sidon institute	COL name VAL the sibline vocational institute	0
+COL name VAL khaddit beirut initiative	COL name VAL khaddit beirut	1
+COL name VAL the beirut chamber of navigation	COL name VAL the international chamber of navigation beirut	1
+COL name VAL state authority	COL name VAL the state lawsuits authority	1
+COL name VAL the committee for employment of palestinian refugees in lebanon	COL name VAL the committee for the employment of palestinians	0
+COL name VAL the cma cgm group	COL name VAL choux a la creme	0
+COL name VAL the u n security council working group on children and armed conflict	COL name VAL armed group	0
+COL name VAL cooperative institute for great lakes research	COL name VAL the cooperative institute for research in environmental sciences	0
+COL name VAL union for the mediterranean	COL name VAL the mediterranean universities union	1
+COL name VAL metropolitan opera	COL name VAL metropolitan police	0
+COL name VAL the forum of humanitarian associations	COL name VAL forum of humanitarian associations	1
+COL name VAL arab house	COL name VAL the arab house	1
+COL name VAL the egyptian front for human rights	COL name VAL egyptian rights group	0
+COL name VAL the special deterrence force	COL name VAL the european deterrence initiative	0
+COL name VAL the high level panel of the european union on dialogue between peoples and cultures in the euro mediterranean area	COL name VAL high level panel	0
+COL name VAL the united kingdom hydrographic office	COL name VAL united kingdom	0
+COL name VAL art lives	COL name VAL beirut loves paris	0
+COL name VAL the monday blues band	COL name VAL the real deal blues band	0
+COL name VAL sun investment	COL name VAL shogun investments	0
+COL name VAL the iman schools	COL name VAL sicilsaldo s p	0
+COL name VAL u s a	COL name VAL k s a	0
+COL name VAL children national	COL name VAL children hospital	0
+COL name VAL the european foundation for support of culture	COL name VAL sporting faraya	0
+COL name VAL liban pak	COL name VAL bike du liban	0
+COL name VAL the parliament of ukraine	COL name VAL the parliament of india	0
+COL name VAL the european deterrence initiative	COL name VAL the european citizens initiative	0
+COL name VAL the sham news network	COL name VAL al_sham news network	0
+COL name VAL the advance student scholarship initiative	COL name VAL the syrian students scholarship fund	0
+COL name VAL al_joumhouria daily	COL name VAL al_joumhhouria daily	1
+COL name VAL fisheries and oceans canada	COL name VAL the agriculture fisheries and conservation department	0
+COL name VAL the paraguayan parliament	COL name VAL the kenyan parliament	0
+COL name VAL arsal hostages committee	COL name VAL the military hostages families	0
+COL name VAL the san bernardino national forest	COL name VAL the coconino national forest	0
+COL name VAL the sapienza university of rome expedition	COL name VAL sapienza university	0
+COL name VAL separate marine brigade	COL name VAL the marwan hadid brigades	0
+COL name VAL european syriac union	COL name VAL the syriac union	1
+COL name VAL zuwwar al_imam ali al_reda	COL name VAL zuwwar alimam ali al_reda	1
+COL name VAL the syndicate of touristic seaside resorts	COL name VAL the syndicate of seaside resort operators	1
+COL name VAL google analytics	COL name VAL la cigale	0
+COL name VAL the italian unit	COL name VAL the italian battalion	0
+COL name VAL deutsche umwelthilfe	COL name VAL deutsche bahn	0
+COL name VAL the radio liban	COL name VAL radio liban program	1
+COL name VAL indigenous agency	COL name VAL the indigenous environmental network	0
+COL name VAL the forum of humanitarian associations	COL name VAL the lebanon humanitarian ingo forum	0
+COL name VAL shin bet	COL name VAL shin ben	0
+COL name VAL the shangri la hotel	COL name VAL shangri la hotel	1
+COL name VAL grand metropolitan	COL name VAL metropolitan police	0
+COL name VAL the buta films company	COL name VAL salam films	0
+COL name VAL the cisl for shorts	COL name VAL the islamic association of charities	0
+COL name VAL the amiri diwan	COL name VAL diwan ammar	0
+COL name VAL the emiri diwan	COL name VAL amiri diwan affairs	1
+COL name VAL sofil catering	COL name VAL sofil india	0
+COL name VAL the la sapienza university	COL name VAL la sapienza	1
+COL name VAL arab media permanent committee	COL name VAL the permanent committee of arab media	1
+COL name VAL al_mourabitoun movement command board	COL name VAL the command board	0
+COL name VAL venice commission	COL name VAL trade commission	0
+COL name VAL one voice foundation	COL name VAL the wake up foundation	0
+COL name VAL the international crimea platform	COL name VAL the international cooperation platform	0
+COL name VAL the arab union for pharmacists	COL name VAL the arab pharmacists union	1
+COL name VAL the czech embassy	COL name VAL the butch embassy	0
+COL name VAL can am	COL name VAL pan am	0
+COL name VAL the emerging markets private equity association	COL name VAL the center on global enterprise and emerging markets	0
+COL name VAL california highway patrol	COL name VAL the california highway patrol	1
+COL name VAL the tunisian association for democratic women	COL name VAL the tunisian association of democratic women and beity	1
+COL name VAL label queen and	COL name VAL white label project	0
+COL name VAL the musee du louvre	COL name VAL the bureau du livre	0
+COL name VAL kayfa ta	COL name VAL p g crew	0
+COL name VAL the kurdistan parliament	COL name VAL the kenyan parliament	0
+COL name VAL fayhaa choir	COL name VAL the fayhaa choir	1
+COL name VAL maritime rescue service	COL name VAL utica risk services	0
+COL name VAL the beirut international chamber of navigation	COL name VAL the international chamber of navigation	1
+COL name VAL unep map plan bleu	COL name VAL unep map spa rac	0
+COL name VAL cellular operators owners body	COL name VAL x apartments	0
+COL name VAL the national counter terrorism center	COL name VAL the joint international counter terrorism unit	0
+COL name VAL the moroccan parliament	COL name VAL the kenyan parliament	0
+COL name VAL medventures for the mediterranean	COL name VAL the union for the mediterranean	1
+COL name VAL the greedy goose	COL name VAL cerruti 1881	0
+COL name VAL malaysia airlines	COL name VAL malaysian airlines	1
+COL name VAL mounir restaurant	COL name VAL outwar restaurant	0
+COL name VAL junts per catalunya	COL name VAL le pre catelan	0
+COL name VAL social message association	COL name VAL turk sanat muzigi	0
+COL name VAL el_periodico de catalunya	COL name VAL le pre catelan	0
+COL name VAL quacquarelli symonds qs limited	COL name VAL quacquarelli symonds	0

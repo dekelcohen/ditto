@@ -9,7 +9,6 @@ import numpy as np
 import sklearn.metrics as metrics
 import argparse
 
-from .dataset import DittoDataset
 from torch.utils import data
 from transformers import AutoModel, AdamW, get_linear_schedule_with_warmup
 from tensorboardX import SummaryWriter
@@ -145,13 +144,13 @@ def train_step(train_iter, model, optimizer, scheduler, hp):
         del loss
 
 
-def train(trainset, validset, testset, run_tag, hp):
+def train(train_dataset, valid_dataset, test_dataset, run_tag, hp):
     """Train and evaluate the model
 
     Args:
-        trainset (DittoDataset): the training set
-        validset (DittoDataset): the validation set
-        testset (DittoDataset): the test set
+        train_dataset (DittoDataset): the training set
+        valid_dataset (DittoDataset): the validation set
+        test_dataset (DittoDataset): the test set
         run_tag (str): the tag of the run
         hp (Namespace): Hyper-parameters (e.g., batch_size,
                         learning rate, fp16)
@@ -159,19 +158,19 @@ def train(trainset, validset, testset, run_tag, hp):
     Returns:
         None
     """
-    padder = trainset.pad
+    padder = train_dataset.pad
     # create the DataLoaders
-    train_iter = data.DataLoader(dataset=trainset,
+    train_iter = data.DataLoader(dataset=train_dataset,
                                  batch_size=hp.batch_size,
                                  shuffle=True,
                                  num_workers=0,
                                  collate_fn=padder)
-    valid_iter = data.DataLoader(dataset=validset,
+    valid_iter = data.DataLoader(dataset=valid_dataset,
                                  batch_size=hp.batch_size*16,
                                  shuffle=False,
                                  num_workers=0,
                                  collate_fn=padder)
-    test_iter = data.DataLoader(dataset=testset,
+    test_iter = data.DataLoader(dataset=test_dataset,
                                  batch_size=hp.batch_size*16,
                                  shuffle=False,
                                  num_workers=0,
@@ -187,7 +186,7 @@ def train(trainset, validset, testset, run_tag, hp):
 
     if hp.fp16:
         model, optimizer = amp.initialize(model, optimizer, opt_level='O2')
-    num_steps = (len(trainset) // hp.batch_size) * hp.n_epochs
+    num_steps = (len(train_dataset) // hp.batch_size) * hp.n_epochs
     scheduler = get_linear_schedule_with_warmup(optimizer,
                                                 num_warmup_steps=0,
                                                 num_training_steps=num_steps)

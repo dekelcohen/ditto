@@ -128,4 +128,4 @@ def al_train(**fit_kwargs ):
         #print('f1 after query {n}: {acc:0.4f}'.format(n=index + 1, acc=model_accuracy))
         
         # Save our model's performance for plotting.
-        performance_history.append(model_accuracy)
+        # performance_history.append(model_accuracy)

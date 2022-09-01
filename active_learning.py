@@ -47,13 +47,13 @@ class DittoFitPredictWrapper:
         # all_probs = np.random.random((QRY_BATCH_SIZE * 3, 2))
         # all_probs[:,1] = 1 - all_probs[:,0]
         
-        all_probs = np.array([])
+        all_probs = np.empty((0,2))
         with torch.no_grad():
             for batch in iterator:
                 x, y = batch
                 logits = self.model(x)
-                probs = logits.softmax(dim=1)[:, 1]
-                all_probs += np.concatenate([all_probs,probs.cpu().numpy()]) 
+                probs = logits.softmax(dim=1)
+                all_probs = np.concatenate([all_probs,probs.cpu().numpy()]) 
         
         
         print(f'all_probs= {all_probs}')        

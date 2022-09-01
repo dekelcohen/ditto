@@ -11,9 +11,10 @@ from modAL.uncertainty import uncertainty_sampling
 from modAL.models import ActiveLearner
 
 # Pre-set our batch sampling to retrieve 3 samples at a time.
-N_INITIAL_TRAIN_SAMPLES = 1000
-N_AL_ADDITIONAL_SAMPLES = 1000
-QRY_BATCH_SIZE = 250
+N_INITIAL_TRAIN_SAMPLES = 2000
+N_AL_ADDITIONAL_SAMPLES = 10
+N_AL_LABELING_QUERIES = 1 # >=1 : 0 causes div by zero 
+QRY_BATCH_SIZE = N_AL_ADDITIONAL_SAMPLES // N_AL_LABELING_QUERIES
 RS = 42
 
 preset_uncertainty_sampling = partial(uncertainty_sampling, n_instances=QRY_BATCH_SIZE)
@@ -109,11 +110,11 @@ def al_train(**fit_kwargs ):
     )
 
     # Pool-based sampling    
-    N_QUERIES = N_AL_ADDITIONAL_SAMPLES // QRY_BATCH_SIZE
+    
     
     performance_history = []
     
-    for index in range(N_QUERIES):
+    for index in range(N_AL_LABELING_QUERIES):
         query_index, query_instance = learner.query(X_pool.to_numpy(), **fit_kwargs)
         
         # Teach our ActiveLearner model the record it has requested.

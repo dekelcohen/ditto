@@ -11,8 +11,8 @@ from modAL.uncertainty import uncertainty_sampling
 from modAL.models import ActiveLearner
 
 # Pre-set our batch sampling to retrieve 3 samples at a time.
-N_RAW_SAMPLES = 600
-QRY_BATCH_SIZE = 100
+N_RAW_SAMPLES = 1000
+QRY_BATCH_SIZE = 250
 RS = 42
 
 preset_uncertainty_sampling = partial(uncertainty_sampling, n_instances=QRY_BATCH_SIZE)

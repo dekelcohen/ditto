@@ -11,7 +11,8 @@ from modAL.uncertainty import uncertainty_sampling
 from modAL.models import ActiveLearner
 
 # Pre-set our batch sampling to retrieve 3 samples at a time.
-N_RAW_SAMPLES = 1000
+N_INITIAL_TRAIN_SAMPLES = 1000
+N_AL_ADDITIONAL_SAMPLES = 1000
 QRY_BATCH_SIZE = 250
 RS = 42
 
@@ -95,7 +96,7 @@ def al_train(**fit_kwargs ):
     df_train = fit_kwargs['train_dataset'].to_df()
     
     X_train, X_pool, y_train, y_pool = train_test_split(df_train['pairs'], df_train['labels'], 
-                                                        train_size=QRY_BATCH_SIZE, random_state=RS)
+                                                        train_size=N_INITIAL_TRAIN_SAMPLES, random_state=RS)
     
     print(f'Enter al_train X_train.shape[0]={X_train.shape[0]}, X_pool.shape[0]={X_pool.shape[0]}')
     
@@ -108,7 +109,7 @@ def al_train(**fit_kwargs ):
     )
 
     # Pool-based sampling    
-    N_QUERIES = N_RAW_SAMPLES // QRY_BATCH_SIZE
+    N_QUERIES = N_AL_ADDITIONAL_SAMPLES // QRY_BATCH_SIZE
     
     performance_history = []
     

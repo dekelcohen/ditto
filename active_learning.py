@@ -117,7 +117,7 @@ def al_train(**fit_kwargs ):
         
         # Teach our ActiveLearner model the record it has requested.
         X, y = X_pool.iloc[query_index], y_pool.iloc[query_index]
-        learner.teach(X=X.to_numpy(), y=y.to_numpy()) # add to training data the newly queried X + labels
+        learner.teach(X=X.to_numpy(), y=y.to_numpy(), **fit_kwargs) # add to training data the newly queried X + labels
         
         # Remove the queried instance from the unlabeled pool.
         X_pool = X_pool.drop(X_pool.index[query_index])

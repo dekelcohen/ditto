@@ -56,7 +56,7 @@ class DittoFitPredictWrapper:
                 all_probs = np.concatenate([all_probs,probs.cpu().numpy()]) 
         
         
-        print(f'all_probs= {all_probs}')        
+        print(f'all_probs= {all_probs[:10]}')        
         return all_probs
     
     def score(self,dummy_X, dummy_y, **fit_kwargs):
@@ -121,7 +121,7 @@ def al_train(**fit_kwargs ):
         
         # Remove the queried instance from the unlabeled pool.
         X_pool = X_pool.drop(X_pool.index[query_index])
-        y_pool = y_pool.drop(X_pool.index[query_index])
+        y_pool = y_pool.drop(y_pool.index[query_index])
                         
         # Calculate and report our model's accuracy.
         #model_accuracy = learner.score(None, None, **fit_kwargs)

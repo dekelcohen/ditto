@@ -31,6 +31,8 @@ if __name__=="__main__":
     parser.add_argument("--dk", type=str, default=None)
     parser.add_argument("--summarize", dest="summarize", action="store_true")
     parser.add_argument("--size", type=int, default=None)
+    parser.add_argument("--al", type=int, default=0)
+    
 
     hp = parser.parse_args()
 
@@ -86,7 +88,18 @@ if __name__=="__main__":
     test_dataset = DittoDataset(testset, lm=hp.lm)
 
     # train and evaluate the model
-    train(train_dataset,
-          valid_dataset,
-          test_dataset,
-          run_tag, hp)
+    if hp.al:
+        from active_learning import al_train
+        fit_kwargs = { 'train_dataset' : train_dataset,
+                       'valid_dataset' : valid_dataset,
+                       'test_dataset' : test_dataset,
+                       'run_tag'      : run_tag,
+                       'hp' : hp
+                       }        
+
+        al_train(**fit_kwargs)
+    else:
+        train(train_dataset,
+              valid_dataset,
+              test_dataset,
+              run_tag, hp)

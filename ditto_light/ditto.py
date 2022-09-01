@@ -230,3 +230,4 @@ def train(train_dataset, valid_dataset, test_dataset, run_tag, hp):
         writer.add_scalars(run_tag, scalars, epoch)
 
     writer.close()
+    return model

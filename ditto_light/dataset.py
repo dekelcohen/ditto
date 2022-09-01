@@ -1,3 +1,4 @@
+import pandas as pd
 import torch
 
 from torch.utils import data
@@ -24,22 +25,30 @@ class DittoDataset(data.Dataset):
                  max_len=256,
                  size=None,
                  lm='roberta',
-                 da=None):
+                 da=None,
+                 pairs=None,
+                 labels=None):
         self.tokenizer = get_tokenizer(lm)
         self.pairs = []
         self.labels = []
         self.max_len = max_len
         self.size = size
 
-        if isinstance(path, list):
-            lines = path
-        else:
-            lines = open(path)
-
-        for line in lines:
-            s1, s2, label = line.strip().split('\t')
-            self.pairs.append((s1, s2))
-            self.labels.append(int(label))
+        if pairs is not None: # pairs is a array like (list, Series, np.array) of tuples with pairs of strings. 
+            self.pairs = pairs
+            assert labels is not None, "pairs is not None --> labels cannot be None"
+            self.pairs = pairs
+            self.labels = labels
+        else: # Read from a list or a file and parse
+            if isinstance(path, list):
+                lines = path
+            else:
+                lines = open(path)
+    
+            for line in lines:
+                s1, s2, label = line.strip().split('\t')
+                self.pairs.append((s1, s2))
+                self.labels.append(int(label))
 
         self.pairs = self.pairs[:size]
         self.labels = self.labels[:size]
@@ -48,8 +57,11 @@ class DittoDataset(data.Dataset):
             self.augmenter = Augmenter()
         else:
             self.augmenter = None
-
-
+            
+    
+    def to_df(self):
+        return pd.DataFrame(data={ 'pairs' : self.pairs, 'labels': self.labels})
+    
     def __len__(self):
         """Return the size of the dataset."""
         return len(self.pairs)

@@ -47,7 +47,7 @@ class DittoFitPredictWrapper:
         # all_probs = np.random.random((QRY_BATCH_SIZE * 3, 2))
         # all_probs[:,1] = 1 - all_probs[:,0]
         
-        all_probs = np.array([[0.5,0.5]])
+        all_probs = np.array([])
         with torch.no_grad():
             for batch in iterator:
                 x, y = batch

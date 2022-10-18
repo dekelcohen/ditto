@@ -339,6 +339,7 @@ if __name__ == "__main__":
 
     # tune threshold
     threshold = tune_threshold(config, model, hp)
+    print(f'prediction threshold tuned on validation set={threshold}')
 
     # run prediction
     predict(hp.input_path, hp.output_path, config, model,

@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.metrics import precision_score, recall_score, f1_score, ConfusionMatrixDisplay
 
 data_base_path = Path(r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\ORG_2_toks_75K')
-preds_json_path = data_base_path / r'7_to_1_test_predictions\output_small.jsonl'
+preds_json_path = data_base_path / r'test_predictions_train_4_to_1_test_7_to_1\output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 df_pred['gt_label'] = df_test['gt_label'].to_numpy().astype('bool')
@@ -20,8 +20,7 @@ def calc_metrics(df_pred):
     
     
 
-if __name__=="__main__":
-    df_pred['match'] = df_pred.match_confidence > 0.99 # Precision 0.878827790582812, Recall 0.9971978329908463, f1 0.9342784632887022
+if __name__=="__main__":    
     calc_metrics(df_pred) # Precision 0.304, Recall 0.99, f1 0.466
     # Plot confusion matrix - many false-pos (almost no false-neg)
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])

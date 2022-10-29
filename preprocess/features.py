@@ -13,7 +13,7 @@ import pandas as pd
 def format_cand(cand_txt, add_chars = False):
     cand_flds = f"COL name VAL {cand_txt}"
     if add_chars:
-        cand_flds += f"\tCOL name_chars VAL {' '.join(list(cand_txt))}"
+        cand_flds += f" COL name_chars VAL {' '.join(list(cand_txt))}"
     return cand_flds
 
 def write_split(folder_path, file_name, df, add_chars= False):    

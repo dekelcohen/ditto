@@ -5,17 +5,20 @@ from sklearn.metrics import precision_score, recall_score, f1_score, ConfusionMa
 ORG_75K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\ORG_2_toks_75K'
 ORG_PRED_FOLDER = r'test_predictions_train_4_to_1_test_7_to_1'
 
-PER_12K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K\predictions'
-PER_NEWS_PRED_FOLDER = 'train_wikidata_per_12k_test_news_f1_83'
+PER_12K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K'
+PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
 
 data_base_path = Path(PER_12K_PATH)
 
 preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
-df_pred['gt_label'] = df_test['gt_label'].to_numpy().astype('bool')
+
 
 df_test = pd.read_parquet(data_base_path / r'dataframes\test.parquet')
+df_pred['gt_label'] = df_test['gt_label'].to_numpy().astype('bool')
+
+
 
 
 def calc_metrics(df_pred, gt_col = 'gt_label',pred_col = 'match'):

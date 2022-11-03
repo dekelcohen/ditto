@@ -8,6 +8,14 @@
     "testset":  "data/per_bab/test.txt"
   },
   {
+    "name": "wiki/PER_12K",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/wiki/PER_12K/train.txt",
+    "validset": "data/wiki/PER_12K/valid.txt",
+    "testset":  "data/wiki/PER_12K/test.txt"
+  },
+  {
     "name": "wiki/ORG_2_toks_75K",
     "task_type": "classification",
     "vocab": ["0", "1"],

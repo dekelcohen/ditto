@@ -1,0 +1,1433 @@
+COL name VAL sara lee steiner	COL name VAL p m sarro	0
+COL name VAL yael itzhaki	COL name VAL yael itzhaki braun	1
+COL name VAL jacob aharon frenkel	COL name VAL jakob bagge	0
+COL name VAL felipe ortega	COL name VAL filippo russuti	0
+COL name VAL paul eberhard	COL name VAL joe bell	0
+COL name VAL h stull	COL name VAL henry stull	1
+COL name VAL lana roi	COL name VAL leon b	0
+COL name VAL gary brecher	COL name VAL kari n berggrav	0
+COL name VAL angel segura	COL name VAL engelbertus sterckx	0
+COL name VAL larry butler	COL name VAL larry thomas butler	1
+COL name VAL el_tano	COL name VAL taj el_din hamid hilaly	0
+COL name VAL elsa horvath	COL name VAL elsa horvath nee pfenninger	1
+COL name VAL louis lachenal	COL name VAL lisa miller	0
+COL name VAL kathy dettwyler	COL name VAL keith henson	0
+COL name VAL mark d regnerus	COL name VAL marc w miller	0
+COL name VAL paul berman	COL name VAL joe bell	0
+COL name VAL kurt kankan spellmeyer	COL name VAL aaron carotta	0
+COL name VAL felipe ortega	COL name VAL meni philip	0
+COL name VAL andreas ton	COL name VAL andromeda321	0
+COL name VAL john g schutz	COL name VAL juan garcia	0
+COL name VAL ibrahim al_banna	COL name VAL larry h abraham	0
+COL name VAL jana riess	COL name VAL john i mitchell	0
+COL name VAL marcel fassler	COL name VAL allen jules marcelin	0
+COL name VAL a yale massey	COL name VAL alfred yale massey	1
+COL name VAL denise bauer	COL name VAL reiya downs	0
+COL name VAL john i mitchell	COL name VAL john michael fabrizi	0
+COL name VAL markus nuessli	COL name VAL melinda marie marx	0
+COL name VAL alexandre crepet	COL name VAL k alexander	0
+COL name VAL francesc lucini	COL name VAL francesco lucini	1
+COL name VAL janet burston	COL name VAL janet elizabeth burston	1
+COL name VAL sean bridgers	COL name VAL sean mackenzie bridgers	1
+COL name VAL francisco bramon	COL name VAL francis j frank larkin iii	0
+COL name VAL chris christenson	COL name VAL chris i christenson	1
+COL name VAL elan hourticolon	COL name VAL elan	1
+COL name VAL michael david masnick	COL name VAL mike masnick	1
+COL name VAL susan c eaton	COL name VAL susan eaton	1
+COL name VAL elan hourticolon retzler	COL name VAL elan hr	1
+COL name VAL rafael blanco	COL name VAL timo raphael righetti	0
+COL name VAL haakon ericsson	COL name VAL jim hougan	0
+COL name VAL cheyenne bryant	COL name VAL luis schoenau	0
+COL name VAL john c gilmore	COL name VAL juan garcia	0
+COL name VAL oleg olegovich kiselyov	COL name VAL alec massey	0
+COL name VAL ragnhild mikkelsen	COL name VAL mike reynolds	0
+COL name VAL dr thomas a kennedy	COL name VAL thomas a kennedy	1
+COL name VAL lisa bachelis	COL name VAL louis oliver	0
+COL name VAL fred small	COL name VAL frederick emerson small	1
+COL name VAL cholo moratalla	COL name VAL alexis frank jules scholl	0
+COL name VAL alex peters	COL name VAL alexandra peters	1
+COL name VAL karla godinez	COL name VAL carla kelly	0
+COL name VAL paul sandner moller	COL name VAL a e bell	0
+COL name VAL anabel hernandez garcia	COL name VAL julie annabelle mcnally cahill	0
+COL name VAL eduardo linan	COL name VAL edward rayne	0
+COL name VAL catherine verleysen	COL name VAL kathryn kuder	0
+COL name VAL frances spector	COL name VAL franklin orr	0
+COL name VAL rodolfo rodriguez	COL name VAL rudolf keller	0
+COL name VAL jen hatmaker	COL name VAL john stephens	0
+COL name VAL seth riggs	COL name VAL ali zaid	0
+COL name VAL michael rampino	COL name VAL mr rampino	1
+COL name VAL iver g iverson	COL name VAL ofra amit	0
+COL name VAL j p protzen	COL name VAL jean pierre protzen	1
+COL name VAL matthew j munn	COL name VAL matthew james munn	1
+COL name VAL paul gregory hensler	COL name VAL a e bell	0
+COL name VAL r c harvey	COL name VAL robert c harvey	1
+COL name VAL sarah alfalaij	COL name VAL p m sarro	0
+COL name VAL richard bleiler	COL name VAL richard j bleiler	1
+COL name VAL gerald l schroeder	COL name VAL claire corlett	0
+COL name VAL patrick buehlmann	COL name VAL patricia mota	0
+COL name VAL oleg kisselev	COL name VAL alec massey	0
+COL name VAL joann robb	COL name VAL john lee	0
+COL name VAL katcho achadjian	COL name VAL keisha bell	0
+COL name VAL craig idso	COL name VAL chris cook	0
+COL name VAL megan mischler	COL name VAL pepe magana	0
+COL name VAL mr wiggles	COL name VAL mayer	0
+COL name VAL fernando lopez pastrana	COL name VAL tomas fernandez	0
+COL name VAL knute aker	COL name VAL knud w bondy	0
+COL name VAL jongasm	COL name VAL enquist b j	0
+COL name VAL robert w embree	COL name VAL christopher t robertson	0
+COL name VAL knute s aker	COL name VAL noad lahat	0
+COL name VAL hannah carnes	COL name VAL hannah carnes de niro	1
+COL name VAL jen hatmaker	COL name VAL john m stephens	0
+COL name VAL morten solvik	COL name VAL robert e martin	0
+COL name VAL lise nostvold	COL name VAL lisa heredia	0
+COL name VAL fritz berger	COL name VAL fritz robert berger	1
+COL name VAL hal garfield	COL name VAL holly bobo	0
+COL name VAL john l gustafson	COL name VAL jeon so mi	0
+COL name VAL bartel	COL name VAL d p bartel	1
+COL name VAL fran spector	COL name VAL marc fiorini	0
+COL name VAL ivar norve	COL name VAL iver iverson	0
+COL name VAL abby singer	COL name VAL abner e abby singer	1
+COL name VAL bartel	COL name VAL bartel dp	1
+COL name VAL mert aytug	COL name VAL martha liz taboas rivera	0
+COL name VAL john hetland	COL name VAL jeon so mi	0
+COL name VAL tsahi farber	COL name VAL zahi ferber	1
+COL name VAL julie mcnally cahill	COL name VAL helen julia hay	0
+COL name VAL chad lewis duell	COL name VAL chad louis duell	1
+COL name VAL emily c bazelon	COL name VAL amalie eikeland	0
+COL name VAL saddam kamel	COL name VAL sameh sidhom	0
+COL name VAL j a langone	COL name VAL joseph a langone sr	1
+COL name VAL john godfrey saxe	COL name VAL john godfrey saxe i	1
+COL name VAL fifi watson	COL name VAL mona watson	1
+COL name VAL martin c weisskopf	COL name VAL maria martinetti	0
+COL name VAL katcho achadjian	COL name VAL keisha bell sowell	0
+COL name VAL mert aytug	COL name VAL martha taboas	0
+COL name VAL lizmarie dieppa	COL name VAL lizmarie dieppa rodriguez	1
+COL name VAL rafael moreno	COL name VAL timo raphael righetti	0
+COL name VAL mrs john oskison	COL name VAL scott meyers	0
+COL name VAL terry anthony blair	COL name VAL terry blair	1
+COL name VAL brodie	COL name VAL jonah h peretti	0
+COL name VAL michael plowden	COL name VAL michele rossi	0
+COL name VAL jane dewar schaberg	COL name VAL jeon so mi	0
+COL name VAL john m gaver jr	COL name VAL john m jack gaver jr	1
+COL name VAL melvin h king	COL name VAL melvin herbert king	1
+COL name VAL valerie carol marian vaz	COL name VAL valerie vaz	1
+COL name VAL a garcin	COL name VAL auguste garcin	1
+COL name VAL bartolini	COL name VAL j s bradley	0
+COL name VAL muhammad jamal saqr	COL name VAL saqr muhammad jamal	1
+COL name VAL roberto encinas	COL name VAL christopher t robertson	0
+COL name VAL kerrie l hughes	COL name VAL a khoury	0
+COL name VAL kevin robertson	COL name VAL ronny gafney	0
+COL name VAL david robbins 1957	COL name VAL david moo	0
+COL name VAL ben best	COL name VAL charles pinney	0
+COL name VAL ali zaid	COL name VAL ole h howe	0
+COL name VAL amine	COL name VAL blanche ammoun	0
+COL name VAL christian leigh	COL name VAL k a christiansen	0
+COL name VAL john gneisenau neihardt	COL name VAL john neihardt	1
+COL name VAL krystal l davis	COL name VAL christophe	0
+COL name VAL alan braverman	COL name VAL alan michael braverman	1
+COL name VAL richard r lavigne	COL name VAL richard roger lavigne	1
+COL name VAL eduardo linan	COL name VAL edouard de troy	0
+COL name VAL sarah elmira royster	COL name VAL p m sarro	0
+COL name VAL michael roman wasielewski	COL name VAL michelle	0
+COL name VAL thomas kennedy	COL name VAL tom kennedy	1
+COL name VAL dina nissen	COL name VAL tonio k	0
+COL name VAL ali mohamed	COL name VAL ole h howe	0
+COL name VAL jeon so mi	COL name VAL john marek	0
+COL name VAL alfred lutter	COL name VAL joao oliveira	0
+COL name VAL rafael santiago casal	COL name VAL timo raphael righetti	0
+COL name VAL susan c eaton	COL name VAL susan catharine eaton	1
+COL name VAL christopher j mims	COL name VAL christopher mims	1
+COL name VAL paul harris	COL name VAL ee bell	0
+COL name VAL edwin francis bryant	COL name VAL danielle etienne	0
+COL name VAL anton l westgard	COL name VAL antonio hernandez	0
+COL name VAL john h williams	COL name VAL john williamson	0
+COL name VAL fatima al_yusuf	COL name VAL fatma al_yussef	1
+COL name VAL cornelia hatcher	COL name VAL ron cornelius	0
+COL name VAL adam flores	COL name VAL p adami	0
+COL name VAL john b tabb	COL name VAL john banister tabb	1
+COL name VAL rosli rominger	COL name VAL russell lande	0
+COL name VAL robert frank pence	COL name VAL robert pence	1
+COL name VAL jean neuhaus	COL name VAL juan garcia	0
+COL name VAL alyssa lampe	COL name VAL willis e bell	0
+COL name VAL jongasm	COL name VAL brian j enquist	0
+COL name VAL william m garth	COL name VAL william uncle billy garth	1
+COL name VAL james s escalante	COL name VAL jim escalante	1
+COL name VAL keiron william reardon	COL name VAL karen chau	0
+COL name VAL mark c toner	COL name VAL mark christopher toner	1
+COL name VAL ellen marie pawlikowski	COL name VAL b allen	0
+COL name VAL carl anderson	COL name VAL carla sue kelly	0
+COL name VAL john hetland	COL name VAL john m hetland	1
+COL name VAL jacob a frenkel	COL name VAL jakob tordsson bagge	0
+COL name VAL cornelia hatcher	COL name VAL ronald dean cornelius	0
+COL name VAL leon pennington	COL name VAL lynn orr	0
+COL name VAL iver iverson	COL name VAL amit ofrah	0
+COL name VAL dolores vallelonga	COL name VAL delores seneva williams	0
+COL name VAL boze hadleigh	COL name VAL george hadley garcia	1
+COL name VAL burt freeman	COL name VAL burton e freeman	1
+COL name VAL christina sinatra	COL name VAL christina tina sinatra	1
+COL name VAL tracey leone	COL name VAL tracey leone bates	1
+COL name VAL sarah havneraas	COL name VAL sara hegazy	0
+COL name VAL jean shepherd	COL name VAL john lee	0
+COL name VAL fatma al_yussef	COL name VAL rose el_youssef	1
+COL name VAL joseph a langone sr	COL name VAL langone joseph a sr	1
+COL name VAL nels e ellertson	COL name VAL nils nielsen	0
+COL name VAL ueli hofmann	COL name VAL il greco	0
+COL name VAL lance hart	COL name VAL george lang	0
+COL name VAL ali mubarak	COL name VAL allie bailey	0
+COL name VAL iver lee	COL name VAL ofra strauss	0
+COL name VAL don haring	COL name VAL duane w martin	0
+COL name VAL richard burger	COL name VAL richard lewis burger	1
+COL name VAL richard burger	COL name VAL richard l burger	1
+COL name VAL d bartel	COL name VAL d p bartel	1
+COL name VAL dr matteo de nora	COL name VAL terry m moe	0
+COL name VAL joana sainz	COL name VAL john i mitchell	0
+COL name VAL ali khamis	COL name VAL allie bailey	0
+COL name VAL derick burleson	COL name VAL derick wade burleson	1
+COL name VAL harald paalgard	COL name VAL ray harold dunbobbin	0
+COL name VAL edward c riley	COL name VAL edward riley	1
+COL name VAL ivar norve	COL name VAL iver j lee	0
+COL name VAL ivar trygve norve	COL name VAL iver g iverson	0
+COL name VAL go seong hui	COL name VAL ko seong hui	1
+COL name VAL ronald c davidson	COL name VAL mike reynolds	0
+COL name VAL mark d regnerus	COL name VAL miller marc w	0
+COL name VAL peter hannan	COL name VAL peder andersen	0
+COL name VAL chad duell	COL name VAL chad louis duell	1
+COL name VAL daphne brooks	COL name VAL tayfun eren	0
+COL name VAL francesco lucini	COL name VAL francis j frank larkin iii	0
+COL name VAL marcos antonio humberto ferraez iv	COL name VAL adam marcus	0
+COL name VAL carl thomas anderson	COL name VAL carla sue kelly	0
+COL name VAL hannah carnes de niro	COL name VAL hannah noel carnes	1
+COL name VAL caryn james	COL name VAL karen chau	0
+COL name VAL philippe fauchet	COL name VAL philip lee	0
+COL name VAL cornelia templeton hatcher	COL name VAL ron cornelius	0
+COL name VAL mary fraser	COL name VAL mrs hugh fraser	1
+COL name VAL m r rampino	COL name VAL michael r rampino	1
+COL name VAL don haring	COL name VAL j r dahn	0
+COL name VAL blanche loheac ammoun	COL name VAL albert a blanc	0
+COL name VAL ronald dean cornelius	COL name VAL john c reynolds	0
+COL name VAL mordechai haim	COL name VAL moti haim	1
+COL name VAL ronald j rychlak	COL name VAL john reynolds	0
+COL name VAL ruth bamberger	COL name VAL ruth bamberger teplitz	1
+COL name VAL linda elizabeth hopper	COL name VAL g m landau	0
+COL name VAL astrid hitland johannessen	COL name VAL austra	0
+COL name VAL lynn orr	COL name VAL ole lien	0
+COL name VAL anabel hernandez	COL name VAL angel hernandez	0
+COL name VAL red devil	COL name VAL c j wright	0
+COL name VAL craig d idso	COL name VAL chris cook	0
+COL name VAL aaron carotta	COL name VAL aaron michael carotta	1
+COL name VAL craig glenn rogers	COL name VAL christopher cook	0
+COL name VAL haakon eriksson earl of worcester	COL name VAL jim hougan	0
+COL name VAL sergio alejandro dipp walthe	COL name VAL ahmed zreik	0
+COL name VAL lincoln chase	COL name VAL sindre langhelle	0
+COL name VAL michael wasielewski	COL name VAL michelle alozie	0
+COL name VAL mr tj wiggles	COL name VAL mayer	0
+COL name VAL mel king	COL name VAL melvin h king	1
+COL name VAL alice maria glenday	COL name VAL alicia marie tirelli walter	0
+COL name VAL jay clark earley	COL name VAL jay earley	1
+COL name VAL vasily petrovich yekimov	COL name VAL vasily yekimov	1
+COL name VAL sara al_flaij	COL name VAL lina sarro	0
+COL name VAL james escalante	COL name VAL james s escalante	1
+COL name VAL dolores venere	COL name VAL delores s williams	0
+COL name VAL ira h abbott	COL name VAL ira herbert abbott	1
+COL name VAL bartel d	COL name VAL d p bartel	1
+COL name VAL frida rauschenbusch	COL name VAL krystyna marie freda	0
+COL name VAL caroliena wolters	COL name VAL carolina wolters	1
+COL name VAL mark regnerus	COL name VAL marc w miller	0
+COL name VAL blanche ammoun	COL name VAL blanc	0
+COL name VAL james escalante	COL name VAL jim escalante	1
+COL name VAL roberto encinas	COL name VAL roberto encinas duval	1
+COL name VAL mike reynolds	COL name VAL michael lee reynolds	1
+COL name VAL kathryn kohnfelder	COL name VAL katharine rayner	0
+COL name VAL alexa allen	COL name VAL alexandra g	0
+COL name VAL keiron reardon	COL name VAL kryon	0
+COL name VAL elsa horvath nee pfenninger	COL name VAL elsa pfenninger horvath	1
+COL name VAL miriam herbie nakamoto	COL name VAL william merriam	0
+COL name VAL ali mohamed zaid al_sadah	COL name VAL ole h howe	0
+COL name VAL marius bustgaard larsen	COL name VAL terry morse moe	0
+COL name VAL adam flores	COL name VAL pietro adami	0
+COL name VAL ronna eileen romney	COL name VAL ronna romney	1
+COL name VAL burton e freeman	COL name VAL allan borodin	0
+COL name VAL jongasm	COL name VAL b j enquist	0
+COL name VAL felipe ortega	COL name VAL filippo rossuti	0
+COL name VAL patrick wolff	COL name VAL patricia mota	0
+COL name VAL alessandro cesati	COL name VAL alison l prentice	0
+COL name VAL richard lavigne	COL name VAL richard roger lavigne	1
+COL name VAL paul g hensler	COL name VAL paul gregory hensler	1
+COL name VAL matt shumway	COL name VAL maud durrant	0
+COL name VAL lisa bachelis law	COL name VAL lisa law	1
+COL name VAL colin a ross	COL name VAL david klein	0
+COL name VAL brent harold liles	COL name VAL brandee	0
+COL name VAL jamie kennedy	COL name VAL jim ashe	0
+COL name VAL lage lund	COL name VAL luka ray kain	0
+COL name VAL paul tomas harris	COL name VAL ee bell	0
+COL name VAL stella champo iaconis	COL name VAL stella iaconis	1
+COL name VAL julia lynn maddalena	COL name VAL ole lien	0
+COL name VAL eishiro yoshie	COL name VAL osher weiss	0
+COL name VAL andrew a brown	COL name VAL andrew brown	1
+COL name VAL paul g hensler	COL name VAL a e bell	0
+COL name VAL jokestress	COL name VAL luis augusto garcia	0
+COL name VAL ian goodfellow	COL name VAL daria owen	0
+COL name VAL amalie eikeland	COL name VAL emilie gleason	0
+COL name VAL 00211444220 ipi	COL name VAL abby singer	0
+COL name VAL ken keeler	COL name VAL kenneth keeler	1
+COL name VAL alyssa rae nicole lampe	COL name VAL j p ellis	0
+COL name VAL joel richardson	COL name VAL richard joseph gill	0
+COL name VAL linda fierz david	COL name VAL gad landau	0
+COL name VAL marc w miller	COL name VAL marc william miller	1
+COL name VAL vasily petrovich ekimov	COL name VAL vasily yekimov	1
+COL name VAL peter w nesselroth	COL name VAL daniel petrie	0
+COL name VAL luis augusto garcia	COL name VAL s w lewis	0
+COL name VAL james a baffico	COL name VAL james angelo baffico	1
+COL name VAL frances slaven williamson	COL name VAL robert bob franklin williams	0
+COL name VAL gerald schroeder	COL name VAL claire corlett	0
+COL name VAL claire naomi	COL name VAL moria kor	0
+COL name VAL john e robbins	COL name VAL john ernest robbins	1
+COL name VAL bartel d	COL name VAL david bartel	1
+COL name VAL fatima al_yusuf	COL name VAL rose el_youssef	1
+COL name VAL jean claude clari	COL name VAL juan correa the elder	0
+COL name VAL sergio alejandro dipp walthe	COL name VAL ahmad zreik	0
+COL name VAL kenza boutrif	COL name VAL paul edward ganus	0
+COL name VAL katharine ann rayner	COL name VAL katharine rayner	1
+COL name VAL abdulaziz bin abdullah al_zamil	COL name VAL leon h abdalian	0
+COL name VAL liliana mercado	COL name VAL lisa lillien schneider	0
+COL name VAL jamie k paik	COL name VAL jim baker	0
+COL name VAL go seong hui	COL name VAL ko sung hee	1
+COL name VAL j a langone	COL name VAL langone joseph a sr	1
+COL name VAL laura sanchez	COL name VAL paul leary	0
+COL name VAL emily bazelon	COL name VAL amalie eikeland	0
+COL name VAL jongasm	COL name VAL enquist b	0
+COL name VAL michael masnick	COL name VAL mike masnick	1
+COL name VAL philippe max fauchet	COL name VAL philip lee	0
+COL name VAL grigori rasputin	COL name VAL grigori yefimovich rasputin	1
+COL name VAL burt freeman	COL name VAL jonah peretti	0
+COL name VAL mark gertler	COL name VAL mark lionel gertler	1
+COL name VAL frode alexander hegland	COL name VAL ford greene	0
+COL name VAL ugbad mustafa yusuf noor	COL name VAL ugbad yusuf mustafa	1
+COL name VAL mark lowenthal	COL name VAL mark m lowenthal	1
+COL name VAL john g hemry	COL name VAL juan garcia	0
+COL name VAL lewis rusoff	COL name VAL lisa miller	0
+COL name VAL john melby	COL name VAL jeon so mi	0
+COL name VAL anke vanhooren	COL name VAL astrid young	0
+COL name VAL dennis hollinger	COL name VAL reiya downs	0
+COL name VAL baby esther	COL name VAL holly bobo	0
+COL name VAL alice elizabeth sawtelle	COL name VAL alicia elizabeth victoria	0
+COL name VAL burhanettin yildiz	COL name VAL brandon brown	0
+COL name VAL ivar trygve norve	COL name VAL iver j lee	0
+COL name VAL jesus barreda	COL name VAL jesus maria barreda fernandez	1
+COL name VAL katcho achadjian	COL name VAL khatchik hratchia achadjian	1
+COL name VAL hector tapia	COL name VAL hector tapia garcia	1
+COL name VAL emily kate johnston	COL name VAL emilio ballado	0
+COL name VAL jens c dunham	COL name VAL raymond e johns	0
+COL name VAL fernanda tapia	COL name VAL tomas fernandez	0
+COL name VAL alaa rasheed	COL name VAL il greco	0
+COL name VAL ali afshar	COL name VAL allie bailey	0
+COL name VAL robert malcolm graham	COL name VAL christopher t robertson	0
+COL name VAL oleg kiselyov	COL name VAL alec massey	0
+COL name VAL dick briefer	COL name VAL doug erwin	0
+COL name VAL mari karoline knudsen	COL name VAL mari knudsen	1
+COL name VAL dick briefer	COL name VAL rene deck	0
+COL name VAL leon hampartzoum abdalian	COL name VAL dana lynn	0
+COL name VAL joseph a langone sr	COL name VAL joseph langone	1
+COL name VAL d p bartel	COL name VAL david p bartel	1
+COL name VAL oleg kisselev	COL name VAL alicia victoria	0
+COL name VAL brian james doyle	COL name VAL james barron	0
+COL name VAL anna m scarpulla	COL name VAL daria niya owen	0
+COL name VAL aurelio archinti	COL name VAL errol clyde klotz	0
+COL name VAL jordan hayes	COL name VAL yordano	0
+COL name VAL gerald l schroeder	COL name VAL will carleton	0
+COL name VAL michael roman wasielewski	COL name VAL michelle alozie	0
+COL name VAL mark regnerus	COL name VAL marc miller	0
+COL name VAL paul g hensler	COL name VAL ann e bell	0
+COL name VAL a dean byrd	COL name VAL j r dahn	0
+COL name VAL alyssa lampe	COL name VAL j p ellis	0
+COL name VAL artun tan celiker	COL name VAL jordan hayes	0
+COL name VAL leon cabat	COL name VAL lana roi	0
+COL name VAL sarah stierch	COL name VAL saray garcia	0
+COL name VAL brandon brown	COL name VAL dr bryant	0
+COL name VAL andrew sotiris sardanis	COL name VAL andreas ton	0
+COL name VAL saddam kamel hassan al_majid	COL name VAL sameh kamel sidhom	0
+COL name VAL john bachman	COL name VAL juan garcia	0
+COL name VAL francesc lucini	COL name VAL francisco lucini	1
+COL name VAL dick briefer	COL name VAL doc mckinney	0
+COL name VAL clemens c cabernard	COL name VAL clemens cabernard	1
+COL name VAL michael norman rouleau	COL name VAL michelle	0
+COL name VAL leon h abdalian	COL name VAL lana roi	0
+COL name VAL halvor k volstad	COL name VAL halvor volstad	1
+COL name VAL bartel d p	COL name VAL d p bartel	1
+COL name VAL fran spector	COL name VAL mark farran	0
+COL name VAL felli	COL name VAL moira walley	0
+COL name VAL d bartel	COL name VAL david p bartel	1
+COL name VAL markus nussli	COL name VAL melinda marx	0
+COL name VAL frederick broome	COL name VAL sir frederick napier broome	1
+COL name VAL brian james doyle	COL name VAL james turman barron	0
+COL name VAL aylsworth crawford greene iii	COL name VAL eliezer moses	0
+COL name VAL carla higgins	COL name VAL carl anderson	0
+COL name VAL karen chau	COL name VAL karen kai lan chau	1
+COL name VAL katherine anandi rowe	COL name VAL katharine rayner	0
+COL name VAL louisa adams	COL name VAL s w lewis	0
+COL name VAL manfredi lefebvre d ovidio	COL name VAL manfredi lefebvre d ovidio di balsorano	1
+COL name VAL edwin t swenson	COL name VAL carlo uttini	0
+COL name VAL blanche loheac	COL name VAL albert a blanc	0
+COL name VAL ali zein	COL name VAL ali zein el_abedin ali ismail mohamed	1
+COL name VAL jane kim	COL name VAL john lee	0
+COL name VAL scott burnett	COL name VAL scotty burnett	1
+COL name VAL edwin bryant	COL name VAL edwin francis bryant	1
+COL name VAL gary b born	COL name VAL moriah kor	0
+COL name VAL richard lavigne	COL name VAL richard r lavigne	1
+COL name VAL lorena villa garcia	COL name VAL lorraine figgins	0
+COL name VAL andre niederhaeuser	COL name VAL andre niederhauser	1
+COL name VAL ingrid moe wold	COL name VAL ingrid wold	1
+COL name VAL fran spector	COL name VAL marco fiorini	0
+COL name VAL mohammed hamza zubeidi	COL name VAL mohammadreza ghadiri	0
+COL name VAL jack gaver	COL name VAL john m jack gaver jr	1
+COL name VAL diego alvarez chanca	COL name VAL jay taycee	0
+COL name VAL margaret fishback	COL name VAL marguerite sechehaye	0
+COL name VAL jonah h peretti	COL name VAL jeon so mi	0
+COL name VAL john stephens	COL name VAL juan garcia	0
+COL name VAL jacob a frenkel	COL name VAL jakob bagge	0
+COL name VAL bill ernest	COL name VAL e e bell	0
+COL name VAL amine	COL name VAL michael jamon pagan	0
+COL name VAL ellen connor	COL name VAL elan hr	0
+COL name VAL dr burak gokdeniz	COL name VAL daria niya owen	0
+COL name VAL arnaud de borchgrave	COL name VAL arnt ove gronbech	0
+COL name VAL maurizio fiorini	COL name VAL scott meyers	0
+COL name VAL bd llh bn hsyn l hmr	COL name VAL baddie m	0
+COL name VAL uncle billy garth	COL name VAL william uncle billy garth	1
+COL name VAL kat arney	COL name VAL kit	0
+COL name VAL chencho	COL name VAL joyce cheng	0
+COL name VAL dan lynch	COL name VAL daniel lynch	1
+COL name VAL asaf lubin	COL name VAL p g asiaf	0
+COL name VAL frode hegland	COL name VAL ford greene	0
+COL name VAL eysteinn halfdansson	COL name VAL oystein erlendsson	0
+COL name VAL francesc lucini	COL name VAL francis j frank larkin iii	0
+COL name VAL jason kenneth gorskie	COL name VAL john bruce jessen	0
+COL name VAL paolo vincenzo roero	COL name VAL paolo vincenzo rovero	1
+COL name VAL jongasm	COL name VAL enquist bj	0
+COL name VAL elsa madrigal bulnes	COL name VAL adrianne ellis	0
+COL name VAL miriam nakamoto	COL name VAL william rush merriam	0
+COL name VAL elan	COL name VAL elan hr	1
+COL name VAL mark m lowenthal	COL name VAL maurice alexander	0
+COL name VAL lewin	COL name VAL lina sarro	0
+COL name VAL marc w miller	COL name VAL miller marc w	1
+COL name VAL nila khosravi bonjar	COL name VAL neal h williams	0
+COL name VAL sandra waxman	COL name VAL hoseyn zenderoudi	0
+COL name VAL kevin roberson	COL name VAL ronnie gafney	0
+COL name VAL nick loeb	COL name VAL nico bruengger	0
+COL name VAL adam h leventhal	COL name VAL adam leventhal	1
+COL name VAL ricardo mejia	COL name VAL jay richards	0
+COL name VAL john g neihardt	COL name VAL john neihardt	1
+COL name VAL nels ellertson	COL name VAL nils nielsen	0
+COL name VAL bartel	COL name VAL david bartel	1
+COL name VAL heidi elisabeth ellingsen	COL name VAL ezra hervey heywood	0
+COL name VAL meghan toohey	COL name VAL jose magana	0
+COL name VAL juan lopez de reina	COL name VAL john lee	0
+COL name VAL caryn a james	COL name VAL karen chau	0
+COL name VAL dennis feldman	COL name VAL reiya downs	0
+COL name VAL kathi sawyer	COL name VAL keith henson	0
+COL name VAL megan leigh oyster	COL name VAL bill mckinney	0
+COL name VAL felipe ortega	COL name VAL philip lee	0
+COL name VAL paul leary	COL name VAL paul leary walthall	1
+COL name VAL ali abdul saoud mohamed	COL name VAL ole h howe	0
+COL name VAL renee roulette	COL name VAL rene bader	0
+COL name VAL lise hafso nostvold	COL name VAL lisa heredia	0
+COL name VAL pete ohler	COL name VAL baddie m	0
+COL name VAL javier esparza	COL name VAL javier esparza estaun	1
+COL name VAL hans hille	COL name VAL hans t hille	1
+COL name VAL amalie vevle eikeland	COL name VAL emilie gleason	0
+COL name VAL elan retzler	COL name VAL alan roberts	0
+COL name VAL elan hourticolon	COL name VAL elan hr	1
+COL name VAL ian j goodfellow	COL name VAL daria owen	0
+COL name VAL eduardo linan	COL name VAL edward troy	0
+COL name VAL joan hohl	COL name VAL jon maddog hall	0
+COL name VAL joe martinelli	COL name VAL robert e martin	0
+COL name VAL crunch	COL name VAL anthony king	0
+COL name VAL john m gaver	COL name VAL jack gaver	1
+COL name VAL edward barbeau	COL name VAL edward j barbeau	1
+COL name VAL oleg kiselev	COL name VAL alicia victoria	0
+COL name VAL philippe fauchet	COL name VAL lee phillip	0
+COL name VAL ronald rychlak	COL name VAL john reynolds	0
+COL name VAL carl thomas anderson	COL name VAL carla kelly	0
+COL name VAL knute aker	COL name VAL knud bondy	0
+COL name VAL liliana mercado fuentes	COL name VAL lisa lillien schneider	0
+COL name VAL denise campbell bauer	COL name VAL reiya downs	0
+COL name VAL avi babadost	COL name VAL eric yoffie	0
+COL name VAL claude neix	COL name VAL kat arney	0
+COL name VAL holly l bobo	COL name VAL sean hill	0
+COL name VAL maria victoria mateos	COL name VAL mayer	0
+COL name VAL paul g hensler	COL name VAL ann bell	0
+COL name VAL lorena villa	COL name VAL lorena villa garcia	1
+COL name VAL amine	COL name VAL blanche loheac ammoun	0
+COL name VAL catalina	COL name VAL kathleen taylor	0
+COL name VAL nick tafuri	COL name VAL nico brungger	0
+COL name VAL patrick buehlmann	COL name VAL patrick buhlmann	1
+COL name VAL carolina montijano	COL name VAL grace caroline currey	0
+COL name VAL bill bruce	COL name VAL a e bell	0
+COL name VAL eystein halfdansson	COL name VAL oystein erlendsson	0
+COL name VAL andres delgado calderon	COL name VAL antirez	0
+COL name VAL edwin bryant	COL name VAL edwin f bryant	1
+COL name VAL paul tomas harris	COL name VAL e e bell	0
+COL name VAL maurice alexander	COL name VAL maurice baker alexander	1
+COL name VAL mary crawford	COL name VAL mary crawford fraser	1
+COL name VAL miriam herbie nakamoto	COL name VAL william rush merriam	0
+COL name VAL christina tina sinatra	COL name VAL tina sinatra	1
+COL name VAL alexis frank jules scholl	COL name VAL alexis scholl	1
+COL name VAL jeris poindexter	COL name VAL auristel perez arias	0
+COL name VAL ian goodfellow	COL name VAL daria niya owen	0
+COL name VAL bill morrison	COL name VAL william morrison	1
+COL name VAL james barron	COL name VAL james brown	0
+COL name VAL keiron reardon	COL name VAL karen kai lan chau	0
+COL name VAL kevin roberson	COL name VAL kevin robertson	1
+COL name VAL michael rainey jr	COL name VAL michelle	0
+COL name VAL craig g rogers	COL name VAL chris cook	0
+COL name VAL joseph a langone	COL name VAL joseph langone	1
+COL name VAL nels e ellertson	COL name VAL nils herbert kromann nielsen	0
+COL name VAL bill ernest	COL name VAL ee bell	0
+COL name VAL john mackay	COL name VAL jeon so mi	0
+COL name VAL manuela schaer	COL name VAL manel parra	0
+COL name VAL nrowi newashish	COL name VAL nur ali elahi	0
+COL name VAL el_tano	COL name VAL taj el_din hilaly	0
+COL name VAL joel aleister richardson	COL name VAL richard joseph gill	0
+COL name VAL riki lecotey	COL name VAL william c rice	0
+COL name VAL matt walsh	COL name VAL matthew g walsh	1
+COL name VAL juan garcia abrego	COL name VAL john r mitchell	0
+COL name VAL toni blum	COL name VAL j r dahn	0
+COL name VAL louis newashish	COL name VAL h loos	0
+COL name VAL michael muller	COL name VAL michelle	0
+COL name VAL ali abdul saoud mohamed	COL name VAL ole howe	0
+COL name VAL david bartel	COL name VAL david p bartel	1
+COL name VAL sandra hutchens	COL name VAL tina sinatra	0
+COL name VAL kurt spellmeyer	COL name VAL aaron carotta	0
+COL name VAL thomas a kennedy	COL name VAL tom kennedy	1
+COL name VAL matt haughey	COL name VAL matteo de nora	0
+COL name VAL lizmarie dieppa	COL name VAL liz dieppa	1
+COL name VAL liliana mercado fuentes	COL name VAL lillian berlin	0
+COL name VAL ibrahim muhammad salih al_banna	COL name VAL larry h abraham	0
+COL name VAL jens johan schwartz	COL name VAL michael jones	0
+COL name VAL philippe m fauchet	COL name VAL philip lee	0
+COL name VAL alfonso stegemann	COL name VAL william osborne oliphant	0
+COL name VAL joann ross	COL name VAL john lee	0
+COL name VAL cheyenne bryant	COL name VAL dr bryant	1
+COL name VAL heidi ellingsen	COL name VAL mary elizabeth hewitt	0
+COL name VAL ben best	COL name VAL benjamin terrell best	1
+COL name VAL anna scarpulla	COL name VAL daria owen	0
+COL name VAL keiron william reardon	COL name VAL kryon	0
+COL name VAL edward riley	COL name VAL edouard de troy	0
+COL name VAL elsa madrigal	COL name VAL michelle alozie	0
+COL name VAL richard allan baker	COL name VAL richard allen	0
+COL name VAL burhanettin yildiz	COL name VAL dr bryant	0
+COL name VAL louis myerberg dubin	COL name VAL lisa moore	0
+COL name VAL ian j goodfellow	COL name VAL daria niya owen	0
+COL name VAL meg goldman	COL name VAL mike dean	0
+COL name VAL anna scarpulla	COL name VAL daria niya owen	0
+COL name VAL elan hourticolon retzler	COL name VAL elan	1
+COL name VAL jesse m shapiro	COL name VAL jesse shapiro	1
+COL name VAL saray garcia	COL name VAL sir david george evans	0
+COL name VAL s foster damon	COL name VAL samuel foster damon	1
+COL name VAL melissa femling	COL name VAL mellisa marsala	0
+COL name VAL iver g iverson	COL name VAL amit ofrah	0
+COL name VAL ken lobb	COL name VAL cini rose	0
+COL name VAL dickie roberts	COL name VAL diego de aguilar	0
+COL name VAL werner christie	COL name VAL werner hosewinckel christie	1
+COL name VAL lage fosheim lund	COL name VAL luka ray kain	0
+COL name VAL brodie	COL name VAL jonah peretti	0
+COL name VAL mahdi fahes	COL name VAL matteo de nora	0
+COL name VAL gila balas	COL name VAL noelia gil perez	0
+COL name VAL blanche loheac ammoun	COL name VAL blanc	0
+COL name VAL jose naharro	COL name VAL mia huse	0
+COL name VAL tsahi farber	COL name VAL zahi farber	1
+COL name VAL a garcin	COL name VAL e garcin	1
+COL name VAL dr burak dentist	COL name VAL daria owen	0
+COL name VAL edward calverley riley	COL name VAL edouard de troy	0
+COL name VAL roberta griffith	COL name VAL paula roberts	0
+COL name VAL drew gehling	COL name VAL dara brown	0
+COL name VAL paul h fry	COL name VAL joe bell	0
+COL name VAL bruce jessen	COL name VAL john bruce jessen	1
+COL name VAL craig g rogers	COL name VAL christopher cook	0
+COL name VAL julie annabelle mcnally cahill	COL name VAL helen julia hay	0
+COL name VAL john e robbins	COL name VAL john robbins	1
+COL name VAL anna m scarpulla	COL name VAL daria owen	0
+COL name VAL keiron reardon	COL name VAL karen chau	0
+COL name VAL thomas lopez	COL name VAL thomas victor lopez	1
+COL name VAL jenny parsons	COL name VAL jeon so mi	0
+COL name VAL enrico negretti	COL name VAL enrique grau	0
+COL name VAL michael noonan	COL name VAL michelle alozie	0
+COL name VAL mordy bromberg	COL name VAL martha liz taboas rivera	0
+COL name VAL mat fraser	COL name VAL maud allen	0
+COL name VAL jens johan schwartz	COL name VAL mike jones	0
+COL name VAL kerrie hughes	COL name VAL a khoury	0
+COL name VAL charles vivanco	COL name VAL papuchka vivanco	1
+COL name VAL mario ochoa	COL name VAL mayer	0
+COL name VAL michael rainey jr	COL name VAL michelle renee franzen	0
+COL name VAL bartel d p	COL name VAL d bartel	1
+COL name VAL andres delgado calderon	COL name VAL andromeda321	0
+COL name VAL adrienne ellis	COL name VAL sager adrian	0
+COL name VAL paul robert wilson	COL name VAL paul wilson	1
+COL name VAL burton e freeman	COL name VAL allan bertram borodin	0
+COL name VAL heidi elisabeth ellingsen	COL name VAL mary e hewitt	0
+COL name VAL abdul aziz al_zamil	COL name VAL leon h abdalian	0
+COL name VAL megan oyster	COL name VAL bill mckinney	0
+COL name VAL engelbert cardinal sterckx	COL name VAL angel rodriguez	0
+COL name VAL jarne teulings	COL name VAL jorn stubberud	0
+COL name VAL john hayward williams	COL name VAL john williams	0
+COL name VAL joana sainz	COL name VAL joana sainz garcia	1
+COL name VAL philippe max fauchet	COL name VAL lee phillip	0
+COL name VAL ali zein el_abedin ali ismail mohamed	COL name VAL ali zein el_abedin mohamed	1
+COL name VAL fred f norwood	COL name VAL virt	0
+COL name VAL alfred william lutter iii	COL name VAL joao oliveira	0
+COL name VAL albert mansour	COL name VAL albert sami mansour	1
+COL name VAL alan schnitzer	COL name VAL elan	0
+COL name VAL paul ganus	COL name VAL a e bell	0
+COL name VAL fatoumata kaba	COL name VAL fatoumata lejeune kaba	1
+COL name VAL cede dupont	COL name VAL kat sawyer	0
+COL name VAL baron frolik	COL name VAL baron	1
+COL name VAL bartel d	COL name VAL d bartel	1
+COL name VAL ahmad al_aliwi alissa	COL name VAL ahmed moein	0
+COL name VAL dolores vallelonga	COL name VAL delores s williams	0
+COL name VAL carroll arnett	COL name VAL paul lee kroll	0
+COL name VAL don pendleton	COL name VAL tono mauri	0
+COL name VAL alan d schnitzer	COL name VAL elan	0
+COL name VAL ko seong hui	COL name VAL ko sung hee	1
+COL name VAL jakob talmo tromsdal	COL name VAL christopher jacob abbott	0
+COL name VAL aarti gupta	COL name VAL aarti s gupta	1
+COL name VAL andre verdeil	COL name VAL andromeda321	0
+COL name VAL sara alflaij	COL name VAL lina sarro	0
+COL name VAL jeronimo arango	COL name VAL jeronimo arango rascado	1
+COL name VAL maria martinetti	COL name VAL martinetti	1
+COL name VAL frode hegland	COL name VAL virt	0
+COL name VAL augustinus nidrosiensis	COL name VAL william auguste foley	0
+COL name VAL karla farfan	COL name VAL lee carroll	0
+COL name VAL mark d regnerus	COL name VAL mark daniel regnerus	1
+COL name VAL martin weisskopf	COL name VAL martinetti	0
+COL name VAL burt freeman	COL name VAL jonah h peretti	0
+COL name VAL miriam nakamoto	COL name VAL william r merriam	0
+COL name VAL ellen connor	COL name VAL elan	0
+COL name VAL michael szymanczyk	COL name VAL michele rossi	0
+COL name VAL gary brecher	COL name VAL kari berggrav	0
+COL name VAL grigori yefimovich rasputin	COL name VAL rasputin	1
+COL name VAL d s touretzky	COL name VAL david s touretzky	1
+COL name VAL ronald j rychlak	COL name VAL john paul reynolds	0
+COL name VAL blanche ammoun	COL name VAL albert a blanc	0
+COL name VAL joan massague	COL name VAL john lee	0
+COL name VAL elan retzler	COL name VAL elan	1
+COL name VAL oleg olegovich kiselyov	COL name VAL alicia victoria	0
+COL name VAL michael r wasielewski	COL name VAL michelle alozie	0
+COL name VAL abdullah yaccoub bishara	COL name VAL leon h abdalian	0
+COL name VAL sandra sue hutchens	COL name VAL tina sinatra	0
+COL name VAL kirk winemiller	COL name VAL saray garcia garcia	0
+COL name VAL ruedi keller	COL name VAL red carroll	0
+COL name VAL rudolph l leibel	COL name VAL rudolph leibel	1
+COL name VAL jenna lee joyce	COL name VAL joyce cheng yan yee	0
+COL name VAL embree	COL name VAL empress of	0
+COL name VAL lisa jane miller	COL name VAL lisa miller	1
+COL name VAL raymond ray york	COL name VAL raymundo rodriguez	0
+COL name VAL nila khosravi bonjar	COL name VAL noelia gil	0
+COL name VAL marc miller	COL name VAL miller marc w	1
+COL name VAL peter j wagner	COL name VAL peter wagner	1
+COL name VAL ignatius moses daoud	COL name VAL james h acland	0
+COL name VAL ignacio solano cabello	COL name VAL barry eichengreen	0
+COL name VAL alex cruz	COL name VAL alexandra g	0
+COL name VAL john e oppegaard	COL name VAL john oppegaard	1
+COL name VAL harald gunnar paalgard	COL name VAL ray harold dunbobbin	0
+COL name VAL lars o teigen	COL name VAL lars teigen	1
+COL name VAL micheal rouleau	COL name VAL michelle	0
+COL name VAL louis little coon oliver	COL name VAL h loos	0
+COL name VAL lucile s packard	COL name VAL lucile salter	1
+COL name VAL jose maria naharro	COL name VAL mia huse	0
+COL name VAL sara lee steiner	COL name VAL lina sarro	0
+COL name VAL creed fisher	COL name VAL cede	0
+COL name VAL san guo kenedeiebusu	COL name VAL do laai sin	0
+COL name VAL franco pupulin	COL name VAL francis j gavin	0
+COL name VAL frida rauschenbusch	COL name VAL krystyna freda	0
+COL name VAL sean tuohy	COL name VAL zhao xinna	0
+COL name VAL ellen marie pawlikowski	COL name VAL f h a aalen	0
+COL name VAL francisco cereijo	COL name VAL frances vernon	0
+COL name VAL america deadliest home video	COL name VAL amerigo serrao	0
+COL name VAL levi allred	COL name VAL lisa law	0
+COL name VAL john e granrud	COL name VAL john i mitchell	0
+COL name VAL mark daniel regnerus	COL name VAL mark regnerus	1
+COL name VAL margaret fishback	COL name VAL marguerite a sechehaye	0
+COL name VAL a w de groot ruiz	COL name VAL adrian de groot ruiz	1
+COL name VAL andreas schjolberg hanche olsen	COL name VAL antirez	0
+COL name VAL dick hillis	COL name VAL doc mckinney	0
+COL name VAL martha liz taboas rivera	COL name VAL martha taboas	1
+COL name VAL jennifer ashley	COL name VAL ashley gardner	1
+COL name VAL knute s aker	COL name VAL knud bondy	0
+COL name VAL agustin garcia gasco vicente	COL name VAL augustine of trondheim	0
+COL name VAL joann robbins	COL name VAL john lee	0
+COL name VAL roberta findlay	COL name VAL paula roberts	0
+COL name VAL winston beigel	COL name VAL winston rauch	1
+COL name VAL jane walerud	COL name VAL john lee	0
+COL name VAL sanford levinson	COL name VAL sanford victor levinson	1
+COL name VAL claire naomi	COL name VAL moriah kor	0
+COL name VAL jane schaberg	COL name VAL jeon so mi	0
+COL name VAL anabel hernandez	COL name VAL julie annabelle mcnally cahill	0
+COL name VAL musti	COL name VAL ugbad musti	1
+COL name VAL agustin garcia gasco vicente	COL name VAL augustinus nidrosiensis	0
+COL name VAL mark gertler	COL name VAL john marek	0
+COL name VAL sarah alfalaij	COL name VAL lina sarro	0
+COL name VAL dave farber	COL name VAL tv kyle	0
+COL name VAL uncle billy garth	COL name VAL william m garth	1
+COL name VAL francesco barbieri	COL name VAL francis j frank larkin iii	0
+COL name VAL fatih erbakan	COL name VAL clive weed	0
+COL name VAL alice elizabeth randall	COL name VAL alicia elizabeth victoria	0
+COL name VAL paul sandner moller	COL name VAL joe bell	0
+COL name VAL keiron reardon	COL name VAL wm t green	0
+COL name VAL leon hampartzoum abdalian	COL name VAL lana roi	0
+COL name VAL ahmad al_aliwi al_issa	COL name VAL ahmed moein	0
+COL name VAL edwin t swenson	COL name VAL danielle etienne	0
+COL name VAL hannah anderson	COL name VAL heini muller	0
+COL name VAL jongasm	COL name VAL b enquist	0
+COL name VAL petter dahle strand	COL name VAL petter strand	1
+COL name VAL alessandro cesati grechetto	COL name VAL alison l prentice	0
+COL name VAL laura shigihara	COL name VAL paul leary	0
+COL name VAL richard bleiler	COL name VAL richard james bleiler	1
+COL name VAL andrew romano	COL name VAL andy romano	1
+COL name VAL baby esther	COL name VAL holly l bobo	0
+COL name VAL heidi elisabeth ellingsen	COL name VAL heidi ellingsen	1
+COL name VAL amy lathrop	COL name VAL amii lorin	0
+COL name VAL william leo nyhan	COL name VAL william nyhan	1
+COL name VAL paul iselin wellman	COL name VAL a e bell	0
+COL name VAL zahi farber	COL name VAL zahi ferber	1
+COL name VAL kathie sawyer	COL name VAL keith henson	0
+COL name VAL robin jeanne diangelo	COL name VAL sabrina rubin	0
+COL name VAL gabriele gresta	COL name VAL gabriella cuevas	0
+COL name VAL michael r wasielewski	COL name VAL michelle	0
+COL name VAL bryan g fry	COL name VAL baron	0
+COL name VAL chad duell	COL name VAL chad lewis duell	1
+COL name VAL elsa horvath	COL name VAL michelle alozie	0
+COL name VAL d p bartel	COL name VAL david bartel	1
+COL name VAL dana lynn	COL name VAL j r dahn	0
+COL name VAL maddie rau	COL name VAL matteo de nora	0
+COL name VAL frida bunzli	COL name VAL linda lee ford	0
+COL name VAL rafael casal	COL name VAL rafael santiago casal	1
+COL name VAL kirk o winemiller	COL name VAL miguel garcia	0
+COL name VAL dan bejar	COL name VAL andreas ton	0
+COL name VAL kenza boutrif	COL name VAL paul ganus	0
+COL name VAL ignatius moses i daoud	COL name VAL james h acland	0
+COL name VAL kathryn kohnfelder	COL name VAL katharine j rayner	0
+COL name VAL ivar trygve norve	COL name VAL iver lee	0
+COL name VAL anthy molteno	COL name VAL andy gavin	0
+COL name VAL riccardo grassetti	COL name VAL richard grassetti	1
+COL name VAL frida fetzer	COL name VAL krystyna freda	0
+COL name VAL john caird	COL name VAL jeon so mi	0
+COL name VAL sarah suphellen	COL name VAL saray garcia	0
+COL name VAL malca cohen armon	COL name VAL malka cohen armon	1
+COL name VAL john m stephens	COL name VAL juan garcia	0
+COL name VAL ugbad musti	COL name VAL ugbad yusuf mustafa	1
+COL name VAL sean albro tuohy	COL name VAL xan	0
+COL name VAL linda fierz david	COL name VAL gad m landau	0
+COL name VAL mark regnerus	COL name VAL miller marc w	0
+COL name VAL alan eustace	COL name VAL robert alan eustace	1
+COL name VAL pat le paulmier	COL name VAL pat lee	0
+COL name VAL linda hopper	COL name VAL gad m landau	0
+COL name VAL john bachmann	COL name VAL juan garcia	0
+COL name VAL ian balding	COL name VAL john lee	0
+COL name VAL carla j shatz	COL name VAL carl anderson	0
+COL name VAL murray r spiegel	COL name VAL mayer	0
+COL name VAL paul edward ganus	COL name VAL a e bell	0
+COL name VAL linda fierz david	COL name VAL g m landau	0
+COL name VAL cory gruter andrew	COL name VAL david kehr	0
+COL name VAL wesley bush	COL name VAL wesley g bush	1
+COL name VAL lincoln r chase	COL name VAL sindre langhelle	0
+COL name VAL liliana mercado	COL name VAL lillian berlin	0
+COL name VAL john morley stephens	COL name VAL juan garcia	0
+COL name VAL cristopher david moore	COL name VAL cristopher moore	1
+COL name VAL francisco lucini	COL name VAL francis j frank larkin iii	0
+COL name VAL chris coppola	COL name VAL christopher coppola	1
+COL name VAL francesco lucini	COL name VAL francisco lucini	1
+COL name VAL richard l burger	COL name VAL richard lewis burger	1
+COL name VAL james barron	COL name VAL james h brown	0
+COL name VAL lage lund	COL name VAL luka kain	0
+COL name VAL ivar trygve norve	COL name VAL iver iverson	0
+COL name VAL dolores venere	COL name VAL delores seneva williams	0
+COL name VAL terry m moe	COL name VAL terry morse moe	1
+COL name VAL john ernest robbins	COL name VAL john robbins	1
+COL name VAL william frank	COL name VAL william gottlieb frank	1
+COL name VAL michael edward szymanczyk	COL name VAL michele rossi	0
+COL name VAL marius larsen	COL name VAL terry morse moe	0
+COL name VAL katharine luisa arney	COL name VAL katherine elizabeth vernon	0
+COL name VAL bartel d	COL name VAL david p bartel	1
+COL name VAL kaitlyn alexander	COL name VAL kathleen c taylor	0
+COL name VAL filthyass	COL name VAL merlin volzke	0
+COL name VAL lucas lopes	COL name VAL lucas lopes de freitas	1
+COL name VAL john d mackay	COL name VAL jeon so mi	0
+COL name VAL michaela elizabeth hahn	COL name VAL michaela hahn	1
+COL name VAL brent liles	COL name VAL brandon brown	0
+COL name VAL john g neihardt	COL name VAL john gneisenau neihardt	1
+COL name VAL gerd ragnhild mikkelsen pedersen	COL name VAL peter echlin gerahty	0
+COL name VAL bamberger rachel ruth	COL name VAL ruth bamberger teplitz	1
+COL name VAL jose m naharro	COL name VAL mia huse	0
+COL name VAL alberto gurrola	COL name VAL alberto gurrola castro	1
+COL name VAL ben best	COL name VAL elena pena	0
+COL name VAL matts albin wickman	COL name VAL mathias j rohne	0
+COL name VAL carolina montijano	COL name VAL grace caroline fulton	0
+COL name VAL bartel d	COL name VAL bartel d p	1
+COL name VAL ofra strauss	COL name VAL ofra yasmin strauss	1
+COL name VAL elsa madrigal bulnes	COL name VAL adrienne ellis	0
+COL name VAL lucile packard	COL name VAL lucile salter	1
+COL name VAL mark d regnerus	COL name VAL mark regnerus	1
+COL name VAL susan catharine eaton	COL name VAL susan eaton	1
+COL name VAL linda hopper	COL name VAL g m landau	0
+COL name VAL louis r chenevert	COL name VAL s w lewis	0
+COL name VAL ronald rychlak	COL name VAL john paul reynolds	0
+COL name VAL sara alflaij	COL name VAL p m sarro	0
+COL name VAL dr burak dentist	COL name VAL daria niya owen	0
+COL name VAL sarah elmira royster shelton	COL name VAL p m sarro	0
+COL name VAL sandra sue hutchens	COL name VAL christina sinatra	0
+COL name VAL kirk o winemiller	COL name VAL saray garcia garcia	0
+COL name VAL del carroll	COL name VAL tell carroll schreiber	0
+COL name VAL bartel	COL name VAL d bartel	1
+COL name VAL mary crawford fraser	COL name VAL mrs hugh fraser	1
+COL name VAL blanche loheac	COL name VAL blanc	0
+COL name VAL chencho	COL name VAL joyce cheng yan yee	0
+COL name VAL leticia gil	COL name VAL leticia gil parra	1
+COL name VAL fritz berger	COL name VAL fritz r berger	1
+COL name VAL john d mackay	COL name VAL juan garcia	0
+COL name VAL perry london	COL name VAL pierre dwomoh	0
+COL name VAL nels a stageberg	COL name VAL nels e ellertson	0
+COL name VAL ellen m pawlikowski	COL name VAL f h a aalen	0
+COL name VAL a de meyer	COL name VAL arnoud de meyer	1
+COL name VAL gerald schroeder	COL name VAL will carleton	0
+COL name VAL sean tuohy	COL name VAL xan	0
+COL name VAL katharine ann rayner	COL name VAL katharine j rayner	1
+COL name VAL abdullah bin hussein al_ahmar	COL name VAL abdullah ibn husayn al_ahmar	1
+COL name VAL marcellus graeme boss	COL name VAL linda margolies	0
+COL name VAL mark lionel gertler	COL name VAL john marek	0
+COL name VAL barry ryan	COL name VAL frank bare	0
+COL name VAL diana sanz	COL name VAL andreas ton	0
+COL name VAL sarah elmira royster	COL name VAL lina sarro	0
+COL name VAL joaco canas	COL name VAL jack russell	0
+COL name VAL martin c weisskopf	COL name VAL m martinetti	0
+COL name VAL louis dubin	COL name VAL lisa moore	0
+COL name VAL roberto zarate	COL name VAL christopher t robertson	0
+COL name VAL lorena villa	COL name VAL lorraine fitzhugh	0
+COL name VAL larry leichliter	COL name VAL laurie hibberd	0
+COL name VAL dorothy sherman severin	COL name VAL trudi maxwell	0
+COL name VAL rebecca kay watson	COL name VAL rebecca watson	1
+COL name VAL jeanette bonnier	COL name VAL janet joyce	0
+COL name VAL daniel foote	COL name VAL daniel harrington foote	1
+COL name VAL louis dubin	COL name VAL h loos	0
+COL name VAL matt yglesias	COL name VAL patricia mota	0
+COL name VAL melissa disney	COL name VAL mellisa marsala	0
+COL name VAL jake kaufman	COL name VAL jack vale	0
+COL name VAL ivar norve	COL name VAL iver g iverson	0
+COL name VAL chris barnes	COL name VAL christopher barnes	1
+COL name VAL john m gaver	COL name VAL john m jack gaver jr	1
+COL name VAL dustin lanker	COL name VAL dustin ross lanker	1
+COL name VAL catilina	COL name VAL kathleen c taylor	0
+COL name VAL angel	COL name VAL norma angelica	0
+COL name VAL jerry scheff	COL name VAL robert brown jr	0
+COL name VAL alix heintzman	COL name VAL alexa allen	0
+COL name VAL gib colucci	COL name VAL gaby borges	0
+COL name VAL joana sainz	COL name VAL john r mitchell	0
+COL name VAL matthew j munn	COL name VAL matthew munn	1
+COL name VAL brodie	COL name VAL david a brodie	1
+COL name VAL ali shafi	COL name VAL ole howe	0
+COL name VAL jamie paik	COL name VAL jim baker	0
+COL name VAL juan martinez siliceo	COL name VAL jeon so mi	0
+COL name VAL andrew sardanis	COL name VAL andreas ton	0
+COL name VAL alexis kochan	COL name VAL alexandra g	0
+COL name VAL ugbad mustafa yusuf noor	COL name VAL ugbad musti	1
+COL name VAL erik a schjerven	COL name VAL erik aleksander schjerven	1
+COL name VAL katie stelmanis	COL name VAL kit	0
+COL name VAL catherine verleysen	COL name VAL jana kathryn riess	0
+COL name VAL sean connoly afflect	COL name VAL xan	0
+COL name VAL ali zein el_abedin mohamed	COL name VAL ali zein	1
+COL name VAL andromeda321	COL name VAL carl anderson	0
+COL name VAL jordan hayes	COL name VAL jordyn ashley olson	0
+COL name VAL mona khaled	COL name VAL the man who killed halloween	0
+COL name VAL jozef van roey	COL name VAL thamer yousif	0
+COL name VAL andreas hanche olsen	COL name VAL antirez	0
+COL name VAL douglas e cowan	COL name VAL douglas edward cowan	1
+COL name VAL eric yoffie	COL name VAL erika eva gaertner	0
+COL name VAL alan schnitzer	COL name VAL elan hr	0
+COL name VAL louisa kuhn	COL name VAL s w lewis	0
+COL name VAL pat ruggles	COL name VAL baddie m	0
+COL name VAL cornelia templeton jewett	COL name VAL ron cornelius	0
+COL name VAL jarne teulings	COL name VAL jeroen van den broeck	0
+COL name VAL arthur l tubbs	COL name VAL arthur lewis tubbs	1
+COL name VAL iver iverson	COL name VAL ofra amit	0
+COL name VAL duwayne dunham	COL name VAL tono mauri	0
+COL name VAL adam flores cruz	COL name VAL p adami	0
+COL name VAL bartel d p	COL name VAL bartel dp	1
+COL name VAL ron broom	COL name VAL rene bader	0
+COL name VAL christopher creed fisher	COL name VAL creed fisher	1
+COL name VAL richard e labunski	COL name VAL richard labunski	1
+COL name VAL mary gnaedinger	COL name VAL mayer	0
+COL name VAL edwin swenson	COL name VAL danielle etienne	0
+COL name VAL dorothy severin	COL name VAL trudi maxwell	0
+COL name VAL alexandre crepet	COL name VAL maurice alexander	0
+COL name VAL marc miller	COL name VAL marc w miller	1
+COL name VAL jeffery pettis	COL name VAL paul jeffrey ross	0
+COL name VAL andre niederhaeuser	COL name VAL andromeda321	0
+COL name VAL keiron william reardon	COL name VAL william thomas green	0
+COL name VAL harald gunnar paalgard	COL name VAL harald paalgard	1
+COL name VAL katherine elizabeth vernon	COL name VAL jana kathryn riess	0
+COL name VAL jeroen van den broeck	COL name VAL teulings jarne	0
+COL name VAL michael david masnick	COL name VAL michael masnick	1
+COL name VAL joan hohl	COL name VAL jon hall	0
+COL name VAL knute aker	COL name VAL noad lahat	0
+COL name VAL elsa horvath nee pfenninger	COL name VAL michelle alozie	0
+COL name VAL mohammed hamza az zubeidi	COL name VAL mohammadreza ghadiri	0
+COL name VAL paul moller	COL name VAL a e bell	0
+COL name VAL jonah peretti	COL name VAL jeon so mi	0
+COL name VAL mary crawford fraser	COL name VAL mary fraser	1
+COL name VAL mahdi fahs	COL name VAL matteo de nora	0
+COL name VAL martin brown	COL name VAL martin trey brown	1
+COL name VAL megan mischler	COL name VAL jose magana	0
+COL name VAL sarah alexandra suphellen	COL name VAL saray garcia	0
+COL name VAL brandon robert brown	COL name VAL dr bryant	0
+COL name VAL krystal davis	COL name VAL christophe	0
+COL name VAL baron frolik	COL name VAL braun	0
+COL name VAL ronald dean cornelius	COL name VAL reynolds john c	0
+COL name VAL william currie watson	COL name VAL willie watson	1
+COL name VAL nur ali elahi	COL name VAL john neary	0
+COL name VAL filthyass	COL name VAL marcus valdez pereira godinho	0
+COL name VAL matts albin wickman	COL name VAL mathias rohne	0
+COL name VAL bartel	COL name VAL bartel d p	1
+COL name VAL serge jacquemard	COL name VAL sergio dipp	0
+COL name VAL markus nuessli	COL name VAL markus nussli	1
+COL name VAL garry floyd spiegle	COL name VAL garry spiegle	1
+COL name VAL mohammed hamza zubeidi	COL name VAL mehran mohammadzadeh	0
+COL name VAL miriam herbie nakamoto	COL name VAL william r merriam	0
+COL name VAL elsa horvath	COL name VAL elsa pfenninger horvath	1
+COL name VAL j r dahn	COL name VAL jr dahn	1
+COL name VAL hal garfield	COL name VAL holly l bobo	0
+COL name VAL marc charles kushner	COL name VAL mark powell	0
+COL name VAL louis newashish	COL name VAL henry loos	0
+COL name VAL sarah havneraas	COL name VAL kat sawyer	0
+COL name VAL nick loeb	COL name VAL nico brungger	0
+COL name VAL ruedi aebersold	COL name VAL c j wright	0
+COL name VAL mohammed hamza az zubeidi	COL name VAL mehran mohammadzadeh	0
+COL name VAL mrs john oskison	COL name VAL maurizio fiorini	0
+COL name VAL robin j diangelo	COL name VAL sabrina rubin	0
+COL name VAL arnaud charles paul marie philippe de borchgrave	COL name VAL arnoud de meyer	0
+COL name VAL astrid young	COL name VAL raul estrada	0
+COL name VAL karen barad	COL name VAL karen michelle barad	1
+COL name VAL barry julian eichengreen	COL name VAL barry alan pederson	0
+COL name VAL florine corella flanagan	COL name VAL florence may wright henderson	0
+COL name VAL leon pennington	COL name VAL dana lynn	0
+COL name VAL frode alexander hegland	COL name VAL fred aalen	0
+COL name VAL henry stull	COL name VAL stull	1
+COL name VAL matt walsh	COL name VAL matthew walsh	1
+COL name VAL 2 men 1 horse	COL name VAL harris d bernstein	0
+COL name VAL richard glossip	COL name VAL henry s richardson	0
+COL name VAL leon h abdalian	COL name VAL dana lynn	0
+COL name VAL laurien gardner	COL name VAL lorena villa garcia	0
+COL name VAL linda cook	COL name VAL linda zarda cook	1
+COL name VAL gila balas	COL name VAL noelia gil	0
+COL name VAL john bachmann sr	COL name VAL juan garcia	0
+COL name VAL andromeda321	COL name VAL christopher andersen	0
+COL name VAL jeff betancourt	COL name VAL ava gray	0
+COL name VAL frances a slavan williamson	COL name VAL robert franklin williams	0
+COL name VAL adrianne ellis	COL name VAL sager adrian	0
+COL name VAL miriam nakamoto	COL name VAL william merriam	0
+COL name VAL burhan yildiz	COL name VAL baron	0
+COL name VAL jim jacoby	COL name VAL jimmy conway	0
+COL name VAL alan d schnitzer	COL name VAL elan hr	0
+COL name VAL raymond khoury	COL name VAL raymundo rodriguez	0
+COL name VAL kevin robertson	COL name VAL ronnie gafney	0
+COL name VAL peter bredal	COL name VAL peter christian bredal	1
+COL name VAL marie aubert	COL name VAL lisa moore	0
+COL name VAL elan hourticolon	COL name VAL elan hourticolon retzler	1
+COL name VAL jerry obern scheff	COL name VAL robert brown jr	0
+COL name VAL filthyass	COL name VAL merlin paul volzke	0
+COL name VAL holly l bobo	COL name VAL r lance hill	0
+COL name VAL phil wadler	COL name VAL len vella	0
+COL name VAL lewis rusoff	COL name VAL lou rusoff	1
+COL name VAL jean parker shepherd	COL name VAL john lee	0
+COL name VAL fran spector	COL name VAL maurizio fiorini	0
+COL name VAL lucile packard	COL name VAL lucile s packard	1
+COL name VAL chi pei hui	COL name VAL ji pei hui	1
+COL name VAL jean claude clari	COL name VAL juan correa	0
+COL name VAL martin c weisskopf	COL name VAL martinetti	0
+COL name VAL sean albro tuohy	COL name VAL zhao xinna	0
+COL name VAL christopher andersen	COL name VAL riccardo grassetti	0
+COL name VAL andrew brooke leslie	COL name VAL andromeda321	0
+COL name VAL hans aune	COL name VAL hans m aune	1
+COL name VAL alessandro cesati	COL name VAL alison prentice	0
+COL name VAL rene bader	COL name VAL renee cleary	0
+COL name VAL shauna melinda howe	COL name VAL allen shawn	0
+COL name VAL edwin swenson	COL name VAL carlo uttini	0
+COL name VAL oleg kiselyov	COL name VAL alicia victoria	0
+COL name VAL iselin solheim	COL name VAL therese asland	0
+COL name VAL edward c riley	COL name VAL edward calverley riley	1
+COL name VAL john mackay	COL name VAL juan garcia	0
+COL name VAL andrew shearer gehling	COL name VAL drew gehling	1
+COL name VAL paul wellman	COL name VAL a e bell	0
+COL name VAL duwayne robert dunham	COL name VAL tono mauri	0
+COL name VAL marc kushner	COL name VAL mark powell	0
+COL name VAL michael r rampino	COL name VAL mr rampino	1
+COL name VAL corwin gruter andrew	COL name VAL cory gruter andrew	1
+COL name VAL gary b born	COL name VAL moria kor	0
+COL name VAL m r rampino	COL name VAL mr rampino	1
+COL name VAL jean beliveau	COL name VAL john lee	0
+COL name VAL george haddad	COL name VAL george hadley garcia	1
+COL name VAL jason gorskie	COL name VAL john bruce jessen	0
+COL name VAL gerard peter lepage	COL name VAL peter lepage	1
+COL name VAL m martinetti	COL name VAL maria martinetti	1
+COL name VAL bryant edwin	COL name VAL edwin bryant	1
+COL name VAL keiron william reardon	COL name VAL wm t green	0
+COL name VAL sandra hutchens	COL name VAL christina sinatra	0
+COL name VAL brent liles	COL name VAL brandee	0
+COL name VAL sean affleck	COL name VAL xan	0
+COL name VAL giordano	COL name VAL giordano di marzo migani	1
+COL name VAL didem turemen	COL name VAL mediha didem turemen	1
+COL name VAL mark brzezinski	COL name VAL maurice alexander	0
+COL name VAL dennis p hollinger	COL name VAL reiya downs	0
+COL name VAL eric heisserer	COL name VAL erick erickson	0
+COL name VAL levi ryann randall clattenburg	COL name VAL don lavoie	0
+COL name VAL mark lowenthal	COL name VAL maurice alexander	0
+COL name VAL kjetil dyrendahl try	COL name VAL kjetil try	1
+COL name VAL cornelia templeton jewett	COL name VAL ronald dean cornelius	0
+COL name VAL gary brecher	COL name VAL robert carr	0
+COL name VAL christian leigh	COL name VAL ken christiansen	0
+COL name VAL edward rayne	COL name VAL sir edward rayne	1
+COL name VAL edward calverley riley	COL name VAL edward riley	1
+COL name VAL bryant edwin	COL name VAL edwin francis bryant	1
+COL name VAL h stull	COL name VAL stull	1
+COL name VAL laurien gardner	COL name VAL lorena villa	0
+COL name VAL lise hafso nostvold	COL name VAL lisa miller	0
+COL name VAL olivia drake	COL name VAL vasily olive	0
+COL name VAL faisal abdulaziz	COL name VAL faisal abdulaziz al_dosari	1
+COL name VAL chip morningstar	COL name VAL john de carrich cheape	0
+COL name VAL john r dufrocq	COL name VAL jeon so mi	0
+COL name VAL marcel faessler	COL name VAL allen jules marcelin	0
+COL name VAL fritz r berger	COL name VAL fritz robert berger	1
+COL name VAL janet schultz	COL name VAL jeanette donner	0
+COL name VAL markus nuessli	COL name VAL melinda marx	0
+COL name VAL bob schooley	COL name VAL robert schooley	1
+COL name VAL juan garcia	COL name VAL thomas john rowe	0
+COL name VAL michael r rampino	COL name VAL michael rampino	1
+COL name VAL peter w nesselroth	COL name VAL peder andersen	0
+COL name VAL holly bobo	COL name VAL sean hill	0
+COL name VAL ellen m pawlikowski	COL name VAL ellen marie pawlikowski	1
+COL name VAL marc william miller	COL name VAL miller marc w	1
+COL name VAL vasily ekimov	COL name VAL vasily yekimov	1
+COL name VAL juan gabriel jimenez gonzalez	COL name VAL jeon so mi	0
+COL name VAL joe bones	COL name VAL rodrigo luis de borja y de castre pinos	0
+COL name VAL victoria cabezas	COL name VAL victoria cabezas green	1
+COL name VAL hugues lancelot de lusignan	COL name VAL hawks j	0
+COL name VAL jana riess	COL name VAL joann ross	0
+COL name VAL frode hegland	COL name VAL fred aalen	0
+COL name VAL riki lecotey	COL name VAL rickey harris	0
+COL name VAL ty templeton	COL name VAL tyrone templeton	1
+COL name VAL john newport caird	COL name VAL jeon so mi	0
+COL name VAL sean durkin	COL name VAL timothy sean durkin	1
+COL name VAL jeris lee poindexter	COL name VAL auristel perez arias	0
+COL name VAL caryn a james	COL name VAL caryn james	1
+COL name VAL joel aleister richardson	COL name VAL richard j gill	0
+COL name VAL philippe m fauchet	COL name VAL lee phillip	0
+COL name VAL omar kamal abdel wahed	COL name VAL ali saleh amro	0
+COL name VAL marcel fluckiger	COL name VAL marcel flueckiger	1
+COL name VAL chencho	COL name VAL cheng yan yee	0
+COL name VAL katherine anandi rowe	COL name VAL katharine j rayner	0
+COL name VAL alexandra gjerpen	COL name VAL bruce alexander	0
+COL name VAL heidi elisabeth ellingsen	COL name VAL mary elizabeth hewitt	0
+COL name VAL guido colucci	COL name VAL david cody	0
+COL name VAL arne eggum	COL name VAL aaron carotta	0
+COL name VAL alyssa lampe	COL name VAL eliza shannon	0
+COL name VAL bartel	COL name VAL david p bartel	1
+COL name VAL alan eustace	COL name VAL f c aljohn	0
+COL name VAL melvin herbert king	COL name VAL mel king	1
+COL name VAL michael lee reynolds	COL name VAL michelle alozie	0
+COL name VAL abdullah fawaz afrah bait abdulghafur	COL name VAL charbel abdallah	0
+COL name VAL raymond york	COL name VAL raymundo rodriguez	0
+COL name VAL jack barakat	COL name VAL jack virgin barakat	1
+COL name VAL louise janin	COL name VAL lisa moore	0
+COL name VAL abdul aziz bin abdullah al_zamil	COL name VAL faisal abdulaziz	0
+COL name VAL erick erickson	COL name VAL erick o erickson	1
+COL name VAL martin weisskopf	COL name VAL maria martinetti	0
+COL name VAL robert k logan	COL name VAL robert logan	1
+COL name VAL peter f paul	COL name VAL peter franklin paul	1
+COL name VAL josh lemos	COL name VAL joshua hammer	0
+COL name VAL kaitlyn alexander	COL name VAL kathleen taylor	0
+COL name VAL alexandra gjerpen	COL name VAL bruce k alexander	0
+COL name VAL d bartel	COL name VAL david bartel	1
+COL name VAL knute aker	COL name VAL knute s aker	1
+COL name VAL megan toohey	COL name VAL jose magana	0
+COL name VAL louis l lachenal	COL name VAL lisa miller	0
+COL name VAL nila khosravi bonjar	COL name VAL nila kh	1
+COL name VAL clarence orohrelle dodd	COL name VAL clarence orvil dodd	1
+COL name VAL fred norwood	COL name VAL virt	0
+COL name VAL karim allawi	COL name VAL karim mohammed	1
+COL name VAL linda elizabeth hopper	COL name VAL gad m landau	0
+COL name VAL colette brand	COL name VAL colette roth brand	1
+COL name VAL eric h yoffie	COL name VAL erika eva gaertner	0
+COL name VAL audrey anthony blum	COL name VAL alan yuter	0
+COL name VAL john schutz	COL name VAL juan garcia	0
+COL name VAL baby esther	COL name VAL esther jones	1
+COL name VAL katherine ann dettwyler	COL name VAL katharine rayner	0
+COL name VAL lisa bachelis	COL name VAL lisa bachelis law	1
+COL name VAL joan massague sole	COL name VAL john lee	0
+COL name VAL saddam kamel hassan al_majid	COL name VAL sameh sidhom	0
+COL name VAL angel segura	COL name VAL engelbert sterckx	0
+COL name VAL patrick buhlmann	COL name VAL patricia mota	0
+COL name VAL vasily ekimov	COL name VAL vasily petrovich yekimov	1
+COL name VAL lise nostvold	COL name VAL lisa miller	0
+COL name VAL ken rosenthal	COL name VAL queen kasey	0
+COL name VAL l schjetnes fotografiske atelier	COL name VAL le paulmier photographer	0
+COL name VAL francisco javier esparza estaun	COL name VAL javier esparza estaun	1
+COL name VAL gila blass	COL name VAL noelia gil perez	0
+COL name VAL james l snyder	COL name VAL james lucion snyder	1
+COL name VAL daphne a brooks	COL name VAL tayfun eren	0
+COL name VAL frida bunzli	COL name VAL linda ford	0
+COL name VAL rahel kiwic	COL name VAL rahel marianne kiwic	1
+COL name VAL elsa madrigal	COL name VAL adrienne ellis	0
+COL name VAL barbara s	COL name VAL barbara smith	1
+COL name VAL dan fellus	COL name VAL tonio k	0
+COL name VAL frances a slavan williamson	COL name VAL robert bob franklin williams	0
+COL name VAL felipe ortega	COL name VAL jose felipe ortega soto	1
+COL name VAL alex obert	COL name VAL maurice alexander	0
+COL name VAL jay richards	COL name VAL richard a cohen	0
+COL name VAL lynn orr	COL name VAL ole o lien	0
+COL name VAL alan thomas	COL name VAL b allen	0
+COL name VAL david a brodie	COL name VAL david arthur brodie	1
+COL name VAL paul fry	COL name VAL joe bell	0
+COL name VAL alice glenday	COL name VAL alicia tirelli	0
+COL name VAL felipe ortega	COL name VAL filippo rusuti	0
+COL name VAL tony payne	COL name VAL j r dahn	0
+COL name VAL gian carlo polidori	COL name VAL gina cody	0
+COL name VAL jordan hayes	COL name VAL jordyn olson	0
+COL name VAL rene dahinden	COL name VAL edward rayne	0
+COL name VAL rose el_youssef	COL name VAL russ robertson	0
+COL name VAL giuliano livi	COL name VAL lisa colleen	0
+COL name VAL tariq qandil	COL name VAL tracey leone	0
+COL name VAL alexandre crepet	COL name VAL alexandra g	0
+COL name VAL hannah carnes	COL name VAL hannah noel carnes	1
+COL name VAL 6kenza	COL name VAL paul ganus	0
+COL name VAL murray r spiegel	COL name VAL a de meyer	0
+COL name VAL khaled mona	COL name VAL the man who killed halloween	0
+COL name VAL brian j doyle	COL name VAL braun	0
+COL name VAL lawrence george teeter	COL name VAL lawrence teeter	1
+COL name VAL brent harold liles	COL name VAL brandon brown	0
+COL name VAL linda hopper	COL name VAL gad landau	0
+COL name VAL dan bejar	COL name VAL daniel bejar	1
+COL name VAL jeff job	COL name VAL jeffrey job	1
+COL name VAL anna m scarpulla	COL name VAL john lee	0
+COL name VAL joseph langone	COL name VAL langone joseph a sr	1
+COL name VAL alexandra g	COL name VAL bruce k alexander	0
+COL name VAL kathy dettwyler	COL name VAL howard keith henson	0
+COL name VAL levi randall	COL name VAL lisa law	0
+COL name VAL jeffery stuart pettis	COL name VAL paul jeffrey ross	0
+COL name VAL felipe ortega	COL name VAL filippo rizuti	0
+COL name VAL louis dubin	COL name VAL lisa miller	0
+COL name VAL sean bridgers	COL name VAL ali zein	0
+COL name VAL mordy bromberg	COL name VAL martha taboas	0
+COL name VAL abdul aziz bin abdullah al_zamil	COL name VAL leon h abdalian	0
+COL name VAL hisham barakat	COL name VAL joseph hachem	0
+COL name VAL anthy molteno	COL name VAL andy ton	0
+COL name VAL seth riggs	COL name VAL ziad jarrah	0
+COL name VAL g peter lepage	COL name VAL gerard peter lepage	1
+COL name VAL phil wadler	COL name VAL felli	0
+COL name VAL dickie roberts	COL name VAL diego de aguilera	0
+COL name VAL bamberger rachel ruth	COL name VAL ruth bamberger	1
+COL name VAL ali hosni	COL name VAL ali husni faisal	1
+COL name VAL jens opsahl	COL name VAL doris jones	0
+COL name VAL katie austra stelmanis	COL name VAL kit	0
+COL name VAL bob minton	COL name VAL robert schenk minton	1
+COL name VAL meg kasdan	COL name VAL mike dean	0
+COL name VAL bartel d p	COL name VAL david bartel	1
+COL name VAL keiron william reardon	COL name VAL william t green	0
+COL name VAL saddam kamel	COL name VAL sameh kamel sidhom	0
+COL name VAL thomas a kennedy	COL name VAL thomas kennedy	1
+COL name VAL juan garcia abrego	COL name VAL john i mitchell	0
+COL name VAL bettina kuehn	COL name VAL bettina kuhn	1
+COL name VAL grace fulton	COL name VAL miguel garcia	0
+COL name VAL juan correa	COL name VAL juan correa the elder	1
+COL name VAL richard j bleiler	COL name VAL richard james bleiler	1
+COL name VAL robert robin owen lehman	COL name VAL robin lehman	1
+COL name VAL benedetto cardinal lorenzelli	COL name VAL benedetto lorenzelli	1
+COL name VAL mark christopher toner	COL name VAL mark toner	1
+COL name VAL pat lee	COL name VAL pete brock	0
+COL name VAL gerd ragnhild mikkelsen pedersen	COL name VAL peter gerahty	0
+COL name VAL levi ryann randall clattenburg	COL name VAL lisa law	0
+COL name VAL matt shumway	COL name VAL maud allen	0
+COL name VAL rene dahinden	COL name VAL ryan stevenson	0
+COL name VAL chris kreski	COL name VAL christopher raymond kreski	1
+COL name VAL ric clark	COL name VAL rick trainor	0
+COL name VAL khaldoun ibrahim	COL name VAL khaldoun ibrahim mohammed albu mohammed	1
+COL name VAL nick tafuri	COL name VAL nico bruengger	0
+COL name VAL sandra hutchens	COL name VAL sandra sue hutchens	1
+COL name VAL robin lehman	COL name VAL robyn thurman	0
+COL name VAL katharine j rayner	COL name VAL katharine rayner	1
+COL name VAL francesco sfrisa	COL name VAL francis j frank larkin iii	0
+COL name VAL astrid johannessen	COL name VAL austra	0
+COL name VAL bartel	COL name VAL bartel d	1
+COL name VAL elijah brigham bryant	COL name VAL elijah bryant	1
+COL name VAL megan montefusco	COL name VAL bill mckinney	0
+COL name VAL alan fitzgerald	COL name VAL b allen	0
+COL name VAL alexandra g	COL name VAL bruce alexander	0
+COL name VAL sara al_flaij	COL name VAL p m sarro	0
+COL name VAL amy biehl	COL name VAL emma gonzalez	0
+COL name VAL martin weisskopf	COL name VAL m martinetti	0
+COL name VAL frida fetzer	COL name VAL krystyna marie freda	0
+COL name VAL ali shafi	COL name VAL ole h howe	0
+COL name VAL kristoffer klaesson	COL name VAL christopher andersen	0
+COL name VAL levi j allred	COL name VAL lisa law	0
+COL name VAL alle benassi	COL name VAL rodrigo luis de borja y de castre pinos	0
+COL name VAL jamie kennedy	COL name VAL jim baker	0
+COL name VAL vasily petrovich ekimov	COL name VAL vasily petrovich yekimov	1
+COL name VAL bryan fry	COL name VAL baron	0
+COL name VAL john edward decker	COL name VAL juan garcia	0
+COL name VAL jamal al_qabendi	COL name VAL jamal yaqoub al_qabendi	1
+COL name VAL martin tschudi	COL name VAL karen muratyan	0
+COL name VAL maggie elaine haney	COL name VAL maggie haney	1
+COL name VAL john leroy gustafson	COL name VAL jeon so mi	0
+COL name VAL elan hourticolon retzler	COL name VAL elan retzler	1
+COL name VAL magnus barefoot	COL name VAL magnus iii a norvegiakoa	1
+COL name VAL elsa madrigal	COL name VAL elsa madrigal bulnes	1
+COL name VAL christina sinatra	COL name VAL tina sinatra	1
+COL name VAL shani davidov	COL name VAL sheena midori	0
+COL name VAL c stephen evans	COL name VAL charles stephen evans	1
+COL name VAL avi babadost	COL name VAL eric h yoffie	0
+COL name VAL francisco bramon	COL name VAL frank bare	0
+COL name VAL frode alexander hegland	COL name VAL virt	0
+COL name VAL dr thomas a kennedy	COL name VAL thomas kennedy	1
+COL name VAL sara abdulrahman alflaij	COL name VAL p m sarro	0
+COL name VAL john m hetland	COL name VAL jeon so mi	0
+COL name VAL liliana mercado fuentes	COL name VAL lisa lillien	0
+COL name VAL ali mohamed	COL name VAL ole howe	0
+COL name VAL nila kh	COL name VAL noelia gil	0
+COL name VAL jose maria naharro calderon	COL name VAL mia huse	0
+COL name VAL jerry obern scheff	COL name VAL jerry scheff	1
+COL name VAL aurelio archinto	COL name VAL errol clyde klotz	0
+COL name VAL marc miller	COL name VAL marc william miller	1
+COL name VAL liliana mercado	COL name VAL lisa lillien	0
+COL name VAL j a langone	COL name VAL joseph langone	1
+COL name VAL adolf mueller	COL name VAL adolf muller	1
+COL name VAL baby esther	COL name VAL bob boyer	0
+COL name VAL sharon long	COL name VAL suzanne charney	0
+COL name VAL john gustafson	COL name VAL jeon so mi	0
+COL name VAL lorena villa	COL name VAL lorraine figgins	0
+COL name VAL dan whitesides	COL name VAL dana bally	0
+COL name VAL aleksis kokhan	COL name VAL alexandra g	0
+COL name VAL sarah beatrice victoria havneraas	COL name VAL sarah havneraas	1
+COL name VAL manuela schar	COL name VAL manel parra	0
+COL name VAL pal johannessen	COL name VAL joe bell	0
+COL name VAL ali khamis abbas ali khamis	COL name VAL allie bailey	0
+COL name VAL sal	COL name VAL syl veitch	0
+COL name VAL elsa madrigal	COL name VAL adrianne ellis	0
+COL name VAL g peter lepage	COL name VAL peter lepage	1
+COL name VAL clifford geary	COL name VAL clifford n geary	1
+COL name VAL gary brecher	COL name VAL robert j carr	0
+COL name VAL matthew james munn	COL name VAL matthew munn	1
+COL name VAL karim mohammed	COL name VAL karim mohammed allawi	1
+COL name VAL michael mueller	COL name VAL michelle	0
+COL name VAL elan retzler	COL name VAL elan hr	1
+COL name VAL colin campbell	COL name VAL lisa colleen	0
+COL name VAL alice elizabeth sawtelle randall	COL name VAL alicia elizabeth victoria	0
+COL name VAL grace caroline fulton	COL name VAL grace fulton	1
+COL name VAL janet schultz	COL name VAL jeanette bonnier	0
+COL name VAL lizmarie dieppa rodriguez	COL name VAL liz dieppa	1
+COL name VAL james florentine	COL name VAL jim florentine	1
+COL name VAL dr burak gokdeniz	COL name VAL daria owen	0
+COL name VAL sylvanus robillard	COL name VAL sylvanus w robillard	1
+COL name VAL jose gomez de la carrera	COL name VAL mia huse	0
+COL name VAL james barron	COL name VAL james hemphill brown	0
+COL name VAL sa id abidini	COL name VAL saeed abedini	1
+COL name VAL hannah emily anderson	COL name VAL heini mueller	0
+COL name VAL ben best	COL name VAL charles n pinney	0
+COL name VAL markus nussli	COL name VAL melinda marie marx	0
+COL name VAL don mancini	COL name VAL mike dean	0
+COL name VAL john edward decker	COL name VAL tracy jean ducar	0
+COL name VAL william c marshall	COL name VAL william marshall	1
+COL name VAL barry edmund ryan	COL name VAL frank bare	0
+COL name VAL del w carroll	COL name VAL tell carroll schreiber	0
+COL name VAL richard george van gelder	COL name VAL richard byron clark	0
+COL name VAL jeff dahn	COL name VAL j r dahn	1
+COL name VAL sarah alexandra lilleberg suphellen	COL name VAL saray garcia	0
+COL name VAL andreas ton	COL name VAL christopher andersen	0
+COL name VAL laurie gelman	COL name VAL j leroy hulsey	0
+COL name VAL frances slaven williamson	COL name VAL robert franklin williams	0
+COL name VAL 6kenza	COL name VAL paul edward ganus	0
+COL name VAL alexis boling	COL name VAL alexandra g	0
+COL name VAL catalina	COL name VAL kathleen c taylor	0
+COL name VAL joseph a langone	COL name VAL joseph a langone sr	1
+COL name VAL rafael casal	COL name VAL timo raphael righetti	0
+COL name VAL andre chanet	COL name VAL peder andersen	0
+COL name VAL holly bobo	COL name VAL r lance hill	0
+COL name VAL roberta hershkowitz	COL name VAL paula roberts	0
+COL name VAL antonio flores	COL name VAL antonio flores rodriguez	1
+COL name VAL nels ellertson	COL name VAL nils herbert kromann nielsen	0
+COL name VAL louis myerberg dubin	COL name VAL lisa miller	0
+COL name VAL baddie m	COL name VAL pete brock	0
+COL name VAL jackie kessler	COL name VAL jack barakat	0
+COL name VAL astrid johannessen	COL name VAL katie austra stelmanis	0
+COL name VAL louis myerberg dubin	COL name VAL henry loos	0
+COL name VAL larry leichliter	COL name VAL laurie hill	0
+COL name VAL phil harder	COL name VAL philip harder	1
+COL name VAL gila blass	COL name VAL noelia gil	0
+COL name VAL gary born	COL name VAL moriah kor	0
+COL name VAL julia lynn maddalena	COL name VAL ole o lien	0
+COL name VAL juma marhoon al_habsi	COL name VAL jim case	0
+COL name VAL anna scarpulla	COL name VAL john lee	0
+COL name VAL alexa tiffany allen	COL name VAL alexandra g	0
+COL name VAL louis myerberg dubin	COL name VAL h loos	0
+COL name VAL bartel d	COL name VAL bartel dp	1
+COL name VAL steven seth wilson	COL name VAL s s wilson	1
+COL name VAL chip morningstar	COL name VAL john de carrick cheape	0
+COL name VAL abdul aziz al_zamil	COL name VAL faisal abdulaziz	0
+COL name VAL martin tschudy	COL name VAL karen muratyan	0
+COL name VAL fatih erbakan	COL name VAL weed	0
+COL name VAL carl anderson	COL name VAL carla kelly	0
+COL name VAL louisa adams kuhn	COL name VAL s w lewis	0
+COL name VAL john m gaver	COL name VAL john m gaver jr	1
+COL name VAL israel s dresner	COL name VAL israel seymour dresner	1
+COL name VAL dennis jeffrey feldman	COL name VAL reiya downs	0
+COL name VAL joel aleister richardson	COL name VAL joel richardson	1
+COL name VAL grace caroline currey	COL name VAL grace caroline fulton	1
+COL name VAL juma al_habsi	COL name VAL jim case	0
+COL name VAL elsa madrigal bulnes	COL name VAL michelle alozie	0
+COL name VAL len vella	COL name VAL lewin	0
+COL name VAL neil robertson	COL name VAL neal h williams	0
+COL name VAL jacob aharon frenkel	COL name VAL jakob tordsson bagge	0
+COL name VAL mellisa marsala	COL name VAL melissa gedeon perez	0
+COL name VAL dr yosef solomon yosef solomon adv	COL name VAL yosef solomon	1
+COL name VAL karim allawi	COL name VAL karim mohammed allawi	1
+COL name VAL san guo kenedeiebusu	COL name VAL xian du la	0
+COL name VAL megan leigh montefusco	COL name VAL bill mckinney	0
+COL name VAL paul harris	COL name VAL e e bell	0
+COL name VAL dan whitesides	COL name VAL j r dahn	0
+COL name VAL eric h yoffie	COL name VAL eric yoffie	1
+COL name VAL chris barnes	COL name VAL christopher j barnes	1
+COL name VAL kathi sawyer young	COL name VAL keith henson	0
+COL name VAL charly hertig	COL name VAL deanne shirley julius	0
+COL name VAL jake kaufman	COL name VAL jack gaver	0
+COL name VAL jordi mas	COL name VAL jordi mas rodriguez	1
+COL name VAL luis antonio fernandez de cordoba portocarrero	COL name VAL s w lewis	0
+COL name VAL jongasm	COL name VAL brian enquist	0
+COL name VAL john michael fabrizi	COL name VAL john r mitchell	0
+COL name VAL ali zaid	COL name VAL ole howe	0
+COL name VAL marcos antonio ferraez	COL name VAL adam marcus	0
+COL name VAL camille everardi	COL name VAL camillo everardi	1
+COL name VAL mayer	COL name VAL moriah kor	0
+COL name VAL andrew sardanis	COL name VAL carl anderson	0
+COL name VAL knute s aker	COL name VAL knud w bondy	0
+COL name VAL m r rampino	COL name VAL michael rampino	1
+COL name VAL gideon cohen	COL name VAL melissa gedeon perez	0
+COL name VAL alan braverman	COL name VAL f h a aalen	0
+COL name VAL ivar norve	COL name VAL iver lee	0
+COL name VAL christopher andersen	COL name VAL christopher peter andersen	1
+COL name VAL nur ali elahi	COL name VAL edward john neary	0
+COL name VAL bre blair	COL name VAL frank bare	0
+COL name VAL oleg kiselev	COL name VAL alec massey	0
+COL name VAL joaco canas	COL name VAL emma jegge	0
+COL name VAL riki lecotey	COL name VAL william rice	0
+COL name VAL jamie dewolf	COL name VAL jim baker	0
+COL name VAL mark c toner	COL name VAL mark toner	1
+COL name VAL giovanni benelli	COL name VAL kevin frank	0
+COL name VAL andre niederhauser	COL name VAL andromeda321	0
+COL name VAL jamie dewolf	COL name VAL jim ashe	0
+COL name VAL christopher barnes	COL name VAL christopher j barnes	1
+COL name VAL ronald de sousa	COL name VAL john reynolds	0
+COL name VAL riki blich	COL name VAL rivka blich	1
+COL name VAL molly s shoichet	COL name VAL molly shoichet	1
+COL name VAL elsa pfenninger horvath	COL name VAL michelle alozie	0
+COL name VAL gian carlo polidori	COL name VAL carl jan colpaert	0
+COL name VAL hisham muhammad zaki barakat	COL name VAL joe hachem	0
+COL name VAL vasily ekimov	COL name VAL vasily petrovich ekimov	1
+COL name VAL iver j lee	COL name VAL ofra strauss	0
+COL name VAL bartel dp	COL name VAL d p bartel	1
+COL name VAL bartel d p	COL name VAL david p bartel	1
+COL name VAL carl colpaert	COL name VAL carl jan colpaert	1
+COL name VAL richard george van gelder	COL name VAL richard clark	0
+COL name VAL michael croner	COL name VAL michele rossi	0
+COL name VAL 00211444220 ipi	COL name VAL abner e abby singer	0
+COL name VAL colin ross	COL name VAL david klein	0
+COL name VAL eduardo linan	COL name VAL edward troye	0
+COL name VAL mert aytug	COL name VAL martha moore	0
+COL name VAL bryant edwin	COL name VAL edwin f bryant	1
+COL name VAL katharine ann rayner	COL name VAL katharine ann johnson	1
+COL name VAL heidi ellingsen	COL name VAL mary e hewitt	0
+COL name VAL j a langone	COL name VAL joseph a langone	1
+COL name VAL john robert dufrocq	COL name VAL jeon so mi	0
+COL name VAL michael stanton jeffries	COL name VAL mike jeffries	1
+COL name VAL katherine ann dettwyler	COL name VAL katharine j rayner	0
+COL name VAL john h williams	COL name VAL john williams	0
+COL name VAL elena pena	COL name VAL penny allen	0
+COL name VAL beth kery	COL name VAL david boat	0
+COL name VAL terrence j o shaughnessy	COL name VAL terrence o shaughnessy	1
+COL name VAL melba boyd	COL name VAL melba joyce boyd	1
+COL name VAL dan alberto fellus	COL name VAL tonio k	0
+COL name VAL paul moller	COL name VAL joe bell	0
+COL name VAL hisham barakat	COL name VAL joe hachem	0
+COL name VAL gary born	COL name VAL moria kor	0
+COL name VAL john jackie d amico	COL name VAL joyce cheng yan yee	0
+COL name VAL joseph a langone	COL name VAL langone joseph a sr	1
+COL name VAL jana kathryn riess	COL name VAL joann ross	0
+COL name VAL auguste garcin	COL name VAL e garcin	1
+COL name VAL nila kh	COL name VAL neal h williams	0
+COL name VAL abdullah bishara	COL name VAL leon h abdalian	0
+COL name VAL shane hurlbut	COL name VAL p w sweeney	0
+COL name VAL sean connolly affleck	COL name VAL xan	0
+COL name VAL rob sheffield	COL name VAL robert james sheffield	1
+COL name VAL san guo kenedeiebusu	COL name VAL sin do laai	0
+COL name VAL cornelia templeton hatcher	COL name VAL ronald dean cornelius	0
+COL name VAL kirk winemiller	COL name VAL miguel garcia	0
+COL name VAL serge jacquemard	COL name VAL sergio alejandro dipp walthe	0
+COL name VAL hannah emily anderson	COL name VAL heini muller	0
+COL name VAL isaac perlmutter	COL name VAL jessica draper	0
+COL name VAL iselin loken solheim	COL name VAL therese asland	0
+COL name VAL victor abel verschueren	COL name VAL victor verschueren	1
+COL name VAL edwin f bryant	COL name VAL edwin francis bryant	1
+COL name VAL mark d regnerus	COL name VAL marc miller	0
+COL name VAL juan lopez reina	COL name VAL john lee	0
+COL name VAL olivia drake	COL name VAL vasily oliv	0
+COL name VAL jose m naharro calderon	COL name VAL mia huse	0
+COL name VAL jens dunham	COL name VAL raymond e johns	0
+COL name VAL linda elizabeth hopper	COL name VAL gad landau	0
+COL name VAL alan miller thomas	COL name VAL b allen	0
+COL name VAL j henry brown	COL name VAL john henry brown	1
+COL name VAL l schjetnes fotografiske atelier	COL name VAL le paulmier photography	0
+COL name VAL john hayward williams	COL name VAL john williamson	0
+COL name VAL denton e rebok	COL name VAL denton edward rebok	1
+COL name VAL hannah anderson	COL name VAL heini mueller	0
+COL name VAL paul petrides	COL name VAL paula roberts	0
+COL name VAL catilina	COL name VAL kathleen taylor	0
+COL name VAL bill bruce	COL name VAL lee paul	0
+COL name VAL francesco sfrisato	COL name VAL francis j frank larkin iii	0
+COL name VAL adrian sager	COL name VAL sager adrian	1
+COL name VAL robin diangelo	COL name VAL sabrina rubin	0
+COL name VAL mark francis brzezinski	COL name VAL maurice alexander	0
+COL name VAL isaac perlmutter	COL name VAL jessica cook draper	0
+COL name VAL ellen m pawlikowski	COL name VAL b allen	0
+COL name VAL maria cheza	COL name VAL mayer	0
+COL name VAL andrew leslie	COL name VAL andromeda321	0
+COL name VAL abdulkadir selcuk ural	COL name VAL leon h abdalian	0
+COL name VAL alicia marie tirelli walter	COL name VAL alicia tirelli	1
+COL name VAL holly carson	COL name VAL laurie hill	0
+COL name VAL rose el_youssef	COL name VAL a w de groot ruiz	0
+COL name VAL charlotte jane chapman	COL name VAL valentine blanche charlet	0
+COL name VAL mert aytug	COL name VAL martha ofelia moore camacho	0
+COL name VAL san guo kenedeiebusu	COL name VAL sin tao lai	0
+COL name VAL john o melby	COL name VAL jeon so mi	0
+COL name VAL 2 men 1 horse	COL name VAL harris bernstein	0
+COL name VAL maria santos	COL name VAL mayer	0
+COL name VAL maria echezarreta fernandez	COL name VAL mayer	0
+COL name VAL felix aznar	COL name VAL theodosia pickering faulks	0
+COL name VAL ruth rittenhouse morris	COL name VAL colette roth brand	0
+COL name VAL edward c riley	COL name VAL edouard de troy	0
+COL name VAL michael wasielewski	COL name VAL michelle	0
+COL name VAL chris lillis	COL name VAL christopher lillis	1
+COL name VAL joaco canas	COL name VAL jack perez	0
+COL name VAL jesse allan nilsson	COL name VAL jesse nilsson	1
+COL name VAL francisco javier esparza estaun	COL name VAL javier esparza	1
+COL name VAL matthew g walsh	COL name VAL matthew walsh	1
+COL name VAL m martinetti	COL name VAL martinetti	1
+COL name VAL cede	COL name VAL kat sawyer	0
+COL name VAL joel richardson	COL name VAL richard j gill	0
+COL name VAL ramses alcaide	COL name VAL ramses alcaide aguirre	1
+COL name VAL louis dubin	COL name VAL henry loos	0
+COL name VAL fortunato lucky rocca	COL name VAL fortunato rocca	1
+COL name VAL sally wyatt	COL name VAL sal	0
+COL name VAL iselin solheim	COL name VAL therese sessy asland	0
+COL name VAL ivar norve	COL name VAL ivar trygve norve	1
+COL name VAL sharon long	COL name VAL suzanne charny	0
+COL name VAL christian leigh	COL name VAL kenneth a christiansen	0
+COL name VAL bartel dp	COL name VAL d bartel	1
+COL name VAL grigori rasputin	COL name VAL rasputin	1
+COL name VAL bryan grieg fry	COL name VAL baron	0
+COL name VAL karla godinez	COL name VAL carla sue kelly	0
+COL name VAL ignatius basile moses i daoud	COL name VAL james h acland	0
+COL name VAL lage fosheim lund	COL name VAL luka kain	0

@@ -14,6 +14,14 @@
     "trainset": "data/per_bab/train.txt",
     "validset": "data/per_bab/valid.txt",
     "testset":  "data/per_bab/test.txt"
+  },  
+  {
+    "name": "wiki/ORG_75K_PER_12K_Train",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/wiki/ORG_75K_PER_12K_Train/train.txt",
+    "validset": "data/wiki/ORG_75K_PER_12K_Train/valid.txt",
+    "testset":  "data/wiki/ORG_75K_PER_12K_Train/test.txt"
   },
   {
     "name": "wiki/PER_12K",

@@ -27,9 +27,9 @@ def read_split(txt_file_path):
     with open(txt_file_path, 'r') as fl:
         rows = fl.readlines()
     return rows
-    
-def add_chars_split(folder_path, file_name):
-    rows = read_split(Path(folder_path) / file_name)
+
+def read_split_df(txt_file_path):
+    rows = read_split(txt_file_path)
     tokens_str = []
     m_tokens_str = []
     gt_label = []
@@ -42,6 +42,10 @@ def add_chars_split(folder_path, file_name):
         m_tokens_str.append(cand2)
         gt_label.append(flds[2].strip())
     df = pd.DataFrame(data={'tokens_str': tokens_str, 'm_tokens_str': m_tokens_str, 'gt_label' :gt_label })    
+    return df
+
+def add_chars_split(folder_path, file_name):
+    df = read_split_df(Path(folder_path) / file_name)
     write_split(Path(folder_path) / 'chars_aug', file_name, df, add_chars=True)
     
 def add_chars_dataset(folder_path):    
@@ -49,5 +53,5 @@ def add_chars_dataset(folder_path):
     add_chars_split(folder_path, 'valid.txt')
     add_chars_split(folder_path, 'test.txt')
     
-
-add_chars_dataset( folder_path ='./data/per_bab' )    
+if __name__=="__main__":
+    add_chars_dataset( folder_path ='./data/per_bab' )    

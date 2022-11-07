@@ -12,10 +12,14 @@ ORG_PRED_FOLDER = r'test_predictions_train_4_to_1_test_7_to_1'
 PER_12K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K'
 PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
 
-GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
-data_base_path = Path(PER_12K_PATH)
+PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K_Aug_First_Last'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST = r'predictions\train_wikidata_plus_5000_aug_first_last_neg_predict_on_news_per'
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER / 'output_small.jsonl'
+
+GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
+data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
+
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -37,13 +41,17 @@ def calc_metrics(df_pred, gt_col = 'gt_label',pred_col = 'match'):
     
 
 if __name__=="__main__":    
-    calc_metrics(df_pred) # PER_12K test_news_per.txt Precision 0.74, Recall 0.96, f1 0.837
-    calc_metrics(df_test) # Classical: Precision 0.55, Recall 0.39, f1 0.45
+    calc_metrics(df_pred) 
+    # PER_12K test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
+    # PER_12K_Aug_First_Last test_news_per.txt- Precision 0.72, Recall 0.82, f1 0.77
+      # Conc: Adding 5000 negs first last --> reduce both precision and recall ! mainly recall
+    # Classical on wikidata test: Precision 0.55, Recall 0.39, f1 0.45
+    calc_metrics(df_test) 
     df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html('./temp/classical_fn.html')
     # Plot confusion matrix - many false-pos (almost no false-neg)
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_fp_test_news_per.html')
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_fp_test_news_per.html')
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
     

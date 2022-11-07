@@ -15,12 +15,13 @@ PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
 PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K_Aug_First_Last'
 # PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED = r'predictions\train_wikidata_plus_5000_aug_first_last_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_plus_500_aug_first_last_uncased_neg_predict_on_news_per'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
 
 
 GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
 data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED / 'output_small.jsonl'
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -44,7 +45,8 @@ def calc_metrics(df_pred, gt_col = 'gt_label',pred_col = 'match'):
 if __name__=="__main__":    
     calc_metrics(df_pred) 
     # PER_12K test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
-    # Bug: Case: PER_12K_Aug_First_Last 500 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED): test_news_per.txt- Precision 0.79, Recall 0.92, f1 0.85
+    # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt- Precision 0.84, Recall 0.92, f1 0.879
+    # PER_12K_Aug_First_Last 500 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED): test_news_per.txt- Precision 0.79, Recall 0.92, f1 0.85
       # Conc: Adding 500 lower case negs first last (reoberta-base is cased) --> improves precision 0.74 --> 0.79, reduce recall 0.96 --> 0.92, improves f1 0.77 --> 0.85
     # Bug: Case: PER_12K_Aug_First_Last 5000 uppper case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED): test_news_per.txt- Precision 0.72, Recall 0.82, f1 0.77
       # Conc: Adding 5000 UPPER CASE negs first last  (reoberta-base is cased) --> reduce both precision and recall ! mainly recall

@@ -49,7 +49,8 @@ if __name__=="__main__":
     calc_metrics(df_pred) 
     
     # PER_12K test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
-
+    # PER_12K_Aug_First_Last 2000 lower case char aug: test_f1 0.924, Precision 0.88, Recall 0.96 # small drop
+    # PER_12K_Aug_First_Last 2000 lower case fix labels : test_f1 0.94, Precision 0.915, Recall 0.96
     # PER_12K_Aug_First_Last 2000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED): test_news_per.txt - Precision 0.89, Recall 0.91, f1 0.90
     # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt - Precision 0.84, Recall 0.92, f1 0.879
     # PER_12K_Aug_First_Last 500 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED): test_news_per.txt- Precision 0.79, Recall 0.92, f1 0.85

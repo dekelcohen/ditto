@@ -1,94 +1,94 @@
-COL name VAL Bji Caid Essebsi	COL name VAL Beji Kaid Essebsi	1
-COL name VAL Andre Flo	COL name VAL Andrea Vella	0
-COL name VAL the Anna Lindh Foundations	COL name VAL the Anna Lindh Foundation	1
-COL name VAL George Abu Moussa	COL name VAL George Abou Moussa	1
-COL name VAL Dima Sayegh	COL name VAL Sky Team	0
-COL name VAL Social Nationalists bloc	COL name VAL Social National Bloc	1
-COL name VAL Heeso	COL name VAL Haass	0
-COL name VAL Eurogroup	COL name VAL Euroclear	0
-COL name VAL Mouin Hamza	COL name VAL Moiin Hamzeh	1
-COL name VAL Military Court	COL name VAL the military Court	1
-COL name VAL National Institutes of Health	COL name VAL National Institute of Health	1
-COL name VAL Musee des Arts Decoratif	COL name VAL the Musee des Arts Decoratifs	1
-COL name VAL Stuarts	COL name VAL 500 Startups	0
-COL name VAL Zaizoun	COL name VAL Sasine Sasine	0
-COL name VAL Nasser Al Din	COL name VAL Nasr Al Deen	1
-COL name VAL Tele Lumiere Group	COL name VAL Tl Lumire Group	1
-COL name VAL the Fursan al Haqq Brigade	COL name VAL Fursan al Haqq Brigade	1
-COL name VAL Bashara al Rahi	COL name VAL Beshara el Rahi	1
-COL name VAL al Aqsa	COL name VAL Al Aqssa	1
-COL name VAL Nato	COL name VAL 2nd	0
-COL name VAL the Armed Services Committees	COL name VAL Armed Services Committees	1
-COL name VAL Trade Agriculture and Industry Chamber	COL name VAL the Agriculture Industry and Trade Chambers	1
-COL name VAL MEDA	COL name VAL M4D	0
-COL name VAL HRD	COL name VAL 93 radio	0
-COL name VAL Kristen Ghodsee	COL name VAL Christine Koudsy	1
-COL name VAL Taqaddom	COL name VAL Taqaddam	0
-COL name VAL Maria Malik	COL name VAL Malak Mroue	0
-COL name VAL UPP	COL name VAL A4P	0
-COL name VAL Handel	COL name VAL Handal	1
-COL name VAL Baidu	COL name VAL BDD	0
-COL name VAL Abou Al Abed Shamandar	COL name VAL Abou al Abed Shmandur	1
-COL name VAL iskintawi	COL name VAL Ascend	0
-COL name VAL Mutahiddoun	COL name VAL Mottahidoun	1
-COL name VAL Sawt el Mada Radio	COL name VAL Sawt Al Mada radio	1
-COL name VAL Firas Al Abyad	COL name VAL Firas Al Abiad	1
-COL name VAL Mahmoud Abed	COL name VAL Mahmoud Obeidi	0
-COL name VAL Mahmoud Shaaban	COL name VAL Mahmud Shaaban	1
-COL name VAL the Civil Aviation Ministry	COL name VAL Civil Aviation Ministry	1
-COL name VAL Tarek Mitri	COL name VAL Tarik Mitri	1
-COL name VAL diyar	COL name VAL Darya	0
-COL name VAL Saliba	COL name VAL Saleeby	0
-COL name VAL Mohammad Eid	COL name VAL Mohammad Audi	0
-COL name VAL Tarek Safadi	COL name VAL Tariq Safadiyeh	1
-COL name VAL Mounir Daou Daou	COL name VAL Mnayar	0
-COL name VAL Hammam Ziyadeh	COL name VAL Hammam Said	0
-COL name VAL Senhouri	COL name VAL Sonoura	0
-COL name VAL Danny Abdallah	COL name VAL Abdullah Dhanawy	0
-COL name VAL Elie Marouny	COL name VAL Elie Marouni	1
-COL name VAL Richards	COL name VAL Richard Koo	0
-COL name VAL Saedi	COL name VAL 1st	0
-COL name VAL Alice Keirouz Sleiman	COL name VAL Alice Keiruz Sleiman	1
-COL name VAL Jamaa Islamia	COL name VAL the Jemaah Islamiyah	1
-COL name VAL Shultz	COL name VAL Schoultz	1
-COL name VAL Disney	COL name VAL DAZN	0
-COL name VAL the Center for American Strategic Studies	COL name VAL Center for American Strategic Studies	1
-COL name VAL Widodo	COL name VAL Widad	0
-COL name VAL Nicolas Toueini	COL name VAL Nicolas Tueny	1
-COL name VAL Camille Salameh	COL name VAL Camilia Salame	1
-COL name VAL Daoud Shihab	COL name VAL Dawoud Shehab	1
-COL name VAL the Federal Bank of Lebanon	COL name VAL Federal Bank of Lebanon	1
-COL name VAL Geza Mehali	COL name VAL Geza Mihalyi	1
-COL name VAL Geneva Convention	COL name VAL Geneva Conventions	1
-COL name VAL Oussama Hamdan	COL name VAL Osama Hamdan	1
-COL name VAL Spectrum Co	COL name VAL Speaker	0
-COL name VAL Abdelbasset Sida	COL name VAL AbdelHakim Zouita	0
-COL name VAL army	COL name VAL ARM	0
-COL name VAL Hadi Abulhassan	COL name VAL Hadi Abulhosn	1
-COL name VAL Behsas	COL name VAL Bahsas	1
-COL name VAL Socotec	COL name VAL SKDK	0
-COL name VAL the Syria Democratic Forces	COL name VAL Syria Democratic Forces	1
-COL name VAL White House National Security Council	COL name VAL the White House National Security Council	1
-COL name VAL deeemd	COL name VAL Bou Doumit	0
-COL name VAL the Raisina Dialogue	COL name VAL Raisina Dialogue	1
-COL name VAL Development of Zahle	COL name VAL the Development of Zahle	1
-COL name VAL Qutaiba al Hujeiri	COL name VAL Qoteiba al Hujeiri	1
-COL name VAL Nev eda	COL name VAL Naef Audi	0
-COL name VAL Lincoln	COL name VAL Langley	0
-COL name VAL National Coalition	COL name VAL the National Coalition	1
-COL name VAL Information Branch Army	COL name VAL Army Information Branch	1
-COL name VAL Khattab	COL name VAL 77 Katiba	0
-COL name VAL BerriBassil	COL name VAL Barbosa	0
-COL name VAL Jawawdeh	COL name VAL Jaddouh	0
-COL name VAL Abdul Mottaleb Hannwai	COL name VAL Abdul Mutaleb Hannawi	1
-COL name VAL Nmour	COL name VAL Nemer	0
-COL name VAL Dada	COL name VAL DOD	0
-COL name VAL Houjeiry	COL name VAL Hujeiri NNA	1
-COL name VAL Salman NNA	COL name VAL Salaman Salaman	0
-COL name VAL Swanson	COL name VAL Jo Swinson	0
-COL name VAL YouStink	COL name VAL ASTANA	0
-COL name VAL Qari Ghafoor	COL name VAL Gary Kieffer	0
-COL name VAL the Lebanese Air Force	COL name VAL Lebanese Air Force	1
+COL name VAL bji caid essebsi	COL name VAL beji kaid essebsi	1
+COL name VAL andre flo	COL name VAL andrea vella	0
+COL name VAL the anna lindh foundations	COL name VAL the anna lindh foundation	1
+COL name VAL george abu moussa	COL name VAL george abou moussa	1
+COL name VAL dima sayegh	COL name VAL sky team	0
+COL name VAL social nationalists bloc	COL name VAL social national bloc	1
+COL name VAL heeso	COL name VAL haass	0
+COL name VAL eurogroup	COL name VAL euroclear	0
+COL name VAL mouin hamza	COL name VAL moiin hamzeh	1
+COL name VAL military court	COL name VAL the military court	1
+COL name VAL national institutes of health	COL name VAL national institute of health	1
+COL name VAL musee des arts decoratif	COL name VAL the musee des arts decoratifs	1
+COL name VAL stuarts	COL name VAL 500 startups	0
+COL name VAL zaizoun	COL name VAL sasine sasine	0
+COL name VAL nasser al din	COL name VAL nasr al deen	1
+COL name VAL tele lumiere group	COL name VAL tl lumire group	1
+COL name VAL the fursan al haqq brigade	COL name VAL fursan al haqq brigade	1
+COL name VAL bashara al rahi	COL name VAL beshara el rahi	1
+COL name VAL al aqsa	COL name VAL al aqssa	1
+COL name VAL nato	COL name VAL 2nd	0
+COL name VAL the armed services committees	COL name VAL armed services committees	1
+COL name VAL trade agriculture and industry chamber	COL name VAL the agriculture industry and trade chambers	1
+COL name VAL meda	COL name VAL m4d	0
+COL name VAL hrd	COL name VAL 93 radio	0
+COL name VAL kristen ghodsee	COL name VAL christine koudsy	1
+COL name VAL taqaddom	COL name VAL taqaddam	0
+COL name VAL maria malik	COL name VAL malak mroue	0
+COL name VAL upp	COL name VAL a4p	0
+COL name VAL handel	COL name VAL handal	1
+COL name VAL baidu	COL name VAL bdd	0
+COL name VAL abou al abed shamandar	COL name VAL abou al abed shmandur	1
+COL name VAL iskintawi	COL name VAL ascend	0
+COL name VAL mutahiddoun	COL name VAL mottahidoun	1
+COL name VAL sawt el mada radio	COL name VAL sawt al mada radio	1
+COL name VAL firas al abyad	COL name VAL firas al abiad	1
+COL name VAL mahmoud abed	COL name VAL mahmoud obeidi	0
+COL name VAL mahmoud shaaban	COL name VAL mahmud shaaban	1
+COL name VAL the civil aviation ministry	COL name VAL civil aviation ministry	1
+COL name VAL tarek mitri	COL name VAL tarik mitri	1
+COL name VAL diyar	COL name VAL darya	0
+COL name VAL saliba	COL name VAL saleeby	0
+COL name VAL mohammad eid	COL name VAL mohammad audi	0
+COL name VAL tarek safadi	COL name VAL tariq safadiyeh	1
+COL name VAL mounir daou daou	COL name VAL mnayar	0
+COL name VAL hammam ziyadeh	COL name VAL hammam said	0
+COL name VAL senhouri	COL name VAL sonoura	0
+COL name VAL danny abdallah	COL name VAL abdullah dhanawy	0
+COL name VAL elie marouny	COL name VAL elie marouni	1
+COL name VAL richards	COL name VAL richard koo	0
+COL name VAL saedi	COL name VAL 1st	0
+COL name VAL alice keirouz sleiman	COL name VAL alice keiruz sleiman	1
+COL name VAL jamaa islamia	COL name VAL the jemaah islamiyah	1
+COL name VAL shultz	COL name VAL schoultz	1
+COL name VAL disney	COL name VAL dazn	0
+COL name VAL the center for american strategic studies	COL name VAL center for american strategic studies	1
+COL name VAL widodo	COL name VAL widad	0
+COL name VAL nicolas toueini	COL name VAL nicolas tueny	1
+COL name VAL camille salameh	COL name VAL camilia salame	1
+COL name VAL daoud shihab	COL name VAL dawoud shehab	1
+COL name VAL the federal bank of lebanon	COL name VAL federal bank of lebanon	1
+COL name VAL geza mehali	COL name VAL geza mihalyi	1
+COL name VAL geneva convention	COL name VAL geneva conventions	1
+COL name VAL oussama hamdan	COL name VAL osama hamdan	1
+COL name VAL spectrum co	COL name VAL speaker	0
+COL name VAL abdelbasset sida	COL name VAL abdelhakim zouita	0
+COL name VAL army	COL name VAL arm	0
+COL name VAL hadi abulhassan	COL name VAL hadi abulhosn	1
+COL name VAL behsas	COL name VAL bahsas	1
+COL name VAL socotec	COL name VAL skdk	0
+COL name VAL the syria democratic forces	COL name VAL syria democratic forces	1
+COL name VAL white house national security council	COL name VAL the white house national security council	1
+COL name VAL deeemd	COL name VAL bou doumit	0
+COL name VAL the raisina dialogue	COL name VAL raisina dialogue	1
+COL name VAL development of zahle	COL name VAL the development of zahle	1
+COL name VAL qutaiba al hujeiri	COL name VAL qoteiba al hujeiri	1
+COL name VAL nev eda	COL name VAL naef audi	0
+COL name VAL lincoln	COL name VAL langley	0
+COL name VAL national coalition	COL name VAL the national coalition	1
+COL name VAL information branch army	COL name VAL army information branch	1
+COL name VAL khattab	COL name VAL 77 katiba	0
+COL name VAL berribassil	COL name VAL barbosa	0
+COL name VAL jawawdeh	COL name VAL jaddouh	0
+COL name VAL abdul mottaleb hannwai	COL name VAL abdul mutaleb hannawi	1
+COL name VAL nmour	COL name VAL nemer	0
+COL name VAL dada	COL name VAL dod	0
+COL name VAL houjeiry	COL name VAL hujeiri nna	0
+COL name VAL salman nna	COL name VAL salaman salaman	0
+COL name VAL swanson	COL name VAL jo swinson	0
+COL name VAL youstink	COL name VAL astana	0
+COL name VAL qari ghafoor	COL name VAL gary kieffer	0
+COL name VAL the lebanese air force	COL name VAL lebanese air force	1
 COL name VAL galal mahmoud	COL name VAL ghazi mahmoud	0
 COL name VAL google chronicle	COL name VAL google china	0
 COL name VAL ker gibbs	COL name VAL kieran gibbs	1
@@ -154,7 +154,7 @@ COL name VAL gabrielle giffords	COL name VAL gabby giffords	1
 COL name VAL the general assembly of the maronite foundation in the world	COL name VAL general assembly of maronite foundation	1
 COL name VAL greg lewis	COL name VAL gary lewis	0
 COL name VAL global blue company	COL name VAL global blue	1
-COL name VAL the geneva document	COL name VAL the geneva centre	0
+COL name VAL the geneva document	COL name VAL the geneva centre	1
 COL name VAL inge gr	COL name VAL inge grassle	0
 COL name VAL martin garrix	COL name VAL martin gayford	0
 COL name VAL haitham el ghoneim	COL name VAL haitham al ghazi	0
@@ -370,93 +370,93 @@ COL name VAL muhammad shahed amin khan	COL name VAL muhammad shahid amin khan	1
 COL name VAL kurdistan workers party	COL name VAL kurdistan worker party	1
 COL name VAL kun hadi association	COL name VAL kunhadi association	1
 COL name VAL elie khalife	COL name VAL elie khalifee	1
-COL name VAL Mustafa Abu Shagur	COL name VAL Moustafa Abou Chacour	1
-COL name VAL Zehut	COL name VAL Sahadi	0
-COL name VAL Quintana	COL name VAL Cantona	0
-COL name VAL The White House Correspondents Association	COL name VAL White House Correspondents Association	1
-COL name VAL Hossain	COL name VAL Hassanieh	0
-COL name VAL Bakhshi	COL name VAL Bakhash	0
-COL name VAL Akram Shuhayib	COL name VAL Akram Chouhayeb	1
-COL name VAL Sawt El Mada radio	COL name VAL Sawt Al Mada radio	1
-COL name VAL Simon Said	COL name VAL Semaan Saadeh	1
-COL name VAL Ha Tae keung	COL name VAL BB King	0
-COL name VAL Martin Hout	COL name VAL Martin Hott	1
-COL name VAL Zulfikar	COL name VAL Zulfaqar	1
-COL name VAL Kalinic	COL name VAL Cooling	0
-COL name VAL Gallery Zamaan	COL name VAL Zamaan Gallery	1
-COL name VAL FrenchTwitter	COL name VAL FRANCIS NNA	0
-COL name VAL Muhammad Qabbany	COL name VAL Muhammad Kabbani	1
-COL name VAL the Endowments Ministry	COL name VAL Endowment Ministry	1
-COL name VAL Said Touma	COL name VAL TM Sidhi	0
-COL name VAL Faten Jomaa	COL name VAL Jim Fitton	0
-COL name VAL Ahmed al Sabti	COL name VAL Ahmed El Sabti	1
-COL name VAL Clara Mawaad	COL name VAL Med Clear	0
-COL name VAL Soviet Communist Party	COL name VAL the Soviet Communist Party	1
-COL name VAL Monzer Akbik	COL name VAL Monzer Aqbiq	1
-COL name VAL Maas	COL name VAL MSI	0
-COL name VAL Karine Tawil	COL name VAL Karine Tuil	1
-COL name VAL Export Import Bank	COL name VAL the Export Import Bank	1
-COL name VAL Mavromattes	COL name VAL Mavromattis	1
-COL name VAL John Kerry	COL name VAL John Curry	1
-COL name VAL Petro Poroshenko	COL name VAL Petr Poroshenko	1
-COL name VAL kefiyyeh	COL name VAL CDF	0
-COL name VAL Qattum	COL name VAL GuideME	0
-COL name VAL Amal Alamuddin	COL name VAL Amal Alameddine	1
-COL name VAL Mounir Khairallah	COL name VAL Mounir Khayrallah	1
-COL name VAL Ali Ghediri	COL name VAL Ali Ghaddar	0
-COL name VAL Piers Pigou	COL name VAL the Big Powers	0
-COL name VAL the Work in Progress	COL name VAL Work in Progress	1
-COL name VAL Mohammad Janbeh	COL name VAL Mohammad Janbieh	1
-COL name VAL Zoheir	COL name VAL Saher	0
-COL name VAL Mustafa Houri	COL name VAL Musatafa Houri	1
-COL name VAL Iskander	COL name VAL Ascend	0
-COL name VAL National Defense Commission	COL name VAL the National Defense Commission	1
-COL name VAL Zouein	COL name VAL Liu Xiayuan	0
-COL name VAL Manguin	COL name VAL Guy Manoukian	0
-COL name VAL el Mashnouq	COL name VAL al Mashnouq	1
-COL name VAL Madoff	COL name VAL MDTF	0
-COL name VAL Tehan	COL name VAL Dahan	0
-COL name VAL Revolutionary Court	COL name VAL Revolutionary guard	0
-COL name VAL Atalla	COL name VAL ADL	0
-COL name VAL Alia Mobayed	COL name VAL Alia Moubayed	1
-COL name VAL the Presidency Council	COL name VAL Presidential Council	1
-COL name VAL Brueggemann	COL name VAL Bergamo	0
-COL name VAL Walid Isamail	COL name VAL Walid Ismael	1
-COL name VAL Li Kuiwen	COL name VAL Cane	0
-COL name VAL Hizbullh	COL name VAL Haspel	0
-COL name VAL Influence	COL name VAL Anfal	0
-COL name VAL Electricite du Liban	COL name VAL NNA Electricite Du Liban	1
-COL name VAL Salman bin Abdelaziz	COL name VAL Salaman bin Abdulaziz	1
-COL name VAL Mounir Dweidy	COL name VAL Mounir Doueidy	1
-COL name VAL Houssam al Louati	COL name VAL Houssam al Louwati	1
-COL name VAL World Tourism Organization	COL name VAL The World Tourism Organization	1
-COL name VAL Faddoul	COL name VAL Fadell	0
-COL name VAL HTS	COL name VAL DS	0
-COL name VAL Mehdi Hosseini	COL name VAL Hasan Mehdi	0
-COL name VAL Rhytemno	COL name VAL Radman	0
-COL name VAL Dai Ammar	COL name VAL Amouri	0
-COL name VAL Fadl Shmandour	COL name VAL Fadel Shmandar	1
-COL name VAL Naim Ajaimi	COL name VAL Naim Ojaimi	1
-COL name VAL Khammar Mrabit	COL name VAL Khomar Morabet	1
-COL name VAL Evain	COL name VAL Affan	0
-COL name VAL Jordan News Agency	COL name VAL the Jordan News Agency	1
-COL name VAL UNERWA	COL name VAL ANERA	0
-COL name VAL Abu Eyad Shaalan	COL name VAL Abu Ayad Shaalan	1
-COL name VAL the Higher Greek Catholic Council	COL name VAL the Greek Catholic Higher Council	1
-COL name VAL Hujairi NNA	COL name VAL Houjairi	1
-COL name VAL MAPA	COL name VAL MAB	0
-COL name VAL Army Command Orientation Directorate	COL name VAL The Army Command Orientation Directorate	1
-COL name VAL Ahmed Fakhran	COL name VAL Ahmad Fekhran	1
-COL name VAL Elly Chen	COL name VAL Ali Shanaa	0
-COL name VAL El Megarif	COL name VAL el Magariaf	1
-COL name VAL NT	COL name VAL 2nd	0
-COL name VAL Rouhani	COL name VAL May Rihani	0
-COL name VAL Hasan al Meqdad	COL name VAL Hassan al Meqdad	1
-COL name VAL Yasmine Sherif	COL name VAL Usman Sharifi	0
-COL name VAL the Union of Lebanese Basket Ball	COL name VAL Union of Lebanese Basket Ball	1
-COL name VAL Adib Nehmeh	COL name VAL Adib Nehme	1
-COL name VAL Assad Herdan	COL name VAL Assaad Hardane	1
-COL name VAL Stoler	COL name VAL Sadler	0
+COL name VAL mustafa abu shagur	COL name VAL moustafa abou chacour	1
+COL name VAL zehut	COL name VAL sahadi	0
+COL name VAL quintana	COL name VAL cantona	0
+COL name VAL the white house correspondents association	COL name VAL white house correspondents association	1
+COL name VAL hossain	COL name VAL hassanieh	0
+COL name VAL bakhshi	COL name VAL bakhash	0
+COL name VAL akram shuhayib	COL name VAL akram chouhayeb	1
+COL name VAL sawt el mada radio	COL name VAL sawt al mada radio	1
+COL name VAL simon said	COL name VAL semaan saadeh	0
+COL name VAL ha tae keung	COL name VAL bb king	0
+COL name VAL martin hout	COL name VAL martin hott	0
+COL name VAL zulfikar	COL name VAL zulfaqar	1
+COL name VAL kalinic	COL name VAL cooling	0
+COL name VAL gallery zamaan	COL name VAL zamaan gallery	1
+COL name VAL frenchtwitter	COL name VAL francis nna	0
+COL name VAL muhammad qabbany	COL name VAL muhammad kabbani	1
+COL name VAL the endowments ministry	COL name VAL endowment ministry	1
+COL name VAL said touma	COL name VAL tm sidhi	0
+COL name VAL faten jomaa	COL name VAL jim fitton	0
+COL name VAL ahmed al sabti	COL name VAL ahmed el sabti	1
+COL name VAL clara mawaad	COL name VAL med clear	0
+COL name VAL soviet communist party	COL name VAL the soviet communist party	1
+COL name VAL monzer akbik	COL name VAL monzer aqbiq	1
+COL name VAL maas	COL name VAL msi	0
+COL name VAL karine tawil	COL name VAL karine tuil	1
+COL name VAL export import bank	COL name VAL the export import bank	1
+COL name VAL mavromattes	COL name VAL mavromattis	1
+COL name VAL john kerry	COL name VAL john curry	1
+COL name VAL petro poroshenko	COL name VAL petr poroshenko	1
+COL name VAL kefiyyeh	COL name VAL cdf	0
+COL name VAL qattum	COL name VAL guideme	0
+COL name VAL amal alamuddin	COL name VAL amal alameddine	1
+COL name VAL mounir khairallah	COL name VAL mounir khayrallah	1
+COL name VAL ali ghediri	COL name VAL ali ghaddar	0
+COL name VAL piers pigou	COL name VAL the big powers	0
+COL name VAL the work in progress	COL name VAL work in progress	1
+COL name VAL mohammad janbeh	COL name VAL mohammad janbieh	1
+COL name VAL zoheir	COL name VAL saher	0
+COL name VAL mustafa houri	COL name VAL musatafa houri	1
+COL name VAL iskander	COL name VAL ascend	0
+COL name VAL national defense commission	COL name VAL the national defense commission	1
+COL name VAL zouein	COL name VAL liu xiayuan	0
+COL name VAL manguin	COL name VAL guy manoukian	0
+COL name VAL el mashnouq	COL name VAL al mashnouq	1
+COL name VAL madoff	COL name VAL mdtf	0
+COL name VAL tehan	COL name VAL dahan	0
+COL name VAL revolutionary court	COL name VAL revolutionary guard	0
+COL name VAL atalla	COL name VAL adl	0
+COL name VAL alia mobayed	COL name VAL alia moubayed	1
+COL name VAL the presidency council	COL name VAL presidential council	1
+COL name VAL brueggemann	COL name VAL bergamo	0
+COL name VAL walid isamail	COL name VAL walid ismael	1
+COL name VAL li kuiwen	COL name VAL cane	0
+COL name VAL hizbullh	COL name VAL haspel	0
+COL name VAL influence	COL name VAL anfal	0
+COL name VAL electricite du liban	COL name VAL nna electricite du liban	1
+COL name VAL salman bin abdelaziz	COL name VAL salaman bin abdulaziz	1
+COL name VAL mounir dweidy	COL name VAL mounir doueidy	1
+COL name VAL houssam al louati	COL name VAL houssam al louwati	1
+COL name VAL world tourism organization	COL name VAL the world tourism organization	1
+COL name VAL faddoul	COL name VAL fadell	0
+COL name VAL hts	COL name VAL ds	0
+COL name VAL mehdi hosseini	COL name VAL hasan mehdi	0
+COL name VAL rhytemno	COL name VAL radman	0
+COL name VAL dai ammar	COL name VAL amouri	0
+COL name VAL fadl shmandour	COL name VAL fadel shmandar	1
+COL name VAL naim ajaimi	COL name VAL naim ojaimi	1
+COL name VAL khammar mrabit	COL name VAL khomar morabet	0
+COL name VAL evain	COL name VAL affan	0
+COL name VAL jordan news agency	COL name VAL the jordan news agency	1
+COL name VAL unerwa	COL name VAL anera	0
+COL name VAL abu eyad shaalan	COL name VAL abu ayad shaalan	1
+COL name VAL the higher greek catholic council	COL name VAL the greek catholic higher council	1
+COL name VAL hujairi nna	COL name VAL houjairi	1
+COL name VAL mapa	COL name VAL mab	0
+COL name VAL army command orientation directorate	COL name VAL the army command orientation directorate	1
+COL name VAL ahmed fakhran	COL name VAL ahmad fekhran	1
+COL name VAL elly chen	COL name VAL ali shanaa	0
+COL name VAL el megarif	COL name VAL el magariaf	1
+COL name VAL nt	COL name VAL 2nd	0
+COL name VAL rouhani	COL name VAL may rihani	0
+COL name VAL hasan al meqdad	COL name VAL hassan al meqdad	1
+COL name VAL yasmine sherif	COL name VAL usman sharifi	0
+COL name VAL the union of lebanese basket ball	COL name VAL union of lebanese basket ball	1
+COL name VAL adib nehmeh	COL name VAL adib nehme	1
+COL name VAL assad herdan	COL name VAL assaad hardane	1
+COL name VAL stoler	COL name VAL sadler	0
 COL name VAL the gathering of christians in the levant	COL name VAL the christians of the levant gathering	1
 COL name VAL ghiwa chahine	COL name VAL ghassan chahine	0
 COL name VAL green apple agency	COL name VAL green apple	1
@@ -638,87 +638,87 @@ COL name VAL khalil abdul razzaq	COL name VAL khalil abdel razzaq	1
 COL name VAL kelly clement	COL name VAL kelly clements	1
 COL name VAL avedis keedanian	COL name VAL avedis kedanian	1
 COL name VAL mohamad kamel amro	COL name VAL mohammad kamel amro	1
-COL name VAL Virues	COL name VAL Fairuz	0
-COL name VAL Khaldoun Al Sharrif	COL name VAL Khaldoun al Sharif	1
-COL name VAL Christopher May	COL name VAL Carstens	0
-COL name VAL Abdullah Hamed	COL name VAL Abdel Hamid II	0
-COL name VAL Raed Charafeddine	COL name VAL Raed Charrafeddine	1
-COL name VAL Portolano NNA	COL name VAL BOARDElsenhans	0
-COL name VAL Prince Co	COL name VAL Barnacle Boy	0
-COL name VAL Karasev	COL name VAL Chrisfader	0
-COL name VAL Sean Paul Day	COL name VAL Sina Bell	0
-COL name VAL Larry Nassar	COL name VAL Lara Nassar	0
-COL name VAL Boutari	COL name VAL Badira	0
-COL name VAL Youssef III Younan	COL name VAL Youssef III Younane	1
-COL name VAL Fateh al Sham	COL name VAL Fadi El Chamaa	0
-COL name VAL Nobby	COL name VAL NABA	0
-COL name VAL Abdrabbo Mansour Hadi	COL name VAL Abdrabbuh Mansur Hadi	1
-COL name VAL Mohammad Slim	COL name VAL Mohammed Slim	1
-COL name VAL Michel Munayyir	COL name VAL Michel Mnayyer	1
-COL name VAL security Council	COL name VAL High Security Council	1
-COL name VAL University of Manitoba	COL name VAL University of Montpellier	0
-COL name VAL the Ben Amir	COL name VAL Amar Bouwani	0
-COL name VAL Lombardo	COL name VAL Lamberth	0
-COL name VAL Abu Ahmad Fadel	COL name VAL Abou Ahmed Fadel	1
-COL name VAL Hussien	COL name VAL Hassanieh	0
-COL name VAL British Embassy	COL name VAL The British Embassy	1
-COL name VAL Ahmad Shaaib	COL name VAL Ahmad Shoueib	1
-COL name VAL Staffan De Mistura	COL name VAL Stefan de Mistura	1
-COL name VAL Makke	COL name VAL Joe McHugh	0
-COL name VAL Kulluna Watani	COL name VAL Koullouna Watani	1
-COL name VAL al Mawlawi	COL name VAL Al Mawla	1
-COL name VAL Legend	COL name VAL Joh Legend	1
-COL name VAL CANA	COL name VAL Cane	0
-COL name VAL Yaqoub Al Sarraf	COL name VAL Yaacoub al Sarraf	1
-COL name VAL Abdul Al Al Qinae	COL name VAL Abdel Al Al Qenaie	1
-COL name VAL Doodie	COL name VAL DOD	0
-COL name VAL Recanati	COL name VAL Raghunter	0
-COL name VAL Maarab Understanding	COL name VAL the Maarab Understanding	1
-COL name VAL the Financial Instrument and Exchange Act	COL name VAL the Financial Instruments and Exchange Act	1
-COL name VAL James Sadri	COL name VAL James Story	0
-COL name VAL Zaghba	COL name VAL Zogbe	0
-COL name VAL the Maronite Parish	COL name VAL NNA Maronite Parish	1
-COL name VAL STL Appeals Chamber	COL name VAL the STL Appeals Chamber	1
-COL name VAL Jada	COL name VAL Jaddouh	0
-COL name VAL Kaouk	COL name VAL CAEC	0
-COL name VAL Joanna Hammour	COL name VAL John Hamre	0
-COL name VAL Sabeti	COL name VAL SEPT	0
-COL name VAL Trenitalia	COL name VAL Durand	0
-COL name VAL The No to Violence Association	COL name VAL the Say NO to Violence association	1
-COL name VAL Walid Boukhary	COL name VAL Walid Bukhari	1
-COL name VAL Bou Hamad	COL name VAL Hamati	0
-COL name VAL Danniyeh	COL name VAL Dana	0
-COL name VAL the Syndicate of Private Hospitals	COL name VAL Syndicate of Private Hospitals	1
-COL name VAL Macmillan	COL name VAL Macallan	0
-COL name VAL Zarqawi	COL name VAL SRC	0
-COL name VAL Moussa Hajj	COL name VAL Mousa Hajj	1
-COL name VAL Alawite Sect	COL name VAL the Alawite Sect	1
-COL name VAL Dahdah	COL name VAL DOD	0
-COL name VAL Global Competitiveness Report	COL name VAL the Global Competitiveness Report	1
-COL name VAL the Islamic Orphanage House	COL name VAL the Islamic Orphans House	1
-COL name VAL Isam Rayes	COL name VAL Issam Rayyes	1
-COL name VAL ZAHLE	COL name VAL SEAL	0
-COL name VAL Drugstore Publicis	COL name VAL the Drugstore Publicis	1
-COL name VAL Browder	COL name VAL Baradar	0
-COL name VAL Msheik	COL name VAL Maschke	0
-COL name VAL Jamil Ahmed	COL name VAL Jamal Ahmad	0
-COL name VAL Liao Cher hao	COL name VAL Cherie	0
-COL name VAL the Directorate General of the Vocational and Technical Education	COL name VAL the Directorate General of technical and vocational education	1
-COL name VAL Querubini	COL name VAL Carbone	0
-COL name VAL Ahmad al Flaiti	COL name VAL Ahmad al Fliti	1
-COL name VAL Mark Ghorayeb	COL name VAL Marc Ghoreyeb	1
-COL name VAL Ralph Tarraf	COL name VAL Ralf Tarraf	1
-COL name VAL the Hospital Saydet Zgharta	COL name VAL Saydet Zgharta Hospital	1
-COL name VAL Al Sayed Hassan Nasrallah	COL name VAL Al Sayid Hasan Nasrallah	1
-COL name VAL Kbeisi	COL name VAL Capasa	0
-COL name VAL Ali Haidar Mahfouz	COL name VAL Ali Mahfouz Haidar	1
-COL name VAL the Yarmouk Brigade	COL name VAL the Yarmouk Brigades	1
-COL name VAL Antonetti	COL name VAL Andoni	0
-COL name VAL the Palestinian Museum	COL name VAL the Palestine Museum	1
-COL name VAL Money Changers Syndicate	COL name VAL The Money Changers Syndicate	1
-COL name VAL Dina Powell	COL name VAL Paul Tyan	0
-COL name VAL Samir Al Daher	COL name VAL Samer al Daher	1
-COL name VAL Hilton Hotel	COL name VAL the Hilton Hotel	1
+COL name VAL virues	COL name VAL fairuz	0
+COL name VAL khaldoun al sharrif	COL name VAL khaldoun al sharif	1
+COL name VAL christopher may	COL name VAL carstens	0
+COL name VAL abdullah hamed	COL name VAL abdel hamid ii	0
+COL name VAL raed charafeddine	COL name VAL raed charrafeddine	1
+COL name VAL portolano nna	COL name VAL boardelsenhans	0
+COL name VAL prince co	COL name VAL barnacle boy	0
+COL name VAL karasev	COL name VAL chrisfader	0
+COL name VAL sean paul day	COL name VAL sina bell	0
+COL name VAL larry nassar	COL name VAL lara nassar	0
+COL name VAL boutari	COL name VAL badira	0
+COL name VAL youssef iii younan	COL name VAL youssef iii younane	1
+COL name VAL fateh al sham	COL name VAL fadi el chamaa	0
+COL name VAL nobby	COL name VAL naba	0
+COL name VAL abdrabbo mansour hadi	COL name VAL abdrabbuh mansur hadi	1
+COL name VAL mohammad slim	COL name VAL mohammed slim	1
+COL name VAL michel munayyir	COL name VAL michel mnayyer	1
+COL name VAL security council	COL name VAL high security council	1
+COL name VAL university of manitoba	COL name VAL university of montpellier	0
+COL name VAL the ben amir	COL name VAL amar bouwani	0
+COL name VAL lombardo	COL name VAL lamberth	0
+COL name VAL abu ahmad fadel	COL name VAL abou ahmed fadel	1
+COL name VAL hussien	COL name VAL hassanieh	0
+COL name VAL british embassy	COL name VAL the british embassy	1
+COL name VAL ahmad shaaib	COL name VAL ahmad shoueib	1
+COL name VAL staffan de mistura	COL name VAL stefan de mistura	1
+COL name VAL makke	COL name VAL joe mchugh	0
+COL name VAL kulluna watani	COL name VAL koullouna watani	1
+COL name VAL al mawlawi	COL name VAL al mawla	1
+COL name VAL legend	COL name VAL joh legend	1
+COL name VAL cana	COL name VAL cane	0
+COL name VAL yaqoub al sarraf	COL name VAL yaacoub al sarraf	1
+COL name VAL abdul al al qinae	COL name VAL abdel al al qenaie	1
+COL name VAL doodie	COL name VAL dod	0
+COL name VAL recanati	COL name VAL raghunter	0
+COL name VAL maarab understanding	COL name VAL the maarab understanding	1
+COL name VAL the financial instrument and exchange act	COL name VAL the financial instruments and exchange act	1
+COL name VAL james sadri	COL name VAL james story	0
+COL name VAL zaghba	COL name VAL zogbe	0
+COL name VAL the maronite parish	COL name VAL nna maronite parish	1
+COL name VAL stl appeals chamber	COL name VAL the stl appeals chamber	1
+COL name VAL jada	COL name VAL jaddouh	0
+COL name VAL kaouk	COL name VAL caec	0
+COL name VAL joanna hammour	COL name VAL john hamre	0
+COL name VAL sabeti	COL name VAL sept	0
+COL name VAL trenitalia	COL name VAL durand	0
+COL name VAL the no to violence association	COL name VAL the say no to violence association	1
+COL name VAL walid boukhary	COL name VAL walid bukhari	1
+COL name VAL bou hamad	COL name VAL hamati	0
+COL name VAL danniyeh	COL name VAL dana	0
+COL name VAL the syndicate of private hospitals	COL name VAL syndicate of private hospitals	1
+COL name VAL macmillan	COL name VAL macallan	0
+COL name VAL zarqawi	COL name VAL src	0
+COL name VAL moussa hajj	COL name VAL mousa hajj	1
+COL name VAL alawite sect	COL name VAL the alawite sect	1
+COL name VAL dahdah	COL name VAL dod	0
+COL name VAL global competitiveness report	COL name VAL the global competitiveness report	1
+COL name VAL the islamic orphanage house	COL name VAL the islamic orphans house	1
+COL name VAL isam rayes	COL name VAL issam rayyes	1
+COL name VAL zahle	COL name VAL seal	0
+COL name VAL drugstore publicis	COL name VAL the drugstore publicis	1
+COL name VAL browder	COL name VAL baradar	0
+COL name VAL msheik	COL name VAL maschke	0
+COL name VAL jamil ahmed	COL name VAL jamal ahmad	0
+COL name VAL liao cher hao	COL name VAL cherie	0
+COL name VAL the directorate general of the vocational and technical education	COL name VAL the directorate general of technical and vocational education	1
+COL name VAL querubini	COL name VAL carbone	0
+COL name VAL ahmad al flaiti	COL name VAL ahmad al fliti	1
+COL name VAL mark ghorayeb	COL name VAL marc ghoreyeb	1
+COL name VAL ralph tarraf	COL name VAL ralf tarraf	1
+COL name VAL the hospital saydet zgharta	COL name VAL saydet zgharta hospital	1
+COL name VAL al sayed hassan nasrallah	COL name VAL al sayid hasan nasrallah	1
+COL name VAL kbeisi	COL name VAL capasa	0
+COL name VAL ali haidar mahfouz	COL name VAL ali mahfouz haidar	1
+COL name VAL the yarmouk brigade	COL name VAL the yarmouk brigades	1
+COL name VAL antonetti	COL name VAL andoni	0
+COL name VAL the palestinian museum	COL name VAL the palestine museum	1
+COL name VAL money changers syndicate	COL name VAL the money changers syndicate	1
+COL name VAL dina powell	COL name VAL paul tyan	0
+COL name VAL samir al daher	COL name VAL samer al daher	1
+COL name VAL hilton hotel	COL name VAL the hilton hotel	1
 COL name VAL antoni gaudi	COL name VAL antonio gades	0
 COL name VAL roger gale	COL name VAL roger gemayel	0
 COL name VAL pan american energy group	COL name VAL mercuria energy group	0
@@ -875,80 +875,83 @@ COL name VAL ara khjatorian	COL name VAL ara khajatorian	1
 COL name VAL mahmoud khayyat	COL name VAL mahmoud khayat	1
 COL name VAL rima karnab	COL name VAL rima karnaby	1
 COL name VAL cristina fern ndez de kirchner	COL name VAL cristina fernndez de kirchner	1
-COL name VAL Youssef Howayyek	COL name VAL Youssef Hoyek	1
-COL name VAL Trukhachyov	COL name VAL Derkach	0
-COL name VAL the National Umma Party	COL name VAL the Awami National Party	0
-COL name VAL Zazzeri	COL name VAL CAESAR	0
-COL name VAL Yaged	COL name VAL Egidio	0
-COL name VAL Ravel Cormashov	COL name VAL Raphael Cormatchov	1
-COL name VAL Abbas Jomaa	COL name VAL Abbas Joumaa	1
-COL name VAL the Sharia Court	COL name VAL Sharia Court	1
-COL name VAL Al Maseera	COL name VAL Al Masirah	1
-COL name VAL the Al Makassed Hospital	COL name VAL Al Maqassed Hospital	1
-COL name VAL Bou Hamzeh	COL name VAL Hammazi	0
-COL name VAL News Agencies	COL name VAL the News Agency	1
-COL name VAL Hoss	COL name VAL Haass	1
-COL name VAL The Samir Kassir Eyes Center	COL name VAL the Samir Kassir Eyes Centre	1
-COL name VAL Pieranunzi	COL name VAL Bernanke	0
-COL name VAL the UbuntuNet Alliance	COL name VAL Ubuntunet Alliance	1
-COL name VAL Mark Hachem Gallery	COL name VAL the Mark Hachem Gallery	1
-COL name VAL Abeer al	COL name VAL Abir Ali	1
-COL name VAL Military Investigation	COL name VAL Military Investigative	1
-COL name VAL Parliamentary Finance Committee	COL name VAL the Parliamentary Finance Committee	1
-COL name VAL Eduskunta	COL name VAL Adisak	0
-COL name VAL Sami Abou Jaoudeh	COL name VAL Sawma Abou Jaoudeh	1
-COL name VAL Hamid Ahmad	COL name VAL Ahmad Hamoudi	1
-COL name VAL Arab Countries	COL name VAL the Arab Center	0
-COL name VAL Nehmat Freim	COL name VAL Naamat Frem	1
-COL name VAL the Social Development Centre	COL name VAL Social Development Centre	1
-COL name VAL Quartz	COL name VAL Cardozo	0
-COL name VAL Imad Yasseen	COL name VAL Ahmad Yassine	1
-COL name VAL AlGhanim	COL name VAL AlKinai	0
-COL name VAL Khairy Beshara	COL name VAL Beshara Koury	0
-COL name VAL Tsonga	COL name VAL Tsang	1
-COL name VAL Islamic Center Association	COL name VAL the Islamic Center Association	1
-COL name VAL Farouk Jabre	COL name VAL Farouk Jabr	1
-COL name VAL Mounira	COL name VAL Mnayar	0
-COL name VAL Chapple	COL name VAL Chibli	0
-COL name VAL Mengu	COL name VAL Da Ke Ming Yi	0
-COL name VAL Dbis	COL name VAL Daabas	0
-COL name VAL Moussa Ibrahim	COL name VAL Ibrahim Mussawi	1
-COL name VAL Ivanovic	COL name VAL Ivanov	1
-COL name VAL the Center for New American Security	COL name VAL Center for New American Security	1
-COL name VAL Andreas Michaelis	COL name VAL Andrea Michaelsson	1
-COL name VAL Nasser el Dine	COL name VAL Nasr Al Deen	1
-COL name VAL Course	COL name VAL 200 Grs	0
-COL name VAL GreenpeaceSpain	COL name VAL Greenberg	0
-COL name VAL Emad Shahin	COL name VAL Ahmad Shahin	0
-COL name VAL Abdul Aal	COL name VAL Abdelnasser Al Ayi	0
-COL name VAL Roweida Mroue	COL name VAL Riad Merhi	0
-COL name VAL Shoura	COL name VAL Cherie	0
-COL name VAL Talal Haydar	COL name VAL Dalal Haidar	1
-COL name VAL Jan Vertonghen	COL name VAL Jan Vertonghnen	1
-COL name VAL Barbara Harvey	COL name VAL Herve Barbaret	0
-COL name VAL Joseph Qazzi	COL name VAL Joseph Kazzi	1
-COL name VAL the Lebanese Environmental Movement	COL name VAL the Lebanese Environment Movement	1
-COL name VAL Marwan Mouasher	COL name VAL Marwan Muasher	1
-COL name VAL Infrastructure Department	COL name VAL Information Department	0
-COL name VAL Youssef al Hadri	COL name VAL Youssef al Hadhari	1
-COL name VAL Fayez Abou Eita	COL name VAL Fayez Abu Eita	1
-COL name VAL La Presse	COL name VAL 20 powers	0
-COL name VAL Scowcroft	COL name VAL SKYACTIV	0
-COL name VAL NNA American University of Beirut	COL name VAL The American University of Beirut	0
-COL name VAL Ziad Alluki	COL name VAL Ziyad Allouki	1
-COL name VAL Versace	COL name VAL Frasca	0
-COL name VAL Brandi	COL name VAL Barientos	0
-COL name VAL Mohamed Fathali	COL name VAL Mohammad Fathali	1
-COL name VAL Cinderella	COL name VAL 20 counterparts	0
-COL name VAL Hussain Issa	COL name VAL Hussein Issa	1
-COL name VAL Omran Al Zoubi	COL name VAL Omran al Zoabi	1
-COL name VAL Manuel	COL name VAL Manley	0
-COL name VAL Mohammad Kenaan	COL name VAL Mohamed Kannan	1
-COL name VAL Califano	COL name VAL Calvino	0
-COL name VAL Sitt Sobhiye	COL name VAL Ziyad Sahhab	0
-COL name VAL Streda Geagea	COL name VAL Streeda Geagea	1
-COL name VAL Selman bin Abdul Aziz	COL name VAL Salman Bin Abdul Aziz	1
-COL name VAL Ghabbar	COL name VAL Capoeira	0
+COL name VAL youssef howayyek	COL name VAL youssef hoyek	1
+COL name VAL trukhachyov	COL name VAL derkach	0
+COL name VAL the national umma party	COL name VAL the awami national party	0
+COL name VAL zazzeri	COL name VAL caesar	0
+COL name VAL yaged	COL name VAL egidio	0
+COL name VAL ravel cormashov	COL name VAL raphael cormatchov	1
+COL name VAL abbas jomaa	COL name VAL abbas joumaa	1
+COL name VAL the sharia court	COL name VAL sharia court	1
+COL name VAL al maseera	COL name VAL al masirah	1
+COL name VAL the al makassed hospital	COL name VAL al maqassed hospital	1
+COL name VAL bou hamzeh	COL name VAL hammazi	0
+COL name VAL news agencies	COL name VAL the news agency	1
+COL name VAL hoss	COL name VAL haass	0
+COL name VAL the samir kassir eyes center	COL name VAL the samir kassir eyes centre	1
+COL name VAL pieranunzi	COL name VAL bernanke	0
+COL name VAL the ubuntunet alliance	COL name VAL ubuntunet alliance	1
+COL name VAL mark hachem gallery	COL name VAL the mark hachem gallery	1
+COL name VAL abeer al	COL name VAL abir ali	1
+COL name VAL military investigation	COL name VAL military investigative	1
+COL name VAL parliamentary finance committee	COL name VAL the parliamentary finance committee	1
+COL name VAL eduskunta	COL name VAL adisak	0
+COL name VAL sami abou jaoudeh	COL name VAL sawma abou jaoudeh	1
+COL name VAL hamid ahmad	COL name VAL ahmad hamoudi	1
+COL name VAL arab countries	COL name VAL the arab center	0
+COL name VAL nehmat freim	COL name VAL naamat frem	1
+COL name VAL the social development centre	COL name VAL social development centre	1
+COL name VAL quartz	COL name VAL cardozo	0
+COL name VAL imad yasseen	COL name VAL ahmad yassine	0
+COL name VAL alghanim	COL name VAL alkinai	0
+COL name VAL khairy beshara	COL name VAL beshara koury	0
+COL name VAL tsonga	COL name VAL tsang	0
+COL name VAL tsonga	COL name VAL tsang	0
+COL name VAL tsonga	COL name VAL tsang	0
+COL name VAL tsonga	COL name VAL tsang	0
+COL name VAL islamic center association	COL name VAL the islamic center association	1
+COL name VAL farouk jabre	COL name VAL farouk jabr	1
+COL name VAL mounira	COL name VAL mnayar	0
+COL name VAL chapple	COL name VAL chibli	0
+COL name VAL mengu	COL name VAL da ke ming yi	0
+COL name VAL dbis	COL name VAL daabas	0
+COL name VAL moussa ibrahim	COL name VAL ibrahim mussawi	0
+COL name VAL ivanovic	COL name VAL ivanov	1
+COL name VAL the center for new american security	COL name VAL center for new american security	1
+COL name VAL andreas michaelis	COL name VAL andrea michaelsson	0
+COL name VAL nasser el dine	COL name VAL nasr al deen	1
+COL name VAL course	COL name VAL 200 grs	0
+COL name VAL greenpeacespain	COL name VAL greenberg	0
+COL name VAL emad shahin	COL name VAL ahmad shahin	0
+COL name VAL abdul aal	COL name VAL abdelnasser al ayi	0
+COL name VAL roweida mroue	COL name VAL riad merhi	0
+COL name VAL shoura	COL name VAL cherie	0
+COL name VAL talal haydar	COL name VAL dalal haidar	0
+COL name VAL jan vertonghen	COL name VAL jan vertonghnen	1
+COL name VAL barbara harvey	COL name VAL herve barbaret	0
+COL name VAL joseph qazzi	COL name VAL joseph kazzi	1
+COL name VAL the lebanese environmental movement	COL name VAL the lebanese environment movement	1
+COL name VAL marwan mouasher	COL name VAL marwan muasher	1
+COL name VAL infrastructure department	COL name VAL information department	0
+COL name VAL youssef al hadri	COL name VAL youssef al hadhari	1
+COL name VAL fayez abou eita	COL name VAL fayez abu eita	1
+COL name VAL la presse	COL name VAL 20 powers	0
+COL name VAL scowcroft	COL name VAL skyactiv	0
+COL name VAL nna american university of beirut	COL name VAL the american university of beirut	1
+COL name VAL ziad alluki	COL name VAL ziyad allouki	1
+COL name VAL versace	COL name VAL frasca	0
+COL name VAL brandi	COL name VAL barientos	0
+COL name VAL mohamed fathali	COL name VAL mohammad fathali	1
+COL name VAL cinderella	COL name VAL 20 counterparts	0
+COL name VAL hussain issa	COL name VAL hussein issa	1
+COL name VAL omran al zoubi	COL name VAL omran al zoabi	1
+COL name VAL manuel	COL name VAL manley	0
+COL name VAL mohammad kenaan	COL name VAL mohamed kannan	1
+COL name VAL califano	COL name VAL calvino	0
+COL name VAL sitt sobhiye	COL name VAL ziyad sahhab	0
+COL name VAL streda geagea	COL name VAL streeda geagea	1
+COL name VAL selman bin abdul aziz	COL name VAL salman bin abdul aziz	1
+COL name VAL ghabbar	COL name VAL capoeira	0
 COL name VAL george papas	COL name VAL george papandreou	0
 COL name VAL the american general electric company	COL name VAL americangeneral electric	1
 COL name VAL group of senior donors	COL name VAL the group of senior donors to syria	1
@@ -967,7 +970,6 @@ COL name VAL the directorate general for palestinian refugees affairs	COL name V
 COL name VAL falcon group	COL name VAL non group	0
 COL name VAL the hague institute for global justice	COL name VAL the institute for global change	0
 COL name VAL george shultz	COL name VAL george shuqair	0
-COL name VAL the gathering for the protection of women	COL name VAL the arab group for the protection of nature	0
 COL name VAL abdul rahman mohammed ghdadi	COL name VAL abdul rahman ghadedi	1
 COL name VAL the national commission for sustainable development goals	COL name VAL the sustainable development goals	0
 COL name VAL howard grief	COL name VAL howard gibbs	0
@@ -979,12 +981,12 @@ COL name VAL the george institute for global health	COL name VAL the institute f
 COL name VAL ghada alsharif sahar hamzeh	COL name VAL ghada alsharif salah nasser	1
 COL name VAL daniel gemayel	COL name VAL samil gemayel	0
 COL name VAL nikolai gogol	COL name VAL nikolai gudkov	0
-COL name VAL gavin helf	COL name VAL gavin hayes	1
+COL name VAL gavin helf	COL name VAL gavin hayes	0
 COL name VAL refaat ghostine	COL name VAL fares ghostine	0
 COL name VAL ariana grande	COL name VAL lisa grande	0
 COL name VAL ghazi abbas mahmoud	COL name VAL ghazi mahmoud	1
-COL name VAL paul gwynne	COL name VAL paul greene	1
-COL name VAL nabil gholam	COL name VAL nabil ghawi	1
+COL name VAL paul gwynne	COL name VAL paul greene	0
+COL name VAL nabil gholam	COL name VAL nabil ghawi	0
 COL name VAL fayhan al ghamdi	COL name VAL ahmad al ghamdi	0
 COL name VAL the business talent group	COL name VAL the sports business group	0
 COL name VAL georgia tech	COL name VAL georgia tech university	1
@@ -993,8 +995,7 @@ COL name VAL the general federation of egyptian chambers	COL name VAL the federa
 COL name VAL michel gondry	COL name VAL michel georr	0
 COL name VAL ehud goldwasser	COL name VAL shafi goldwasser	0
 COL name VAL girault kataeb party	COL name VAL gemayel kataeb party	0
-COL name VAL alpha ngo	COL name VAL alpha group	1
-COL name VAL the arab group for the protection of nature	COL name VAL the gathering for the protection of women	0
+COL name VAL alpha ngo	COL name VAL alpha group	0
 COL name VAL the global refugee compact	COL name VAL the global compact on refugees	1
 COL name VAL the broadband commission working group on digital health	COL name VAL the broadband commission for sustainable development working group on digital health	1
 COL name VAL george el hamawy	COL name VAL george el khoury	0
@@ -1009,7 +1010,6 @@ COL name VAL geagea aoun	COL name VAL geagea argue	0
 COL name VAL the geneva and hague conventions	COL name VAL the geneva conventions	1
 COL name VAL gm architects	COL name VAL grimshaw architects	1
 COL name VAL goal no	COL name VAL goal com	0
-COL name VAL gabriel lenz	COL name VAL gabriel lansky	0
 COL name VAL seif gadhafi	COL name VAL saadi gadhafi	0
 COL name VAL george orwell	COL name VAL george al	0
 COL name VAL ghaith kowari	COL name VAL ghaith al omari	0

@@ -1,4 +1,5 @@
 from pathlib import Path
+import numpy as np
 import pandas as pd
 from sklearn.metrics import precision_score, recall_score, f1_score, ConfusionMatrixDisplay
 
@@ -16,12 +17,13 @@ PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_1
 # PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED = r'predictions\train_wikidata_plus_5000_aug_first_last_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_plus_500_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per'
 
 
 GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
 data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED / 'output_small.jsonl'
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -44,8 +46,11 @@ def calc_metrics(df_pred, gt_col = 'gt_label',pred_col = 'match'):
 
 if __name__=="__main__":    
     calc_metrics(df_pred) 
+    
     # PER_12K test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
-    # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt- Precision 0.84, Recall 0.92, f1 0.879
+
+    # PER_12K_Aug_First_Last 2000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED): test_news_per.txt - Precision 0.89, Recall 0.91, f1 0.90
+    # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt - Precision 0.84, Recall 0.92, f1 0.879
     # PER_12K_Aug_First_Last 500 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED): test_news_per.txt- Precision 0.79, Recall 0.92, f1 0.85
       # Conc: Adding 500 lower case negs first last (reoberta-base is cased) --> improves precision 0.74 --> 0.79, reduce recall 0.96 --> 0.92, improves f1 0.77 --> 0.85
     # Bug: Case: PER_12K_Aug_First_Last 5000 uppper case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED): test_news_per.txt- Precision 0.72, Recall 0.82, f1 0.77
@@ -56,12 +61,17 @@ if __name__=="__main__":
     # Plot confusion matrix - many false-pos (almost no false-neg)
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_fp_test_news_per.html')
+    # FP
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_90_fp_test_news_per.html')
+    # FN
+    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_90_FN_test_news_per.html')
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
     
+    # Confidence distribtion for FP and TP    
     df_pred[df_pred['match'] & (~df_pred.gt_label)][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
     df_pred[df_pred['match'] & (df_pred.gt_label)][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
+    
     # Hist: Ditto (train balanced, test 7:1 - already fixed to f1=0.93): Precision 0.304, Recall 0.99, f1 0.466
 
     ## EDA 

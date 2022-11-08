@@ -1,31 +1,38 @@
-COL name VAL Social Nationalists bloc	COL name VAL Social National Bloc	1
-COL name VAL National Institutes of Health	COL name VAL National Institute of Health	1
-COL name VAL the Armed Services Committees	COL name VAL Armed Services Committees	1
-COL name VAL Trade Agriculture and Industry Chamber	COL name VAL the Agriculture Industry and Trade Chambers	1
-COL name VAL UPP	COL name VAL A4P	0
-COL name VAL Baidu	COL name VAL BDD	0
-COL name VAL the Civil Aviation Ministry	COL name VAL Civil Aviation Ministry	1
-COL name VAL Jamaa Islamia	COL name VAL the Jemaah Islamiyah	1
-COL name VAL Disney	COL name VAL DAZN	0
-COL name VAL the Center for American Strategic Studies	COL name VAL Center for American Strategic Studies	1
-COL name VAL the Federal Bank of Lebanon	COL name VAL Federal Bank of Lebanon	1
-COL name VAL Geneva Convention	COL name VAL Geneva Conventions	1
-COL name VAL the Syria Democratic Forces	COL name VAL Syria Democratic Forces	1
-COL name VAL White House National Security Council	COL name VAL the White House National Security Council	1
-COL name VAL Development of Zahle	COL name VAL the Development of Zahle	1
-COL name VAL National Coalition	COL name VAL the National Coalition	1
-COL name VAL Information Branch Army	COL name VAL Army Information Branch	1
-COL name VAL Dada	COL name VAL DOD	0
-COL name VAL YouStink	COL name VAL ASTANA	0
-COL name VAL the Lebanese Air Force	COL name VAL Lebanese Air Force	1
+COL name VAL social nationalists bloc	COL name VAL social national bloc	1
+COL name VAL national institutes of health	COL name VAL national institute of health	1
+COL name VAL the armed services committees	COL name VAL armed services committees	1
+COL name VAL trade agriculture and industry chamber	COL name VAL the agriculture industry and trade chambers	1
+COL name VAL upp	COL name VAL a4p	0
+COL name VAL baidu	COL name VAL bdd	0
+COL name VAL the civil aviation ministry	COL name VAL civil aviation ministry	1
+COL name VAL jamaa islamia	COL name VAL the jemaah islamiyah	1
+COL name VAL disney	COL name VAL dazn	0
+COL name VAL the center for american strategic studies	COL name VAL center for american strategic studies	1
+COL name VAL the federal bank of lebanon	COL name VAL federal bank of lebanon	1
+COL name VAL geneva convention	COL name VAL geneva conventions	1
+COL name VAL the syria democratic forces	COL name VAL syria democratic forces	1
+COL name VAL white house national security council	COL name VAL the white house national security council	1
+COL name VAL development of zahle	COL name VAL the development of zahle	1
+COL name VAL national coalition	COL name VAL the national coalition	1
+COL name VAL information branch army	COL name VAL army information branch	1
+COL name VAL dada	COL name VAL dod	0
+COL name VAL youstink	COL name VAL astana	0
+COL name VAL the lebanese air force	COL name VAL lebanese air force	1
+COL name VAL ghadi association	COL name VAL ghad scouts association	0
+COL name VAL art dubai maghie ghali art	COL name VAL maghie ghali art	0
+COL name VAL petroleum ge services	COL name VAL petroleum geo	0
 COL name VAL the fattouh kesrouan government hospital	COL name VAL the government hospital	0
 COL name VAL the greedy goose british pub	COL name VAL the greedy goose	0
 COL name VAL the cohen kadosh group	COL name VAL the cohen group	1
 COL name VAL tsingshan holding group	COL name VAL the holding group	0
 COL name VAL the lau gilbert and rose marie chagoury health sciences center	COL name VAL the gilbert and rose marie chagoury school of medicine	0
+COL name VAL the church for lebanon gathering	COL name VAL the gathering for lebanon	0
+COL name VAL the green energy initiative	COL name VAL the geneva initiative	0
+COL name VAL citibank group	COL name VAL softbank group	0
 COL name VAL the general purpose force	COL name VAL the general security forces	0
 COL name VAL the african governance and development institute	COL name VAL the brac institute of governance and development	0
 COL name VAL the general assembly of the maronite foundation in the world	COL name VAL general assembly of maronite foundation	1
+COL name VAL the geneva document	COL name VAL the geneva centre	1
 COL name VAL the elderly and gender equality	COL name VAL the alliance for gender equality	0
 COL name VAL the committee for general amnesty and the development of the baalbeck hermel region	COL name VAL the committee for the general amnesty and development	0
 COL name VAL the ministry of energy and water general directorate of oil	COL name VAL the directorate general of oil ministry of energy and water of lebanon	0
@@ -42,22 +49,22 @@ COL name VAL the korea mining development trading corporation	COL name VAL korea
 COL name VAL the king salman centre for humanitarian aid and relief	COL name VAL king salman centre for humanitarian aid and relief	1
 COL name VAL the pro kurdish people democratic party	COL name VAL the pro kurdish peoples democratic party	1
 COL name VAL kun hadi association	COL name VAL kunhadi association	1
-COL name VAL The White House Correspondents Association	COL name VAL White House Correspondents Association	1
-COL name VAL FrenchTwitter	COL name VAL FRANCIS NNA	0
-COL name VAL Soviet Communist Party	COL name VAL the Soviet Communist Party	1
-COL name VAL Maas	COL name VAL MSI	0
-COL name VAL Export Import Bank	COL name VAL the Export Import Bank	1
-COL name VAL Qattum	COL name VAL GuideME	0
-COL name VAL National Defense Commission	COL name VAL the National Defense Commission	1
-COL name VAL Revolutionary Court	COL name VAL Revolutionary guard	0
-COL name VAL the Presidency Council	COL name VAL Presidential Council	1
-COL name VAL Electricite du Liban	COL name VAL NNA Electricite Du Liban	1
-COL name VAL World Tourism Organization	COL name VAL The World Tourism Organization	1
-COL name VAL Jordan News Agency	COL name VAL the Jordan News Agency	1
-COL name VAL the Higher Greek Catholic Council	COL name VAL the Greek Catholic Higher Council	1
-COL name VAL MAPA	COL name VAL MAB	0
-COL name VAL Army Command Orientation Directorate	COL name VAL The Army Command Orientation Directorate	1
-COL name VAL the Union of Lebanese Basket Ball	COL name VAL Union of Lebanese Basket Ball	1
+COL name VAL the white house correspondents association	COL name VAL white house correspondents association	1
+COL name VAL frenchtwitter	COL name VAL francis nna	0
+COL name VAL soviet communist party	COL name VAL the soviet communist party	1
+COL name VAL maas	COL name VAL msi	0
+COL name VAL export import bank	COL name VAL the export import bank	1
+COL name VAL qattum	COL name VAL guideme	0
+COL name VAL national defense commission	COL name VAL the national defense commission	1
+COL name VAL revolutionary court	COL name VAL revolutionary guard	0
+COL name VAL the presidency council	COL name VAL presidential council	1
+COL name VAL electricite du liban	COL name VAL nna electricite du liban	1
+COL name VAL world tourism organization	COL name VAL the world tourism organization	1
+COL name VAL jordan news agency	COL name VAL the jordan news agency	1
+COL name VAL the higher greek catholic council	COL name VAL the greek catholic higher council	1
+COL name VAL mapa	COL name VAL mab	0
+COL name VAL army command orientation directorate	COL name VAL the army command orientation directorate	1
+COL name VAL the union of lebanese basket ball	COL name VAL union of lebanese basket ball	1
 COL name VAL the gathering of christians in the levant	COL name VAL the christians of the levant gathering	1
 COL name VAL facility for the global environment	COL name VAL the global environment facility	1
 COL name VAL the development group for the arab states middle east and north africa	COL name VAL the wef regional strategy group for the middle east and north africa	0
@@ -68,8 +75,10 @@ COL name VAL the gorran change movement	COL name VAL the gorran movement	1
 COL name VAL lgt group	COL name VAL ipt group	0
 COL name VAL the traffic governing body	COL name VAL the transitional governing body	0
 COL name VAL general sales agent	COL name VAL general security agents	0
+COL name VAL google earth	COL name VAL good earth	0
 COL name VAL the general staff of the korean people army	COL name VAL the general staff of the armed forces	0
 COL name VAL the gulenist terror group	COL name VAL the gulenist terror organization	1
+COL name VAL london gallery	COL name VAL one gallery	0
 COL name VAL the climate crisis advisory group	COL name VAL the mines advisory group	0
 COL name VAL federal association of the german tourism industry	COL name VAL the german association of the automotive industry	0
 COL name VAL the board of the lebanese omani businessmen gathering	COL name VAL the lebanese businessmen gathering	1
@@ -81,26 +90,41 @@ COL name VAL the general labor confederation and economic committees	COL name VA
 COL name VAL the european trade study group	COL name VAL the european research group	0
 COL name VAL the gender alert	COL name VAL the gender department	0
 COL name VAL the revolutionary government of the republic of cuba	COL name VAL the government of the republic of iraq	0
-COL name VAL Portolano NNA	COL name VAL BOARDElsenhans	0
-COL name VAL Nobby	COL name VAL NABA	0
-COL name VAL security Council	COL name VAL High Security Council	1
-COL name VAL University of Manitoba	COL name VAL University of Montpellier	0
-COL name VAL British Embassy	COL name VAL The British Embassy	1
-COL name VAL Doodie	COL name VAL DOD	0
-COL name VAL Maarab Understanding	COL name VAL the Maarab Understanding	1
-COL name VAL the Financial Instrument and Exchange Act	COL name VAL the Financial Instruments and Exchange Act	1
-COL name VAL STL Appeals Chamber	COL name VAL the STL Appeals Chamber	1
-COL name VAL Kaouk	COL name VAL CAEC	0
-COL name VAL The No to Violence Association	COL name VAL the Say NO to Violence association	1
-COL name VAL the Syndicate of Private Hospitals	COL name VAL Syndicate of Private Hospitals	1
-COL name VAL Dahdah	COL name VAL DOD	0
-COL name VAL Global Competitiveness Report	COL name VAL the Global Competitiveness Report	1
-COL name VAL the Islamic Orphanage House	COL name VAL the Islamic Orphans House	1
-COL name VAL Drugstore Publicis	COL name VAL the Drugstore Publicis	1
-COL name VAL the Directorate General of the Vocational and Technical Education	COL name VAL the Directorate General of technical and vocational education	1
-COL name VAL the Palestinian Museum	COL name VAL the Palestine Museum	1
-COL name VAL Money Changers Syndicate	COL name VAL The Money Changers Syndicate	1
-COL name VAL Hilton Hotel	COL name VAL the Hilton Hotel	1
+COL name VAL portolano nna	COL name VAL boardelsenhans	0
+COL name VAL nobby	COL name VAL naba	0
+COL name VAL security council	COL name VAL high security council	1
+COL name VAL university of manitoba	COL name VAL university of montpellier	0
+COL name VAL british embassy	COL name VAL the british embassy	1
+COL name VAL doodie	COL name VAL dod	0
+COL name VAL maarab understanding	COL name VAL the maarab understanding	1
+COL name VAL the financial instrument and exchange act	COL name VAL the financial instruments and exchange act	1
+COL name VAL stl appeals chamber	COL name VAL the stl appeals chamber	1
+COL name VAL kaouk	COL name VAL caec	0
+COL name VAL the no to violence association	COL name VAL the say no to violence association	1
+COL name VAL the syndicate of private hospitals	COL name VAL syndicate of private hospitals	1
+COL name VAL dahdah	COL name VAL dod	0
+COL name VAL global competitiveness report	COL name VAL the global competitiveness report	1
+COL name VAL the islamic orphanage house	COL name VAL the islamic orphans house	1
+COL name VAL drugstore publicis	COL name VAL the drugstore publicis	1
+COL name VAL the directorate general of the vocational and technical education	COL name VAL the directorate general of technical and vocational education	1
+COL name VAL the palestinian museum	COL name VAL the palestine museum	1
+COL name VAL money changers syndicate	COL name VAL the money changers syndicate	1
+COL name VAL hilton hotel	COL name VAL the hilton hotel	1
+COL name VAL the general military academy	COL name VAL the general military prosecution	0
+COL name VAL the general tunisian union of labor	COL name VAL the general union of labour	0
+COL name VAL petroleum assets general directorate	COL name VAL the general directorate	0
+COL name VAL center on global energy policy	COL name VAL center for global policy	0
+COL name VAL the qatar general electricity and water corporation	COL name VAL the directorate general of electricity and water resources	0
+COL name VAL the national umma party	COL name VAL the awami national party	0
+COL name VAL nna american university of beirut	COL name VAL the american university of beirut	1
+COL name VAL the hague institute for global justice	COL name VAL the institute for global change	0
+COL name VAL the national commission for sustainable development goals	COL name VAL the sustainable development goals	0
+COL name VAL the george institute for global health	COL name VAL the institute for global change	0
+COL name VAL the business talent group	COL name VAL the sports business group	0
+COL name VAL the general parliamentary committee	COL name VAL the green parliamentary group	0
+COL name VAL timour azhari general security	COL name VAL the general security	0
+COL name VAL nuclear planning group	COL name VAL nuclear suppliers group	0
+COL name VAL ypg pyd	COL name VAL ypg pkk	0
 COL name VAL the 5th infantry brigade	COL name VAL 115th infantry brigade	0
 COL name VAL 10th infantry brigade	COL name VAL 12th infantry brigade	0
 COL name VAL sony corp ltd	COL name VAL japan sony corp ltd	1

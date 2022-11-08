@@ -1,0 +1,1000 @@
+COL name VAL bji caid essebsi COL name_chars VAL b j i   c a i d   e s s e b s i	COL name VAL beji kaid essebsi COL name_chars VAL b e j i   k a i d   e s s e b s i	1
+COL name VAL andre flo COL name_chars VAL a n d r e   f l o	COL name VAL andrea vella COL name_chars VAL a n d r e a   v e l l a	0
+COL name VAL the anna lindh foundations COL name_chars VAL t h e   a n n a   l i n d h   f o u n d a t i o n s	COL name VAL the anna lindh foundation COL name_chars VAL t h e   a n n a   l i n d h   f o u n d a t i o n	1
+COL name VAL george abu moussa COL name_chars VAL g e o r g e   a b u   m o u s s a	COL name VAL george abou moussa COL name_chars VAL g e o r g e   a b o u   m o u s s a	1
+COL name VAL dima sayegh COL name_chars VAL d i m a   s a y e g h	COL name VAL sky team COL name_chars VAL s k y   t e a m	0
+COL name VAL heeso COL name_chars VAL h e e s o	COL name VAL haass COL name_chars VAL h a a s s	0
+COL name VAL eurogroup COL name_chars VAL e u r o g r o u p	COL name VAL euroclear COL name_chars VAL e u r o c l e a r	0
+COL name VAL mouin hamza COL name_chars VAL m o u i n   h a m z a	COL name VAL moiin hamzeh COL name_chars VAL m o i i n   h a m z e h	1
+COL name VAL military court COL name_chars VAL m i l i t a r y   c o u r t	COL name VAL the military court COL name_chars VAL t h e   m i l i t a r y   c o u r t	1
+COL name VAL musee des arts decoratif COL name_chars VAL m u s e e   d e s   a r t s   d e c o r a t i f	COL name VAL the musee des arts decoratifs COL name_chars VAL t h e   m u s e e   d e s   a r t s   d e c o r a t i f s	1
+COL name VAL stuarts COL name_chars VAL s t u a r t s	COL name VAL 500 startups COL name_chars VAL 5 0 0   s t a r t u p s	0
+COL name VAL zaizoun COL name_chars VAL z a i z o u n	COL name VAL sasine sasine COL name_chars VAL s a s i n e   s a s i n e	0
+COL name VAL nasser al din COL name_chars VAL n a s s e r   a l   d i n	COL name VAL nasr al deen COL name_chars VAL n a s r   a l   d e e n	1
+COL name VAL tele lumiere group COL name_chars VAL t e l e   l u m i e r e   g r o u p	COL name VAL tl lumire group COL name_chars VAL t l   l u m i r e   g r o u p	1
+COL name VAL the fursan al haqq brigade COL name_chars VAL t h e   f u r s a n   a l   h a q q   b r i g a d e	COL name VAL fursan al haqq brigade COL name_chars VAL f u r s a n   a l   h a q q   b r i g a d e	1
+COL name VAL bashara al rahi COL name_chars VAL b a s h a r a   a l   r a h i	COL name VAL beshara el rahi COL name_chars VAL b e s h a r a   e l   r a h i	1
+COL name VAL al aqsa COL name_chars VAL a l   a q s a	COL name VAL al aqssa COL name_chars VAL a l   a q s s a	1
+COL name VAL nato COL name_chars VAL n a t o	COL name VAL 2nd COL name_chars VAL 2 n d	0
+COL name VAL meda COL name_chars VAL m e d a	COL name VAL m4d COL name_chars VAL m 4 d	0
+COL name VAL hrd COL name_chars VAL h r d	COL name VAL 93 radio COL name_chars VAL 9 3   r a d i o	0
+COL name VAL kristen ghodsee COL name_chars VAL k r i s t e n   g h o d s e e	COL name VAL christine koudsy COL name_chars VAL c h r i s t i n e   k o u d s y	1
+COL name VAL taqaddom COL name_chars VAL t a q a d d o m	COL name VAL taqaddam COL name_chars VAL t a q a d d a m	0
+COL name VAL maria malik COL name_chars VAL m a r i a   m a l i k	COL name VAL malak mroue COL name_chars VAL m a l a k   m r o u e	0
+COL name VAL handel COL name_chars VAL h a n d e l	COL name VAL handal COL name_chars VAL h a n d a l	1
+COL name VAL abou al abed shamandar COL name_chars VAL a b o u   a l   a b e d   s h a m a n d a r	COL name VAL abou al abed shmandur COL name_chars VAL a b o u   a l   a b e d   s h m a n d u r	1
+COL name VAL iskintawi COL name_chars VAL i s k i n t a w i	COL name VAL ascend COL name_chars VAL a s c e n d	0
+COL name VAL mutahiddoun COL name_chars VAL m u t a h i d d o u n	COL name VAL mottahidoun COL name_chars VAL m o t t a h i d o u n	1
+COL name VAL sawt el mada radio COL name_chars VAL s a w t   e l   m a d a   r a d i o	COL name VAL sawt al mada radio COL name_chars VAL s a w t   a l   m a d a   r a d i o	1
+COL name VAL firas al abyad COL name_chars VAL f i r a s   a l   a b y a d	COL name VAL firas al abiad COL name_chars VAL f i r a s   a l   a b i a d	1
+COL name VAL mahmoud abed COL name_chars VAL m a h m o u d   a b e d	COL name VAL mahmoud obeidi COL name_chars VAL m a h m o u d   o b e i d i	0
+COL name VAL mahmoud shaaban COL name_chars VAL m a h m o u d   s h a a b a n	COL name VAL mahmud shaaban COL name_chars VAL m a h m u d   s h a a b a n	1
+COL name VAL tarek mitri COL name_chars VAL t a r e k   m i t r i	COL name VAL tarik mitri COL name_chars VAL t a r i k   m i t r i	1
+COL name VAL diyar COL name_chars VAL d i y a r	COL name VAL darya COL name_chars VAL d a r y a	0
+COL name VAL saliba COL name_chars VAL s a l i b a	COL name VAL saleeby COL name_chars VAL s a l e e b y	0
+COL name VAL mohammad eid COL name_chars VAL m o h a m m a d   e i d	COL name VAL mohammad audi COL name_chars VAL m o h a m m a d   a u d i	0
+COL name VAL tarek safadi COL name_chars VAL t a r e k   s a f a d i	COL name VAL tariq safadiyeh COL name_chars VAL t a r i q   s a f a d i y e h	1
+COL name VAL mounir daou daou COL name_chars VAL m o u n i r   d a o u   d a o u	COL name VAL mnayar COL name_chars VAL m n a y a r	0
+COL name VAL hammam ziyadeh COL name_chars VAL h a m m a m   z i y a d e h	COL name VAL hammam said COL name_chars VAL h a m m a m   s a i d	0
+COL name VAL senhouri COL name_chars VAL s e n h o u r i	COL name VAL sonoura COL name_chars VAL s o n o u r a	0
+COL name VAL danny abdallah COL name_chars VAL d a n n y   a b d a l l a h	COL name VAL abdullah dhanawy COL name_chars VAL a b d u l l a h   d h a n a w y	0
+COL name VAL elie marouny COL name_chars VAL e l i e   m a r o u n y	COL name VAL elie marouni COL name_chars VAL e l i e   m a r o u n i	1
+COL name VAL richards COL name_chars VAL r i c h a r d s	COL name VAL richard koo COL name_chars VAL r i c h a r d   k o o	0
+COL name VAL saedi COL name_chars VAL s a e d i	COL name VAL 1st COL name_chars VAL 1 s t	0
+COL name VAL alice keirouz sleiman COL name_chars VAL a l i c e   k e i r o u z   s l e i m a n	COL name VAL alice keiruz sleiman COL name_chars VAL a l i c e   k e i r u z   s l e i m a n	1
+COL name VAL shultz COL name_chars VAL s h u l t z	COL name VAL schoultz COL name_chars VAL s c h o u l t z	1
+COL name VAL widodo COL name_chars VAL w i d o d o	COL name VAL widad COL name_chars VAL w i d a d	0
+COL name VAL nicolas toueini COL name_chars VAL n i c o l a s   t o u e i n i	COL name VAL nicolas tueny COL name_chars VAL n i c o l a s   t u e n y	1
+COL name VAL camille salameh COL name_chars VAL c a m i l l e   s a l a m e h	COL name VAL camilia salame COL name_chars VAL c a m i l i a   s a l a m e	1
+COL name VAL daoud shihab COL name_chars VAL d a o u d   s h i h a b	COL name VAL dawoud shehab COL name_chars VAL d a w o u d   s h e h a b	1
+COL name VAL geza mehali COL name_chars VAL g e z a   m e h a l i	COL name VAL geza mihalyi COL name_chars VAL g e z a   m i h a l y i	1
+COL name VAL oussama hamdan COL name_chars VAL o u s s a m a   h a m d a n	COL name VAL osama hamdan COL name_chars VAL o s a m a   h a m d a n	1
+COL name VAL spectrum co COL name_chars VAL s p e c t r u m   c o	COL name VAL speaker COL name_chars VAL s p e a k e r	0
+COL name VAL abdelbasset sida COL name_chars VAL a b d e l b a s s e t   s i d a	COL name VAL abdelhakim zouita COL name_chars VAL a b d e l h a k i m   z o u i t a	0
+COL name VAL army COL name_chars VAL a r m y	COL name VAL arm COL name_chars VAL a r m	0
+COL name VAL hadi abulhassan COL name_chars VAL h a d i   a b u l h a s s a n	COL name VAL hadi abulhosn COL name_chars VAL h a d i   a b u l h o s n	1
+COL name VAL behsas COL name_chars VAL b e h s a s	COL name VAL bahsas COL name_chars VAL b a h s a s	1
+COL name VAL socotec COL name_chars VAL s o c o t e c	COL name VAL skdk COL name_chars VAL s k d k	0
+COL name VAL deeemd COL name_chars VAL d e e e m d	COL name VAL bou doumit COL name_chars VAL b o u   d o u m i t	0
+COL name VAL the raisina dialogue COL name_chars VAL t h e   r a i s i n a   d i a l o g u e	COL name VAL raisina dialogue COL name_chars VAL r a i s i n a   d i a l o g u e	1
+COL name VAL qutaiba al hujeiri COL name_chars VAL q u t a i b a   a l   h u j e i r i	COL name VAL qoteiba al hujeiri COL name_chars VAL q o t e i b a   a l   h u j e i r i	1
+COL name VAL nev eda COL name_chars VAL n e v   e d a	COL name VAL naef audi COL name_chars VAL n a e f   a u d i	0
+COL name VAL lincoln COL name_chars VAL l i n c o l n	COL name VAL langley COL name_chars VAL l a n g l e y	0
+COL name VAL khattab COL name_chars VAL k h a t t a b	COL name VAL 77 katiba COL name_chars VAL 7 7   k a t i b a	0
+COL name VAL berribassil COL name_chars VAL b e r r i b a s s i l	COL name VAL barbosa COL name_chars VAL b a r b o s a	0
+COL name VAL jawawdeh COL name_chars VAL j a w a w d e h	COL name VAL jaddouh COL name_chars VAL j a d d o u h	0
+COL name VAL abdul mottaleb hannwai COL name_chars VAL a b d u l   m o t t a l e b   h a n n w a i	COL name VAL abdul mutaleb hannawi COL name_chars VAL a b d u l   m u t a l e b   h a n n a w i	1
+COL name VAL nmour COL name_chars VAL n m o u r	COL name VAL nemer COL name_chars VAL n e m e r	0
+COL name VAL houjeiry COL name_chars VAL h o u j e i r y	COL name VAL hujeiri nna COL name_chars VAL h u j e i r i   n n a	0
+COL name VAL salman nna COL name_chars VAL s a l m a n   n n a	COL name VAL salaman salaman COL name_chars VAL s a l a m a n   s a l a m a n	0
+COL name VAL swanson COL name_chars VAL s w a n s o n	COL name VAL jo swinson COL name_chars VAL j o   s w i n s o n	0
+COL name VAL qari ghafoor COL name_chars VAL q a r i   g h a f o o r	COL name VAL gary kieffer COL name_chars VAL g a r y   k i e f f e r	0
+COL name VAL galal mahmoud COL name_chars VAL g a l a l   m a h m o u d	COL name VAL ghazi mahmoud COL name_chars VAL g h a z i   m a h m o u d	0
+COL name VAL google chronicle COL name_chars VAL g o o g l e   c h r o n i c l e	COL name VAL google china COL name_chars VAL g o o g l e   c h i n a	0
+COL name VAL ker gibbs COL name_chars VAL k e r   g i b b s	COL name VAL kieran gibbs COL name_chars VAL k i e r a n   g i b b s	1
+COL name VAL sami garabedian COL name_chars VAL s a m i   g a r a b e d i a n	COL name VAL garry garabedian COL name_chars VAL g a r r y   g a r a b e d i a n	0
+COL name VAL gertrude stein COL name_chars VAL g e r t r u d e   s t e i n	COL name VAL gertrude bell COL name_chars VAL g e r t r u d e   b e l l	0
+COL name VAL sue gardner COL name_chars VAL s u e   g a r d n e r	COL name VAL ava gardner COL name_chars VAL a v a   g a r d n e r	0
+COL name VAL gregory melikian COL name_chars VAL g r e g o r y   m e l i k i a n	COL name VAL gregory mankiw COL name_chars VAL g r e g o r y   m a n k i w	0
+COL name VAL the republic gathering COL name_chars VAL t h e   r e p u b l i c   g a t h e r i n g	COL name VAL the gathering COL name_chars VAL t h e   g a t h e r i n g	0
+COL name VAL sylvia garcia COL name_chars VAL s y l v i a   g a r c i a	COL name VAL maria garcia COL name_chars VAL m a r i a   g a r c i a	0
+COL name VAL gutierrez mellado COL name_chars VAL g u t i e r r e z   m e l l a d o	COL name VAL gutierrez reed COL name_chars VAL g u t i e r r e z   r e e d	0
+COL name VAL gilbert becaud COL name_chars VAL g i l b e r t   b e c a u d	COL name VAL gilbert bannout COL name_chars VAL g i l b e r t   b a n n o u t	0
+COL name VAL google inc COL name_chars VAL g o o g l e   i n c	COL name VAL google insight COL name_chars VAL g o o g l e   i n s i g h t	0
+COL name VAL the global journal COL name_chars VAL t h e   g l o b a l   j o u r n a l	COL name VAL the global forum COL name_chars VAL t h e   g l o b a l   f o r u m	0
+COL name VAL giuseppe amato COL name_chars VAL g i u s e p p e   a m a t o	COL name VAL giuseppe sala COL name_chars VAL g i u s e p p e   s a l a	0
+COL name VAL josh greenstein COL name_chars VAL j o s h   g r e e n s t e i n	COL name VAL joshua green COL name_chars VAL j o s h u a   g r e e n	0
+COL name VAL abdul gani alipur COL name_chars VAL a b d u l   g a n i   a l i p u r	COL name VAL abdul ghani salam COL name_chars VAL a b d u l   g h a n i   s a l a m	0
+COL name VAL monica de greiff COL name_chars VAL m o n i c a   d e   g r e i f f	COL name VAL monica green COL name_chars VAL m o n i c a   g r e e n	0
+COL name VAL anthony giddens COL name_chars VAL a n t h o n y   g i d d e n s	COL name VAL anthony gold COL name_chars VAL a n t h o n y   g o l d	0
+COL name VAL sarah gilbert COL name_chars VAL s a r a h   g i l b e r t	COL name VAL adam gilbert COL name_chars VAL a d a m   g i l b e r t	0
+COL name VAL gerhard gundermann COL name_chars VAL g e r h a r d   g u n d e r m a n n	COL name VAL gerhard lehmann COL name_chars VAL g e r h a r d   l e h m a n n	0
+COL name VAL magdalena gutierrez COL name_chars VAL m a g d a l e n a   g u t i e r r e z	COL name VAL juvenal gutierrez COL name_chars VAL j u v e n a l   g u t i e r r e z	0
+COL name VAL ogero youssef COL name_chars VAL o g e r o   y o u s s e f	COL name VAL george youssef COL name_chars VAL g e o r g e   y o u s s e f	0
+COL name VAL bechara ghulam COL name_chars VAL b e c h a r a   g h u l a m	COL name VAL bechara gebran COL name_chars VAL b e c h a r a   g e b r a n	0
+COL name VAL gabriela cardozo COL name_chars VAL g a b r i e l a   c a r d o z o	COL name VAL gabriela caccia COL name_chars VAL g a b r i e l a   c a c c i a	0
+COL name VAL geoliane arab COL name_chars VAL g e o l i a n e   a r a b	COL name VAL george arab COL name_chars VAL g e o r g e   a r a b	0
+COL name VAL diane glover COL name_chars VAL d i a n e   g l o v e r	COL name VAL julian glover COL name_chars VAL j u l i a n   g l o v e r	0
+COL name VAL george traboulsi COL name_chars VAL g e o r g e   t r a b o u l s i	COL name VAL george trad COL name_chars VAL g e o r g e   t r a d	0
+COL name VAL shafi goldwasser COL name_chars VAL s h a f i   g o l d w a s s e r	COL name VAL ehud goldwasser COL name_chars VAL e h u d   g o l d w a s s e r	0
+COL name VAL rania ghosn COL name_chars VAL r a n i a   g h o s n	COL name VAL elia ghosn COL name_chars VAL e l i a   g h o s n	0
+COL name VAL felix gonzalez torres COL name_chars VAL f e l i x   g o n z a l e z   t o r r e s	COL name VAL felipe gonzalez COL name_chars VAL f e l i p e   g o n z a l e z	0
+COL name VAL the ghanaian battalion COL name_chars VAL t h e   g h a n a i a n   b a t t a l i o n	COL name VAL the green battalion COL name_chars VAL t h e   g r e e n   b a t t a l i o n	0
+COL name VAL abdul majid abdul ghani COL name_chars VAL a b d u l   m a j i d   a b d u l   g h a n i	COL name VAL abdul majid gh COL name_chars VAL a b d u l   m a j i d   g h	0
+COL name VAL daniel galvan vina COL name_chars VAL d a n i e l   g a l v a n   v i n a	COL name VAL galvan vina COL name_chars VAL g a l v a n   v i n a	0
+COL name VAL google campus COL name_chars VAL g o o g l e   c a m p u s	COL name VAL google cash COL name_chars VAL g o o g l e   c a s h	0
+COL name VAL gen ali khalifeh COL name_chars VAL g e n   a l i   k h a l i f e h	COL name VAL gen gabriel khalife COL name_chars VAL g e n   g a b r i e l   k h a l i f e	0
+COL name VAL geagea argue COL name_chars VAL g e a g e a   a r g u e	COL name VAL geagea aoun COL name_chars VAL g e a g e a   a o u n	0
+COL name VAL armen gevorgian COL name_chars VAL a r m e n   g e v o r g i a n	COL name VAL armen grigoryan COL name_chars VAL a r m e n   g r i g o r y a n	0
+COL name VAL the irgc aerospace force COL name_chars VAL t h e   i r g c   a e r o s p a c e   f o r c e	COL name VAL irgc aerospace COL name_chars VAL i r g c   a e r o s p a c e	1
+COL name VAL daniel gericke COL name_chars VAL d a n i e l   g e r i c k e	COL name VAL daniel georr COL name_chars VAL d a n i e l   g e o r r	0
+COL name VAL george hollingbery COL name_chars VAL g e o r g e   h o l l i n g b e r y	COL name VAL george holliday COL name_chars VAL g e o r g e   h o l l i d a y	0
+COL name VAL alberto gutierrez COL name_chars VAL a l b e r t o   g u t i e r r e z	COL name VAL antonio gutierrez COL name_chars VAL a n t o n i o   g u t i e r r e z	0
+COL name VAL gillian tans COL name_chars VAL g i l l i a n   t a n s	COL name VAL gillian tett COL name_chars VAL g i l l i a n   t e t t	0
+COL name VAL georges henein COL name_chars VAL g e o r g e s   h e n e i n	COL name VAL georges herro COL name_chars VAL g e o r g e s   h e r r o	0
+COL name VAL al gergawi COL name_chars VAL a l   g e r g a w i	COL name VAL mohammad al gergawi COL name_chars VAL m o h a m m a d   a l   g e r g a w i	0
+COL name VAL david gainer COL name_chars VAL d a v i d   g a i n e r	COL name VAL david gauke COL name_chars VAL d a v i d   g a u k e	0
+COL name VAL quantum group COL name_chars VAL q u a n t u m   g r o u p	COL name VAL ant group COL name_chars VAL a n t   g r o u p	0
+COL name VAL basile ghosn COL name_chars VAL b a s i l e   g h o s n	COL name VAL carole ghosn COL name_chars VAL c a r o l e   g h o s n	0
+COL name VAL helene gardner COL name_chars VAL h e l e n e   g a r d n e r	COL name VAL helene gebrane COL name_chars VAL h e l e n e   g e b r a n e	0
+COL name VAL gabrielle giffords COL name_chars VAL g a b r i e l l e   g i f f o r d s	COL name VAL gabby giffords COL name_chars VAL g a b b y   g i f f o r d s	1
+COL name VAL greg lewis COL name_chars VAL g r e g   l e w i s	COL name VAL gary lewis COL name_chars VAL g a r y   l e w i s	0
+COL name VAL global blue company COL name_chars VAL g l o b a l   b l u e   c o m p a n y	COL name VAL global blue COL name_chars VAL g l o b a l   b l u e	1
+COL name VAL inge gr COL name_chars VAL i n g e   g r	COL name VAL inge grassle COL name_chars VAL i n g e   g r a s s l e	0
+COL name VAL martin garrix COL name_chars VAL m a r t i n   g a r r i x	COL name VAL martin gayford COL name_chars VAL m a r t i n   g a y f o r d	0
+COL name VAL haitham el ghoneim COL name_chars VAL h a i t h a m   e l   g h o n e i m	COL name VAL haitham al ghazi COL name_chars VAL h a i t h a m   a l   g h a z i	0
+COL name VAL van gulik COL name_chars VAL v a n   g u l i k	COL name VAL gauri van gulik COL name_chars VAL g a u r i   v a n   g u l i k	1
+COL name VAL martyr gemayel COL name_chars VAL m a r t y r   g e m a y e l	COL name VAL martyr pierre gemayel COL name_chars VAL m a r t y r   p i e r r e   g e m a y e l	1
+COL name VAL geoff dyer COL name_chars VAL g e o f f   d y e r	COL name VAL george dyer COL name_chars VAL g e o r g e   d y e r	0
+COL name VAL taylor gold COL name_chars VAL t a y l o r   g o l d	COL name VAL taylor gang COL name_chars VAL t a y l o r   g a n g	0
+COL name VAL james jabra giuseppe giannini COL name_chars VAL j a m e s   j a b r a   g i u s e p p e   g i a n n i n i	COL name VAL giuseppe giannini COL name_chars VAL g i u s e p p e   g i a n n i n i	0
+COL name VAL gita daher COL name_chars VAL g i t a   d a h e r	COL name VAL gaby daher COL name_chars VAL g a b y   d a h e r	0
+COL name VAL sheila lyall grant COL name_chars VAL s h e i l a   l y a l l   g r a n t	COL name VAL lyall grant COL name_chars VAL l y a l l   g r a n t	1
+COL name VAL tanios gebara COL name_chars VAL t a n i o s   g e b a r a	COL name VAL tanios gemayel COL name_chars VAL t a n i o s   g e m a y e l	0
+COL name VAL ghinwa obeid nizar zakka COL name_chars VAL g h i n w a   o b e i d   n i z a r   z a k k a	COL name VAL ghinwa obeid lara COL name_chars VAL g h i n w a   o b e i d   l a r a	0
+COL name VAL georges nelson COL name_chars VAL g e o r g e s   n e l s o n	COL name VAL georges nasr COL name_chars VAL g e o r g e s   n a s r	0
+COL name VAL taban deng gai COL name_chars VAL t a b a n   d e n g   g a i	COL name VAL deng gai COL name_chars VAL d e n g   g a i	0
+COL name VAL kamal abou jaoudeh COL name_chars VAL k a m a l   a b o u   j a o u d e h	COL name VAL kamal abou jaoude COL name_chars VAL k a m a l   a b o u   j a o u d e	1
+COL name VAL ali hassan khalik COL name_chars VAL a l i   h a s s a n   k h a l i k	COL name VAL ali hassan khali COL name_chars VAL a l i   h a s s a n   k h a l i	0
+COL name VAL karim al rassi COL name_chars VAL k a r i m   a l   r a s s i	COL name VAL karim al rasi COL name_chars VAL k a r i m   a l   r a s i	1
+COL name VAL ahmed ghazi kasha COL name_chars VAL a h m e d   g h a z i   k a s h a	COL name VAL ahmad ghazi kasha COL name_chars VAL a h m a d   g h a z i   k a s h a	1
+COL name VAL khaled al hamad al sabbah COL name_chars VAL k h a l e d   a l   h a m a d   a l   s a b b a h	COL name VAL khaled al hamad al sabah COL name_chars VAL k h a l e d   a l   h a m a d   a l   s a b a h	1
+COL name VAL ibrahim kannaan COL name_chars VAL i b r a h i m   k a n n a a n	COL name VAL ibrahim kanaan COL name_chars VAL i b r a h i m   k a n a a n	1
+COL name VAL nika kvaratskhelia COL name_chars VAL n i k a   k v a r a t s k h e l i a	COL name VAL nika kvaratskihelia COL name_chars VAL n i k a   k v a r a t s k i h e l i a	1
+COL name VAL naturai karta COL name_chars VAL n a t u r a i   k a r t a	COL name VAL naturaii karta COL name_chars VAL n a t u r a i i   k a r t a	1
+COL name VAL aftab ahmed khoker COL name_chars VAL a f t a b   a h m e d   k h o k e r	COL name VAL aftab ahmad khoker COL name_chars VAL a f t a b   a h m a d   k h o k e r	1
+COL name VAL mehran kamrava COL name_chars VAL m e h r a n   k a m r a v a	COL name VAL mehran kamrav COL name_chars VAL m e h r a n   k a m r a v	1
+COL name VAL kalam el nass COL name_chars VAL k a l a m   e l   n a s s	COL name VAL kalam el nas COL name_chars VAL k a l a m   e l   n a s	1
+COL name VAL hamad bin khalifah al thani COL name_chars VAL h a m a d   b i n   k h a l i f a h   a l   t h a n i	COL name VAL hamad bin khalifa al thani COL name_chars VAL h a m a d   b i n   k h a l i f a   a l   t h a n i	1
+COL name VAL kamal abou jaoude COL name_chars VAL k a m a l   a b o u   j a o u d e	COL name VAL kamal abou jaoudeh COL name_chars VAL k a m a l   a b o u   j a o u d e h	1
+COL name VAL naturaii karta COL name_chars VAL n a t u r a i i   k a r t a	COL name VAL naturai karta COL name_chars VAL n a t u r a i   k a r t a	1
+COL name VAL klass jan huntelaar COL name_chars VAL k l a s s   j a n   h u n t e l a a r	COL name VAL klaas jan huntelaar COL name_chars VAL k l a a s   j a n   h u n t e l a a r	1
+COL name VAL aad abi karam COL name_chars VAL a a d   a b i   k a r a m	COL name VAL ad abi karam COL name_chars VAL a d   a b i   k a r a m	1
+COL name VAL rashid bin abdullah alkhalifa COL name_chars VAL r a s h i d   b i n   a b d u l l a h   a l k h a l i f a	COL name VAL rashid bin abdullah al khalifa COL name_chars VAL r a s h i d   b i n   a b d u l l a h   a l   k h a l i f a	1
+COL name VAL karlheinz stockhausen COL name_chars VAL k a r l h e i n z   s t o c k h a u s e n	COL name VAL karl heinz stockhausen COL name_chars VAL k a r l   h e i n z   s t o c k h a u s e n	1
+COL name VAL mohammad rashid kabbani COL name_chars VAL m o h a m m a d   r a s h i d   k a b b a n i	COL name VAL mohamad rashid kabbani COL name_chars VAL m o h a m a d   r a s h i d   k a b b a n i	1
+COL name VAL mohamed kabbani COL name_chars VAL m o h a m e d   k a b b a n i	COL name VAL mohammed kabbani COL name_chars VAL m o h a m m e d   k a b b a n i	1
+COL name VAL mahmoud abdel karim saleh COL name_chars VAL m a h m o u d   a b d e l   k a r i m   s a l e h	COL name VAL mahmoud abdul karim saleh COL name_chars VAL m a h m o u d   a b d u l   k a r i m   s a l e h	1
+COL name VAL khaled abboud merhebi COL name_chars VAL k h a l e d   a b b o u d   m e r h e b i	COL name VAL khaled abboud merheb COL name_chars VAL k h a l e d   a b b o u d   m e r h e b	1
+COL name VAL kempinski summerland hotel COL name_chars VAL k e m p i n s k i   s u m m e r l a n d   h o t e l	COL name VAL kempinski summer land hotel COL name_chars VAL k e m p i n s k i   s u m m e r   l a n d   h o t e l	1
+COL name VAL georges kattaneh COL name_chars VAL g e o r g e s   k a t t a n e h	COL name VAL georges kettaneh COL name_chars VAL g e o r g e s   k e t t a n e h	1
+COL name VAL khiam rehabilitation center COL name_chars VAL k h i a m   r e h a b i l i t a t i o n   c e n t e r	COL name VAL khiyam rehabilitation center COL name_chars VAL k h i y a m   r e h a b i l i t a t i o n   c e n t e r	1
+COL name VAL ali mohammed kanaan COL name_chars VAL a l i   m o h a m m e d   k a n a a n	COL name VAL ali mohammad kanaan COL name_chars VAL a l i   m o h a m m a d   k a n a a n	1
+COL name VAL hassan kassem zahra COL name_chars VAL h a s s a n   k a s s e m   z a h r a	COL name VAL hassan kassem zahr COL name_chars VAL h a s s a n   k a s s e m   z a h r	0
+COL name VAL moaz kasasbeh COL name_chars VAL m o a z   k a s a s b e h	COL name VAL moaz kassasbeh COL name_chars VAL m o a z   k a s s a s b e h	1
+COL name VAL khalifa bin salman COL name_chars VAL k h a l i f a   b i n   s a l m a n	COL name VAL khalifa ben salman COL name_chars VAL k h a l i f a   b e n   s a l m a n	1
+COL name VAL kamal mohammad hujairi COL name_chars VAL k a m a l   m o h a m m a d   h u j a i r i	COL name VAL kamal mohammad hujeiri COL name_chars VAL k a m a l   m o h a m m a d   h u j e i r i	1
+COL name VAL aftab ahmed khokher COL name_chars VAL a f t a b   a h m e d   k h o k h e r	COL name VAL aftab ahmad khokher COL name_chars VAL a f t a b   a h m a d   k h o k h e r	1
+COL name VAL giselle khoury kassir COL name_chars VAL g i s e l l e   k h o u r y   k a s s i r	COL name VAL gisele khoury kassir COL name_chars VAL g i s e l e   k h o u r y   k a s s i r	1
+COL name VAL wael kadour COL name_chars VAL w a e l   k a d o u r	COL name VAL wael kaddour COL name_chars VAL w a e l   k a d d o u r	1
+COL name VAL hassan ali khaireddine COL name_chars VAL h a s s a n   a l i   k h a i r e d d i n e	COL name VAL hassan ali kheireddine COL name_chars VAL h a s s a n   a l i   k h e i r e d d i n e	1
+COL name VAL jad khalife COL name_chars VAL j a d   k h a l i f e	COL name VAL jad khalifeh COL name_chars VAL j a d   k h a l i f e h	1
+COL name VAL antoine khalifeh COL name_chars VAL a n t o i n e   k h a l i f e h	COL name VAL antoine khalife COL name_chars VAL a n t o i n e   k h a l i f e	1
+COL name VAL ali khoreiss COL name_chars VAL a l i   k h o r e i s s	COL name VAL ali khoreis COL name_chars VAL a l i   k h o r e i s	1
+COL name VAL sheikh hasan khaled COL name_chars VAL s h e i k h   h a s a n   k h a l e d	COL name VAL sheikh hassan khaled COL name_chars VAL s h e i k h   h a s s a n   k h a l e d	1
+COL name VAL kataeb hizbullah COL name_chars VAL k a t a e b   h i z b u l l a h	COL name VAL kataib hizbullah COL name_chars VAL k a t a i b   h i z b u l l a h	1
+COL name VAL aftab ahmad khoker COL name_chars VAL a f t a b   a h m a d   k h o k e r	COL name VAL aftab ahmed khoker COL name_chars VAL a f t a b   a h m e d   k h o k e r	1
+COL name VAL oussama al khatib COL name_chars VAL o u s s a m a   a l   k h a t i b	COL name VAL ousama al khatib COL name_chars VAL o u s a m a   a l   k h a t i b	1
+COL name VAL khalil al mayse COL name_chars VAL k h a l i l   a l   m a y s e	COL name VAL khalil al mays COL name_chars VAL k h a l i l   a l   m a y s	1
+COL name VAL imam sayyed ali khamenei COL name_chars VAL i m a m   s a y y e d   a l i   k h a m e n e i	COL name VAL imam sayyid ali khamenei COL name_chars VAL i m a m   s a y y i d   a l i   k h a m e n e i	1
+COL name VAL mohammed kheir COL name_chars VAL m o h a m m e d   k h e i r	COL name VAL mohamed kheir COL name_chars VAL m o h a m e d   k h e i r	1
+COL name VAL moueen rashad khorshid COL name_chars VAL m o u e e n   r a s h a d   k h o r s h i d	COL name VAL moeen rashad khorshid COL name_chars VAL m o e e n   r a s h a d   k h o r s h i d	1
+COL name VAL karel schwarzenberg COL name_chars VAL k a r e l   s c h w a r z e n b e r g	COL name VAL karl schwarzenberg COL name_chars VAL k a r l   s c h w a r z e n b e r g	1
+COL name VAL joseph abu khalil COL name_chars VAL j o s e p h   a b u   k h a l i l	COL name VAL joseph abou khalil COL name_chars VAL j o s e p h   a b o u   k h a l i l	1
+COL name VAL karim abdel hamid ezzeddine COL name_chars VAL k a r i m   a b d e l   h a m i d   e z z e d d i n e	COL name VAL karim abdul hamid ezzeddine COL name_chars VAL k a r i m   a b d u l   h a m i d   e z z e d d i n e	1
+COL name VAL fadi kassouf COL name_chars VAL f a d i   k a s s o u f	COL name VAL fadi kasouf COL name_chars VAL f a d i   k a s o u f	1
+COL name VAL brahim kanaan COL name_chars VAL b r a h i m   k a n a a n	COL name VAL ibrahim kanaan COL name_chars VAL i b r a h i m   k a n a a n	1
+COL name VAL ayatollah sayyed ali khamenei COL name_chars VAL a y a t o l l a h   s a y y e d   a l i   k h a m e n e i	COL name VAL ayatollah seyyed ali khamenei COL name_chars VAL a y a t o l l a h   s e y y e d   a l i   k h a m e n e i	1
+COL name VAL mohammad khatami COL name_chars VAL m o h a m m a d   k h a t a m i	COL name VAL mohammed khatami COL name_chars VAL m o h a m m e d   k h a t a m i	1
+COL name VAL king abdullah bin abdelaziz al saud COL name_chars VAL k i n g   a b d u l l a h   b i n   a b d e l a z i z   a l   s a u d	COL name VAL king abdullah bin abdel aziz al saud COL name_chars VAL k i n g   a b d u l l a h   b i n   a b d e l   a z i z   a l   s a u d	1
+COL name VAL the samir kassir eyes centre COL name_chars VAL t h e   s a m i r   k a s s i r   e y e s   c e n t r e	COL name VAL the samir kassir eyes center COL name_chars VAL t h e   s a m i r   k a s s i r   e y e s   c e n t e r	1
+COL name VAL seboh kalbakian COL name_chars VAL s e b o h   k a l b a k i a n	COL name VAL sebouh kalbakian COL name_chars VAL s e b o u h   k a l b a k i a n	1
+COL name VAL abdullah abdul karim al dais COL name_chars VAL a b d u l l a h   a b d u l   k a r i m   a l   d a i s	COL name VAL abdullah abdul karim al duais COL name_chars VAL a b d u l l a h   a b d u l   k a r i m   a l   d u a i s	1
+COL name VAL khaled al hujeiiri COL name_chars VAL k h a l e d   a l   h u j e i i r i	COL name VAL khaled al hujeiri COL name_chars VAL k h a l e d   a l   h u j e i r i	1
+COL name VAL antoine abou khater COL name_chars VAL a n t o i n e   a b o u   k h a t e r	COL name VAL antoine bou khater COL name_chars VAL a n t o i n e   b o u   k h a t e r	1
+COL name VAL youssef bey karam COL name_chars VAL y o u s s e f   b e y   k a r a m	COL name VAL youssef beyk karam COL name_chars VAL y o u s s e f   b e y k   k a r a m	1
+COL name VAL qays al khazali COL name_chars VAL q a y s   a l   k h a z a l i	COL name VAL qays al khazaali COL name_chars VAL q a y s   a l   k h a z a a l i	1
+COL name VAL iqlim el kharroub COL name_chars VAL i q l i m   e l   k h a r r o u b	COL name VAL iqlim el kharoub COL name_chars VAL i q l i m   e l   k h a r o u b	1
+COL name VAL assad abu khalil COL name_chars VAL a s s a d   a b u   k h a l i l	COL name VAL assaad abu khalil COL name_chars VAL a s s a a d   a b u   k h a l i l	1
+COL name VAL khalil habre COL name_chars VAL k h a l i l   h a b r e	COL name VAL khalil habr COL name_chars VAL k h a l i l   h a b r	1
+COL name VAL munir kheirallah COL name_chars VAL m u n i r   k h e i r a l l a h	COL name VAL munir khairallah COL name_chars VAL m u n i r   k h a i r a l l a h	1
+COL name VAL pierre al khoury COL name_chars VAL p i e r r e   a l   k h o u r y	COL name VAL pierre el khoury COL name_chars VAL p i e r r e   e l   k h o u r y	1
+COL name VAL khaled bin khalifa bin abdulaziz al thani COL name_chars VAL k h a l e d   b i n   k h a l i f a   b i n   a b d u l a z i z   a l   t h a n i	COL name VAL khaled bin khalifa bin abdul aziz al thani COL name_chars VAL k h a l e d   b i n   k h a l i f a   b i n   a b d u l   a z i z   a l   t h a n i	1
+COL name VAL behrouz kamalvandi COL name_chars VAL b e h r o u z   k a m a l v a n d i	COL name VAL behrouz kamalvindi COL name_chars VAL b e h r o u z   k a m a l v i n d i	1
+COL name VAL ahmed khazen ghamidi COL name_chars VAL a h m e d   k h a z e n   g h a m i d i	COL name VAL ahmed khazen hamidi COL name_chars VAL a h m e d   k h a z e n   h a m i d i	1
+COL name VAL khaled al hajj COL name_chars VAL k h a l e d   a l   h a j j	COL name VAL khaled al haj COL name_chars VAL k h a l e d   a l   h a j	1
+COL name VAL khaldoun oraymet COL name_chars VAL k h a l d o u n   o r a y m e t	COL name VAL khaldoun araymet COL name_chars VAL k h a l d o u n   a r a y m e t	1
+COL name VAL the korea people army COL name_chars VAL t h e   k o r e a   p e o p l e   a r m y	COL name VAL the korean people army COL name_chars VAL t h e   k o r e a n   p e o p l e   a r m y	1
+COL name VAL muhammad kawtharani COL name_chars VAL m u h a m m a d   k a w t h a r a n i	COL name VAL mohammad kawtharani COL name_chars VAL m o h a m m a d   k a w t h a r a n i	1
+COL name VAL mohammad karine COL name_chars VAL m o h a m m a d   k a r i n e	COL name VAL mohammad karin COL name_chars VAL m o h a m m a d   k a r i n	1
+COL name VAL abdul hamid karame COL name_chars VAL a b d u l   h a m i d   k a r a m e	COL name VAL abdul hamid karami COL name_chars VAL a b d u l   h a m i d   k a r a m i	1
+COL name VAL mohammad khaled sinno COL name_chars VAL m o h a m m a d   k h a l e d   s i n n o	COL name VAL mohammed khaled sinno COL name_chars VAL m o h a m m e d   k h a l e d   s i n n o	1
+COL name VAL suhel ajaz khan COL name_chars VAL s u h e l   a j a z   k h a n	COL name VAL suheil ajaz khan COL name_chars VAL s u h e i l   a j a z   k h a n	1
+COL name VAL king abdallah ii COL name_chars VAL k i n g   a b d a l l a h   i i	COL name VAL king abdullah ii COL name_chars VAL k i n g   a b d u l l a h   i i	1
+COL name VAL king salman bin abdul COL name_chars VAL k i n g   s a l m a n   b i n   a b d u l	COL name VAL king salman bin abdel COL name_chars VAL k i n g   s a l m a n   b i n   a b d e l	1
+COL name VAL anthony issam al khoury COL name_chars VAL a n t h o n y   i s s a m   a l   k h o u r y	COL name VAL anthony issa al khoury COL name_chars VAL a n t h o n y   i s s a   a l   k h o u r y	1
+COL name VAL abdul kader akoumi COL name_chars VAL a b d u l   k a d e r   a k o u m i	COL name VAL abdul kadir akoumi COL name_chars VAL a b d u l   k a d i r   a k o u m i	1
+COL name VAL hassan khalil COL name_chars VAL h a s s a n   k h a l i l	COL name VAL hassan khalili COL name_chars VAL h a s s a n   k h a l i l i	1
+COL name VAL hasan khalifah COL name_chars VAL h a s a n   k h a l i f a h	COL name VAL hasan khalifa COL name_chars VAL h a s a n   k h a l i f a	1
+COL name VAL cynthia abou khater COL name_chars VAL c y n t h i a   a b o u   k h a t e r	COL name VAL cynthia bou khater COL name_chars VAL c y n t h i a   b o u   k h a t e r	1
+COL name VAL rashid karameh COL name_chars VAL r a s h i d   k a r a m e h	COL name VAL rashid karame COL name_chars VAL r a s h i d   k a r a m e	1
+COL name VAL ghazi abou karroum COL name_chars VAL g h a z i   a b o u   k a r r o u m	COL name VAL ghazi bou karroum COL name_chars VAL g h a z i   b o u   k a r r o u m	1
+COL name VAL ghada abou karroum COL name_chars VAL g h a d a   a b o u   k a r r o u m	COL name VAL ghada bou karroum COL name_chars VAL g h a d a   b o u   k a r r o u m	1
+COL name VAL abdel khaleq abdullah COL name_chars VAL a b d e l   k h a l e q   a b d u l l a h	COL name VAL abdul khaleq abdullah COL name_chars VAL a b d u l   k h a l e q   a b d u l l a h	1
+COL name VAL khaled ahmed ahdab COL name_chars VAL k h a l e d   a h m e d   a h d a b	COL name VAL khaled ahmad ahdab COL name_chars VAL k h a l e d   a h m a d   a h d a b	1
+COL name VAL mohammad samer al khalil COL name_chars VAL m o h a m m a d   s a m e r   a l   k h a l i l	COL name VAL mohammed samer al khalil COL name_chars VAL m o h a m m e d   s a m e r   a l   k h a l i l	1
+COL name VAL mohammed karim bou dali COL name_chars VAL m o h a m m e d   k a r i m   b o u   d a l i	COL name VAL mohammed karim boudali COL name_chars VAL m o h a m m e d   k a r i m   b o u d a l i	1
+COL name VAL mona chahine khauli COL name_chars VAL m o n a   c h a h i n e   k h a u l i	COL name VAL mona shahine khauli COL name_chars VAL m o n a   s h a h i n e   k h a u l i	1
+COL name VAL bassam alkhodari COL name_chars VAL b a s s a m   a l k h o d a r i	COL name VAL bassam al khodari COL name_chars VAL b a s s a m   a l   k h o d a r i	1
+COL name VAL khattar nasreddine COL name_chars VAL k h a t t a r   n a s r e d d i n e	COL name VAL khattar nasreddin COL name_chars VAL k h a t t a r   n a s r e d d i n	1
+COL name VAL freddy keyrouz COL name_chars VAL f r e d d y   k e y r o u z	COL name VAL freddy keiyrouz COL name_chars VAL f r e d d y   k e i y r o u z	1
+COL name VAL majdi khalid COL name_chars VAL m a j d i   k h a l i d	COL name VAL majdi khalidi COL name_chars VAL m a j d i   k h a l i d i	1
+COL name VAL mohamad kanaan COL name_chars VAL m o h a m a d   k a n a a n	COL name VAL mohammad kanaan COL name_chars VAL m o h a m m a d   k a n a a n	1
+COL name VAL mohamed kheir COL name_chars VAL m o h a m e d   k h e i r	COL name VAL mohammed kheir COL name_chars VAL m o h a m m e d   k h e i r	1
+COL name VAL mohammad kabarra COL name_chars VAL m o h a m m a d   k a b a r r a	COL name VAL mohammad kabara COL name_chars VAL m o h a m m a d   k a b a r a	1
+COL name VAL abdullah abdel karim al daees COL name_chars VAL a b d u l l a h   a b d e l   k a r i m   a l   d a e e s	COL name VAL abdallah abdel karim al daes COL name_chars VAL a b d a l l a h   a b d e l   k a r i m   a l   d a e s	1
+COL name VAL the prince of kuweit COL name_chars VAL t h e   p r i n c e   o f   k u w e i t	COL name VAL the prince of kuwait COL name_chars VAL t h e   p r i n c e   o f   k u w a i t	1
+COL name VAL abdel halim khaddam COL name_chars VAL a b d e l   h a l i m   k h a d d a m	COL name VAL abdul halim khaddam COL name_chars VAL a b d u l   h a l i m   k h a d d a m	1
+COL name VAL khaled al hojairi COL name_chars VAL k h a l e d   a l   h o j a i r i	COL name VAL khaled al hujairi COL name_chars VAL k h a l e d   a l   h u j a i r i	1
+COL name VAL lara karam boustany COL name_chars VAL l a r a   k a r a m   b o u s t a n y	COL name VAL lara karam bustany COL name_chars VAL l a r a   k a r a m   b u s t a n y	1
+COL name VAL joseph philippe karam COL name_chars VAL j o s e p h   p h i l i p p e   k a r a m	COL name VAL joseph phillipe karam COL name_chars VAL j o s e p h   p h i l l i p e   k a r a m	1
+COL name VAL mohamad kabbani COL name_chars VAL m o h a m a d   k a b b a n i	COL name VAL mohammad kabbani COL name_chars VAL m o h a m m a d   k a b b a n i	1
+COL name VAL mustafa al kosaa COL name_chars VAL m u s t a f a   a l   k o s a a	COL name VAL mustafa al kasaa COL name_chars VAL m u s t a f a   a l   k a s a a	1
+COL name VAL khaled al asaad COL name_chars VAL k h a l e d   a l   a s a a d	COL name VAL khaled al asaadi COL name_chars VAL k h a l e d   a l   a s a a d i	1
+COL name VAL khaled masaad COL name_chars VAL k h a l e d   m a s a a d	COL name VAL khaled massaad COL name_chars VAL k h a l e d   m a s s a a d	1
+COL name VAL najib abou khalil COL name_chars VAL n a j i b   a b o u   k h a l i l	COL name VAL najib abu khalil COL name_chars VAL n a j i b   a b u   k h a l i l	1
+COL name VAL kuwaiti al anba COL name_chars VAL k u w a i t i   a l   a n b a	COL name VAL kuwaiti al anbaa COL name_chars VAL k u w a i t i   a l   a n b a a	1
+COL name VAL giselle khoury COL name_chars VAL g i s e l l e   k h o u r y	COL name VAL gisele khoury COL name_chars VAL g i s e l e   k h o u r y	1
+COL name VAL ayman kamaleddine COL name_chars VAL a y m a n   k a m a l e d d i n e	COL name VAL ayman kamaledine COL name_chars VAL a y m a n   k a m a l e d i n e	1
+COL name VAL abdullah abdul karim al douais COL name_chars VAL a b d u l l a h   a b d u l   k a r i m   a l   d o u a i s	COL name VAL abdullah abdul karim al duais COL name_chars VAL a b d u l l a h   a b d u l   k a r i m   a l   d u a i s	1
+COL name VAL khaled ben ali hardane COL name_chars VAL k h a l e d   b e n   a l i   h a r d a n e	COL name VAL khaled ben ali hardan COL name_chars VAL k h a l e d   b e n   a l i   h a r d a n	1
+COL name VAL sayed ali khamenei COL name_chars VAL s a y e d   a l i   k h a m e n e i	COL name VAL sayyed ali khamenei COL name_chars VAL s a y y e d   a l i   k h a m e n e i	1
+COL name VAL hammoud khaled awad COL name_chars VAL h a m m o u d   k h a l e d   a w a d	COL name VAL hamoud khaled awad COL name_chars VAL h a m o u d   k h a l e d   a w a d	1
+COL name VAL youssef kanaan COL name_chars VAL y o u s s e f   k a n a a n	COL name VAL yousef kanaan COL name_chars VAL y o u s e f   k a n a a n	1
+COL name VAL jessica kahawati COL name_chars VAL j e s s i c a   k a h a w a t i	COL name VAL jessica kahawaty COL name_chars VAL j e s s i c a   k a h a w a t y	1
+COL name VAL hamed al khaffaf COL name_chars VAL h a m e d   a l   k h a f f a f	COL name VAL hamed al khafaf COL name_chars VAL h a m e d   a l   k h a f a f	1
+COL name VAL karam ghossein COL name_chars VAL k a r a m   g h o s s e i n	COL name VAL karam ghoussein COL name_chars VAL k a r a m   g h o u s s e i n	1
+COL name VAL khalid bin ali al humaidan COL name_chars VAL k h a l i d   b i n   a l i   a l   h u m a i d a n	COL name VAL khaled bin ali al humaidan COL name_chars VAL k h a l e d   b i n   a l i   a l   h u m a i d a n	1
+COL name VAL the kamal jumblatt hospital COL name_chars VAL t h e   k a m a l   j u m b l a t t   h o s p i t a l	COL name VAL the kamal jumblat hospital COL name_chars VAL t h e   k a m a l   j u m b l a t   h o s p i t a l	1
+COL name VAL aviv kochavin COL name_chars VAL a v i v   k o c h a v i n	COL name VAL aviv kochavi COL name_chars VAL a v i v   k o c h a v i	1
+COL name VAL abdul karim al dais COL name_chars VAL a b d u l   k a r i m   a l   d a i s	COL name VAL abdul karim al daeis COL name_chars VAL a b d u l   k a r i m   a l   d a e i s	1
+COL name VAL khalil abdalla COL name_chars VAL k h a l i l   a b d a l l a	COL name VAL khalil abdallah COL name_chars VAL k h a l i l   a b d a l l a h	1
+COL name VAL salman bin ibrahim al khalifa COL name_chars VAL s a l m a n   b i n   i b r a h i m   a l   k h a l i f a	COL name VAL salman bin ebrahim al khalifa COL name_chars VAL s a l m a n   b i n   e b r a h i m   a l   k h a l i f a	1
+COL name VAL sayyid ali khamenei COL name_chars VAL s a y y i d   a l i   k h a m e n e i	COL name VAL sayyed ali khamenei COL name_chars VAL s a y y e d   a l i   k h a m e n e i	1
+COL name VAL aytollah ali khamenei COL name_chars VAL a y t o l l a h   a l i   k h a m e n e i	COL name VAL ayatollah ali khamenei COL name_chars VAL a y a t o l l a h   a l i   k h a m e n e i	1
+COL name VAL khalid bin mohammed al attiyah COL name_chars VAL k h a l i d   b i n   m o h a m m e d   a l   a t t i y a h	COL name VAL khalid bin mohamed al attiyah COL name_chars VAL k h a l i d   b i n   m o h a m e d   a l   a t t i y a h	1
+COL name VAL magda bou dagher kharraf COL name_chars VAL m a g d a   b o u   d a g h e r   k h a r r a f	COL name VAL magda bou dagher kharrat COL name_chars VAL m a g d a   b o u   d a g h e r   k h a r r a t	1
+COL name VAL ad abi karam COL name_chars VAL a d   a b i   k a r a m	COL name VAL aad abi karam COL name_chars VAL a a d   a b i   k a r a m	1
+COL name VAL yousef kanaan COL name_chars VAL y o u s e f   k a n a a n	COL name VAL youssef kanaan COL name_chars VAL y o u s s e f   k a n a a n	1
+COL name VAL ali khreiss COL name_chars VAL a l i   k h r e i s s	COL name VAL ali khreis COL name_chars VAL a l i   k h r e i s	1
+COL name VAL mohamad kawtharani COL name_chars VAL m o h a m a d   k a w t h a r a n i	COL name VAL mohammad kawtharani COL name_chars VAL m o h a m m a d   k a w t h a r a n i	1
+COL name VAL sultan khalifa as ad COL name_chars VAL s u l t a n   k h a l i f a   a s   a d	COL name VAL sultan khalifah as ad COL name_chars VAL s u l t a n   k h a l i f a h   a s   a d	1
+COL name VAL andrey krutskikh COL name_chars VAL a n d r e y   k r u t s k i k h	COL name VAL andrei krutskikh COL name_chars VAL a n d r e i   k r u t s k i k h	1
+COL name VAL the knights templars COL name_chars VAL t h e   k n i g h t s   t e m p l a r s	COL name VAL the knights templar COL name_chars VAL t h e   k n i g h t s   t e m p l a r	1
+COL name VAL abdul aziz khoja COL name_chars VAL a b d u l   a z i z   k h o j a	COL name VAL abdul aziz khojah COL name_chars VAL a b d u l   a z i z   k h o j a h	1
+COL name VAL king hamad bin issa al khalifa COL name_chars VAL k i n g   h a m a d   b i n   i s s a   a l   k h a l i f a	COL name VAL king hamad bin isa al khalifa COL name_chars VAL k i n g   h a m a d   b i n   i s a   a l   k h a l i f a	1
+COL name VAL khaled moqbel hasan COL name_chars VAL k h a l e d   m o q b e l   h a s a n	COL name VAL khaled moqbel hassan COL name_chars VAL k h a l e d   m o q b e l   h a s s a n	1
+COL name VAL hani kobeissi COL name_chars VAL h a n i   k o b e i s s i	COL name VAL hani kobeisi COL name_chars VAL h a n i   k o b e i s i	1
+COL name VAL hamad bin isa al khalifa COL name_chars VAL h a m a d   b i n   i s a   a l   k h a l i f a	COL name VAL hamad bin issa al khalifa COL name_chars VAL h a m a d   b i n   i s s a   a l   k h a l i f a	1
+COL name VAL mustafa kamel al sayyed COL name_chars VAL m u s t a f a   k a m e l   a l   s a y y e d	COL name VAL mostafa kamel al sayyed COL name_chars VAL m o s t a f a   k a m e l   a l   s a y y e d	1
+COL name VAL ibrahim kanaan COL name_chars VAL i b r a h i m   k a n a a n	COL name VAL ibrahim kannaan COL name_chars VAL i b r a h i m   k a n n a a n	1
+COL name VAL richard kouyoumjian COL name_chars VAL r i c h a r d   k o u y o u m j i a n	COL name VAL richard koyoumjian COL name_chars VAL r i c h a r d   k o y o u m j i a n	1
+COL name VAL saroj kumar jah COL name_chars VAL s a r o j   k u m a r   j a h	COL name VAL saroj kumar ja COL name_chars VAL s a r o j   k u m a r   j a	1
+COL name VAL khaled abbasi COL name_chars VAL k h a l e d   a b b a s i	COL name VAL khaled abbas COL name_chars VAL k h a l e d   a b b a s	1
+COL name VAL andre kassas COL name_chars VAL a n d r e   k a s s a s	COL name VAL andre kassass COL name_chars VAL a n d r e   k a s s a s s	1
+COL name VAL mohammad omar khodeir COL name_chars VAL m o h a m m a d   o m a r   k h o d e i r	COL name VAL mohammad omar khodier COL name_chars VAL m o h a m m a d   o m a r   k h o d i e r	1
+COL name VAL richard kuyumjian COL name_chars VAL r i c h a r d   k u y u m j i a n	COL name VAL richard kouyumjian COL name_chars VAL r i c h a r d   k o u y u m j i a n	1
+COL name VAL karim darwich COL name_chars VAL k a r i m   d a r w i c h	COL name VAL karim darwiche COL name_chars VAL k a r i m   d a r w i c h e	1
+COL name VAL khaled al faysal COL name_chars VAL k h a l e d   a l   f a y s a l	COL name VAL khaled al faisal COL name_chars VAL k h a l e d   a l   f a i s a l	1
+COL name VAL khalil harfouch COL name_chars VAL k h a l i l   h a r f o u c h	COL name VAL khalil harfouche COL name_chars VAL k h a l i l   h a r f o u c h e	1
+COL name VAL wael khaddaj COL name_chars VAL w a e l   k h a d d a j	COL name VAL wael khaddaje COL name_chars VAL w a e l   k h a d d a j e	1
+COL name VAL afif khafaja COL name_chars VAL a f i f   k h a f a j a	COL name VAL afif khafajah COL name_chars VAL a f i f   k h a f a j a h	1
+COL name VAL klaus jan huntelaar COL name_chars VAL k l a u s   j a n   h u n t e l a a r	COL name VAL klaas jan huntelaar COL name_chars VAL k l a a s   j a n   h u n t e l a a r	1
+COL name VAL abdul kadir akoumi COL name_chars VAL a b d u l   k a d i r   a k o u m i	COL name VAL abdul kader akoumi COL name_chars VAL a b d u l   k a d e r   a k o u m i	1
+COL name VAL khaled el khateeb COL name_chars VAL k h a l e d   e l   k h a t e e b	COL name VAL khaled al khateeb COL name_chars VAL k h a l e d   a l   k h a t e e b	1
+COL name VAL king abdallah bin abdul aziz COL name_chars VAL k i n g   a b d a l l a h   b i n   a b d u l   a z i z	COL name VAL king abdullah bin abdul aziz COL name_chars VAL k i n g   a b d u l l a h   b i n   a b d u l   a z i z	1
+COL name VAL ali husein khalil COL name_chars VAL a l i   h u s e i n   k h a l i l	COL name VAL ali hussein khalil COL name_chars VAL a l i   h u s s e i n   k h a l i l	1
+COL name VAL saad eddine khaled COL name_chars VAL s a a d   e d d i n e   k h a l e d	COL name VAL saadeddine khaled COL name_chars VAL s a a d e d d i n e   k h a l e d	1
+COL name VAL the pro kurdish peace and democracy party COL name_chars VAL t h e   p r o   k u r d i s h   p e a c e   a n d   d e m o c r a c y   p a r t y	COL name VAL pro kurdish peace and democracy party COL name_chars VAL p r o   k u r d i s h   p e a c e   a n d   d e m o c r a c y   p a r t y	1
+COL name VAL abbas khamehyar COL name_chars VAL a b b a s   k h a m e h y a r	COL name VAL abbas khameh yar COL name_chars VAL a b b a s   k h a m e h   y a r	1
+COL name VAL kennedy lugar youth exchange and study program COL name_chars VAL k e n n e d y   l u g a r   y o u t h   e x c h a n g e   a n d   s t u d y   p r o g r a m	COL name VAL the kennedy lugar youth exchange and study program COL name_chars VAL t h e   k e n n e d y   l u g a r   y o u t h   e x c h a n g e   a n d   s t u d y   p r o g r a m	1
+COL name VAL aram keshishia COL name_chars VAL a r a m   k e s h i s h i a	COL name VAL aram keshishian COL name_chars VAL a r a m   k e s h i s h i a n	1
+COL name VAL the knesset foreign affairs and defense committee COL name_chars VAL t h e   k n e s s e t   f o r e i g n   a f f a i r s   a n d   d e f e n s e   c o m m i t t e e	COL name VAL knesset foreign affairs and defense committee COL name_chars VAL k n e s s e t   f o r e i g n   a f f a i r s   a n d   d e f e n s e   c o m m i t t e e	1
+COL name VAL karami antoine amrieh COL name_chars VAL k a r a m i   a n t o i n e   a m r i e h	COL name VAL karam antoine amrieh COL name_chars VAL k a r a m   a n t o i n e   a m r i e h	1
+COL name VAL abdallah bin nasser bin khalifa al thani COL name_chars VAL a b d a l l a h   b i n   n a s s e r   b i n   k h a l i f a   a l   t h a n i	COL name VAL abdullah bin nasser bin khalifa al thani COL name_chars VAL a b d u l l a h   b i n   n a s s e r   b i n   k h a l i f a   a l   t h a n i	1
+COL name VAL hamad bin abdul aziz al kawari COL name_chars VAL h a m a d   b i n   a b d u l   a z i z   a l   k a w a r i	COL name VAL hamad bin abdul aziz al kuwari COL name_chars VAL h a m a d   b i n   a b d u l   a z i z   a l   k u w a r i	1
+COL name VAL kayed ghadada COL name_chars VAL k a y e d   g h a d a d a	COL name VAL kayed ghadadah COL name_chars VAL k a y e d   g h a d a d a h	1
+COL name VAL sabah khalid al hamad al sabah COL name_chars VAL s a b a h   k h a l i d   a l   h a m a d   a l   s a b a h	COL name VAL sabah khaled al hamad al sabah COL name_chars VAL s a b a h   k h a l e d   a l   h a m a d   a l   s a b a h	1
+COL name VAL mohamed khawaja COL name_chars VAL m o h a m e d   k h a w a j a	COL name VAL mohammed khawaja COL name_chars VAL m o h a m m e d   k h a w a j a	1
+COL name VAL mohammad ahmed khaled COL name_chars VAL m o h a m m a d   a h m e d   k h a l e d	COL name VAL mohammad ahmad khaled COL name_chars VAL m o h a m m a d   a h m a d   k h a l e d	1
+COL name VAL ara khatchaturian COL name_chars VAL a r a   k h a t c h a t u r i a n	COL name VAL ara khachaturian COL name_chars VAL a r a   k h a c h a t u r i a n	1
+COL name VAL bassem al kaisi COL name_chars VAL b a s s e m   a l   k a i s i	COL name VAL bassem al kaissi COL name_chars VAL b a s s e m   a l   k a i s s i	1
+COL name VAL monika schmutz kergus COL name_chars VAL m o n i k a   s c h m u t z   k e r g u s	COL name VAL monica schmutz kergus COL name_chars VAL m o n i c a   s c h m u t z   k e r g u s	1
+COL name VAL richard koyumjian COL name_chars VAL r i c h a r d   k o y u m j i a n	COL name VAL richard kouyumjian COL name_chars VAL r i c h a r d   k o u y u m j i a n	1
+COL name VAL khalil hajal COL name_chars VAL k h a l i l   h a j a l	COL name VAL khalil haja COL name_chars VAL k h a l i l   h a j a	1
+COL name VAL abdo abu kasam COL name_chars VAL a b d o   a b u   k a s a m	COL name VAL abdo abu kassam COL name_chars VAL a b d o   a b u   k a s s a m	1
+COL name VAL andreas kindl COL name_chars VAL a n d r e a s   k i n d l	COL name VAL andreas kindle COL name_chars VAL a n d r e a s   k i n d l e	1
+COL name VAL khalil matouq COL name_chars VAL k h a l i l   m a t o u q	COL name VAL khalil maatouq COL name_chars VAL k h a l i l   m a a t o u q	1
+COL name VAL abdallah abdel karim al daes COL name_chars VAL a b d a l l a h   a b d e l   k a r i m   a l   d a e s	COL name VAL abdullah abdel karim al daees COL name_chars VAL a b d u l l a h   a b d e l   k a r i m   a l   d a e e s	1
+COL name VAL muhammad shahed amin khan COL name_chars VAL m u h a m m a d   s h a h e d   a m i n   k h a n	COL name VAL muhammad shahid amin khan COL name_chars VAL m u h a m m a d   s h a h i d   a m i n   k h a n	1
+COL name VAL kurdistan workers party COL name_chars VAL k u r d i s t a n   w o r k e r s   p a r t y	COL name VAL kurdistan worker party COL name_chars VAL k u r d i s t a n   w o r k e r   p a r t y	1
+COL name VAL elie khalife COL name_chars VAL e l i e   k h a l i f e	COL name VAL elie khalifee COL name_chars VAL e l i e   k h a l i f e e	1
+COL name VAL mustafa abu shagur COL name_chars VAL m u s t a f a   a b u   s h a g u r	COL name VAL moustafa abou chacour COL name_chars VAL m o u s t a f a   a b o u   c h a c o u r	1
+COL name VAL zehut COL name_chars VAL z e h u t	COL name VAL sahadi COL name_chars VAL s a h a d i	0
+COL name VAL quintana COL name_chars VAL q u i n t a n a	COL name VAL cantona COL name_chars VAL c a n t o n a	0
+COL name VAL hossain COL name_chars VAL h o s s a i n	COL name VAL hassanieh COL name_chars VAL h a s s a n i e h	0
+COL name VAL bakhshi COL name_chars VAL b a k h s h i	COL name VAL bakhash COL name_chars VAL b a k h a s h	0
+COL name VAL akram shuhayib COL name_chars VAL a k r a m   s h u h a y i b	COL name VAL akram chouhayeb COL name_chars VAL a k r a m   c h o u h a y e b	1
+COL name VAL sawt el mada radio COL name_chars VAL s a w t   e l   m a d a   r a d i o	COL name VAL sawt al mada radio COL name_chars VAL s a w t   a l   m a d a   r a d i o	1
+COL name VAL simon said COL name_chars VAL s i m o n   s a i d	COL name VAL semaan saadeh COL name_chars VAL s e m a a n   s a a d e h	0
+COL name VAL ha tae keung COL name_chars VAL h a   t a e   k e u n g	COL name VAL bb king COL name_chars VAL b b   k i n g	0
+COL name VAL martin hout COL name_chars VAL m a r t i n   h o u t	COL name VAL martin hott COL name_chars VAL m a r t i n   h o t t	0
+COL name VAL zulfikar COL name_chars VAL z u l f i k a r	COL name VAL zulfaqar COL name_chars VAL z u l f a q a r	1
+COL name VAL kalinic COL name_chars VAL k a l i n i c	COL name VAL cooling COL name_chars VAL c o o l i n g	0
+COL name VAL gallery zamaan COL name_chars VAL g a l l e r y   z a m a a n	COL name VAL zamaan gallery COL name_chars VAL z a m a a n   g a l l e r y	1
+COL name VAL muhammad qabbany COL name_chars VAL m u h a m m a d   q a b b a n y	COL name VAL muhammad kabbani COL name_chars VAL m u h a m m a d   k a b b a n i	1
+COL name VAL the endowments ministry COL name_chars VAL t h e   e n d o w m e n t s   m i n i s t r y	COL name VAL endowment ministry COL name_chars VAL e n d o w m e n t   m i n i s t r y	1
+COL name VAL said touma COL name_chars VAL s a i d   t o u m a	COL name VAL tm sidhi COL name_chars VAL t m   s i d h i	0
+COL name VAL faten jomaa COL name_chars VAL f a t e n   j o m a a	COL name VAL jim fitton COL name_chars VAL j i m   f i t t o n	0
+COL name VAL ahmed al sabti COL name_chars VAL a h m e d   a l   s a b t i	COL name VAL ahmed el sabti COL name_chars VAL a h m e d   e l   s a b t i	1
+COL name VAL clara mawaad COL name_chars VAL c l a r a   m a w a a d	COL name VAL med clear COL name_chars VAL m e d   c l e a r	0
+COL name VAL monzer akbik COL name_chars VAL m o n z e r   a k b i k	COL name VAL monzer aqbiq COL name_chars VAL m o n z e r   a q b i q	1
+COL name VAL karine tawil COL name_chars VAL k a r i n e   t a w i l	COL name VAL karine tuil COL name_chars VAL k a r i n e   t u i l	1
+COL name VAL mavromattes COL name_chars VAL m a v r o m a t t e s	COL name VAL mavromattis COL name_chars VAL m a v r o m a t t i s	1
+COL name VAL john kerry COL name_chars VAL j o h n   k e r r y	COL name VAL john curry COL name_chars VAL j o h n   c u r r y	1
+COL name VAL petro poroshenko COL name_chars VAL p e t r o   p o r o s h e n k o	COL name VAL petr poroshenko COL name_chars VAL p e t r   p o r o s h e n k o	1
+COL name VAL kefiyyeh COL name_chars VAL k e f i y y e h	COL name VAL cdf COL name_chars VAL c d f	0
+COL name VAL amal alamuddin COL name_chars VAL a m a l   a l a m u d d i n	COL name VAL amal alameddine COL name_chars VAL a m a l   a l a m e d d i n e	1
+COL name VAL mounir khairallah COL name_chars VAL m o u n i r   k h a i r a l l a h	COL name VAL mounir khayrallah COL name_chars VAL m o u n i r   k h a y r a l l a h	1
+COL name VAL ali ghediri COL name_chars VAL a l i   g h e d i r i	COL name VAL ali ghaddar COL name_chars VAL a l i   g h a d d a r	0
+COL name VAL piers pigou COL name_chars VAL p i e r s   p i g o u	COL name VAL the big powers COL name_chars VAL t h e   b i g   p o w e r s	0
+COL name VAL the work in progress COL name_chars VAL t h e   w o r k   i n   p r o g r e s s	COL name VAL work in progress COL name_chars VAL w o r k   i n   p r o g r e s s	1
+COL name VAL mohammad janbeh COL name_chars VAL m o h a m m a d   j a n b e h	COL name VAL mohammad janbieh COL name_chars VAL m o h a m m a d   j a n b i e h	1
+COL name VAL zoheir COL name_chars VAL z o h e i r	COL name VAL saher COL name_chars VAL s a h e r	0
+COL name VAL mustafa houri COL name_chars VAL m u s t a f a   h o u r i	COL name VAL musatafa houri COL name_chars VAL m u s a t a f a   h o u r i	1
+COL name VAL iskander COL name_chars VAL i s k a n d e r	COL name VAL ascend COL name_chars VAL a s c e n d	0
+COL name VAL zouein COL name_chars VAL z o u e i n	COL name VAL liu xiayuan COL name_chars VAL l i u   x i a y u a n	0
+COL name VAL manguin COL name_chars VAL m a n g u i n	COL name VAL guy manoukian COL name_chars VAL g u y   m a n o u k i a n	0
+COL name VAL el mashnouq COL name_chars VAL e l   m a s h n o u q	COL name VAL al mashnouq COL name_chars VAL a l   m a s h n o u q	1
+COL name VAL madoff COL name_chars VAL m a d o f f	COL name VAL mdtf COL name_chars VAL m d t f	0
+COL name VAL tehan COL name_chars VAL t e h a n	COL name VAL dahan COL name_chars VAL d a h a n	0
+COL name VAL atalla COL name_chars VAL a t a l l a	COL name VAL adl COL name_chars VAL a d l	0
+COL name VAL alia mobayed COL name_chars VAL a l i a   m o b a y e d	COL name VAL alia moubayed COL name_chars VAL a l i a   m o u b a y e d	1
+COL name VAL brueggemann COL name_chars VAL b r u e g g e m a n n	COL name VAL bergamo COL name_chars VAL b e r g a m o	0
+COL name VAL walid isamail COL name_chars VAL w a l i d   i s a m a i l	COL name VAL walid ismael COL name_chars VAL w a l i d   i s m a e l	1
+COL name VAL li kuiwen COL name_chars VAL l i   k u i w e n	COL name VAL cane COL name_chars VAL c a n e	0
+COL name VAL hizbullh COL name_chars VAL h i z b u l l h	COL name VAL haspel COL name_chars VAL h a s p e l	0
+COL name VAL influence COL name_chars VAL i n f l u e n c e	COL name VAL anfal COL name_chars VAL a n f a l	0
+COL name VAL salman bin abdelaziz COL name_chars VAL s a l m a n   b i n   a b d e l a z i z	COL name VAL salaman bin abdulaziz COL name_chars VAL s a l a m a n   b i n   a b d u l a z i z	1
+COL name VAL mounir dweidy COL name_chars VAL m o u n i r   d w e i d y	COL name VAL mounir doueidy COL name_chars VAL m o u n i r   d o u e i d y	1
+COL name VAL houssam al louati COL name_chars VAL h o u s s a m   a l   l o u a t i	COL name VAL houssam al louwati COL name_chars VAL h o u s s a m   a l   l o u w a t i	1
+COL name VAL faddoul COL name_chars VAL f a d d o u l	COL name VAL fadell COL name_chars VAL f a d e l l	0
+COL name VAL hts COL name_chars VAL h t s	COL name VAL ds COL name_chars VAL d s	0
+COL name VAL mehdi hosseini COL name_chars VAL m e h d i   h o s s e i n i	COL name VAL hasan mehdi COL name_chars VAL h a s a n   m e h d i	0
+COL name VAL rhytemno COL name_chars VAL r h y t e m n o	COL name VAL radman COL name_chars VAL r a d m a n	0
+COL name VAL dai ammar COL name_chars VAL d a i   a m m a r	COL name VAL amouri COL name_chars VAL a m o u r i	0
+COL name VAL fadl shmandour COL name_chars VAL f a d l   s h m a n d o u r	COL name VAL fadel shmandar COL name_chars VAL f a d e l   s h m a n d a r	1
+COL name VAL naim ajaimi COL name_chars VAL n a i m   a j a i m i	COL name VAL naim ojaimi COL name_chars VAL n a i m   o j a i m i	1
+COL name VAL khammar mrabit COL name_chars VAL k h a m m a r   m r a b i t	COL name VAL khomar morabet COL name_chars VAL k h o m a r   m o r a b e t	0
+COL name VAL evain COL name_chars VAL e v a i n	COL name VAL affan COL name_chars VAL a f f a n	0
+COL name VAL unerwa COL name_chars VAL u n e r w a	COL name VAL anera COL name_chars VAL a n e r a	0
+COL name VAL abu eyad shaalan COL name_chars VAL a b u   e y a d   s h a a l a n	COL name VAL abu ayad shaalan COL name_chars VAL a b u   a y a d   s h a a l a n	1
+COL name VAL hujairi nna COL name_chars VAL h u j a i r i   n n a	COL name VAL houjairi COL name_chars VAL h o u j a i r i	1
+COL name VAL ahmed fakhran COL name_chars VAL a h m e d   f a k h r a n	COL name VAL ahmad fekhran COL name_chars VAL a h m a d   f e k h r a n	1
+COL name VAL elly chen COL name_chars VAL e l l y   c h e n	COL name VAL ali shanaa COL name_chars VAL a l i   s h a n a a	0
+COL name VAL el megarif COL name_chars VAL e l   m e g a r i f	COL name VAL el magariaf COL name_chars VAL e l   m a g a r i a f	1
+COL name VAL nt COL name_chars VAL n t	COL name VAL 2nd COL name_chars VAL 2 n d	0
+COL name VAL rouhani COL name_chars VAL r o u h a n i	COL name VAL may rihani COL name_chars VAL m a y   r i h a n i	0
+COL name VAL hasan al meqdad COL name_chars VAL h a s a n   a l   m e q d a d	COL name VAL hassan al meqdad COL name_chars VAL h a s s a n   a l   m e q d a d	1
+COL name VAL yasmine sherif COL name_chars VAL y a s m i n e   s h e r i f	COL name VAL usman sharifi COL name_chars VAL u s m a n   s h a r i f i	0
+COL name VAL adib nehmeh COL name_chars VAL a d i b   n e h m e h	COL name VAL adib nehme COL name_chars VAL a d i b   n e h m e	1
+COL name VAL assad herdan COL name_chars VAL a s s a d   h e r d a n	COL name VAL assaad hardane COL name_chars VAL a s s a a d   h a r d a n e	1
+COL name VAL stoler COL name_chars VAL s t o l e r	COL name VAL sadler COL name_chars VAL s a d l e r	0
+COL name VAL ghiwa chahine COL name_chars VAL g h i w a   c h a h i n e	COL name VAL ghassan chahine COL name_chars VAL g h a s s a n   c h a h i n e	0
+COL name VAL green apple agency COL name_chars VAL g r e e n   a p p l e   a g e n c y	COL name VAL green apple COL name_chars VAL g r e e n   a p p l e	1
+COL name VAL christos georgiou COL name_chars VAL c h r i s t o s   g e o r g i o u	COL name VAL chris georgian COL name_chars VAL c h r i s   g e o r g i a n	1
+COL name VAL mar mikhael maghie ghali COL name_chars VAL m a r   m i k h a e l   m a g h i e   g h a l i	COL name VAL helen khal maghie ghali COL name_chars VAL h e l e n   k h a l   m a g h i e   g h a l i	1
+COL name VAL gemma hagens COL name_chars VAL g e m m a   h a g e n s	COL name VAL gemma huggins COL name_chars VAL g e m m a   h u g g i n s	1
+COL name VAL wassim mroueh geagea COL name_chars VAL w a s s i m   m r o u e h   g e a g e a	COL name VAL wassim geagea COL name_chars VAL w a s s i m   g e a g e a	1
+COL name VAL guillaume credoz COL name_chars VAL g u i l l a u m e   c r e d o z	COL name VAL guillaume canet COL name_chars VAL g u i l l a u m e   c a n e t	0
+COL name VAL julia gonnella COL name_chars VAL j u l i a   g o n n e l l a	COL name VAL julia gillard COL name_chars VAL j u l i a   g i l l a r d	0
+COL name VAL local ngo COL name_chars VAL l o c a l   n g o	COL name VAL local ngo animals COL name_chars VAL l o c a l   n g o   a n i m a l s	1
+COL name VAL guillaume connesson COL name_chars VAL g u i l l a u m e   c o n n e s s o n	COL name VAL guillaume canet COL name_chars VAL g u i l l a u m e   c a n e t	0
+COL name VAL olivier gabet COL name_chars VAL o l i v i e r   g a b e t	COL name VAL olivier gorce COL name_chars VAL o l i v i e r   g o r c e	0
+COL name VAL ghassan shehab aalayle COL name_chars VAL g h a s s a n   s h e h a b   a a l a y l e	COL name VAL ghassan shihabi COL name_chars VAL g h a s s a n   s h i h a b i	0
+COL name VAL george qassarji COL name_chars VAL g e o r g e   q a s s a r j i	COL name VAL george qaraa COL name_chars VAL g e o r g e   q a r a a	0
+COL name VAL george tawfik haddad COL name_chars VAL g e o r g e   t a w f i k   h a d d a d	COL name VAL george haddad COL name_chars VAL g e o r g e   h a d d a d	1
+COL name VAL rodrigo garc COL name_chars VAL r o d r i g o   g a r c	COL name VAL rodrigo gabriella COL name_chars VAL r o d r i g o   g a b r i e l l a	0
+COL name VAL saad hariri abdul ghani kabbara COL name_chars VAL s a a d   h a r i r i   a b d u l   g h a n i   k a b b a r a	COL name VAL abdul ghani kabbara COL name_chars VAL a b d u l   g h a n i   k a b b a r a	1
+COL name VAL guy boulos noujaim COL name_chars VAL g u y   b o u l o s   n o u j a i m	COL name VAL guy noujaim COL name_chars VAL g u y   n o u j a i m	1
+COL name VAL gregory gatserelia COL name_chars VAL g r e g o r y   g a t s e r e l i a	COL name VAL gregory gause COL name_chars VAL g r e g o r y   g a u s e	0
+COL name VAL mark mcgowan COL name_chars VAL m a r k   m c g o w a n	COL name VAL mary mcgowan davis COL name_chars VAL m a r y   m c g o w a n   d a v i s	0
+COL name VAL sakr group COL name_chars VAL s a k r   g r o u p	COL name VAL amer group COL name_chars VAL a m e r   g r o u p	0
+COL name VAL gabriel hernandez COL name_chars VAL g a b r i e l   h e r n a n d e z	COL name VAL gabriel heinze COL name_chars VAL g a b r i e l   h e i n z e	0
+COL name VAL joelle ghannam COL name_chars VAL j o e l l e   g h a n n a m	COL name VAL joelle gharios COL name_chars VAL j o e l l e   g h a r i o s	0
+COL name VAL amira gebrayel COL name_chars VAL a m i r a   g e b r a y e l	COL name VAL maroun gebrayel COL name_chars VAL m a r o u n   g e b r a y e l	0
+COL name VAL maroun ghaleb COL name_chars VAL m a r o u n   g h a l e b	COL name VAL maroun ghayyad COL name_chars VAL m a r o u n   g h a y y a d	0
+COL name VAL john lewis gaddis COL name_chars VAL j o h n   l e w i s   g a d d i s	COL name VAL john gaddis COL name_chars VAL j o h n   g a d d i s	0
+COL name VAL gerard daguerre COL name_chars VAL g e r a r d   d a g u e r r e	COL name VAL gerard debreu COL name_chars VAL g e r a r d   d e b r e u	0
+COL name VAL dana halawi nesreen ghaddar COL name_chars VAL d a n a   h a l a w i   n e s r e e n   g h a d d a r	COL name VAL nesreen ghaddar COL name_chars VAL n e s r e e n   g h a d d a r	1
+COL name VAL rob goldstone COL name_chars VAL r o b   g o l d s t o n e	COL name VAL richard goldstone COL name_chars VAL r i c h a r d   g o l d s t o n e	0
+COL name VAL ghina abdo COL name_chars VAL g h i n a   a b d o	COL name VAL ghina awad COL name_chars VAL g h i n a   a w a d	0
+COL name VAL alessandro gentilucci COL name_chars VAL a l e s s a n d r o   g e n t i l u c c i	COL name VAL alessandro gisotti COL name_chars VAL a l e s s a n d r o   g i s o t t i	0
+COL name VAL tom gay COL name_chars VAL t o m   g a y	COL name VAL tom garett COL name_chars VAL t o m   g a r e t t	0
+COL name VAL giovanni battista lampi COL name_chars VAL g i o v a n n i   b a t t i s t a   l a m p i	COL name VAL giovan battista alessio COL name_chars VAL g i o v a n   b a t t i s t a   a l e s s i o	0
+COL name VAL giovanni brauzzi COL name_chars VAL g i o v a n n i   b r a u z z i	COL name VAL giovanni rizzo COL name_chars VAL g i o v a n n i   r i z z o	0
+COL name VAL assaad al ghassan COL name_chars VAL a s s a a d   a l   g h a s s a n	COL name VAL mohammad al ghassani COL name_chars VAL m o h a m m a d   a l   g h a s s a n i	0
+COL name VAL rabih ghandoura COL name_chars VAL r a b i h   g h a n d o u r a	COL name VAL ali ghandour COL name_chars VAL a l i   g h a n d o u r	0
+COL name VAL otto group COL name_chars VAL o t t o   g r o u p	COL name VAL apo group COL name_chars VAL a p o   g r o u p	0
+COL name VAL joseph gagnon COL name_chars VAL j o s e p h   g a g n o n	COL name VAL joseph ghanoum COL name_chars VAL j o s e p h   g h a n o u m	0
+COL name VAL gian lorenzo cornado COL name_chars VAL g i a n   l o r e n z o   c o r n a d o	COL name VAL gian lorenzo bernini COL name_chars VAL g i a n   l o r e n z o   b e r n i n i	0
+COL name VAL elias ghorayeb COL name_chars VAL e l i a s   g h o r a y e b	COL name VAL said ghorayeb COL name_chars VAL s a i d   g h o r a y e b	0
+COL name VAL sam gough COL name_chars VAL s a m   g o u g h	COL name VAL van gough COL name_chars VAL v a n   g o u g h	0
+COL name VAL anas el gomati COL name_chars VAL a n a s   e l   g o m a t i	COL name VAL anas gamati COL name_chars VAL a n a s   g a m a t i	1
+COL name VAL the 86th medical group COL name_chars VAL t h e   8 6 t h   m e d i c a l   g r o u p	COL name VAL the media group COL name_chars VAL t h e   m e d i a   g r o u p	0
+COL name VAL grace rizk COL name_chars VAL g r a c e   r i z k	COL name VAL grace rihan COL name_chars VAL g r a c e   r i h a n	0
+COL name VAL gianandrea villa COL name_chars VAL g i a n a n d r e a   v i l l a	COL name VAL gianandrea sandri COL name_chars VAL g i a n a n d r e a   s a n d r i	0
+COL name VAL abbassieh gendarmerie COL name_chars VAL a b b a s s i e h   g e n d a r m e r i e	COL name VAL isf gendarmerie COL name_chars VAL i s f   g e n d a r m e r i e	0
+COL name VAL fares ghostine COL name_chars VAL f a r e s   g h o s t i n e	COL name VAL chris ghostine COL name_chars VAL c h r i s   g h o s t i n e	0
+COL name VAL martin ginsburg COL name_chars VAL m a r t i n   g i n s b u r g	COL name VAL martin gilens COL name_chars VAL m a r t i n   g i l e n s	0
+COL name VAL siham ghtaimi COL name_chars VAL s i h a m   g h t a i m i	COL name VAL siham ghanem COL name_chars VAL s i h a m   g h a n e m	0
+COL name VAL nujoom al ghanem COL name_chars VAL n u j o o m   a l   g h a n e m	COL name VAL al ghanem COL name_chars VAL a l   g h a n e m	0
+COL name VAL athir ghorayeb COL name_chars VAL a t h i r   g h o r a y e b	COL name VAL samer ghorayeb COL name_chars VAL s a m e r   g h o r a y e b	0
+COL name VAL randa ghajar COL name_chars VAL r a n d a   g h a j a r	COL name VAL raymond ghajar COL name_chars VAL r a y m o n d   g h a j a r	0
+COL name VAL gerard deulofeu COL name_chars VAL g e r a r d   d e u l o f e u	COL name VAL gerard debreu COL name_chars VAL g e r a r d   d e b r e u	0
+COL name VAL grant liberty COL name_chars VAL g r a n t   l i b e r t y	COL name VAL grant leaity COL name_chars VAL g r a n t   l e a i t y	0
+COL name VAL icg elise knutsen COL name_chars VAL i c g   e l i s e   k n u t s e n	COL name VAL ghazaleh elise knutsen COL name_chars VAL g h a z a l e h   e l i s e   k n u t s e n	0
+COL name VAL grace kelly COL name_chars VAL g r a c e   k e l l y	COL name VAL greg kelly COL name_chars VAL g r e g   k e l l y	0
+COL name VAL ricardo gomez COL name_chars VAL r i c a r d o   g o m e z	COL name VAL rolando gomez COL name_chars VAL r o l a n d o   g o m e z	0
+COL name VAL aii hassan khalil COL name_chars VAL a i i   h a s s a n   k h a l i l	COL name VAL ai hassan khalil COL name_chars VAL a i   h a s s a n   k h a l i l	1
+COL name VAL ioanis kasoulides COL name_chars VAL i o a n i s   k a s o u l i d e s	COL name VAL ioannis kasoulides COL name_chars VAL i o a n n i s   k a s o u l i d e s	1
+COL name VAL khodr salameh COL name_chars VAL k h o d r   s a l a m e h	COL name VAL khodr salame COL name_chars VAL k h o d r   s a l a m e	1
+COL name VAL kareem shaheen COL name_chars VAL k a r e e m   s h a h e e n	COL name VAL kareeem shaheen COL name_chars VAL k a r e e e m   s h a h e e n	1
+COL name VAL abdel kafi al hamdo COL name_chars VAL a b d e l   k a f i   a l   h a m d o	COL name VAL abdel kafi al hamdu COL name_chars VAL a b d e l   k a f i   a l   h a m d u	1
+COL name VAL muhammad rashid kabbani COL name_chars VAL m u h a m m a d   r a s h i d   k a b b a n i	COL name VAL mohammad rashid kabbani COL name_chars VAL m o h a m m a d   r a s h i d   k a b b a n i	1
+COL name VAL the korean herald COL name_chars VAL t h e   k o r e a n   h e r a l d	COL name VAL the korea herald COL name_chars VAL t h e   k o r e a   h e r a l d	1
+COL name VAL george geraldo kaderi COL name_chars VAL g e o r g e   g e r a l d o   k a d e r i	COL name VAL george geraldo kadri COL name_chars VAL g e o r g e   g e r a l d o   k a d r i	1
+COL name VAL leila sawaya al khoury COL name_chars VAL l e i l a   s a w a y a   a l   k h o u r y	COL name VAL leila sawaya el khoury COL name_chars VAL l e i l a   s a w a y a   e l   k h o u r y	1
+COL name VAL munir khairallah COL name_chars VAL m u n i r   k h a i r a l l a h	COL name VAL munir kheirallah COL name_chars VAL m u n i r   k h e i r a l l a h	1
+COL name VAL butros khawand COL name_chars VAL b u t r o s   k h a w a n d	COL name VAL butrous khawand COL name_chars VAL b u t r o u s   k h a w a n d	1
+COL name VAL khalifa ben salman COL name_chars VAL k h a l i f a   b e n   s a l m a n	COL name VAL khalifah ben salman COL name_chars VAL k h a l i f a h   b e n   s a l m a n	1
+COL name VAL abdul karim omar COL name_chars VAL a b d u l   k a r i m   o m a r	COL name VAL abdel karim omar COL name_chars VAL a b d e l   k a r i m   o m a r	1
+COL name VAL hussein khalifeh COL name_chars VAL h u s s e i n   k h a l i f e h	COL name VAL hussein khalife COL name_chars VAL h u s s e i n   k h a l i f e	1
+COL name VAL mohammed khair COL name_chars VAL m o h a m m e d   k h a i r	COL name VAL mohamed khair COL name_chars VAL m o h a m e d   k h a i r	1
+COL name VAL the kataeb part COL name_chars VAL t h e   k a t a e b   p a r t	COL name VAL the kataeb party COL name_chars VAL t h e   k a t a e b   p a r t y	1
+COL name VAL khalid bin bandar bin abdul aziz COL name_chars VAL k h a l i d   b i n   b a n d a r   b i n   a b d u l   a z i z	COL name VAL khaled bin bandar bin abdul aziz COL name_chars VAL k h a l e d   b i n   b a n d a r   b i n   a b d u l   a z i z	1
+COL name VAL fayssal karameh COL name_chars VAL f a y s s a l   k a r a m e h	COL name VAL faysal karameh COL name_chars VAL f a y s a l   k a r a m e h	1
+COL name VAL abdul rahman katanani COL name_chars VAL a b d u l   r a h m a n   k a t a n a n i	COL name VAL abdel rahman katanani COL name_chars VAL a b d e l   r a h m a n   k a t a n a n i	1
+COL name VAL khaled ziadeh COL name_chars VAL k h a l e d   z i a d e h	COL name VAL khaled ziade COL name_chars VAL k h a l e d   z i a d e	1
+COL name VAL khaled bin ahmed bin mohammed al khalifa COL name_chars VAL k h a l e d   b i n   a h m e d   b i n   m o h a m m e d   a l   k h a l i f a	COL name VAL khaled bin ahmed bin mohammed al khalifah COL name_chars VAL k h a l e d   b i n   a h m e d   b i n   m o h a m m e d   a l   k h a l i f a h	1
+COL name VAL wahdatouna khalassouna COL name_chars VAL w a h d a t o u n a   k h a l a s s o u n a	COL name VAL wahdatouna khalasouna COL name_chars VAL w a h d a t o u n a   k h a l a s o u n a	1
+COL name VAL mahmoud abdel khalek COL name_chars VAL m a h m o u d   a b d e l   k h a l e k	COL name VAL mahmoud abdel khaleq COL name_chars VAL m a h m o u d   a b d e l   k h a l e q	1
+COL name VAL chafic al kassis COL name_chars VAL c h a f i c   a l   k a s s i s	COL name VAL chafik al kassis COL name_chars VAL c h a f i k   a l   k a s s i s	1
+COL name VAL mehdi khalil COL name_chars VAL m e h d i   k h a l i l	COL name VAL mehdi khali COL name_chars VAL m e h d i   k h a l i	1
+COL name VAL mohammad khalili COL name_chars VAL m o h a m m a d   k h a l i l i	COL name VAL mohammad khalil COL name_chars VAL m o h a m m a d   k h a l i l	1
+COL name VAL mohammad salim abdul khalek COL name_chars VAL m o h a m m a d   s a l i m   a b d u l   k h a l e k	COL name VAL mohammad salim abdul khaleq COL name_chars VAL m o h a m m a d   s a l i m   a b d u l   k h a l e q	1
+COL name VAL khalil habr COL name_chars VAL k h a l i l   h a b r	COL name VAL khalil habre COL name_chars VAL k h a l i l   h a b r e	1
+COL name VAL khalid bin ahmad al khalifa COL name_chars VAL k h a l i d   b i n   a h m a d   a l   k h a l i f a	COL name VAL khalid bin ahmed al khalifa COL name_chars VAL k h a l i d   b i n   a h m e d   a l   k h a l i f a	1
+COL name VAL bouchra khalili COL name_chars VAL b o u c h r a   k h a l i l i	COL name VAL bouchra khalil COL name_chars VAL b o u c h r a   k h a l i l	1
+COL name VAL hannibal kadhafi COL name_chars VAL h a n n i b a l   k a d h a f i	COL name VAL hanibal kadhafi COL name_chars VAL h a n i b a l   k a d h a f i	1
+COL name VAL khalid bin khalifa bin abdul aziz al thani COL name_chars VAL k h a l i d   b i n   k h a l i f a   b i n   a b d u l   a z i z   a l   t h a n i	COL name VAL khaled bin khalifa bin abdul aziz al thani COL name_chars VAL k h a l e d   b i n   k h a l i f a   b i n   a b d u l   a z i z   a l   t h a n i	1
+COL name VAL karim kobeissi COL name_chars VAL k a r i m   k o b e i s s i	COL name VAL karim kobeisi COL name_chars VAL k a r i m   k o b e i s i	1
+COL name VAL gemayelkataeb party COL name_chars VAL g e m a y e l k a t a e b   p a r t y	COL name VAL gemayel kataeb party COL name_chars VAL g e m a y e l   k a t a e b   p a r t y	1
+COL name VAL ghassan kanafani cultural foundation COL name_chars VAL g h a s s a n   k a n a f a n i   c u l t u r a l   f o u n d a t i o n	COL name VAL ghassan kanafi cultural foundation COL name_chars VAL g h a s s a n   k a n a f i   c u l t u r a l   f o u n d a t i o n	1
+COL name VAL khaled bin bandar COL name_chars VAL k h a l e d   b i n   b a n d a r	COL name VAL khalid bin bandar COL name_chars VAL k h a l i d   b i n   b a n d a r	1
+COL name VAL bouchra al khalili COL name_chars VAL b o u c h r a   a l   k h a l i l i	COL name VAL bouchra al khalil COL name_chars VAL b o u c h r a   a l   k h a l i l	1
+COL name VAL kameel hawwa COL name_chars VAL k a m e e l   h a w w a	COL name VAL kameel hawa COL name_chars VAL k a m e e l   h a w a	1
+COL name VAL khaled abdul aziz COL name_chars VAL k h a l e d   a b d u l   a z i z	COL name VAL khalid abdul aziz COL name_chars VAL k h a l i d   a b d u l   a z i z	1
+COL name VAL korean central news agency COL name_chars VAL k o r e a n   c e n t r a l   n e w s   a g e n c y	COL name VAL korea central news agency COL name_chars VAL k o r e a   c e n t r a l   n e w s   a g e n c y	1
+COL name VAL chrystelle khodr COL name_chars VAL c h r y s t e l l e   k h o d r	COL name VAL chrystele khodr COL name_chars VAL c h r y s t e l e   k h o d r	1
+COL name VAL mostafa kamel al sayyed COL name_chars VAL m o s t a f a   k a m e l   a l   s a y y e d	COL name VAL mustafa kamel al sayyed COL name_chars VAL m u s t a f a   k a m e l   a l   s a y y e d	1
+COL name VAL khaled massad COL name_chars VAL k h a l e d   m a s s a d	COL name VAL khaled massaad COL name_chars VAL k h a l e d   m a s s a a d	1
+COL name VAL mohamad ali kouman COL name_chars VAL m o h a m a d   a l i   k o u m a n	COL name VAL mohammad ali koman COL name_chars VAL m o h a m m a d   a l i   k o m a n	1
+COL name VAL ayatollah ali khomeini COL name_chars VAL a y a t o l l a h   a l i   k h o m e i n i	COL name VAL ayatollah ali khameini COL name_chars VAL a y a t o l l a h   a l i   k h a m e i n i	1
+COL name VAL kalam al nas COL name_chars VAL k a l a m   a l   n a s	COL name VAL kalam al nass COL name_chars VAL k a l a m   a l   n a s s	1
+COL name VAL abdo abu kassem COL name_chars VAL a b d o   a b u   k a s s e m	COL name VAL abdo abu kasem COL name_chars VAL a b d o   a b u   k a s e m	1
+COL name VAL king faisal center for research and islamic studies COL name_chars VAL k i n g   f a i s a l   c e n t e r   f o r   r e s e a r c h   a n d   i s l a m i c   s t u d i e s	COL name VAL the king faisal center for research and islamic studies COL name_chars VAL t h e   k i n g   f a i s a l   c e n t e r   f o r   r e s e a r c h   a n d   i s l a m i c   s t u d i e s	1
+COL name VAL king abdulaziz al saud COL name_chars VAL k i n g   a b d u l a z i z   a l   s a u d	COL name VAL king abdul aziz al saud COL name_chars VAL k i n g   a b d u l   a z i z   a l   s a u d	1
+COL name VAL andreas krueger COL name_chars VAL a n d r e a s   k r u e g e r	COL name VAL andreas kruger COL name_chars VAL a n d r e a s   k r u g e r	1
+COL name VAL mohammed kabbara COL name_chars VAL m o h a m m e d   k a b b a r a	COL name VAL mohamed kabbara COL name_chars VAL m o h a m e d   k a b b a r a	1
+COL name VAL mohammed khawajah COL name_chars VAL m o h a m m e d   k h a w a j a h	COL name VAL mohammed khawaja COL name_chars VAL m o h a m m e d   k h a w a j a	1
+COL name VAL jihabd abdul khalek COL name_chars VAL j i h a b d   a b d u l   k h a l e k	COL name VAL jihad abdul khalek COL name_chars VAL j i h a d   a b d u l   k h a l e k	1
+COL name VAL khaled mashour COL name_chars VAL k h a l e d   m a s h o u r	COL name VAL khaled mashaour COL name_chars VAL k h a l e d   m a s h a o u r	1
+COL name VAL mohammad nazih khalil COL name_chars VAL m o h a m m a d   n a z i h   k h a l i l	COL name VAL mohammed nazih khalil COL name_chars VAL m o h a m m e d   n a z i h   k h a l i l	1
+COL name VAL faisal karame COL name_chars VAL f a i s a l   k a r a m e	COL name VAL faisal karameh COL name_chars VAL f a i s a l   k a r a m e h	1
+COL name VAL maan karame COL name_chars VAL m a a n   k a r a m e	COL name VAL maan karameh COL name_chars VAL m a a n   k a r a m e h	1
+COL name VAL ashot kotcharian COL name_chars VAL a s h o t   k o t c h a r i a n	COL name VAL ashot koutcharian COL name_chars VAL a s h o t   k o u t c h a r i a n	1
+COL name VAL mohammed kamal amr COL name_chars VAL m o h a m m e d   k a m a l   a m r	COL name VAL mohamed kamal amr COL name_chars VAL m o h a m e d   k a m a l   a m r	1
+COL name VAL tamim bin hamad bin khalifeh al thani COL name_chars VAL t a m i m   b i n   h a m a d   b i n   k h a l i f e h   a l   t h a n i	COL name VAL tamim bin hamad bin khalifa al thani COL name_chars VAL t a m i m   b i n   h a m a d   b i n   k h a l i f a   a l   t h a n i	1
+COL name VAL the kurdistan worker party COL name_chars VAL t h e   k u r d i s t a n   w o r k e r   p a r t y	COL name VAL the kurdistan workers party COL name_chars VAL t h e   k u r d i s t a n   w o r k e r s   p a r t y	1
+COL name VAL jihad abdul khaleq COL name_chars VAL j i h a d   a b d u l   k h a l e q	COL name VAL jihad abdul khalek COL name_chars VAL j i h a d   a b d u l   k h a l e k	1
+COL name VAL khatib and alami COL name_chars VAL k h a t i b   a n d   a l a m i	COL name VAL khatib and alamy COL name_chars VAL k h a t i b   a n d   a l a m y	1
+COL name VAL khalil al qattan COL name_chars VAL k h a l i l   a l   q a t t a n	COL name VAL khalil al kattan COL name_chars VAL k h a l i l   a l   k a t t a n	1
+COL name VAL khaldoun zeineddin COL name_chars VAL k h a l d o u n   z e i n e d d i n	COL name VAL khaldoun zeineddine COL name_chars VAL k h a l d o u n   z e i n e d d i n e	1
+COL name VAL mohamad kraytem COL name_chars VAL m o h a m a d   k r a y t e m	COL name VAL mohammad kraytem COL name_chars VAL m o h a m m a d   k r a y t e m	1
+COL name VAL khalil mekawi COL name_chars VAL k h a l i l   m e k a w i	COL name VAL khalil mekkawi COL name_chars VAL k h a l i l   m e k k a w i	1
+COL name VAL andrey kartapolov COL name_chars VAL a n d r e y   k a r t a p o l o v	COL name VAL andrei kartapolov COL name_chars VAL a n d r e i   k a r t a p o l o v	1
+COL name VAL mohammed jawad khalife COL name_chars VAL m o h a m m e d   j a w a d   k h a l i f e	COL name VAL mohammed jawad khalifeh COL name_chars VAL m o h a m m e d   j a w a d   k h a l i f e h	1
+COL name VAL khaled hamady COL name_chars VAL k h a l e d   h a m a d y	COL name VAL khaled hamad COL name_chars VAL k h a l e d   h a m a d	1
+COL name VAL khaled bin ahmed bin mohammed al khalifah COL name_chars VAL k h a l e d   b i n   a h m e d   b i n   m o h a m m e d   a l   k h a l i f a h	COL name VAL khaled bin ahmed bin mohammed al khalifa COL name_chars VAL k h a l e d   b i n   a h m e d   b i n   m o h a m m e d   a l   k h a l i f a	1
+COL name VAL the worker party of korea COL name_chars VAL t h e   w o r k e r   p a r t y   o f   k o r e a	COL name VAL the workers party of korea COL name_chars VAL t h e   w o r k e r s   p a r t y   o f   k o r e a	1
+COL name VAL khaled al sayed COL name_chars VAL k h a l e d   a l   s a y e d	COL name VAL khaled al sayeed COL name_chars VAL k h a l e d   a l   s a y e e d	1
+COL name VAL mohammad karim boudali COL name_chars VAL m o h a m m a d   k a r i m   b o u d a l i	COL name VAL mohamad karim boudali COL name_chars VAL m o h a m a d   k a r i m   b o u d a l i	1
+COL name VAL abbas ali kadkhodaie COL name_chars VAL a b b a s   a l i   k a d k h o d a i e	COL name VAL abbas ali kadkhodaei COL name_chars VAL a b b a s   a l i   k a d k h o d a e i	1
+COL name VAL mahmoud khayat COL name_chars VAL m a h m o u d   k h a y a t	COL name VAL mahmoud khayyat COL name_chars VAL m a h m o u d   k h a y y a t	1
+COL name VAL jos antonio meade kuribrena COL name_chars VAL j o s   a n t o n i o   m e a d e   k u r i b r e n a	COL name VAL jose antonio meade kuribrena COL name_chars VAL j o s e   a n t o n i o   m e a d e   k u r i b r e n a	1
+COL name VAL kamal joumblatt friends league COL name_chars VAL k a m a l   j o u m b l a t t   f r i e n d s   l e a g u e	COL name VAL kamal jumblatt friends league COL name_chars VAL k a m a l   j u m b l a t t   f r i e n d s   l e a g u e	1
+COL name VAL mohammed kawtharani COL name_chars VAL m o h a m m e d   k a w t h a r a n i	COL name VAL mohammad kawtharani COL name_chars VAL m o h a m m a d   k a w t h a r a n i	1
+COL name VAL abdul al al kunai COL name_chars VAL a b d u l   a l   a l   k u n a i	COL name VAL abdul al al kinai COL name_chars VAL a b d u l   a l   a l   k i n a i	1
+COL name VAL antonius abou kasm COL name_chars VAL a n t o n i u s   a b o u   k a s m	COL name VAL antonios abou kasm COL name_chars VAL a n t o n i o s   a b o u   k a s m	1
+COL name VAL king louis xv COL name_chars VAL k i n g   l o u i s   x v	COL name VAL king louis xvi COL name_chars VAL k i n g   l o u i s   x v i	1
+COL name VAL kamel youssef jaber social and cultural center COL name_chars VAL k a m e l   y o u s s e f   j a b e r   s o c i a l   a n d   c u l t u r a l   c e n t e r	COL name VAL the kamel youssef jaber social and cultural center COL name_chars VAL t h e   k a m e l   y o u s s e f   j a b e r   s o c i a l   a n d   c u l t u r a l   c e n t e r	1
+COL name VAL khalid sheikh mohammed COL name_chars VAL k h a l i d   s h e i k h   m o h a m m e d	COL name VAL khaled sheikh mohammed COL name_chars VAL k h a l e d   s h e i k h   m o h a m m e d	1
+COL name VAL khalil kharaz COL name_chars VAL k h a l i l   k h a r a z	COL name VAL khalil kharraz COL name_chars VAL k h a l i l   k h a r r a z	1
+COL name VAL mahmoud abdel khaleq COL name_chars VAL m a h m o u d   a b d e l   k h a l e q	COL name VAL mahmoud abd el khaleq COL name_chars VAL m a h m o u d   a b d   e l   k h a l e q	1
+COL name VAL the korean peoples army COL name_chars VAL t h e   k o r e a n   p e o p l e s   a r m y	COL name VAL the korean people army COL name_chars VAL t h e   k o r e a n   p e o p l e   a r m y	1
+COL name VAL mustafa abdul karim absi COL name_chars VAL m u s t a f a   a b d u l   k a r i m   a b s i	COL name VAL mustafa abdul karim absa COL name_chars VAL m u s t a f a   a b d u l   k a r i m   a b s a	1
+COL name VAL ziad kadrii COL name_chars VAL z i a d   k a d r i i	COL name VAL ziad kadri COL name_chars VAL z i a d   k a d r i	1
+COL name VAL khalil abdallah COL name_chars VAL k h a l i l   a b d a l l a h	COL name VAL khalil abdalla COL name_chars VAL k h a l i l   a b d a l l a	1
+COL name VAL marie claude najm kobeh COL name_chars VAL m a r i e   c l a u d e   n a j m   k o b e h	COL name VAL marie claude najd kobeh COL name_chars VAL m a r i e   c l a u d e   n a j d   k o b e h	1
+COL name VAL moumina khaled al abed COL name_chars VAL m o u m i n a   k h a l e d   a l   a b e d	COL name VAL moumena khaled al abed COL name_chars VAL m o u m e n a   k h a l e d   a l   a b e d	1
+COL name VAL ahmed karam COL name_chars VAL a h m e d   k a r a m	COL name VAL ahmed karami COL name_chars VAL a h m e d   k a r a m i	1
+COL name VAL na al akhbar COL name_chars VAL n a   a l   a k h b a r	COL name VAL nna al akhbar COL name_chars VAL n n a   a l   a k h b a r	1
+COL name VAL the ko rber foundation COL name_chars VAL t h e   k o   r b e r   f o u n d a t i o n	COL name VAL the korber foundation COL name_chars VAL t h e   k o r b e r   f o u n d a t i o n	1
+COL name VAL carmina kairallah COL name_chars VAL c a r m i n a   k a i r a l l a h	COL name VAL carmina khairallah COL name_chars VAL c a r m i n a   k h a i r a l l a h	1
+COL name VAL khalil abdul razzaq COL name_chars VAL k h a l i l   a b d u l   r a z z a q	COL name VAL khalil abdel razzaq COL name_chars VAL k h a l i l   a b d e l   r a z z a q	1
+COL name VAL kelly clement COL name_chars VAL k e l l y   c l e m e n t	COL name VAL kelly clements COL name_chars VAL k e l l y   c l e m e n t s	1
+COL name VAL avedis keedanian COL name_chars VAL a v e d i s   k e e d a n i a n	COL name VAL avedis kedanian COL name_chars VAL a v e d i s   k e d a n i a n	1
+COL name VAL mohamad kamel amro COL name_chars VAL m o h a m a d   k a m e l   a m r o	COL name VAL mohammad kamel amro COL name_chars VAL m o h a m m a d   k a m e l   a m r o	1
+COL name VAL virues COL name_chars VAL v i r u e s	COL name VAL fairuz COL name_chars VAL f a i r u z	0
+COL name VAL khaldoun al sharrif COL name_chars VAL k h a l d o u n   a l   s h a r r i f	COL name VAL khaldoun al sharif COL name_chars VAL k h a l d o u n   a l   s h a r i f	1
+COL name VAL christopher may COL name_chars VAL c h r i s t o p h e r   m a y	COL name VAL carstens COL name_chars VAL c a r s t e n s	0
+COL name VAL abdullah hamed COL name_chars VAL a b d u l l a h   h a m e d	COL name VAL abdel hamid ii COL name_chars VAL a b d e l   h a m i d   i i	0
+COL name VAL raed charafeddine COL name_chars VAL r a e d   c h a r a f e d d i n e	COL name VAL raed charrafeddine COL name_chars VAL r a e d   c h a r r a f e d d i n e	1
+COL name VAL prince co COL name_chars VAL p r i n c e   c o	COL name VAL barnacle boy COL name_chars VAL b a r n a c l e   b o y	0
+COL name VAL karasev COL name_chars VAL k a r a s e v	COL name VAL chrisfader COL name_chars VAL c h r i s f a d e r	0
+COL name VAL sean paul day COL name_chars VAL s e a n   p a u l   d a y	COL name VAL sina bell COL name_chars VAL s i n a   b e l l	0
+COL name VAL larry nassar COL name_chars VAL l a r r y   n a s s a r	COL name VAL lara nassar COL name_chars VAL l a r a   n a s s a r	0
+COL name VAL boutari COL name_chars VAL b o u t a r i	COL name VAL badira COL name_chars VAL b a d i r a	0
+COL name VAL youssef iii younan COL name_chars VAL y o u s s e f   i i i   y o u n a n	COL name VAL youssef iii younane COL name_chars VAL y o u s s e f   i i i   y o u n a n e	1
+COL name VAL fateh al sham COL name_chars VAL f a t e h   a l   s h a m	COL name VAL fadi el chamaa COL name_chars VAL f a d i   e l   c h a m a a	0
+COL name VAL abdrabbo mansour hadi COL name_chars VAL a b d r a b b o   m a n s o u r   h a d i	COL name VAL abdrabbuh mansur hadi COL name_chars VAL a b d r a b b u h   m a n s u r   h a d i	1
+COL name VAL mohammad slim COL name_chars VAL m o h a m m a d   s l i m	COL name VAL mohammed slim COL name_chars VAL m o h a m m e d   s l i m	1
+COL name VAL michel munayyir COL name_chars VAL m i c h e l   m u n a y y i r	COL name VAL michel mnayyer COL name_chars VAL m i c h e l   m n a y y e r	1
+COL name VAL the ben amir COL name_chars VAL t h e   b e n   a m i r	COL name VAL amar bouwani COL name_chars VAL a m a r   b o u w a n i	0
+COL name VAL lombardo COL name_chars VAL l o m b a r d o	COL name VAL lamberth COL name_chars VAL l a m b e r t h	0
+COL name VAL abu ahmad fadel COL name_chars VAL a b u   a h m a d   f a d e l	COL name VAL abou ahmed fadel COL name_chars VAL a b o u   a h m e d   f a d e l	1
+COL name VAL hussien COL name_chars VAL h u s s i e n	COL name VAL hassanieh COL name_chars VAL h a s s a n i e h	0
+COL name VAL ahmad shaaib COL name_chars VAL a h m a d   s h a a i b	COL name VAL ahmad shoueib COL name_chars VAL a h m a d   s h o u e i b	1
+COL name VAL staffan de mistura COL name_chars VAL s t a f f a n   d e   m i s t u r a	COL name VAL stefan de mistura COL name_chars VAL s t e f a n   d e   m i s t u r a	1
+COL name VAL makke COL name_chars VAL m a k k e	COL name VAL joe mchugh COL name_chars VAL j o e   m c h u g h	0
+COL name VAL kulluna watani COL name_chars VAL k u l l u n a   w a t a n i	COL name VAL koullouna watani COL name_chars VAL k o u l l o u n a   w a t a n i	1
+COL name VAL al mawlawi COL name_chars VAL a l   m a w l a w i	COL name VAL al mawla COL name_chars VAL a l   m a w l a	1
+COL name VAL legend COL name_chars VAL l e g e n d	COL name VAL joh legend COL name_chars VAL j o h   l e g e n d	1
+COL name VAL cana COL name_chars VAL c a n a	COL name VAL cane COL name_chars VAL c a n e	0
+COL name VAL yaqoub al sarraf COL name_chars VAL y a q o u b   a l   s a r r a f	COL name VAL yaacoub al sarraf COL name_chars VAL y a a c o u b   a l   s a r r a f	1
+COL name VAL abdul al al qinae COL name_chars VAL a b d u l   a l   a l   q i n a e	COL name VAL abdel al al qenaie COL name_chars VAL a b d e l   a l   a l   q e n a i e	1
+COL name VAL recanati COL name_chars VAL r e c a n a t i	COL name VAL raghunter COL name_chars VAL r a g h u n t e r	0
+COL name VAL james sadri COL name_chars VAL j a m e s   s a d r i	COL name VAL james story COL name_chars VAL j a m e s   s t o r y	0
+COL name VAL zaghba COL name_chars VAL z a g h b a	COL name VAL zogbe COL name_chars VAL z o g b e	0
+COL name VAL the maronite parish COL name_chars VAL t h e   m a r o n i t e   p a r i s h	COL name VAL nna maronite parish COL name_chars VAL n n a   m a r o n i t e   p a r i s h	1
+COL name VAL jada COL name_chars VAL j a d a	COL name VAL jaddouh COL name_chars VAL j a d d o u h	0
+COL name VAL joanna hammour COL name_chars VAL j o a n n a   h a m m o u r	COL name VAL john hamre COL name_chars VAL j o h n   h a m r e	0
+COL name VAL sabeti COL name_chars VAL s a b e t i	COL name VAL sept COL name_chars VAL s e p t	0
+COL name VAL trenitalia COL name_chars VAL t r e n i t a l i a	COL name VAL durand COL name_chars VAL d u r a n d	0
+COL name VAL walid boukhary COL name_chars VAL w a l i d   b o u k h a r y	COL name VAL walid bukhari COL name_chars VAL w a l i d   b u k h a r i	1
+COL name VAL bou hamad COL name_chars VAL b o u   h a m a d	COL name VAL hamati COL name_chars VAL h a m a t i	0
+COL name VAL danniyeh COL name_chars VAL d a n n i y e h	COL name VAL dana COL name_chars VAL d a n a	0
+COL name VAL macmillan COL name_chars VAL m a c m i l l a n	COL name VAL macallan COL name_chars VAL m a c a l l a n	0
+COL name VAL zarqawi COL name_chars VAL z a r q a w i	COL name VAL src COL name_chars VAL s r c	0
+COL name VAL moussa hajj COL name_chars VAL m o u s s a   h a j j	COL name VAL mousa hajj COL name_chars VAL m o u s a   h a j j	1
+COL name VAL alawite sect COL name_chars VAL a l a w i t e   s e c t	COL name VAL the alawite sect COL name_chars VAL t h e   a l a w i t e   s e c t	1
+COL name VAL isam rayes COL name_chars VAL i s a m   r a y e s	COL name VAL issam rayyes COL name_chars VAL i s s a m   r a y y e s	1
+COL name VAL zahle COL name_chars VAL z a h l e	COL name VAL seal COL name_chars VAL s e a l	0
+COL name VAL browder COL name_chars VAL b r o w d e r	COL name VAL baradar COL name_chars VAL b a r a d a r	0
+COL name VAL msheik COL name_chars VAL m s h e i k	COL name VAL maschke COL name_chars VAL m a s c h k e	0
+COL name VAL jamil ahmed COL name_chars VAL j a m i l   a h m e d	COL name VAL jamal ahmad COL name_chars VAL j a m a l   a h m a d	0
+COL name VAL liao cher hao COL name_chars VAL l i a o   c h e r   h a o	COL name VAL cherie COL name_chars VAL c h e r i e	0
+COL name VAL querubini COL name_chars VAL q u e r u b i n i	COL name VAL carbone COL name_chars VAL c a r b o n e	0
+COL name VAL ahmad al flaiti COL name_chars VAL a h m a d   a l   f l a i t i	COL name VAL ahmad al fliti COL name_chars VAL a h m a d   a l   f l i t i	1
+COL name VAL mark ghorayeb COL name_chars VAL m a r k   g h o r a y e b	COL name VAL marc ghoreyeb COL name_chars VAL m a r c   g h o r e y e b	1
+COL name VAL ralph tarraf COL name_chars VAL r a l p h   t a r r a f	COL name VAL ralf tarraf COL name_chars VAL r a l f   t a r r a f	1
+COL name VAL the hospital saydet zgharta COL name_chars VAL t h e   h o s p i t a l   s a y d e t   z g h a r t a	COL name VAL saydet zgharta hospital COL name_chars VAL s a y d e t   z g h a r t a   h o s p i t a l	1
+COL name VAL al sayed hassan nasrallah COL name_chars VAL a l   s a y e d   h a s s a n   n a s r a l l a h	COL name VAL al sayid hasan nasrallah COL name_chars VAL a l   s a y i d   h a s a n   n a s r a l l a h	1
+COL name VAL kbeisi COL name_chars VAL k b e i s i	COL name VAL capasa COL name_chars VAL c a p a s a	0
+COL name VAL ali haidar mahfouz COL name_chars VAL a l i   h a i d a r   m a h f o u z	COL name VAL ali mahfouz haidar COL name_chars VAL a l i   m a h f o u z   h a i d a r	1
+COL name VAL the yarmouk brigade COL name_chars VAL t h e   y a r m o u k   b r i g a d e	COL name VAL the yarmouk brigades COL name_chars VAL t h e   y a r m o u k   b r i g a d e s	1
+COL name VAL antonetti COL name_chars VAL a n t o n e t t i	COL name VAL andoni COL name_chars VAL a n d o n i	0
+COL name VAL dina powell COL name_chars VAL d i n a   p o w e l l	COL name VAL paul tyan COL name_chars VAL p a u l   t y a n	0
+COL name VAL samir al daher COL name_chars VAL s a m i r   a l   d a h e r	COL name VAL samer al daher COL name_chars VAL s a m e r   a l   d a h e r	1
+COL name VAL antoni gaudi COL name_chars VAL a n t o n i   g a u d i	COL name VAL antonio gades COL name_chars VAL a n t o n i o   g a d e s	0
+COL name VAL roger gale COL name_chars VAL r o g e r   g a l e	COL name VAL roger gemayel COL name_chars VAL r o g e r   g e m a y e l	0
+COL name VAL pan american energy group COL name_chars VAL p a n   a m e r i c a n   e n e r g y   g r o u p	COL name VAL mercuria energy group COL name_chars VAL m e r c u r i a   e n e r g y   g r o u p	0
+COL name VAL goldman sachs COL name_chars VAL g o l d m a n   s a c h s	COL name VAL goldman sachs group inc COL name_chars VAL g o l d m a n   s a c h s   g r o u p   i n c	1
+COL name VAL non gcc mena COL name_chars VAL n o n   g c c   m e n a	COL name VAL non gcc arab COL name_chars VAL n o n   g c c   a r a b	0
+COL name VAL global policy COL name_chars VAL g l o b a l   p o l i c y	COL name VAL global post COL name_chars VAL g l o b a l   p o s t	0
+COL name VAL the geneder and sexuality club COL name_chars VAL t h e   g e n e d e r   a n d   s e x u a l i t y   c l u b	COL name VAL the gender and sexuality resource center COL name_chars VAL t h e   g e n d e r   a n d   s e x u a l i t y   r e s o u r c e   c e n t e r	0
+COL name VAL the glass steagall act COL name_chars VAL t h e   g l a s s   s t e a g a l l   a c t	COL name VAL glass steagall COL name_chars VAL g l a s s   s t e a g a l l	1
+COL name VAL gerhard meixner COL name_chars VAL g e r h a r d   m e i x n e r	COL name VAL gerhard mueller COL name_chars VAL g e r h a r d   m u e l l e r	0
+COL name VAL george tawfiq bejjani COL name_chars VAL g e o r g e   t a w f i q   b e j j a n i	COL name VAL george bejjani COL name_chars VAL g e o r g e   b e j j a n i	1
+COL name VAL lina ghaibeh COL name_chars VAL l i n a   g h a i b e h	COL name VAL lina ghotmeh COL name_chars VAL l i n a   g h o t m e h	0
+COL name VAL cogeco company COL name_chars VAL c o g e c o   c o m p a n y	COL name VAL wego company COL name_chars VAL w e g o   c o m p a n y	0
+COL name VAL george gascon COL name_chars VAL g e o r g e   g a s c o n	COL name VAL george guay COL name_chars VAL g e o r g e   g u a y	0
+COL name VAL george avakian COL name_chars VAL g e o r g e   a v a k i a n	COL name VAL george akis COL name_chars VAL g e o r g e   a k i s	0
+COL name VAL gianluigi nuzzi COL name_chars VAL g i a n l u i g i   n u z z i	COL name VAL gianluigi buffon COL name_chars VAL g i a n l u i g i   b u f f o n	0
+COL name VAL gianluca mangiasciutti COL name_chars VAL g i a n l u c a   m a n g i a s c i u t t i	COL name VAL gianluca marcian COL name_chars VAL g i a n l u c a   m a r c i a n	0
+COL name VAL gholamali rakhshanimehr COL name_chars VAL g h o l a m a l i   r a k h s h a n i m e h r	COL name VAL gholamali rashid COL name_chars VAL g h o l a m a l i   r a s h i d	0
+COL name VAL mohver singh grewal COL name_chars VAL m o h v e r   s i n g h   g r e w a l	COL name VAL gurbir singh grewal COL name_chars VAL g u r b i r   s i n g h   g r e w a l	0
+COL name VAL gurudev ravi shankar COL name_chars VAL g u r u d e v   r a v i   s h a n k a r	COL name VAL gurudev sri sri ravi shankar COL name_chars VAL g u r u d e v   s r i   s r i   r a v i   s h a n k a r	1
+COL name VAL joelle garrus COL name_chars VAL j o e l l e   g a r r u s	COL name VAL joelle gharios COL name_chars VAL j o e l l e   g h a r i o s	0
+COL name VAL marwan gebran COL name_chars VAL m a r w a n   g e b r a n	COL name VAL jean gebran COL name_chars VAL j e a n   g e b r a n	0
+COL name VAL savannah guthrie COL name_chars VAL s a v a n n a h   g u t h r i e	COL name VAL danny guthrie COL name_chars VAL d a n n y   g u t h r i e	0
+COL name VAL donald green COL name_chars VAL d o n a l d   g r e e n	COL name VAL gerald green COL name_chars VAL g e r a l d   g r e e n	0
+COL name VAL barber fadel ghanem COL name_chars VAL b a r b e r   f a d e l   g h a n e m	COL name VAL fadel ghanem COL name_chars VAL f a d e l   g h a n e m	1
+COL name VAL getachew reda COL name_chars VAL g e t a c h e w   r e d a	COL name VAL getachew engida COL name_chars VAL g e t a c h e w   e n g i d a	0
+COL name VAL galerie agial COL name_chars VAL g a l e r i e   a g i a l	COL name VAL galerie tanit COL name_chars VAL g a l e r i e   t a n i t	0
+COL name VAL guy maalouf COL name_chars VAL g u y   m a a l o u f	COL name VAL george maalouf COL name_chars VAL g e o r g e   m a a l o u f	0
+COL name VAL alan grayson COL name_chars VAL a l a n   g r a y s o n	COL name VAL alan gross COL name_chars VAL a l a n   g r o s s	0
+COL name VAL antoine amrieh ghali hadara COL name_chars VAL a n t o i n e   a m r i e h   g h a l i   h a d a r a	COL name VAL antoine amrieh grief COL name_chars VAL a n t o i n e   a m r i e h   g r i e f	0
+COL name VAL monica green COL name_chars VAL m o n i c a   g r e e n	COL name VAL monica grayley COL name_chars VAL m o n i c a   g r a y l e y	0
+COL name VAL the national geospatial intelligence agency COL name_chars VAL t h e   n a t i o n a l   g e o s p a t i a l   i n t e l l i g e n c e   a g e n c y	COL name VAL the australian geospatial intelligence organisation COL name_chars VAL t h e   a u s t r a l i a n   g e o s p a t i a l   i n t e l l i g e n c e   o r g a n i s a t i o n	0
+COL name VAL teresa ghilarducci COL name_chars VAL t e r e s a   g h i l a r d u c c i	COL name VAL mark ghilarducci COL name_chars VAL m a r k   g h i l a r d u c c i	0
+COL name VAL graham ashton COL name_chars VAL g r a h a m   a s h t o n	COL name VAL graham allison COL name_chars VAL g r a h a m   a l l i s o n	0
+COL name VAL michael grunwald COL name_chars VAL m i c h a e l   g r u n w a l d	COL name VAL michael grubb COL name_chars VAL m i c h a e l   g r u b b	0
+COL name VAL next generation eu COL name_chars VAL n e x t   g e n e r a t i o n   e u	COL name VAL new generation COL name_chars VAL n e w   g e n e r a t i o n	0
+COL name VAL rajiv gandhi COL name_chars VAL r a j i v   g a n d h i	COL name VAL rahul gandhi COL name_chars VAL r a h u l   g a n d h i	0
+COL name VAL anna gutman COL name_chars VAL a n n a   g u t m a n	COL name VAL anna gunn COL name_chars VAL a n n a   g u n n	0
+COL name VAL megan gilbertson COL name_chars VAL m e g a n   g i l b e r t s o n	COL name VAL ian gilbert COL name_chars VAL i a n   g i l b e r t	0
+COL name VAL john goodman COL name_chars VAL j o h n   g o o d m a n	COL name VAL ellen goodman COL name_chars VAL e l l e n   g o o d m a n	0
+COL name VAL paul geze COL name_chars VAL p a u l   g e z e	COL name VAL paul greene COL name_chars VAL p a u l   g r e e n e	0
+COL name VAL gilbert bannout COL name_chars VAL g i l b e r t   b a n n o u t	COL name VAL gilbert becaud COL name_chars VAL g i l b e r t   b e c a u d	0
+COL name VAL mohammad mohammad gali COL name_chars VAL m o h a m m a d   m o h a m m a d   g a l i	COL name VAL mohammad gamal COL name_chars VAL m o h a m m a d   g a m a l	0
+COL name VAL myriam gebran tawq COL name_chars VAL m y r i a m   g e b r a n   t a w q	COL name VAL gebran tawq COL name_chars VAL g e b r a n   t a w q	0
+COL name VAL george lutfi COL name_chars VAL g e o r g e   l u t f i	COL name VAL george lucas COL name_chars VAL g e o r g e   l u c a s	0
+COL name VAL the lebanese government and bar association COL name_chars VAL t h e   l e b a n e s e   g o v e r n m e n t   a n d   b a r   a s s o c i a t i o n	COL name VAL the lebanese government COL name_chars VAL t h e   l e b a n e s e   g o v e r n m e n t	0
+COL name VAL the cinegouna platform COL name_chars VAL t h e   c i n e g o u n a   p l a t f o r m	COL name VAL the revealing platform COL name_chars VAL t h e   r e v e a l i n g   p l a t f o r m	0
+COL name VAL catherine mcguinness COL name_chars VAL c a t h e r i n e   m c g u i n n e s s	COL name VAL martin mcguinness COL name_chars VAL m a r t i n   m c g u i n n e s s	0
+COL name VAL gianni puccini COL name_chars VAL g i a n n i   p u c c i n i	COL name VAL gianni picco COL name_chars VAL g i a n n i   p i c c o	0
+COL name VAL brigitte gabriel COL name_chars VAL b r i g i t t e   g a b r i e l	COL name VAL brigitte granville COL name_chars VAL b r i g i t t e   g r a n v i l l e	0
+COL name VAL joelle gharios COL name_chars VAL j o e l l e   g h a r i o s	COL name VAL joelle garrus COL name_chars VAL j o e l l e   g a r r u s	0
+COL name VAL berri ghanem COL name_chars VAL b e r r i   g h a n e m	COL name VAL abi ghanem COL name_chars VAL a b i   g h a n e m	0
+COL name VAL bahige abi ghanem COL name_chars VAL b a h i g e   a b i   g h a n e m	COL name VAL nabil abi ghanem COL name_chars VAL n a b i l   a b i   g h a n e m	0
+COL name VAL ghinwa zaatari COL name_chars VAL g h i n w a   z a a t a r i	COL name VAL ghazi zaatari COL name_chars VAL g h a z i   z a a t a r i	0
+COL name VAL khalid bin mohamed al attiyah COL name_chars VAL k h a l i d   b i n   m o h a m e d   a l   a t t i y a h	COL name VAL khalid bin mohammed al attiyah COL name_chars VAL k h a l i d   b i n   m o h a m m e d   a l   a t t i y a h	1
+COL name VAL mounir khayrallah COL name_chars VAL m o u n i r   k h a y r a l l a h	COL name VAL mounir khairallah COL name_chars VAL m o u n i r   k h a i r a l l a h	1
+COL name VAL magda bou dagher kharrat COL name_chars VAL m a g d a   b o u   d a g h e r   k h a r r a t	COL name VAL magda bou dagher kharraf COL name_chars VAL m a g d a   b o u   d a g h e r   k h a r r a f	1
+COL name VAL ziad ayoub kasouf COL name_chars VAL z i a d   a y o u b   k a s o u f	COL name VAL ziad ayoub kassouf COL name_chars VAL z i a d   a y o u b   k a s s o u f	1
+COL name VAL ahmad ghazi kasha COL name_chars VAL a h m a d   g h a z i   k a s h a	COL name VAL ahmed ghazi kasha COL name_chars VAL a h m e d   g h a z i   k a s h a	1
+COL name VAL the kuwait fund for economic development COL name_chars VAL t h e   k u w a i t   f u n d   f o r   e c o n o m i c   d e v e l o p m e n t	COL name VAL the kuwaiti fund for economic development COL name_chars VAL t h e   k u w a i t i   f u n d   f o r   e c o n o m i c   d e v e l o p m e n t	1
+COL name VAL seyyed ali khamenei COL name_chars VAL s e y y e d   a l i   k h a m e n e i	COL name VAL seyed ali khamenei COL name_chars VAL s e y e d   a l i   k h a m e n e i	1
+COL name VAL mamoun abdel karim COL name_chars VAL m a m o u n   a b d e l   k a r i m	COL name VAL maamoun abdel karim COL name_chars VAL m a a m o u n   a b d e l   k a r i m	1
+COL name VAL roch marc christian kabure COL name_chars VAL r o c h   m a r c   c h r i s t i a n   k a b u r e	COL name VAL roch marc christian kabore COL name_chars VAL r o c h   m a r c   c h r i s t i a n   k a b o r e	1
+COL name VAL abdel rahman katanani COL name_chars VAL a b d e l   r a h m a n   k a t a n a n i	COL name VAL abdul rahman katanani COL name_chars VAL a b d u l   r a h m a n   k a t a n a n i	1
+COL name VAL khaled yousef COL name_chars VAL k h a l e d   y o u s e f	COL name VAL khaled youssef COL name_chars VAL k h a l e d   y o u s s e f	1
+COL name VAL mohameed karin COL name_chars VAL m o h a m e e d   k a r i n	COL name VAL mohamed karin COL name_chars VAL m o h a m e d   k a r i n	1
+COL name VAL the king abdullah bin abdul aziz international center for interreligious and intercultural dialogue COL name_chars VAL t h e   k i n g   a b d u l l a h   b i n   a b d u l   a z i z   i n t e r n a t i o n a l   c e n t e r   f o r   i n t e r r e l i g i o u s   a n d   i n t e r c u l t u r a l   d i a l o g u e	COL name VAL the king abdullah bin abdulaziz international center for interreligious and intercultural dialogue COL name_chars VAL t h e   k i n g   a b d u l l a h   b i n   a b d u l a z i z   i n t e r n a t i o n a l   c e n t e r   f o r   i n t e r r e l i g i o u s   a n d   i n t e r c u l t u r a l   d i a l o g u e	1
+COL name VAL farid haykal khazan COL name_chars VAL f a r i d   h a y k a l   k h a z a n	COL name VAL farid haykal khazen COL name_chars VAL f a r i d   h a y k a l   k h a z e n	1
+COL name VAL mohammad al khawli COL name_chars VAL m o h a m m a d   a l   k h a w l i	COL name VAL mohammad al khawly COL name_chars VAL m o h a m m a d   a l   k h a w l y	1
+COL name VAL mohamed kamel amr COL name_chars VAL m o h a m e d   k a m e l   a m r	COL name VAL mohammed kamel amr COL name_chars VAL m o h a m m e d   k a m e l   a m r	1
+COL name VAL aleksandor kolarov COL name_chars VAL a l e k s a n d o r   k o l a r o v	COL name VAL aleksandar kolarov COL name_chars VAL a l e k s a n d a r   k o l a r o v	1
+COL name VAL kuwait news agency COL name_chars VAL k u w a i t   n e w s   a g e n c y	COL name VAL kuwaiti news agency COL name_chars VAL k u w a i t i   n e w s   a g e n c y	1
+COL name VAL vladimir kolokoltsv COL name_chars VAL v l a d i m i r   k o l o k o l t s v	COL name VAL vladimir kolokoltsev COL name_chars VAL v l a d i m i r   k o l o k o l t s e v	1
+COL name VAL khaled tah COL name_chars VAL k h a l e d   t a h	COL name VAL khaled taha COL name_chars VAL k h a l e d   t a h a	1
+COL name VAL mohammed karin COL name_chars VAL m o h a m m e d   k a r i n	COL name VAL mohamed karin COL name_chars VAL m o h a m e d   k a r i n	1
+COL name VAL yasmina al khoury COL name_chars VAL y a s m i n a   a l   k h o u r y	COL name VAL yasmina el khoury COL name_chars VAL y a s m i n a   e l   k h o u r y	1
+COL name VAL kim yoo jong COL name_chars VAL k i m   y o o   j o n g	COL name VAL kim yo jong COL name_chars VAL k i m   y o   j o n g	1
+COL name VAL mahmoud abdul karim saleh COL name_chars VAL m a h m o u d   a b d u l   k a r i m   s a l e h	COL name VAL mahmoud abdel karim saleh COL name_chars VAL m a h m o u d   a b d e l   k a r i m   s a l e h	1
+COL name VAL mohammad khaddadi COL name_chars VAL m o h a m m a d   k h a d d a d i	COL name VAL mohammad khadadi COL name_chars VAL m o h a m m a d   k h a d a d i	1
+COL name VAL kaspersky labs COL name_chars VAL k a s p e r s k y   l a b s	COL name VAL kaspersky lab COL name_chars VAL k a s p e r s k y   l a b	1
+COL name VAL mohammed jawad khalifeh COL name_chars VAL m o h a m m e d   j a w a d   k h a l i f e h	COL name VAL mohamed jawad khalifeh COL name_chars VAL m o h a m e d   j a w a d   k h a l i f e h	1
+COL name VAL khaled abdul hamid COL name_chars VAL k h a l e d   a b d u l   h a m i d	COL name VAL khaled abdel hamid COL name_chars VAL k h a l e d   a b d e l   h a m i d	1
+COL name VAL khaled bin bandar bin abdul aziz COL name_chars VAL k h a l e d   b i n   b a n d a r   b i n   a b d u l   a z i z	COL name VAL khalid bin bandar bin abdul aziz COL name_chars VAL k h a l i d   b i n   b a n d a r   b i n   a b d u l   a z i z	1
+COL name VAL khaled al sayeed COL name_chars VAL k h a l e d   a l   s a y e e d	COL name VAL khaled al sayed COL name_chars VAL k h a l e d   a l   s a y e d	1
+COL name VAL jessica kahawaty COL name_chars VAL j e s s i c a   k a h a w a t y	COL name VAL jessica kahawati COL name_chars VAL j e s s i c a   k a h a w a t i	1
+COL name VAL khaled el qazzaz COL name_chars VAL k h a l e d   e l   q a z z a z	COL name VAL khaled al qazzaz COL name_chars VAL k h a l e d   a l   q a z z a z	1
+COL name VAL anne marie abdel karim COL name_chars VAL a n n e   m a r i e   a b d e l   k a r i m	COL name VAL anne marie abdul karim COL name_chars VAL a n n e   m a r i e   a b d u l   k a r i m	1
+COL name VAL abdul karim nashar COL name_chars VAL a b d u l   k a r i m   n a s h a r	COL name VAL abdel karim nashar COL name_chars VAL a b d e l   k a r i m   n a s h a r	1
+COL name VAL mohamad kheir COL name_chars VAL m o h a m a d   k h e i r	COL name VAL mohammad kheir COL name_chars VAL m o h a m m a d   k h e i r	1
+COL name VAL wafaa khoury COL name_chars VAL w a f a a   k h o u r y	COL name VAL wafa khoury COL name_chars VAL w a f a   k h o u r y	1
+COL name VAL abdel ghani kabbara COL name_chars VAL a b d e l   g h a n i   k a b b a r a	COL name VAL abdul ghani kabbara COL name_chars VAL a b d u l   g h a n i   k a b b a r a	1
+COL name VAL cesar bou khalil COL name_chars VAL c e s a r   b o u   k h a l i l	COL name VAL cesar abou khalil COL name_chars VAL c e s a r   a b o u   k h a l i l	1
+COL name VAL elie khalifee COL name_chars VAL e l i e   k h a l i f e e	COL name VAL elie khalife COL name_chars VAL e l i e   k h a l i f e	1
+COL name VAL abdul karim ahmed seifeddine COL name_chars VAL a b d u l   k a r i m   a h m e d   s e i f e d d i n e	COL name VAL abdul karim ahmad seifeddine COL name_chars VAL a b d u l   k a r i m   a h m a d   s e i f e d d i n e	1
+COL name VAL george kettaneh COL name_chars VAL g e o r g e   k e t t a n e h	COL name VAL george ketaneh COL name_chars VAL g e o r g e   k e t a n e h	1
+COL name VAL kamel mroue COL name_chars VAL k a m e l   m r o u e	COL name VAL kamel mroueh COL name_chars VAL k a m e l   m r o u e h	1
+COL name VAL mohammad atef khaled COL name_chars VAL m o h a m m a d   a t e f   k h a l e d	COL name VAL mohammed atef khaled COL name_chars VAL m o h a m m e d   a t e f   k h a l e d	1
+COL name VAL kuwait iii COL name_chars VAL k u w a i t   i i i	COL name VAL kuwait ii COL name_chars VAL k u w a i t   i i	1
+COL name VAL kamel rifa COL name_chars VAL k a m e l   r i f a	COL name VAL kamel rifai COL name_chars VAL k a m e l   r i f a i	1
+COL name VAL ashfaq pervez kayani COL name_chars VAL a s h f a q   p e r v e z   k a y a n i	COL name VAL ashfaq parvez kayani COL name_chars VAL a s h f a q   p a r v e z   k a y a n i	1
+COL name VAL iklim al kharroub COL name_chars VAL i k l i m   a l   k h a r r o u b	COL name VAL iklim al kharoub COL name_chars VAL i k l i m   a l   k h a r o u b	1
+COL name VAL joseph al khoury COL name_chars VAL j o s e p h   a l   k h o u r y	COL name VAL joseph el khoury COL name_chars VAL j o s e p h   e l   k h o u r y	1
+COL name VAL eklim al kharroub COL name_chars VAL e k l i m   a l   k h a r r o u b	COL name VAL iklim al kharroub COL name_chars VAL i k l i m   a l   k h a r r o u b	1
+COL name VAL abdelsalam kheir COL name_chars VAL a b d e l s a l a m   k h e i r	COL name VAL abdel salam kheir COL name_chars VAL a b d e l   s a l a m   k h e i r	1
+COL name VAL mawrwan kheireddine COL name_chars VAL m a w r w a n   k h e i r e d d i n e	COL name VAL mawran kheireddine COL name_chars VAL m a w r a n   k h e i r e d d i n e	1
+COL name VAL abdel rahman khodr COL name_chars VAL a b d e l   r a h m a n   k h o d r	COL name VAL abdel rahman kodr COL name_chars VAL a b d e l   r a h m a n   k o d r	1
+COL name VAL hamad ben khalifa al thani COL name_chars VAL h a m a d   b e n   k h a l i f a   a l   t h a n i	COL name VAL hamad bin khalifa al thani COL name_chars VAL h a m a d   b i n   k h a l i f a   a l   t h a n i	1
+COL name VAL mustafa el kazemi COL name_chars VAL m u s t a f a   e l   k a z e m i	COL name VAL mustafa al kazemi COL name_chars VAL m u s t a f a   a l   k a z e m i	1
+COL name VAL khaled mohammed al salem COL name_chars VAL k h a l e d   m o h a m m e d   a l   s a l e m	COL name VAL khaled mohammad al salem COL name_chars VAL k h a l e d   m o h a m m a d   a l   s a l e m	1
+COL name VAL mustafa kanso COL name_chars VAL m u s t a f a   k a n s o	COL name VAL mustafa kansou COL name_chars VAL m u s t a f a   k a n s o u	1
+COL name VAL mohammed bin ali koman COL name_chars VAL m o h a m m e d   b i n   a l i   k o m a n	COL name VAL mohammed bin ali kouman COL name_chars VAL m o h a m m e d   b i n   a l i   k o u m a n	1
+COL name VAL mikhail khodorkovski COL name_chars VAL m i k h a i l   k h o d o r k o v s k i	COL name VAL mikhail khodorkovsky COL name_chars VAL m i k h a i l   k h o d o r k o v s k y	1
+COL name VAL taha samir al khayyal COL name_chars VAL t a h a   s a m i r   a l   k h a y y a l	COL name VAL taha samir al khayal COL name_chars VAL t a h a   s a m i r   a l   k h a y a l	1
+COL name VAL victoria el khoury zwein COL name_chars VAL v i c t o r i a   e l   k h o u r y   z w e i n	COL name VAL victoria al khoury zwein COL name_chars VAL v i c t o r i a   a l   k h o u r y   z w e i n	1
+COL name VAL abu ahmad al kuwaiti COL name_chars VAL a b u   a h m a d   a l   k u w a i t i	COL name VAL abu ahmed al kuwaiti COL name_chars VAL a b u   a h m e d   a l   k u w a i t i	1
+COL name VAL butrous khawand COL name_chars VAL b u t r o u s   k h a w a n d	COL name VAL butros khawand COL name_chars VAL b u t r o s   k h a w a n d	1
+COL name VAL the kuwaiti red crescent society COL name_chars VAL t h e   k u w a i t i   r e d   c r e s c e n t   s o c i e t y	COL name VAL the kuwait red crescent society COL name_chars VAL t h e   k u w a i t   r e d   c r e s c e n t   s o c i e t y	1
+COL name VAL abdurrahim el keib COL name_chars VAL a b d u r r a h i m   e l   k e i b	COL name VAL abdurrahim al keib COL name_chars VAL a b d u r r a h i m   a l   k e i b	1
+COL name VAL georges kourdahi COL name_chars VAL g e o r g e s   k o u r d a h i	COL name VAL georges kordahi COL name_chars VAL g e o r g e s   k o r d a h i	1
+COL name VAL mohammed khaled rustom COL name_chars VAL m o h a m m e d   k h a l e d   r u s t o m	COL name VAL mohammad khaled rustom COL name_chars VAL m o h a m m a d   k h a l e d   r u s t o m	1
+COL name VAL david kaye COL name_chars VAL d a v i d   k a y e	COL name VAL david kay COL name_chars VAL d a v i d   k a y	1
+COL name VAL bassam al khodari COL name_chars VAL b a s s a m   a l   k h o d a r i	COL name VAL bassam alkhodari COL name_chars VAL b a s s a m   a l k h o d a r i	1
+COL name VAL united kingdom marine trade operations COL name_chars VAL u n i t e d   k i n g d o m   m a r i n e   t r a d e   o p e r a t i o n s	COL name VAL the united kingdom marine trade operations COL name_chars VAL t h e   u n i t e d   k i n g d o m   m a r i n e   t r a d e   o p e r a t i o n s	1
+COL name VAL abd al khaliq al houthi COL name_chars VAL a b d   a l   k h a l i q   a l   h o u t h i	COL name VAL abd al khaliq al huthi COL name_chars VAL a b d   a l   k h a l i q   a l   h u t h i	1
+COL name VAL khatib and alamy COL name_chars VAL k h a t i b   a n d   a l a m y	COL name VAL khatib and alami COL name_chars VAL k h a t i b   a n d   a l a m i	1
+COL name VAL mohmmad kabbara COL name_chars VAL m o h m m a d   k a b b a r a	COL name VAL mohammad kabbara COL name_chars VAL m o h a m m a d   k a b b a r a	1
+COL name VAL khalil ahmed khalil COL name_chars VAL k h a l i l   a h m e d   k h a l i l	COL name VAL khalil ahmad khalil COL name_chars VAL k h a l i l   a h m a d   k h a l i l	1
+COL name VAL kamel abdel rahman COL name_chars VAL k a m e l   a b d e l   r a h m a n	COL name VAL kamel abdul rahman COL name_chars VAL k a m e l   a b d u l   r a h m a n	1
+COL name VAL omar al kurdis COL name_chars VAL o m a r   a l   k u r d i s	COL name VAL omar al kurdi COL name_chars VAL o m a r   a l   k u r d i	1
+COL name VAL khaled ben ali hardan COL name_chars VAL k h a l e d   b e n   a l i   h a r d a n	COL name VAL khaled ben ali hardane COL name_chars VAL k h a l e d   b e n   a l i   h a r d a n e	1
+COL name VAL david kay COL name_chars VAL d a v i d   k a y	COL name VAL david kaye COL name_chars VAL d a v i d   k a y e	1
+COL name VAL kurdistan worker party COL name_chars VAL k u r d i s t a n   w o r k e r   p a r t y	COL name VAL kurdistan workers party COL name_chars VAL k u r d i s t a n   w o r k e r s   p a r t y	1
+COL name VAL andreas kruger COL name_chars VAL a n d r e a s   k r u g e r	COL name VAL andreas krueger COL name_chars VAL a n d r e a s   k r u e g e r	1
+COL name VAL ali abdel karim ali COL name_chars VAL a l i   a b d e l   k a r i m   a l i	COL name VAL ali abd el karim ali COL name_chars VAL a l i   a b d   e l   k a r i m   a l i	1
+COL name VAL kamal mohammad khalaf COL name_chars VAL k a m a l   m o h a m m a d   k h a l a f	COL name VAL kamal mohammed khalaf COL name_chars VAL k a m a l   m o h a m m e d   k h a l a f	1
+COL name VAL anthony issa al khoury COL name_chars VAL a n t h o n y   i s s a   a l   k h o u r y	COL name VAL anthony issam al khoury COL name_chars VAL a n t h o n y   i s s a m   a l   k h o u r y	1
+COL name VAL kristalina georgieva COL name_chars VAL k r i s t a l i n a   g e o r g i e v a	COL name VAL kristalina gerorgieva COL name_chars VAL k r i s t a l i n a   g e r o r g i e v a	1
+COL name VAL abdul ghani kabara COL name_chars VAL a b d u l   g h a n i   k a b a r a	COL name VAL abdul ghani kabbara COL name_chars VAL a b d u l   g h a n i   k a b b a r a	1
+COL name VAL khalid sheikh mohammad COL name_chars VAL k h a l i d   s h e i k h   m o h a m m a d	COL name VAL khalid shaikh mohammad COL name_chars VAL k h a l i d   s h a i k h   m o h a m m a d	1
+COL name VAL brahim al khatib COL name_chars VAL b r a h i m   a l   k h a t i b	COL name VAL ibrahim al khatib COL name_chars VAL i b r a h i m   a l   k h a t i b	1
+COL name VAL diwan ahl el kalam COL name_chars VAL d i w a n   a h l   e l   k a l a m	COL name VAL diwan ahl al kalam COL name_chars VAL d i w a n   a h l   a l   k a l a m	1
+COL name VAL chrystele khodr COL name_chars VAL c h r y s t e l e   k h o d r	COL name VAL chrystelle khodr COL name_chars VAL c h r y s t e l l e   k h o d r	1
+COL name VAL ghanim al kubaisi COL name_chars VAL g h a n i m   a l   k u b a i s i	COL name VAL ghanem al kubaisi COL name_chars VAL g h a n e m   a l   k u b a i s i	1
+COL name VAL mustafa abdul kareem absi COL name_chars VAL m u s t a f a   a b d u l   k a r e e m   a b s i	COL name VAL mustafa abdel kareem absi COL name_chars VAL m u s t a f a   a b d e l   k a r e e m   a b s i	1
+COL name VAL freddy keiyrouz COL name_chars VAL f r e d d y   k e i y r o u z	COL name VAL freddy keirouz COL name_chars VAL f r e d d y   k e i r o u z	1
+COL name VAL united kingdom maritime trade operations COL name_chars VAL u n i t e d   k i n g d o m   m a r i t i m e   t r a d e   o p e r a t i o n s	COL name VAL the united kingdom maritime trade operations COL name_chars VAL t h e   u n i t e d   k i n g d o m   m a r i t i m e   t r a d e   o p e r a t i o n s	1
+COL name VAL abdel aal al kanaii COL name_chars VAL a b d e l   a a l   a l   k a n a i i	COL name VAL abdel aal al kinai COL name_chars VAL a b d e l   a a l   a l   k i n a i	1
+COL name VAL khaled abou al kheir COL name_chars VAL k h a l e d   a b o u   a l   k h e i r	COL name VAL khaled abou el kheir COL name_chars VAL k h a l e d   a b o u   e l   k h e i r	1
+COL name VAL ara khjatorian COL name_chars VAL a r a   k h j a t o r i a n	COL name VAL ara khajatorian COL name_chars VAL a r a   k h a j a t o r i a n	1
+COL name VAL mahmoud khayyat COL name_chars VAL m a h m o u d   k h a y y a t	COL name VAL mahmoud khayat COL name_chars VAL m a h m o u d   k h a y a t	1
+COL name VAL rima karnab COL name_chars VAL r i m a   k a r n a b	COL name VAL rima karnaby COL name_chars VAL r i m a   k a r n a b y	1
+COL name VAL cristina fern ndez de kirchner COL name_chars VAL c r i s t i n a   f e r n   n d e z   d e   k i r c h n e r	COL name VAL cristina fernndez de kirchner COL name_chars VAL c r i s t i n a   f e r n n d e z   d e   k i r c h n e r	1
+COL name VAL youssef howayyek COL name_chars VAL y o u s s e f   h o w a y y e k	COL name VAL youssef hoyek COL name_chars VAL y o u s s e f   h o y e k	1
+COL name VAL trukhachyov COL name_chars VAL t r u k h a c h y o v	COL name VAL derkach COL name_chars VAL d e r k a c h	0
+COL name VAL zazzeri COL name_chars VAL z a z z e r i	COL name VAL caesar COL name_chars VAL c a e s a r	0
+COL name VAL yaged COL name_chars VAL y a g e d	COL name VAL egidio COL name_chars VAL e g i d i o	0
+COL name VAL ravel cormashov COL name_chars VAL r a v e l   c o r m a s h o v	COL name VAL raphael cormatchov COL name_chars VAL r a p h a e l   c o r m a t c h o v	1
+COL name VAL abbas jomaa COL name_chars VAL a b b a s   j o m a a	COL name VAL abbas joumaa COL name_chars VAL a b b a s   j o u m a a	1
+COL name VAL the sharia court COL name_chars VAL t h e   s h a r i a   c o u r t	COL name VAL sharia court COL name_chars VAL s h a r i a   c o u r t	1
+COL name VAL al maseera COL name_chars VAL a l   m a s e e r a	COL name VAL al masirah COL name_chars VAL a l   m a s i r a h	1
+COL name VAL the al makassed hospital COL name_chars VAL t h e   a l   m a k a s s e d   h o s p i t a l	COL name VAL al maqassed hospital COL name_chars VAL a l   m a q a s s e d   h o s p i t a l	1
+COL name VAL bou hamzeh COL name_chars VAL b o u   h a m z e h	COL name VAL hammazi COL name_chars VAL h a m m a z i	0
+COL name VAL news agencies COL name_chars VAL n e w s   a g e n c i e s	COL name VAL the news agency COL name_chars VAL t h e   n e w s   a g e n c y	1
+COL name VAL hoss COL name_chars VAL h o s s	COL name VAL haass COL name_chars VAL h a a s s	0
+COL name VAL the samir kassir eyes center COL name_chars VAL t h e   s a m i r   k a s s i r   e y e s   c e n t e r	COL name VAL the samir kassir eyes centre COL name_chars VAL t h e   s a m i r   k a s s i r   e y e s   c e n t r e	1
+COL name VAL pieranunzi COL name_chars VAL p i e r a n u n z i	COL name VAL bernanke COL name_chars VAL b e r n a n k e	0
+COL name VAL the ubuntunet alliance COL name_chars VAL t h e   u b u n t u n e t   a l l i a n c e	COL name VAL ubuntunet alliance COL name_chars VAL u b u n t u n e t   a l l i a n c e	1
+COL name VAL mark hachem gallery COL name_chars VAL m a r k   h a c h e m   g a l l e r y	COL name VAL the mark hachem gallery COL name_chars VAL t h e   m a r k   h a c h e m   g a l l e r y	1
+COL name VAL abeer al COL name_chars VAL a b e e r   a l	COL name VAL abir ali COL name_chars VAL a b i r   a l i	1
+COL name VAL military investigation COL name_chars VAL m i l i t a r y   i n v e s t i g a t i o n	COL name VAL military investigative COL name_chars VAL m i l i t a r y   i n v e s t i g a t i v e	1
+COL name VAL parliamentary finance committee COL name_chars VAL p a r l i a m e n t a r y   f i n a n c e   c o m m i t t e e	COL name VAL the parliamentary finance committee COL name_chars VAL t h e   p a r l i a m e n t a r y   f i n a n c e   c o m m i t t e e	1
+COL name VAL eduskunta COL name_chars VAL e d u s k u n t a	COL name VAL adisak COL name_chars VAL a d i s a k	0
+COL name VAL sami abou jaoudeh COL name_chars VAL s a m i   a b o u   j a o u d e h	COL name VAL sawma abou jaoudeh COL name_chars VAL s a w m a   a b o u   j a o u d e h	1
+COL name VAL hamid ahmad COL name_chars VAL h a m i d   a h m a d	COL name VAL ahmad hamoudi COL name_chars VAL a h m a d   h a m o u d i	1
+COL name VAL arab countries COL name_chars VAL a r a b   c o u n t r i e s	COL name VAL the arab center COL name_chars VAL t h e   a r a b   c e n t e r	0
+COL name VAL nehmat freim COL name_chars VAL n e h m a t   f r e i m	COL name VAL naamat frem COL name_chars VAL n a a m a t   f r e m	1
+COL name VAL the social development centre COL name_chars VAL t h e   s o c i a l   d e v e l o p m e n t   c e n t r e	COL name VAL social development centre COL name_chars VAL s o c i a l   d e v e l o p m e n t   c e n t r e	1
+COL name VAL quartz COL name_chars VAL q u a r t z	COL name VAL cardozo COL name_chars VAL c a r d o z o	0
+COL name VAL imad yasseen COL name_chars VAL i m a d   y a s s e e n	COL name VAL ahmad yassine COL name_chars VAL a h m a d   y a s s i n e	0
+COL name VAL alghanim COL name_chars VAL a l g h a n i m	COL name VAL alkinai COL name_chars VAL a l k i n a i	0
+COL name VAL khairy beshara COL name_chars VAL k h a i r y   b e s h a r a	COL name VAL beshara koury COL name_chars VAL b e s h a r a   k o u r y	0
+COL name VAL tsonga COL name_chars VAL t s o n g a	COL name VAL tsang COL name_chars VAL t s a n g	0
+COL name VAL tsonga COL name_chars VAL t s o n g a	COL name VAL tsang COL name_chars VAL t s a n g	0
+COL name VAL tsonga COL name_chars VAL t s o n g a	COL name VAL tsang COL name_chars VAL t s a n g	0
+COL name VAL tsonga COL name_chars VAL t s o n g a	COL name VAL tsang COL name_chars VAL t s a n g	0
+COL name VAL islamic center association COL name_chars VAL i s l a m i c   c e n t e r   a s s o c i a t i o n	COL name VAL the islamic center association COL name_chars VAL t h e   i s l a m i c   c e n t e r   a s s o c i a t i o n	1
+COL name VAL farouk jabre COL name_chars VAL f a r o u k   j a b r e	COL name VAL farouk jabr COL name_chars VAL f a r o u k   j a b r	1
+COL name VAL mounira COL name_chars VAL m o u n i r a	COL name VAL mnayar COL name_chars VAL m n a y a r	0
+COL name VAL chapple COL name_chars VAL c h a p p l e	COL name VAL chibli COL name_chars VAL c h i b l i	0
+COL name VAL mengu COL name_chars VAL m e n g u	COL name VAL da ke ming yi COL name_chars VAL d a   k e   m i n g   y i	0
+COL name VAL dbis COL name_chars VAL d b i s	COL name VAL daabas COL name_chars VAL d a a b a s	0
+COL name VAL moussa ibrahim COL name_chars VAL m o u s s a   i b r a h i m	COL name VAL ibrahim mussawi COL name_chars VAL i b r a h i m   m u s s a w i	0
+COL name VAL ivanovic COL name_chars VAL i v a n o v i c	COL name VAL ivanov COL name_chars VAL i v a n o v	1
+COL name VAL the center for new american security COL name_chars VAL t h e   c e n t e r   f o r   n e w   a m e r i c a n   s e c u r i t y	COL name VAL center for new american security COL name_chars VAL c e n t e r   f o r   n e w   a m e r i c a n   s e c u r i t y	1
+COL name VAL andreas michaelis COL name_chars VAL a n d r e a s   m i c h a e l i s	COL name VAL andrea michaelsson COL name_chars VAL a n d r e a   m i c h a e l s s o n	0
+COL name VAL nasser el dine COL name_chars VAL n a s s e r   e l   d i n e	COL name VAL nasr al deen COL name_chars VAL n a s r   a l   d e e n	1
+COL name VAL course COL name_chars VAL c o u r s e	COL name VAL 200 grs COL name_chars VAL 2 0 0   g r s	0
+COL name VAL greenpeacespain COL name_chars VAL g r e e n p e a c e s p a i n	COL name VAL greenberg COL name_chars VAL g r e e n b e r g	0
+COL name VAL emad shahin COL name_chars VAL e m a d   s h a h i n	COL name VAL ahmad shahin COL name_chars VAL a h m a d   s h a h i n	0
+COL name VAL abdul aal COL name_chars VAL a b d u l   a a l	COL name VAL abdelnasser al ayi COL name_chars VAL a b d e l n a s s e r   a l   a y i	0
+COL name VAL roweida mroue COL name_chars VAL r o w e i d a   m r o u e	COL name VAL riad merhi COL name_chars VAL r i a d   m e r h i	0
+COL name VAL shoura COL name_chars VAL s h o u r a	COL name VAL cherie COL name_chars VAL c h e r i e	0
+COL name VAL talal haydar COL name_chars VAL t a l a l   h a y d a r	COL name VAL dalal haidar COL name_chars VAL d a l a l   h a i d a r	0
+COL name VAL jan vertonghen COL name_chars VAL j a n   v e r t o n g h e n	COL name VAL jan vertonghnen COL name_chars VAL j a n   v e r t o n g h n e n	1
+COL name VAL barbara harvey COL name_chars VAL b a r b a r a   h a r v e y	COL name VAL herve barbaret COL name_chars VAL h e r v e   b a r b a r e t	0
+COL name VAL joseph qazzi COL name_chars VAL j o s e p h   q a z z i	COL name VAL joseph kazzi COL name_chars VAL j o s e p h   k a z z i	1
+COL name VAL the lebanese environmental movement COL name_chars VAL t h e   l e b a n e s e   e n v i r o n m e n t a l   m o v e m e n t	COL name VAL the lebanese environment movement COL name_chars VAL t h e   l e b a n e s e   e n v i r o n m e n t   m o v e m e n t	1
+COL name VAL marwan mouasher COL name_chars VAL m a r w a n   m o u a s h e r	COL name VAL marwan muasher COL name_chars VAL m a r w a n   m u a s h e r	1
+COL name VAL infrastructure department COL name_chars VAL i n f r a s t r u c t u r e   d e p a r t m e n t	COL name VAL information department COL name_chars VAL i n f o r m a t i o n   d e p a r t m e n t	0
+COL name VAL youssef al hadri COL name_chars VAL y o u s s e f   a l   h a d r i	COL name VAL youssef al hadhari COL name_chars VAL y o u s s e f   a l   h a d h a r i	1
+COL name VAL fayez abou eita COL name_chars VAL f a y e z   a b o u   e i t a	COL name VAL fayez abu eita COL name_chars VAL f a y e z   a b u   e i t a	1
+COL name VAL la presse COL name_chars VAL l a   p r e s s e	COL name VAL 20 powers COL name_chars VAL 2 0   p o w e r s	0
+COL name VAL scowcroft COL name_chars VAL s c o w c r o f t	COL name VAL skyactiv COL name_chars VAL s k y a c t i v	0
+COL name VAL ziad alluki COL name_chars VAL z i a d   a l l u k i	COL name VAL ziyad allouki COL name_chars VAL z i y a d   a l l o u k i	1
+COL name VAL versace COL name_chars VAL v e r s a c e	COL name VAL frasca COL name_chars VAL f r a s c a	0
+COL name VAL brandi COL name_chars VAL b r a n d i	COL name VAL barientos COL name_chars VAL b a r i e n t o s	0
+COL name VAL mohamed fathali COL name_chars VAL m o h a m e d   f a t h a l i	COL name VAL mohammad fathali COL name_chars VAL m o h a m m a d   f a t h a l i	1
+COL name VAL cinderella COL name_chars VAL c i n d e r e l l a	COL name VAL 20 counterparts COL name_chars VAL 2 0   c o u n t e r p a r t s	0
+COL name VAL hussain issa COL name_chars VAL h u s s a i n   i s s a	COL name VAL hussein issa COL name_chars VAL h u s s e i n   i s s a	1
+COL name VAL omran al zoubi COL name_chars VAL o m r a n   a l   z o u b i	COL name VAL omran al zoabi COL name_chars VAL o m r a n   a l   z o a b i	1
+COL name VAL manuel COL name_chars VAL m a n u e l	COL name VAL manley COL name_chars VAL m a n l e y	0
+COL name VAL mohammad kenaan COL name_chars VAL m o h a m m a d   k e n a a n	COL name VAL mohamed kannan COL name_chars VAL m o h a m e d   k a n n a n	1
+COL name VAL califano COL name_chars VAL c a l i f a n o	COL name VAL calvino COL name_chars VAL c a l v i n o	0
+COL name VAL sitt sobhiye COL name_chars VAL s i t t   s o b h i y e	COL name VAL ziyad sahhab COL name_chars VAL z i y a d   s a h h a b	0
+COL name VAL streda geagea COL name_chars VAL s t r e d a   g e a g e a	COL name VAL streeda geagea COL name_chars VAL s t r e e d a   g e a g e a	1
+COL name VAL selman bin abdul aziz COL name_chars VAL s e l m a n   b i n   a b d u l   a z i z	COL name VAL salman bin abdul aziz COL name_chars VAL s a l m a n   b i n   a b d u l   a z i z	1
+COL name VAL ghabbar COL name_chars VAL g h a b b a r	COL name VAL capoeira COL name_chars VAL c a p o e i r a	0
+COL name VAL george papas COL name_chars VAL g e o r g e   p a p a s	COL name VAL george papandreou COL name_chars VAL g e o r g e   p a p a n d r e o u	0
+COL name VAL the american general electric company COL name_chars VAL t h e   a m e r i c a n   g e n e r a l   e l e c t r i c   c o m p a n y	COL name VAL americangeneral electric COL name_chars VAL a m e r i c a n g e n e r a l   e l e c t r i c	1
+COL name VAL group of senior donors COL name_chars VAL g r o u p   o f   s e n i o r   d o n o r s	COL name VAL the group of senior donors to syria COL name_chars VAL t h e   g r o u p   o f   s e n i o r   d o n o r s   t o   s y r i a	1
+COL name VAL the galata school COL name_chars VAL t h e   g a l a t a   s c h o o l	COL name VAL the graduate school COL name_chars VAL t h e   g r a d u a t e   s c h o o l	0
+COL name VAL gebran safi COL name_chars VAL g e b r a n   s a f i	COL name VAL gebran soufan COL name_chars VAL g e b r a n   s o u f a n	0
+COL name VAL samir geagealebanese COL name_chars VAL s a m i r   g e a g e a l e b a n e s e	COL name VAL samir geagea COL name_chars VAL s a m i r   g e a g e a	1
+COL name VAL general cesnola COL name_chars VAL g e n e r a l   c e s n o l a	COL name VAL general control COL name_chars VAL g e n e r a l   c o n t r o l	0
+COL name VAL james jabra gonzalo higuain COL name_chars VAL j a m e s   j a b r a   g o n z a l o   h i g u a i n	COL name VAL gonzalo higuain COL name_chars VAL g o n z a l o   h i g u a i n	1
+COL name VAL edition by georges chakra COL name_chars VAL e d i t i o n   b y   g e o r g e s   c h a k r a	COL name VAL georges chakra COL name_chars VAL g e o r g e s   c h a k r a	1
+COL name VAL the emerging advisors group COL name_chars VAL t h e   e m e r g i n g   a d v i s o r s   g r o u p	COL name VAL the arab advisors group COL name_chars VAL t h e   a r a b   a d v i s o r s   g r o u p	1
+COL name VAL eleanor gillespie COL name_chars VAL e l e a n o r   g i l l e s p i e	COL name VAL ed gillespie COL name_chars VAL e d   g i l l e s p i e	0
+COL name VAL the general administrative inspectorate COL name_chars VAL t h e   g e n e r a l   a d m i n i s t r a t i v e   i n s p e c t o r a t e	COL name VAL the general inspectorate COL name_chars VAL t h e   g e n e r a l   i n s p e c t o r a t e	1
+COL name VAL richard galliano COL name_chars VAL r i c h a r d   g a l l i a n o	COL name VAL richard gowan COL name_chars VAL r i c h a r d   g o w a n	0
+COL name VAL tranquilino gabriel COL name_chars VAL t r a n q u i l i n o   g a b r i e l	COL name VAL kino gabriel COL name_chars VAL k i n o   g a b r i e l	0
+COL name VAL the directorate general for palestinian refugees affairs COL name_chars VAL t h e   d i r e c t o r a t e   g e n e r a l   f o r   p a l e s t i n i a n   r e f u g e e s   a f f a i r s	COL name VAL the directorate general of refugees COL name_chars VAL t h e   d i r e c t o r a t e   g e n e r a l   o f   r e f u g e e s	1
+COL name VAL falcon group COL name_chars VAL f a l c o n   g r o u p	COL name VAL non group COL name_chars VAL n o n   g r o u p	0
+COL name VAL george shultz COL name_chars VAL g e o r g e   s h u l t z	COL name VAL george shuqair COL name_chars VAL g e o r g e   s h u q a i r	0
+COL name VAL abdul rahman mohammed ghdadi COL name_chars VAL a b d u l   r a h m a n   m o h a m m e d   g h d a d i	COL name VAL abdul rahman ghadedi COL name_chars VAL a b d u l   r a h m a n   g h a d e d i	1
+COL name VAL howard grief COL name_chars VAL h o w a r d   g r i e f	COL name VAL howard gibbs COL name_chars VAL h o w a r d   g i b b s	0
+COL name VAL cecilia gonzalez COL name_chars VAL c e c i l i a   g o n z a l e z	COL name VAL elsa gonzalez COL name_chars VAL e l s a   g o n z a l e z	0
+COL name VAL ghada gebara COL name_chars VAL g h a d a   g e b a r a	COL name VAL hayat gebara COL name_chars VAL h a y a t   g e b a r a	0
+COL name VAL che guevara COL name_chars VAL c h e   g u e v a r a	COL name VAL ernesto che guevara COL name_chars VAL e r n e s t o   c h e   g u e v a r a	0
+COL name VAL yatroun goleana COL name_chars VAL y a t r o u n   g o l e a n a	COL name VAL yatron guliano COL name_chars VAL y a t r o n   g u l i a n o	1
+COL name VAL ghada alsharif sahar hamzeh COL name_chars VAL g h a d a   a l s h a r i f   s a h a r   h a m z e h	COL name VAL ghada alsharif salah nasser COL name_chars VAL g h a d a   a l s h a r i f   s a l a h   n a s s e r	1
+COL name VAL daniel gemayel COL name_chars VAL d a n i e l   g e m a y e l	COL name VAL samil gemayel COL name_chars VAL s a m i l   g e m a y e l	0
+COL name VAL nikolai gogol COL name_chars VAL n i k o l a i   g o g o l	COL name VAL nikolai gudkov COL name_chars VAL n i k o l a i   g u d k o v	0
+COL name VAL gavin helf COL name_chars VAL g a v i n   h e l f	COL name VAL gavin hayes COL name_chars VAL g a v i n   h a y e s	0
+COL name VAL refaat ghostine COL name_chars VAL r e f a a t   g h o s t i n e	COL name VAL fares ghostine COL name_chars VAL f a r e s   g h o s t i n e	0
+COL name VAL ariana grande COL name_chars VAL a r i a n a   g r a n d e	COL name VAL lisa grande COL name_chars VAL l i s a   g r a n d e	0
+COL name VAL ghazi abbas mahmoud COL name_chars VAL g h a z i   a b b a s   m a h m o u d	COL name VAL ghazi mahmoud COL name_chars VAL g h a z i   m a h m o u d	1
+COL name VAL paul gwynne COL name_chars VAL p a u l   g w y n n e	COL name VAL paul greene COL name_chars VAL p a u l   g r e e n e	0
+COL name VAL nabil gholam COL name_chars VAL n a b i l   g h o l a m	COL name VAL nabil ghawi COL name_chars VAL n a b i l   g h a w i	0
+COL name VAL fayhan al ghamdi COL name_chars VAL f a y h a n   a l   g h a m d i	COL name VAL ahmad al ghamdi COL name_chars VAL a h m a d   a l   g h a m d i	0
+COL name VAL georgia tech COL name_chars VAL g e o r g i a   t e c h	COL name VAL georgia tech university COL name_chars VAL g e o r g i a   t e c h   u n i v e r s i t y	1
+COL name VAL jad ghaziri COL name_chars VAL j a d   g h a z i r i	COL name VAL ali ghaziri COL name_chars VAL a l i   g h a z i r i	0
+COL name VAL the general federation of egyptian chambers COL name_chars VAL t h e   g e n e r a l   f e d e r a t i o n   o f   e g y p t i a n   c h a m b e r s	COL name VAL the federation of gcc chambers COL name_chars VAL t h e   f e d e r a t i o n   o f   g c c   c h a m b e r s	1
+COL name VAL michel gondry COL name_chars VAL m i c h e l   g o n d r y	COL name VAL michel georr COL name_chars VAL m i c h e l   g e o r r	0
+COL name VAL ehud goldwasser COL name_chars VAL e h u d   g o l d w a s s e r	COL name VAL shafi goldwasser COL name_chars VAL s h a f i   g o l d w a s s e r	0
+COL name VAL girault kataeb party COL name_chars VAL g i r a u l t   k a t a e b   p a r t y	COL name VAL gemayel kataeb party COL name_chars VAL g e m a y e l   k a t a e b   p a r t y	0
+COL name VAL alpha ngo COL name_chars VAL a l p h a   n g o	COL name VAL alpha group COL name_chars VAL a l p h a   g r o u p	0
+COL name VAL the global refugee compact COL name_chars VAL t h e   g l o b a l   r e f u g e e   c o m p a c t	COL name VAL the global compact on refugees COL name_chars VAL t h e   g l o b a l   c o m p a c t   o n   r e f u g e e s	1
+COL name VAL the broadband commission working group on digital health COL name_chars VAL t h e   b r o a d b a n d   c o m m i s s i o n   w o r k i n g   g r o u p   o n   d i g i t a l   h e a l t h	COL name VAL the broadband commission for sustainable development working group on digital health COL name_chars VAL t h e   b r o a d b a n d   c o m m i s s i o n   f o r   s u s t a i n a b l e   d e v e l o p m e n t   w o r k i n g   g r o u p   o n   d i g i t a l   h e a l t h	1
+COL name VAL george el hamawy COL name_chars VAL g e o r g e   e l   h a m a w y	COL name VAL george el khoury COL name_chars VAL g e o r g e   e l   k h o u r y	0
+COL name VAL the gapminder foundation COL name_chars VAL t h e   g a p m i n d e r   f o u n d a t i o n	COL name VAL the gates foundation COL name_chars VAL t h e   g a t e s   f o u n d a t i o n	0
+COL name VAL jaime guardiola COL name_chars VAL j a i m e   g u a r d i o l a	COL name VAL pere guardiola COL name_chars VAL p e r e   g u a r d i o l a	0
+COL name VAL the lebanese group for friendship and christian islamic dialogue COL name_chars VAL t h e   l e b a n e s e   g r o u p   f o r   f r i e n d s h i p   a n d   c h r i s t i a n   i s l a m i c   d i a l o g u e	COL name VAL the lebanese friendship gathering for muslim christian dialogue COL name_chars VAL t h e   l e b a n e s e   f r i e n d s h i p   g a t h e r i n g   f o r   m u s l i m   c h r i s t i a n   d i a l o g u e	1
+COL name VAL rim al gharbi COL name_chars VAL r i m   a l   g h a r b i	COL name VAL jamal al gharbi COL name_chars VAL j a m a l   a l   g h a r b i	0
+COL name VAL the great house of cilicia COL name_chars VAL t h e   g r e a t   h o u s e   o f   c i l i c i a	COL name VAL the catholicosate of the great house of cilicia COL name_chars VAL t h e   c a t h o l i c o s a t e   o f   t h e   g r e a t   h o u s e   o f   c i l i c i a	1
+COL name VAL geagea aoun COL name_chars VAL g e a g e a   a o u n	COL name VAL geagea argue COL name_chars VAL g e a g e a   a r g u e	0
+COL name VAL the geneva and hague conventions COL name_chars VAL t h e   g e n e v a   a n d   h a g u e   c o n v e n t i o n s	COL name VAL the geneva conventions COL name_chars VAL t h e   g e n e v a   c o n v e n t i o n s	1
+COL name VAL gm architects COL name_chars VAL g m   a r c h i t e c t s	COL name VAL grimshaw architects COL name_chars VAL g r i m s h a w   a r c h i t e c t s	1
+COL name VAL goal no COL name_chars VAL g o a l   n o	COL name VAL goal com COL name_chars VAL g o a l   c o m	0
+COL name VAL seif gadhafi COL name_chars VAL s e i f   g a d h a f i	COL name VAL saadi gadhafi COL name_chars VAL s a a d i   g a d h a f i	0
+COL name VAL george orwell COL name_chars VAL g e o r g e   o r w e l l	COL name VAL george al COL name_chars VAL g e o r g e   a l	0
+COL name VAL ghaith kowari COL name_chars VAL g h a i t h   k o w a r i	COL name VAL ghaith al omari COL name_chars VAL g h a i t h   a l   o m a r i	0
+COL name VAL david guetta COL name_chars VAL d a v i d   g u e t t a	COL name VAL david gruen COL name_chars VAL d a v i d   g r u e n	0
+COL name VAL ali ghazi al assaad COL name_chars VAL a l i   g h a z i   a l   a s s a a d	COL name VAL ali ghazi askar COL name_chars VAL a l i   g h a z i   a s k a r	0
+COL name VAL peter greenaway COL name_chars VAL p e t e r   g r e e n a w a y	COL name VAL peter greste COL name_chars VAL p e t e r   g r e s t e	0
+COL name VAL tony gamal gabriel abu mohammad COL name_chars VAL t o n y   g a m a l   g a b r i e l   a b u   m o h a m m a d	COL name VAL tony gamal gabriel COL name_chars VAL t o n y   g a m a l   g a b r i e l	1
+COL name VAL marfa gallery COL name_chars VAL m a r f a   g a l l e r y	COL name VAL sana gallery COL name_chars VAL s a n a   g a l l e r y	0
+COL name VAL gregarious melki COL name_chars VAL g r e g a r i o u s   m e l k i	COL name VAL gregarious laham COL name_chars VAL g r e g a r i o u s   l a h a m	0
+COL name VAL the gibraltar central authority COL name_chars VAL t h e   g i b r a l t a r   c e n t r a l   a u t h o r i t y	COL name VAL the general authority COL name_chars VAL t h e   g e n e r a l   a u t h o r i t y	1
+COL name VAL alexander georgeexplored COL name_chars VAL a l e x a n d e r   g e o r g e e x p l o r e d	COL name VAL alexandre george COL name_chars VAL a l e x a n d r e   g e o r g e	1
+COL name VAL nicole gemayel COL name_chars VAL n i c o l e   g e m a y e l	COL name VAL joelle gemayel COL name_chars VAL j o e l l e   g e m a y e l	0
+COL name VAL cardinal george pell COL name_chars VAL c a r d i n a l   g e o r g e   p e l l	COL name VAL george pell COL name_chars VAL g e o r g e   p e l l	1
+COL name VAL media guidance and public relations department COL name_chars VAL m e d i a   g u i d a n c e   a n d   p u b l i c   r e l a t i o n s   d e p a r t m e n t	COL name VAL general public relations department COL name_chars VAL g e n e r a l   p u b l i c   r e l a t i o n s   d e p a r t m e n t	1
+COL name VAL khaled saleh al mosareh COL name_chars VAL k h a l e d   s a l e h   a l   m o s a r e h	COL name VAL khaled saleh al mousare COL name_chars VAL k h a l e d   s a l e h   a l   m o u s a r e	1
+COL name VAL chafik al kassis COL name_chars VAL c h a f i k   a l   k a s s i s	COL name VAL chafic al kassis COL name_chars VAL c h a f i c   a l   k a s s i s	1
+COL name VAL khaled ghattass COL name_chars VAL k h a l e d   g h a t t a s s	COL name VAL khaled ghattas COL name_chars VAL k h a l e d   g h a t t a s	1
+COL name VAL lilianne khallouf COL name_chars VAL l i l i a n n e   k h a l l o u f	COL name VAL liliane khallouf COL name_chars VAL l i l i a n e   k h a l l o u f	1
+COL name VAL akademie der kunst COL name_chars VAL a k a d e m i e   d e r   k u n s t	COL name VAL akademie der kunste COL name_chars VAL a k a d e m i e   d e r   k u n s t e	1
+COL name VAL khaled haddada COL name_chars VAL k h a l e d   h a d d a d a	COL name VAL khaled haddad COL name_chars VAL k h a l e d   h a d d a d	1
+COL name VAL ali abdul salam al kharsan COL name_chars VAL a l i   a b d u l   s a l a m   a l   k h a r s a n	COL name VAL ali abdulsalam al kharsan COL name_chars VAL a l i   a b d u l s a l a m   a l   k h a r s a n	1
+COL name VAL khaldoun uraymet COL name_chars VAL k h a l d o u n   u r a y m e t	COL name VAL khaldoun oraymet COL name_chars VAL k h a l d o u n   o r a y m e t	1
+COL name VAL tahsin khayyat COL name_chars VAL t a h s i n   k h a y y a t	COL name VAL tahsin khayat COL name_chars VAL t a h s i n   k h a y a t	1
+COL name VAL kristina winberg COL name_chars VAL k r i s t i n a   w i n b e r g	COL name VAL krisitina winberg COL name_chars VAL k r i s i t i n a   w i n b e r g	1
+COL name VAL hasan ali kheireddine COL name_chars VAL h a s a n   a l i   k h e i r e d d i n e	COL name VAL hassan ali kheireddine COL name_chars VAL h a s s a n   a l i   k h e i r e d d i n e	1
+COL name VAL abdel ghabi kabbara COL name_chars VAL a b d e l   g h a b i   k a b b a r a	COL name VAL abdel ghani kabbara COL name_chars VAL a b d e l   g h a n i   k a b b a r a	1
+COL name VAL ali hasssan khalil COL name_chars VAL a l i   h a s s s a n   k h a l i l	COL name VAL ali hassan khalil COL name_chars VAL a l i   h a s s a n   k h a l i l	1
+COL name VAL khaled abdel hamid COL name_chars VAL k h a l e d   a b d e l   h a m i d	COL name VAL khaled abdul hamid COL name_chars VAL k h a l e d   a b d u l   h a m i d	1
+COL name VAL abdel karim hodroj COL name_chars VAL a b d e l   k a r i m   h o d r o j	COL name VAL abdul karim hodroj COL name_chars VAL a b d u l   k a r i m   h o d r o j	1
+COL name VAL emmanuel kalinzi COL name_chars VAL e m m a n u e l   k a l i n z i	COL name VAL emmanuel kalenzi COL name_chars VAL e m m a n u e l   k a l e n z i	1
+COL name VAL liliane khallouf COL name_chars VAL l i l i a n e   k h a l l o u f	COL name VAL lilianne khallouf COL name_chars VAL l i l i a n n e   k h a l l o u f	1
+COL name VAL hong kong and macau affairs office COL name_chars VAL h o n g   k o n g   a n d   m a c a u   a f f a i r s   o f f i c e	COL name VAL hong kong and macao affairs office COL name_chars VAL h o n g   k o n g   a n d   m a c a o   a f f a i r s   o f f i c e	1
+COL name VAL khiyam rehabilitation center COL name_chars VAL k h i y a m   r e h a b i l i t a t i o n   c e n t e r	COL name VAL khiam rehabilitation center COL name_chars VAL k h i a m   r e h a b i l i t a t i o n   c e n t e r	1
+COL name VAL elissar al kour COL name_chars VAL e l i s s a r   a l   k o u r	COL name VAL elisar al kour COL name_chars VAL e l i s a r   a l   k o u r	1
+COL name VAL aylan kurdis COL name_chars VAL a y l a n   k u r d i s	COL name VAL aylan kurdi COL name_chars VAL a y l a n   k u r d i	1
+COL name VAL mohamad kabara COL name_chars VAL m o h a m a d   k a b a r a	COL name VAL mohamad kabbara COL name_chars VAL m o h a m a d   k a b b a r a	1
+COL name VAL mohammed kabara COL name_chars VAL m o h a m m e d   k a b a r a	COL name VAL mohammed kabbara COL name_chars VAL m o h a m m e d   k a b b a r a	1
+COL name VAL bassam khalifeh COL name_chars VAL b a s s a m   k h a l i f e h	COL name VAL bassam khalife COL name_chars VAL b a s s a m   k h a l i f e	1
+COL name VAL mohamed karim boudali COL name_chars VAL m o h a m e d   k a r i m   b o u d a l i	COL name VAL mohammed karim boudali COL name_chars VAL m o h a m m e d   k a r i m   b o u d a l i	1
+COL name VAL carol abi karam COL name_chars VAL c a r o l   a b i   k a r a m	COL name VAL carol abi kara COL name_chars VAL c a r o l   a b i   k a r a	1
+COL name VAL korea central news agency COL name_chars VAL k o r e a   c e n t r a l   n e w s   a g e n c y	COL name VAL korean central news agency COL name_chars VAL k o r e a n   c e n t r a l   n e w s   a g e n c y	1
+COL name VAL gibran kahlil gibran COL name_chars VAL g i b r a n   k a h l i l   g i b r a n	COL name VAL gibran khalil gibran COL name_chars VAL g i b r a n   k h a l i l   g i b r a n	1
+COL name VAL monica schmitz kirgoz COL name_chars VAL m o n i c a   s c h m i t z   k i r g o z	COL name VAL monica schmutz kirgoz COL name_chars VAL m o n i c a   s c h m u t z   k i r g o z	1
+COL name VAL sabah al khaled al COL name_chars VAL s a b a h   a l   k h a l e d   a l	COL name VAL sabah al khalid al COL name_chars VAL s a b a h   a l   k h a l i d   a l	1
+COL name VAL behrouz kamalvindi COL name_chars VAL b e h r o u z   k a m a l v i n d i	COL name VAL behrouz kamalvandi COL name_chars VAL b e h r o u z   k a m a l v a n d i	1
+COL name VAL khalid al jarallah COL name_chars VAL k h a l i d   a l   j a r a l l a h	COL name VAL khaled al jarallah COL name_chars VAL k h a l e d   a l   j a r a l l a h	1
+COL name VAL mohamed jawad khalifeh COL name_chars VAL m o h a m e d   j a w a d   k h a l i f e h	COL name VAL mohammed jawad khalifeh COL name_chars VAL m o h a m m e d   j a w a d   k h a l i f e h	1
+COL name VAL ali abdelkarim ali COL name_chars VAL a l i   a b d e l k a r i m   a l i	COL name VAL ali abdel karim ali COL name_chars VAL a l i   a b d e l   k a r i m   a l i	1
+COL name VAL abdel karim ahmad COL name_chars VAL a b d e l   k a r i m   a h m a d	COL name VAL abdul karim ahmad COL name_chars VAL a b d u l   k a r i m   a h m a d	1
+COL name VAL lara karam bustany COL name_chars VAL l a r a   k a r a m   b u s t a n y	COL name VAL lara karam boustany COL name_chars VAL l a r a   k a r a m   b o u s t a n y	1
+COL name VAL mohammed karim boudali COL name_chars VAL m o h a m m e d   k a r i m   b o u d a l i	COL name VAL mohamed karim boudali COL name_chars VAL m o h a m e d   k a r i m   b o u d a l i	1
+COL name VAL khaled al yamani COL name_chars VAL k h a l e d   a l   y a m a n i	COL name VAL khalid al yamani COL name_chars VAL k h a l i d   a l   y a m a n i	1
+COL name VAL marwan kheir el dine COL name_chars VAL m a r w a n   k h e i r   e l   d i n e	COL name VAL marwan kheir al dine COL name_chars VAL m a r w a n   k h e i r   a l   d i n e	1
+COL name VAL kingdom holding COL name_chars VAL k i n g d o m   h o l d i n g	COL name VAL kingdom holdings COL name_chars VAL k i n g d o m   h o l d i n g s	1
+COL name VAL skeyes center for media and cultural freedom COL name_chars VAL s k e y e s   c e n t e r   f o r   m e d i a   a n d   c u l t u r a l   f r e e d o m	COL name VAL the skeyes center for media and cultural freedom COL name_chars VAL t h e   s k e y e s   c e n t e r   f o r   m e d i a   a n d   c u l t u r a l   f r e e d o m	1
+COL name VAL electronic katrangi trading COL name_chars VAL e l e c t r o n i c   k a t r a n g i   t r a d i n g	COL name VAL electronics katrangi trading COL name_chars VAL e l e c t r o n i c s   k a t r a n g i   t r a d i n g	1
+COL name VAL karim kobeisi COL name_chars VAL k a r i m   k o b e i s i	COL name VAL karim kobeissi COL name_chars VAL k a r i m   k o b e i s s i	1
+COL name VAL hamed al khafaf COL name_chars VAL h a m e d   a l   k h a f a f	COL name VAL hamed al khaffaf COL name_chars VAL h a m e d   a l   k h a f f a f	1
+COL name VAL mohammad kamel amr COL name_chars VAL m o h a m m a d   k a m e l   a m r	COL name VAL mohammad kamel amro COL name_chars VAL m o h a m m a d   k a m e l   a m r o	1
+COL name VAL abdul karim youssef zaarour COL name_chars VAL a b d u l   k a r i m   y o u s s e f   z a a r o u r	COL name VAL abdel karim youssef zaarour COL name_chars VAL a b d e l   k a r i m   y o u s s e f   z a a r o u r	1
+COL name VAL patricia kopatchinskaya COL name_chars VAL p a t r i c i a   k o p a t c h i n s k a y a	COL name VAL patricia kopatchinskaja COL name_chars VAL p a t r i c i a   k o p a t c h i n s k a j a	1
+COL name VAL mohammed nazih khalil COL name_chars VAL m o h a m m e d   n a z i h   k h a l i l	COL name VAL mohammad nazih khalil COL name_chars VAL m o h a m m a d   n a z i h   k h a l i l	1
+COL name VAL hisham khalifa COL name_chars VAL h i s h a m   k h a l i f a	COL name VAL hisham khalifah COL name_chars VAL h i s h a m   k h a l i f a h	1
+COL name VAL ghattas el khoury COL name_chars VAL g h a t t a s   e l   k h o u r y	COL name VAL ghattas al khoury COL name_chars VAL g h a t t a s   a l   k h o u r y	1
+COL name VAL khaled yehya abu hasna COL name_chars VAL k h a l e d   y e h y a   a b u   h a s n a	COL name VAL khaled yehya abou hasna COL name_chars VAL k h a l e d   y e h y a   a b o u   h a s n a	1
+COL name VAL mohammad khorasani COL name_chars VAL m o h a m m a d   k h o r a s a n i	COL name VAL mohammad khurasani COL name_chars VAL m o h a m m a d   k h u r a s a n i	1
+COL name VAL muhammad shahid amin khan COL name_chars VAL m u h a m m a d   s h a h i d   a m i n   k h a n	COL name VAL muhammad shahed amin khan COL name_chars VAL m u h a m m a d   s h a h e d   a m i n   k h a n	1
+COL name VAL khaldoun araymet COL name_chars VAL k h a l d o u n   a r a y m e t	COL name VAL khaldoun uraymet COL name_chars VAL k h a l d o u n   u r a y m e t	1
+COL name VAL the kamel youssef jaber social and cultural center COL name_chars VAL t h e   k a m e l   y o u s s e f   j a b e r   s o c i a l   a n d   c u l t u r a l   c e n t e r	COL name VAL kamel youssef jaber social and cultural center COL name_chars VAL k a m e l   y o u s s e f   j a b e r   s o c i a l   a n d   c u l t u r a l   c e n t e r	1
+COL name VAL mohammad rachid kabbani COL name_chars VAL m o h a m m a d   r a c h i d   k a b b a n i	COL name VAL mohammad rashid kabbani COL name_chars VAL m o h a m m a d   r a s h i d   k a b b a n i	1
+COL name VAL qays al khazaali COL name_chars VAL q a y s   a l   k h a z a a l i	COL name VAL qays al khazali COL name_chars VAL q a y s   a l   k h a z a l i	1
+COL name VAL monika shmutz kirgoz COL name_chars VAL m o n i k a   s h m u t z   k i r g o z	COL name VAL monika schmutz kirgoz COL name_chars VAL m o n i k a   s c h m u t z   k i r g o z	1
+COL name VAL ali abd al karim ali COL name_chars VAL a l i   a b d   a l   k a r i m   a l i	COL name VAL ali abed al karim ali COL name_chars VAL a l i   a b e d   a l   k a r i m   a l i	1
+COL name VAL pierre kranhenbuhl COL name_chars VAL p i e r r e   k r a n h e n b u h l	COL name VAL pierre krnhenbuhl COL name_chars VAL p i e r r e   k r n h e n b u h l	1
+COL name VAL mohamad karim boudali COL name_chars VAL m o h a m a d   k a r i m   b o u d a l i	COL name VAL mohammad karim boudali COL name_chars VAL m o h a m m a d   k a r i m   b o u d a l i	1
+COL name VAL the king abdullah bin abdulaziz international centre for interreligious and intercultural dialogue COL name_chars VAL t h e   k i n g   a b d u l l a h   b i n   a b d u l a z i z   i n t e r n a t i o n a l   c e n t r e   f o r   i n t e r r e l i g i o u s   a n d   i n t e r c u l t u r a l   d i a l o g u e	COL name VAL the king abdullah bin abdulaziz international center for interreligious and intercultural dialogue COL name_chars VAL t h e   k i n g   a b d u l l a h   b i n   a b d u l a z i z   i n t e r n a t i o n a l   c e n t e r   f o r   i n t e r r e l i g i o u s   a n d   i n t e r c u l t u r a l   d i a l o g u e	1
+COL name VAL king abdullah ii COL name_chars VAL k i n g   a b d u l l a h   i i	COL name VAL king abdallah ii COL name_chars VAL k i n g   a b d a l l a h   i i	1
+COL name VAL khaled haddad COL name_chars VAL k h a l e d   h a d d a d	COL name VAL khaled haddada COL name_chars VAL k h a l e d   h a d d a d a	1
+COL name VAL cristina fernandez de kirchner COL name_chars VAL c r i s t i n a   f e r n a n d e z   d e   k i r c h n e r	COL name VAL cristina fernndez de kirchner COL name_chars VAL c r i s t i n a   f e r n n d e z   d e   k i r c h n e r	1
+COL name VAL hussein kamel jaafar COL name_chars VAL h u s s e i n   k a m e l   j a a f a r	COL name VAL hussein kamal jaafar COL name_chars VAL h u s s e i n   k a m a l   j a a f a r	1
+COL name VAL emmanuel kalenzi COL name_chars VAL e m m a n u e l   k a l e n z i	COL name VAL emmanuel kalinzi COL name_chars VAL e m m a n u e l   k a l i n z i	1
+COL name VAL karadeniz holdings COL name_chars VAL k a r a d e n i z   h o l d i n g s	COL name VAL karadeniz holding COL name_chars VAL k a r a d e n i z   h o l d i n g	1
+COL name VAL rachid karame COL name_chars VAL r a c h i d   k a r a m e	COL name VAL rachid karam COL name_chars VAL r a c h i d   k a r a m	1
+COL name VAL khaled al mashri COL name_chars VAL k h a l e d   a l   m a s h r i	COL name VAL khaled al meshri COL name_chars VAL k h a l e d   a l   m e s h r i	1
+COL name VAL ahmed abu khawla COL name_chars VAL a h m e d   a b u   k h a w l a	COL name VAL ahmad abu khawla COL name_chars VAL a h m a d   a b u   k h a w l a	1
+COL name VAL pierre kraehenbuhl COL name_chars VAL p i e r r e   k r a e h e n b u h l	COL name VAL pierre krahenbuhl COL name_chars VAL p i e r r e   k r a h e n b u h l	1
+COL name VAL karim bakradouni COL name_chars VAL k a r i m   b a k r a d o u n i	COL name VAL karim pakradouni COL name_chars VAL k a r i m   p a k r a d o u n i	1
+COL name VAL mohamad kabbara COL name_chars VAL m o h a m a d   k a b b a r a	COL name VAL mohammad kabbara COL name_chars VAL m o h a m m a d   k a b b a r a	1
+COL name VAL aylan kurdi COL name_chars VAL a y l a n   k u r d i	COL name VAL aylan kurdis COL name_chars VAL a y l a n   k u r d i s	1
+COL name VAL khouloud succariyeh COL name_chars VAL k h o u l o u d   s u c c a r i y e h	COL name VAL kholoud succariyeh COL name_chars VAL k h o l o u d   s u c c a r i y e h	1
+COL name VAL hassan khalili COL name_chars VAL h a s s a n   k h a l i l i	COL name VAL hassan khalil COL name_chars VAL h a s s a n   k h a l i l	1
+COL name VAL cesar abu khalil COL name_chars VAL c e s a r   a b u   k h a l i l	COL name VAL cesar abou khalil COL name_chars VAL c e s a r   a b o u   k h a l i l	1
+COL name VAL abdel kader alameddine COL name_chars VAL a b d e l   k a d e r   a l a m e d d i n e	COL name VAL abdul kader alameddine COL name_chars VAL a b d u l   k a d e r   a l a m e d d i n e	1
+COL name VAL mikhail khodorkovsky COL name_chars VAL m i k h a i l   k h o d o r k o v s k y	COL name VAL mikhail khodorkovski COL name_chars VAL m i k h a i l   k h o d o r k o v s k i	1
+COL name VAL amjad nuhad al khatib COL name_chars VAL a m j a d   n u h a d   a l   k h a t i b	COL name VAL amjad nouhad al khatib COL name_chars VAL a m j a d   n o u h a d   a l   k h a t i b	1
+COL name VAL karim rifai COL name_chars VAL k a r i m   r i f a i	COL name VAL karim rifa COL name_chars VAL k a r i m   r i f a	1
+COL name VAL khaled bin ibrahim al jindan COL name_chars VAL k h a l e d   b i n   i b r a h i m   a l   j i n d a n	COL name VAL khaled bin ibrahim al jandan COL name_chars VAL k h a l e d   b i n   i b r a h i m   a l   j a n d a n	1
+COL name VAL the kuwaiti institute for advanced science COL name_chars VAL t h e   k u w a i t i   i n s t i t u t e   f o r   a d v a n c e d   s c i e n c e	COL name VAL kuwaiti institute for advanced science COL name_chars VAL k u w a i t i   i n s t i t u t e   f o r   a d v a n c e d   s c i e n c e	1
+COL name VAL kataeb sayyid al shuhada COL name_chars VAL k a t a e b   s a y y i d   a l   s h u h a d a	COL name VAL kataib sayyid al shuhada COL name_chars VAL k a t a i b   s a y y i d   a l   s h u h a d a	1
+COL name VAL abdul karim ahmad seifeddine COL name_chars VAL a b d u l   k a r i m   a h m a d   s e i f e d d i n e	COL name VAL abdul karim ahmed seifeddine COL name_chars VAL a b d u l   k a r i m   a h m e d   s e i f e d d i n e	1
+COL name VAL mohamed khan COL name_chars VAL m o h a m e d   k h a n	COL name VAL mohammed khan COL name_chars VAL m o h a m m e d   k h a n	1
+COL name VAL ahmed karami COL name_chars VAL a h m e d   k a r a m i	COL name VAL ahmed karam COL name_chars VAL a h m e d   k a r a m	1
+COL name VAL mohammad kanaan COL name_chars VAL m o h a m m a d   k a n a a n	COL name VAL mohamad kanaan COL name_chars VAL m o h a m a d   k a n a a n	1
+COL name VAL mohamad karaki COL name_chars VAL m o h a m a d   k a r a k i	COL name VAL mohammad karaki COL name_chars VAL m o h a m m a d   k a r a k i	1
+COL name VAL mohammad el khatib COL name_chars VAL m o h a m m a d   e l   k h a t i b	COL name VAL mohammad al khatib COL name_chars VAL m o h a m m a d   a l   k h a t i b	1
+COL name VAL pierre krahenbuhl COL name_chars VAL p i e r r e   k r a h e n b u h l	COL name VAL pierre kraehenbuhl COL name_chars VAL p i e r r e   k r a e h e n b u h l	1
+COL name VAL khalid al obeidi COL name_chars VAL k h a l i d   a l   o b e i d i	COL name VAL khaled al obeidi COL name_chars VAL k h a l e d   a l   o b e i d i	1
+COL name VAL farid haikal el khazen COL name_chars VAL f a r i d   h a i k a l   e l   k h a z e n	COL name VAL farid haikal al khazen COL name_chars VAL f a r i d   h a i k a l   a l   k h a z e n	1
+COL name VAL charbel abu khalil COL name_chars VAL c h a r b e l   a b u   k h a l i l	COL name VAL charbel abou khalil COL name_chars VAL c h a r b e l   a b o u   k h a l i l	1
+COL name VAL raymond khattar COL name_chars VAL r a y m o n d   k h a t t a r	COL name VAL raymound khattar COL name_chars VAL r a y m o u n d   k h a t t a r	1
+COL name VAL faysal karameh COL name_chars VAL f a y s a l   k a r a m e h	COL name VAL fayssal karameh COL name_chars VAL f a y s s a l   k a r a m e h	1
+COL name VAL abdul aal alkinai COL name_chars VAL a b d u l   a a l   a l k i n a i	COL name VAL abdul aal al kinai COL name_chars VAL a b d u l   a a l   a l   k i n a i	1
+COL name VAL yasser alwi COL name_chars VAL y a s s e r   a l w i	COL name VAL ali asseri COL name_chars VAL a l i   a s s e r i	0

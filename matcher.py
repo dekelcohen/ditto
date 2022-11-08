@@ -263,9 +263,11 @@ def eval_results(input_path, output_path):
         for line in fin:
             labels.append(int(line.split('\t')[-1]))
 
+    prec = sklearn.metrics.precision_score(labels, predicts)
+    recall = sklearn.metrics.recall_score(labels, predicts)
     f1 = sklearn.metrics.f1_score(labels, predicts)
         
-    return f1
+    return f1, prec, recall
 
 def load_model(task, path, lm, use_gpu, fp16=True):
     """Load a model for a specific task.
@@ -349,5 +351,6 @@ if __name__ == "__main__":
             dk_injector=dk_injector,
             threshold=threshold)
     
-    test_f1 = eval_results(hp.input_path, hp.output_path)
-    print(f'test_f1={test_f1}')
+    test_f1, prec, recall = eval_results(hp.input_path, hp.output_path)
+    print(f'test_f1 {f1}, Precision {prec}, Recall {recall}') 
+    

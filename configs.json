@@ -27,9 +27,9 @@
     "name": "wiki/PER_12K_Aug_First_Last_chars_aug",
     "task_type": "classification",
     "vocab": ["0", "1"],
-    "trainset": "data/wiki/PER_12K_Aug_First_Last_chars_aug/train.txt",
-    "validset": "data/wiki/PER_12K_Aug_First_Last_chars_aug/valid.txt",
-    "testset":  "data/wiki/PER_12K_Aug_First_Last_chars_aug/test.txt"
+    "trainset": "data/wiki/PER_12K_Aug_First_Last/chars_aug/train.txt",
+    "validset": "data/wiki/PER_12K_Aug_First_Last/chars_aug/valid.txt",
+    "testset":  "data/wiki/PER_12K_Aug_First_Last/chars_aug/test.txt"
   },  
   {
     "name": "wiki/PER_12K_Aug_First_Last",

@@ -16,8 +16,8 @@ def format_cand(cand_txt, add_chars = False):
         cand_flds += f" COL name_chars VAL {' '.join(list(cand_txt))}"
     return cand_flds
 
-def write_split(folder_path, file_name, df, add_chars= False):    
-#    save_ents_df(df, Path(folder_path) / (str(Path(file_name).stem) +  '.parquet'))        
+def write_split(folder_path, file_name, df, save_df = True, add_chars= False):    
+    # save_ents_df(df, Path(folder_path) / (str(Path(file_name).stem) +  '.parquet'))        
     with open(Path(folder_path) / file_name, 'w', encoding = 'utf-8') as f:
         for rec_index, row in df.iterrows():
             f.write(f"{format_cand(row['tokens_str'], add_chars)}\t{format_cand(row['m_tokens_str'], add_chars)}\t{row['gt_label']}\n")

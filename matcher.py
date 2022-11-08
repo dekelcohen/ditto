@@ -352,5 +352,5 @@ if __name__ == "__main__":
             threshold=threshold)
     
     test_f1, prec, recall = eval_results(hp.input_path, hp.output_path)
-    print(f'test_f1 {f1}, Precision {prec}, Recall {recall}') 
+    print(f'test_f1 {test_f1}, Precision {prec}, Recall {recall}') 
     

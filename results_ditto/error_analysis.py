@@ -18,12 +18,13 @@ PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_1
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_plus_500_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels'
 
 
 GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
 data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED / 'output_small.jsonl'
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -62,9 +63,9 @@ if __name__=="__main__":
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
     # FP
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_90_fp_test_news_per.html')
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_fp_test_news_per_fix_labels.html')
     # FN
-    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_90_FN_test_news_per.html')
+    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_FN_test_news_per_fix_labels.html')
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
     

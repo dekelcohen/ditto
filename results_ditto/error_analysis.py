@@ -81,7 +81,8 @@ if __name__=="__main__":
       # Conc: Adding 500 lower case negs first last (reoberta-base is cased) --> improves precision 0.74 --> 0.79, reduce recall 0.96 --> 0.92, improves f1 0.77 --> 0.85
     # Bug: Case: PER_12K_Aug_First_Last 5000 uppper case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED): test_news_per.txt- Precision 0.72, Recall 0.82, f1 0.77
       # Conc: Adding 5000 UPPER CASE negs first last  (reoberta-base is cased) --> reduce both precision and recall ! mainly recall
-    # Classical on wikidata test: Precision 0.55, Recall 0.39, f1 0.45
+    # Classical on wikidata test: Precision 0.55, Recall 0.40, f1 0.46 (for org 40K test of ORG_75K)
+    # Classical on news_per_org - Precision 0.95, Recall 0.92, f1 0.93
     calc_metrics(df_test) 
     df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html(Path(TEMP_PATH) / 'classical_fn.html')
     # Plot confusion matrix - many false-pos (almost no false-neg)
@@ -96,6 +97,10 @@ if __name__=="__main__":
     
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
+    # Classical EA- first run wikipedia_page_parse dataset creation code 
+    df_test_org['gt_label'] = df_test_org['gt_label'].astype('int32').to_numpy().astype('bool')
+    df_test_org[df_test_org.match!=df_test_org.gt_label][:2000][['tokens_str','m_tokens_str','match','gt_label','score','toks_sim']].to_html('./temp/classical_errs_wiki_ORGS_75K_test_first_2000.html')
+     
     # How many of match=True and gt_label=True are high confidence ?
     dt = df_pred[df_pred.match]
     dt[~dt.gt_label][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
@@ -103,6 +108,7 @@ if __name__=="__main__":
     
     df_pc['match'] = df_pc.match & (df_pc.match_confidence > 0.71)
     calc_metrics(df_pc) 
+    
     # Confidence distribtion for FP and TP    
     df_pred[df_pred['match'] & (~df_pred.gt_label)][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
     df_pred[df_pred['match'] & (df_pred.gt_label)][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))

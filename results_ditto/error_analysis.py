@@ -7,13 +7,15 @@ import sys
 sys.path.insert(0,'../preprocess')
 from features import read_split_df
 
-ORG_75K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\ORG_2_toks_75K'
+DITTO_PATH = r'D:\Dekel\Data\NLP\EntityMatching\ditto' # r'D:\NLP\Entity-Matching\hub\ditto'
+TEMP_PATH = Path(DITTO_PATH) / 'results_ditto/temp'
+ORG_75K_PATH = Path(DITTO_PATH) / r'data\wiki\ORG_2_toks_75K'
 ORG_PRED_FOLDER = r'test_predictions_train_4_to_1_test_7_to_1'
 
-PER_12K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K'
+PER_12K_PATH = Path(DITTO_PATH) / r'data\wiki\PER_12K'
 PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
 
-PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K_Aug_First_Last'
+PER_12K_AUG_FIRST_LAST_PATH = Path(DITTO_PATH) / r'data\wiki\PER_12K_Aug_First_Last'
 # PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED = r'predictions\train_wikidata_plus_5000_aug_first_last_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_plus_500_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
@@ -21,7 +23,7 @@ PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED = r'predictions\train_wikidata_
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels'
 
 
-GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
+GT_PATH = Path(DITTO_PATH) / r'data\news\test\test_news_per.txt'
 data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
 
 preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS / 'output_small.jsonl'
@@ -59,14 +61,17 @@ if __name__=="__main__":
       # Conc: Adding 5000 UPPER CASE negs first last  (reoberta-base is cased) --> reduce both precision and recall ! mainly recall
     # Classical on wikidata test: Precision 0.55, Recall 0.39, f1 0.45
     calc_metrics(df_test) 
-    df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html('./temp/classical_fn.html')
+    df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html(Path(TEMP_PATH) / 'classical_fn.html')
     # Plot confusion matrix - many false-pos (almost no false-neg)
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
     # FP
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_fp_test_news_per_fix_labels.html')
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'ditto_aug_first_last_2000_f1_94_fp_test_news_per_fix_labels.html')
     # FN
-    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_FN_test_news_per_fix_labels.html')
+    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'ditto_aug_first_last_2000_f1_94_FN_test_news_per_fix_labels.html')
+    # TP + TN
+    df_pred[df_pred.match == df_pred.gt_label].to_html(Path(TEMP_PATH) / 'ditto_aug_first_last_2000_f1_94_TP_TN_test_news_per_fix_labels.html')
+    
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
     

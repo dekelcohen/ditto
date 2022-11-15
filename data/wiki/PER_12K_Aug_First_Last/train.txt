@@ -10194,6 +10194,3 @@ COL name VAL madrazo	COL name VAL federico madrazo	1
 COL name VAL john b tabb	COL name VAL jeon so mi	0
 COL name VAL hans t hille	COL name VAL ryan a haynes	0
 COL name VAL samuel goldwyn jr	COL name VAL samuel john goldwyn jr	1
-COL name VAL ahmad goni	COL name VAL emad goni	0
-COL name VAL imad daaish	COL name VAL emad daaish	1
-COL name VAL dalal saadi	COL name VAL talal saadi	0

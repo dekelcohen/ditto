@@ -21,16 +21,18 @@ PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_p
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS_ROBERTA_LARGE = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels_roberta_large'
+
 NEWS_PER_ORG_PRED = r'predictions\train_10K_per_10K_org_predict_news_per_org'
 
 
 PER_ORG_eq_amount_PATH = Path(DITTO_PATH) / r'data\wiki\PER_ORG_eq_amount'
 NEWS_PER_ORG_PRED = r'predictions\train_10K_per_20K_org_predict_news_org'
 
-GT_PATH = Path(DITTO_PATH) / r'data\news\test\test_news_org.txt'
-data_base_path = Path(PER_ORG_eq_amount_PATH) # PER_12K_AUG_FIRST_LAST_PATH
+GT_PATH = Path(DITTO_PATH) / r'data\news\test\test_news_per.txt'
+data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH) # PER_ORG_eq_amount_PATH # PER_12K_AUG_FIRST_LAST_PATH
 
-preds_json_path = data_base_path / NEWS_PER_ORG_PRED / 'output_small.jsonl'
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS_ROBERTA_LARGE / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -74,6 +76,9 @@ if __name__=="__main__":
        # FP: orgs adds to errors - since train doesn't include them - similar to new_per_only fp + some orgs (that were also fp before we deleted them from news_per ex: citibank group != softbank group - see fix_labels)
     
     # PER_12K_Aug_First_Last 2000 lower case char aug: test_f1 0.924, Precision 0.88, Recall 0.96 # small drop
+    # PER_12K_Aug_First_Last 2000 lower case fix labels roberta-large: test_f1 0.923, Precision 0.90, Recall 0.946
+      # Conc: f1 0.94 (base) --> 0.92 (large) but large does predict correctly talal != dalal and emad != ahmad (which base can also do, with 12 epochs)
+      # Inc n_epochs - get rid of some errors, but overall lower f1 score
     # PER_12K_Aug_First_Last 2000 lower case fix labels : test_f1 0.94, Precision 0.915, Recall 0.96
     # PER_12K_Aug_First_Last 2000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED): test_news_per.txt - Precision 0.89, Recall 0.91, f1 0.90
     # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt - Precision 0.84, Recall 0.92, f1 0.879
@@ -115,7 +120,26 @@ if __name__=="__main__":
     
     # Hist: Ditto (train balanced, test 7:1 - already fixed to f1=0.93): Precision 0.304, Recall 0.99, f1 0.466
 
+    # Compare errors from 2 runs 
+    ## 1) After loading first, copy it - then load second
+    df_prev = df_pred.copy()
+    ## 2) 
+    df_pred = df_pred.drop_duplicates(subset=['left','right'])
+    df_prev = df_prev.drop_duplicates(subset=['left','right'])
+    
+    
+    df_mrg = df_prev.merge(df_pred,on=['left','right','gt_label'])
+    df_mrg.info()
+    np.sum(df_mrg.gt_label_x != df_mrg.gt_label_y)
+    # Prev correct and pred incorrect
+    df_mrg[(df_mrg.match_x == df_mrg.gt_label) & (df_mrg.match_y != df_mrg.gt_label)].to_html('./temp/prev_correct_pred_err.html')
+    # Pred correct and prev incorrect
+    df_mrg[(df_mrg.match_x != df_mrg.gt_label) & (df_mrg.match_y == df_mrg.gt_label)].to_html('./temp/prev_err_pred_correct.html')
+    # Both err
+    df_mrg[(df_mrg.match_x != df_mrg.gt_label) & (df_mrg.match_y != df_mrg.gt_label)].to_html('./temp/prev_and_pred_err.html')
+    
     ## EDA 
+    
     # national in one and not in other - pos
     df_train[~df_train.tokens_str.str.contains(r'\bnational\b',regex=True) & df_train.gt_label & df_train.m_tokens_str.str.contains(r'\bnational\b',regex=True)][['tokens_str','m_tokens_str']]
     df_train = read_split_df(Path(PER_12K_PATH) / 'train.txt')

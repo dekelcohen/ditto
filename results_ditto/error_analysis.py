@@ -7,24 +7,32 @@ import sys
 sys.path.insert(0,'../preprocess')
 from features import read_split_df
 
-ORG_75K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\ORG_2_toks_75K'
+DITTO_PATH = r'D:\Dekel\Data\NLP\EntityMatching\ditto' # r'D:\NLP\Entity-Matching\hub\ditto'
+TEMP_PATH = Path(DITTO_PATH) / 'results_ditto/temp'
+ORG_75K_PATH = Path(DITTO_PATH) / r'data\wiki\ORG_2_toks_75K'
 ORG_PRED_FOLDER = r'test_predictions_train_4_to_1_test_7_to_1'
 
-PER_12K_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K'
+PER_12K_PATH = Path(DITTO_PATH) / r'data\wiki\PER_12K'
 PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
 
-PER_12K_AUG_FIRST_LAST_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\wiki\PER_12K_Aug_First_Last'
+PER_12K_AUG_FIRST_LAST_PATH = Path(DITTO_PATH) / r'data\wiki\PER_12K_Aug_First_Last'
 # PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED = r'predictions\train_wikidata_plus_5000_aug_first_last_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_500_UNCASED = r'predictions\train_wikidata_plus_500_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED = r'predictions\train_wikidata_plus_1000_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per'
 PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels'
+PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS_ROBERTA_LARGE = r'predictions\train_wikidata_plus_2000_aug_first_last_uncased_neg_predict_on_news_per_fix_labels_roberta_large'
+
+NEWS_PER_ORG_PRED = r'predictions\train_10K_per_10K_org_predict_news_per_org'
 
 
-GT_PATH = r'D:\NLP\Entity-Matching\hub\ditto\data\news\test\test_news_per.txt'
-data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH)
+PER_ORG_eq_amount_PATH = Path(DITTO_PATH) / r'data\wiki\PER_ORG_eq_amount'
+NEWS_PER_ORG_PRED = r'predictions\train_10K_per_20K_org_predict_news_org'
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS / 'output_small.jsonl'
+GT_PATH = Path(DITTO_PATH) / r'data\news\test\test_news_per.txt'
+data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH) # PER_ORG_eq_amount_PATH # PER_12K_AUG_FIRST_LAST_PATH
+
+preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS_ROBERTA_LARGE / 'output_small.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -48,8 +56,29 @@ def calc_metrics(df_pred, gt_col = 'gt_label',pred_col = 'match'):
 if __name__=="__main__":    
     calc_metrics(df_pred) 
     
-    # PER_12K test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
+    
+    # PER_ORG_eq_amount 
+      # train_10K_per_20K_org_predict_news_org Precision 0.75, Recall 0.96, f1 0.85
+      # Conc
+        # Very low prec on news ORGs, and the train includes 20K ORGS (worse with 57K ORGs) !
+        # f1 0.915 on test_news_per_org.txt --> only because most are PER (90%)        
+        # TODO: Threshold is too low (0.25 based on valid) - if th=0.71 -->
+          # Precision 0.81, Recall 0.93, f1 0.87 (2 f1 points improvement)
+        # ORG_2_toks_75K: better than news_orgs (results with 57K Orgs, not sure about 20K Orgs) test_f1 0.916, Precision 0.87, Recall 0.964
+        # Adding all 57K ORGs in trainset doesn't help: test_f1 0.826, Precision 0.70 Recall 1.0
+      
+    # PER_12K (orig) test_news_per.txt - Precision 0.74, Recall 0.96, f1 0.837
+    
+    
+    # PER_12K_Aug_First_Last PER+ORG: test_news_per_org.txt - Precision 0.86, Recall 0.97, f1 0.915 - low precision (but normal f1 score)
+      # Conc: 
+       # low precision 0.86 is unaccounted and can be improved 
+       # FP: orgs adds to errors - since train doesn't include them - similar to new_per_only fp + some orgs (that were also fp before we deleted them from news_per ex: citibank group != softbank group - see fix_labels)
+    
     # PER_12K_Aug_First_Last 2000 lower case char aug: test_f1 0.924, Precision 0.88, Recall 0.96 # small drop
+    # PER_12K_Aug_First_Last 2000 lower case fix labels roberta-large: test_f1 0.923, Precision 0.90, Recall 0.946
+      # Conc: f1 0.94 (base) --> 0.92 (large) but large does predict correctly talal != dalal and emad != ahmad (which base can also do, with 12 epochs)
+      # Inc n_epochs - get rid of some errors, but overall lower f1 score
     # PER_12K_Aug_First_Last 2000 lower case fix labels : test_f1 0.94, Precision 0.915, Recall 0.96
     # PER_12K_Aug_First_Last 2000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED): test_news_per.txt - Precision 0.89, Recall 0.91, f1 0.90
     # PER_12K_Aug_First_Last 1000 lower case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_1000_UNCASED): test_news_per.txt - Precision 0.84, Recall 0.92, f1 0.879
@@ -57,18 +86,33 @@ if __name__=="__main__":
       # Conc: Adding 500 lower case negs first last (reoberta-base is cased) --> improves precision 0.74 --> 0.79, reduce recall 0.96 --> 0.92, improves f1 0.77 --> 0.85
     # Bug: Case: PER_12K_Aug_First_Last 5000 uppper case (PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_5000_CASED): test_news_per.txt- Precision 0.72, Recall 0.82, f1 0.77
       # Conc: Adding 5000 UPPER CASE negs first last  (reoberta-base is cased) --> reduce both precision and recall ! mainly recall
-    # Classical on wikidata test: Precision 0.55, Recall 0.39, f1 0.45
+    # Classical on wikidata test: Precision 0.55, Recall 0.40, f1 0.46 (for org 40K test of ORG_75K)
+    # Classical on news_per_org - Precision 0.95, Recall 0.92, f1 0.93
     calc_metrics(df_test) 
-    df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html('./temp/classical_fn.html')
+    df_test[~df_test['match'] & (df_test.gt_label)][['tokens_str','m_tokens_str']].to_html(Path(TEMP_PATH) / 'classical_fn.html')
     # Plot confusion matrix - many false-pos (almost no false-neg)
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
     # FP
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_fp_test_news_per_fix_labels.html')
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_fp_test_news_org.html')
     # FN
-    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html('./temp/ditto_aug_first_last_2000_f1_94_FN_test_news_per_fix_labels.html')
+    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_FN_test_news_org.html')
+    # TP + TN
+    df_pred[df_pred.match == df_pred.gt_label].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_TP_TN_test_news__org.html')
+    
     df_pred[df_pred['match'] & (df_pred.gt_label) & (df_pred.match_confidence < 0.85)].to_html('./temp/ditto_tp_low_confidence.html')
     
+    # Classical EA- first run wikipedia_page_parse dataset creation code 
+    df_test_org['gt_label'] = df_test_org['gt_label'].astype('int32').to_numpy().astype('bool')
+    df_test_org[df_test_org.match!=df_test_org.gt_label][:2000][['tokens_str','m_tokens_str','match','gt_label','score','toks_sim']].to_html('./temp/classical_errs_wiki_ORGS_75K_test_first_2000.html')
+     
+    # How many of match=True and gt_label=True are high confidence ?
+    dt = df_pred[df_pred.match]
+    dt[~dt.gt_label][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
+    df_pc = df_pred.copy() 
+    
+    df_pc['match'] = df_pc.match & (df_pc.match_confidence > 0.71)
+    calc_metrics(df_pc) 
     
     # Confidence distribtion for FP and TP    
     df_pred[df_pred['match'] & (~df_pred.gt_label)][['match_confidence']].describe(percentiles=np.arange(0, 1, 0.05))
@@ -76,7 +120,26 @@ if __name__=="__main__":
     
     # Hist: Ditto (train balanced, test 7:1 - already fixed to f1=0.93): Precision 0.304, Recall 0.99, f1 0.466
 
+    # Compare errors from 2 runs 
+    ## 1) After loading first, copy it - then load second
+    df_prev = df_pred.copy()
+    ## 2) 
+    df_pred = df_pred.drop_duplicates(subset=['left','right'])
+    df_prev = df_prev.drop_duplicates(subset=['left','right'])
+    
+    
+    df_mrg = df_prev.merge(df_pred,on=['left','right','gt_label'])
+    df_mrg.info()
+    np.sum(df_mrg.gt_label_x != df_mrg.gt_label_y)
+    # Prev correct and pred incorrect
+    df_mrg[(df_mrg.match_x == df_mrg.gt_label) & (df_mrg.match_y != df_mrg.gt_label)].to_html('./temp/prev_correct_pred_err.html')
+    # Pred correct and prev incorrect
+    df_mrg[(df_mrg.match_x != df_mrg.gt_label) & (df_mrg.match_y == df_mrg.gt_label)].to_html('./temp/prev_err_pred_correct.html')
+    # Both err
+    df_mrg[(df_mrg.match_x != df_mrg.gt_label) & (df_mrg.match_y != df_mrg.gt_label)].to_html('./temp/prev_and_pred_err.html')
+    
     ## EDA 
+    
     # national in one and not in other - pos
     df_train[~df_train.tokens_str.str.contains(r'\bnational\b',regex=True) & df_train.gt_label & df_train.m_tokens_str.str.contains(r'\bnational\b',regex=True)][['tokens_str','m_tokens_str']]
     df_train = read_split_df(Path(PER_12K_PATH) / 'train.txt')

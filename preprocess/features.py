@@ -24,7 +24,7 @@ def write_split(folder_path, file_name, df, save_df = True, add_chars= False):
 
 
 def read_split(txt_file_path):
-    with open(txt_file_path, 'r') as fl:
+    with open(txt_file_path, 'r', encoding="utf-8") as fl:
         rows = fl.readlines()
     return rows
 

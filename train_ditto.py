@@ -26,6 +26,7 @@ if __name__=="__main__":
     parser.add_argument("--logdir", type=str, default="checkpoints/")
     parser.add_argument("--lm", type=str, default='distilbert')
     parser.add_argument("--fp16", dest="fp16", action="store_true")
+    parser.add_argument("--checkpoint_path", type=str, default=None, help='path to a folder containing model.pt')
     parser.add_argument("--da", type=str, default=None)
     parser.add_argument("--alpha_aug", type=float, default=0.8)
     parser.add_argument("--dk", type=str, default=None)

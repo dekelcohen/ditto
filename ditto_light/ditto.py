@@ -15,6 +15,8 @@ from tensorboardX import SummaryWriter
 if torch.cuda.is_available():
     from apex import amp
 
+from ditto_light.exceptions import ModelNotFoundError
+
 lm_mp = {'roberta': 'roberta-base',
          'distilbert': 'distilbert-base-uncased'}
 
@@ -181,6 +183,14 @@ def train(train_dataset, valid_dataset, test_dataset, run_tag, hp):
     model = DittoModel(device=device,
                        lm=hp.lm,
                        alpha_aug=hp.alpha_aug)
+    # Load from checkpoint - Optional 
+    if hp.checkpoint_path:
+        checkpoint = os.path.join(hp.checkpoint_path, hp.task, 'model.pt')
+        if not os.path.exists(checkpoint):
+            raise ModelNotFoundError(checkpoint)
+        saved_state = torch.load(checkpoint, map_location=lambda storage, loc: storage)
+        model.load_state_dict(saved_state['model'])    
+    # model + optimizer
     model = model.to(device)
     optimizer = AdamW(model.parameters(), lr=hp.lr)
 

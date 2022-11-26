@@ -1,0 +1,569 @@
+COL name VAL بجي قائد السبسي	COL name VAL الباجي قايد السبسي	1
+COL name VAL أندريه فلو	COL name VAL أندريا فيلا	0
+COL name VAL أسس آنا ليند	COL name VAL مؤسسة آنا ليند	1
+COL name VAL كتلة القوميين الاجتماعيين	COL name VAL الكتلة الاجتماعية الوطنية	1
+COL name VAL يوروجروب	COL name VAL يوروكلير	0
+COL name VAL المعاهد الوطنية للصحة	COL name VAL المعهد الوطني للصحة	1
+COL name VAL ناصر الدين	COL name VAL نصر الدين	1
+COL name VAL ناصر الدين	COL name VAL نصر الدين	1
+COL name VAL غرفة التجارة والصناعة	COL name VAL صناعة الزراعة والغرف التجارية	1
+COL name VAL كريستين غودسي	COL name VAL كريستين قدسي	1
+COL name VAL ابو العبد الشمندر	COL name VAL ابو العبد شندور	1
+COL name VAL محمود عابد	COL name VAL محمود العبيدي	0
+COL name VAL ديار	COL name VAL داريا	0
+COL name VAL صليبا	COL name VAL صليبي	0
+COL name VAL محمد عيد	COL name VAL محمد عودة	0
+COL name VAL طارق الصفدي	COL name VAL طارق صفدية	1
+COL name VAL منير ضو ضو	COL name VAL منير	0
+COL name VAL ايلي ماروني	COL name VAL إيلي ماروني	1
+COL name VAL ريتشاردز	COL name VAL ريتشارد كو	0
+COL name VAL نقولا تويني	COL name VAL نيكولاس تويني	1
+COL name VAL كميل سلامة	COL name VAL كاميليا سلامة	1
+COL name VAL جيزا مهالي	COL name VAL جيزا ميهالي	1
+COL name VAL هادي أبو الحسن	COL name VAL هادي ابو الحسن	1
+COL name VAL تطوير زحلة	COL name VAL تطور زحلة	1
+COL name VAL عبد المطلب حنوي	COL name VAL عبد المطلب حناوي	1
+COL name VAL الحجيري	COL name VAL حجيري ننا	0
+COL name VAL سوانسون	COL name VAL جو سوينسون	0
+COL name VAL عماد أبو شقرة	COL name VAL عماد ابي شاكر	0
+COL name VAL جلال محمود	COL name VAL غازي محمود	0
+COL name VAL جوجل كرونيكل	COL name VAL جوجل الصين	0
+COL name VAL كير جيبس	COL name VAL كيران جيبس	1
+COL name VAL جورجيو كابريوتي	COL name VAL جورجيو ديريتي	0
+COL name VAL سامي جارابديان	COL name VAL جاري جارابديان	0
+COL name VAL جيرترود شتاين	COL name VAL جيرترود بيل	0
+COL name VAL سو جاردنر	COL name VAL افا جاردنر	0
+COL name VAL جريجوري مليكيان	COL name VAL جريجوري مانكيو	0
+COL name VAL تجمع الجمهورية	COL name VAL التجمع	0
+COL name VAL جمعية غدي	COL name VAL جمعية كشافة غد	0
+COL name VAL سيلفيا جارسيا	COL name VAL ماريا جارسيا	0
+COL name VAL جوتيريز ميلادو	COL name VAL جوتيريز ريد	0
+COL name VAL جيلبرت بيكود	COL name VAL جيلبرت بنوت	0
+COL name VAL آرت دبي ماغي غالي آرت	COL name VAL مغي غالي للفنون	0
+COL name VAL الخدمات العامة البترولية	COL name VAL البترول جيو	0
+COL name VAL المجلة العالمية	COL name VAL المنتدى العالمي	0
+COL name VAL جوزيبي أماتو	COL name VAL جوزيبي سالا	0
+COL name VAL عبد الجاني عليبور	COL name VAL عبد الغني سلام	0
+COL name VAL مستشفى فتوح كسروان الحكومي	COL name VAL المستشفى الحكومي	0
+COL name VAL مونيكا دي جريف	COL name VAL مونيكا بالميكا	0
+COL name VAL أنتوني جيدينز	COL name VAL أنتوني جولد	0
+COL name VAL سارة جيلبرت	COL name VAL آدم جيلبرت	0
+COL name VAL جيرهارد جوندرمان	COL name VAL جيرهارد ليمان	0
+COL name VAL ماجدالينا جوتيريز	COL name VAL جوفينال جوتيريز	0
+COL name VAL اوجيرو يوسف	COL name VAL جورج يوسف	0
+COL name VAL بشارة غلام	COL name VAL بشارة جبران	0
+COL name VAL غابرييلا كاردوزو	COL name VAL غابرييلا كاتشيا	0
+COL name VAL ديان جلوفر	COL name VAL جوليان جلوفر	0
+COL name VAL جورج طرابلسي	COL name VAL جورج طراد	0
+COL name VAL علي جدو	COL name VAL داني جدون	0
+COL name VAL هيلين بالم	COL name VAL أورين بالم	0
+COL name VAL شافي جولدواسر	COL name VAL ايهود جولدفاسر	0
+COL name VAL رانيا غصن	COL name VAL ايليا غصن	0
+COL name VAL مجموعة كوهين كادوش	COL name VAL مجموعة كوهين	1
+COL name VAL مجموعة تسينغشان القابضة	COL name VAL المجموعة القابضة	0
+COL name VAL فيليكس جونزاليس توريس	COL name VAL فيليبي جونزاليس	0
+COL name VAL الكتيبة الغانية	COL name VAL الكتيبة الخضراء	0
+COL name VAL عبد المجيد عبد الغني	COL name VAL عبد المجيد غ	0
+COL name VAL مركز لاو جيلبرت وروز ماري شاغوري للعلوم الصحية	COL name VAL مدرسة جيلبرت وروز ماري شاغوري للطب	0
+COL name VAL غيداء سعد	COL name VAL غيداء الصديق	0
+COL name VAL تجمع الكنيسة للبنان	COL name VAL التجمع من أجل لبنان	0
+COL name VAL دانيال جالفان فينا	COL name VAL جالفان فينا	0
+COL name VAL حرم جوجل	COL name VAL جوجل كاش	0
+COL name VAL جورج جيتسون	COL name VAL جورج جان	0
+COL name VAL ديفيد جيليوس	COL name VAL جيل ديفيدو	0
+COL name VAL أرمين جيفورجيان	COL name VAL أرمين غريغوريان	0
+COL name VAL دانيال جيريك	COL name VAL دانيال جور	0
+COL name VAL جورج هولينجبري	COL name VAL جورج هوليداي	0
+COL name VAL مبادرة الطاقة الخضراء	COL name VAL مبادرة جنيف	0
+COL name VAL مجموعة سيتي بنك	COL name VAL مجموعة سوفتبانك	0
+COL name VAL ألبرتو جوتيريز	COL name VAL أنطونيو جوتيريز	0
+COL name VAL جيليان تانس	COL name VAL جيليان تيت	0
+COL name VAL القرقاوي	COL name VAL محمد القرقاوي	0
+COL name VAL غل محمد برازيده	COL name VAL محمد الغرازي	0
+COL name VAL ديفيد جينر	COL name VAL ديفيد جوك	0
+COL name VAL مجموعة الكم	COL name VAL مجموعة النمل	0
+COL name VAL باسيل غصن	COL name VAL كارول غصن	0
+COL name VAL هيلينر	COL name VAL هيلين جبران	0
+COL name VAL غابرييل جيفوردز	COL name VAL غابي جيفوردز	1
+COL name VAL سليمان غبار	COL name VAL سليمان أبو غيث	0
+COL name VAL جاو فنغ	COL name VAL جاو فو	0
+COL name VAL أندريا جيز	COL name VAL أندريا جيرا	0
+COL name VAL الجمعية العمومية للمارونية في العالم	COL name VAL الجمعية العمومية للمارونية	1
+COL name VAL جريج لويس	COL name VAL جاري لويس	0
+COL name VAL شركة جلوبال بلو	COL name VAL جلوبال بلو	1
+COL name VAL وثيقة جنيف	COL name VAL مركز جنيف	1
+COL name VAL إنجي غرام	COL name VAL إنجي غراسلي	0
+COL name VAL مارتن غاريكس	COL name VAL مارتن جيفورد	0
+COL name VAL هيثم الغنيم	COL name VAL هيثم الغازي	0
+COL name VAL فان جوليك	COL name VAL جوري فان جوليك	1
+COL name VAL الشهيد الجميل	COL name VAL الشهيد بيار الجميل	1
+COL name VAL غنوة العالم	COL name VAL غنوة الأحمد	0
+COL name VAL جيف داير	COL name VAL جورج داير	0
+COL name VAL المسنون والمساواة بين الجنسين	COL name VAL التحالف من أجل المساواة بين الجنسين	0
+COL name VAL تايلور جولد	COL name VAL تايلور جانج	0
+COL name VAL جيمس جبرا جوزيبي جيانيني	COL name VAL جوزيبي جيانيني	0
+COL name VAL لجنة العفو العام منطقة بعلبك الهرمل	COL name VAL لجنة العفو العام والتنمية	0
+COL name VAL جيتا ضاهر	COL name VAL غابي ضاهر	0
+COL name VAL شيلا ليال جرانت	COL name VAL ليال جرانت	1
+COL name VAL جاي هيفر	COL name VAL جاي ضاهر	0
+COL name VAL جوردون وود	COL name VAL جوردون وايس	0
+COL name VAL وزارة الطاقة المديرية العامة للنفط	COL name VAL وزارة الطاقة والنشاطات العامة للنفط والنمسا	0
+COL name VAL مركز جنيف للديمقراطية القوات المسلحة	COL name VAL مركز جنيف للعمليات العسكرية	0
+COL name VAL طانيوس جبارة	COL name VAL طانيوس الجميل	0
+COL name VAL غنوة عبيد نزار زكا	COL name VAL غنوة عبيد لارا	0
+COL name VAL جورج نيلسون	COL name VAL جورج نصر	0
+COL name VAL تجمع عودة الوطنية	COL name VAL التجمع الوطني	1
+COL name VAL تابان دينق جاي	COL name VAL دينغ جاي	0
+COL name VAL جولد هوك	COL name VAL جولدي هون	0
+COL name VAL علي حسن خليك	COL name VAL علي حسن خليل	0
+COL name VAL نيكا كفاراتسخيليا	COL name VAL نيكا كفاراتسكييليا	1
+COL name VAL مهران كامرافا	COL name VAL مهران كامراف	1
+COL name VAL عاد ابي كرم	COL name VAL ابي كرم	1
+COL name VAL راشد بن عبدالله الخليفة	COL name VAL راشد بن عبدالله آل خليفة	1
+COL name VAL كارلهاينز ستوكهاوزن	COL name VAL كارل هاينز ستوكهاوزن	1
+COL name VAL خالد عبود المرعبي	COL name VAL خالد عبود مرحب	1
+COL name VAL فندق كمبينسكي سمرلاند	COL name VAL فندق كمبينسكي سمر لاند	1
+COL name VAL جورج قطانة	COL name VAL جورج كتانة	1
+COL name VAL مركز الخيام للتأهيل	COL name VAL مركز تأهيل الخيام	1
+COL name VAL حسن قاسم زهرة	COL name VAL حسن قاسم زهر	0
+COL name VAL افتاب احمد خخير	COL name VAL افتاب احمد خوخير	1
+COL name VAL علي خريص	COL name VAL علي خريس	1
+COL name VAL علي خريص	COL name VAL علي خريس	1
+COL name VAL كاريل شوارزنبرج	COL name VAL كارل شوارزنبرج	1
+COL name VAL الملك عبد الله بن عبد العزيز آل سعود	COL name VAL الملك عبدالله بن عبد العزيز آل سعود	1
+COL name VAL سبوه كالباكيان	COL name VAL سبوح كلبكيان	1
+COL name VAL مركز تأهيل الخايم لضحايا التعذيب	COL name VAL مركز الخيام لتأهيل ضحايا التعذيب	1
+COL name VAL عبد الله عبد الكريم الدايس	COL name VAL عبد الله عبد الكريم الدعيس	1
+COL name VAL عبد الله عبد الكريم الدايس	COL name VAL عبد الله عبد الكريم الدعيس	1
+COL name VAL انطوان ابو خاطر	COL name VAL انطوان بو خاطر	1
+COL name VAL اسعد ابو خليل	COL name VAL أسعد أبو خليل	1
+COL name VAL خليل حبري	COL name VAL خليل هبر	1
+COL name VAL بهروز كمالوندي	COL name VAL بهروز كمالفيندي	1
+COL name VAL احمد الخازن الغامدي	COL name VAL احمد الخازن حميدي	1
+COL name VAL الملك عبد الله الثاني	COL name VAL الملك عبدالله الثاني	1
+COL name VAL الملك سلمان بن عبد	COL name VAL الملك سلمان بن عبد العزيز	1
+COL name VAL انطوني عصام الخوري	COL name VAL انطوني عيسى الخوري	1
+COL name VAL حسن خليل	COL name VAL حسن خليلي	1
+COL name VAL سينتيا ابو خاطر	COL name VAL سينتيا بو خاطر	1
+COL name VAL غازي ابو كروم	COL name VAL غازي بو كروم	1
+COL name VAL غادة ابو كروم	COL name VAL غادة بوكروم	1
+COL name VAL عبد الخالق عبد الله	COL name VAL عبد الخالق عبدالله	1
+COL name VAL محمد كريم بو دالي	COL name VAL محمد كريم بودلي	1
+COL name VAL مجدي خالد	COL name VAL مجدي الخالدي	1
+COL name VAL عبد الله عبد الكريم الدعيس	COL name VAL عبد الله عبد الكريم الدايس	1
+COL name VAL مصطفى الكوصة	COL name VAL مصطفى القصاع	1
+COL name VAL خالد الاسعد	COL name VAL خالد الاسعدي	1
+COL name VAL الأنبا الكويتية	COL name VAL الانباء الكويتية	1
+COL name VAL عبد الله عبد الكريم الدويس	COL name VAL عبد الله عبد الكريم الدعيس	1
+COL name VAL الصندوق الكويتي لتنمية الاقتصاد العربي	COL name VAL الصندوق الكويتي للتنمية الاقتصادية العربية	1
+COL name VAL أفيف كوخافين	COL name VAL أفيف كوخافي	1
+COL name VAL عبد الكريم الدايس	COL name VAL عبد الكريم الدعيس	1
+COL name VAL ماجدة بو داغر خراف	COL name VAL ماجدة بو داغر خراط	1
+COL name VAL ابي كرم	COL name VAL عاد ابي كرم	1
+COL name VAL علي خريص	COL name VAL علي خريس	1
+COL name VAL علي خريص	COL name VAL علي خريس	1
+COL name VAL محمد الكوثراني	COL name VAL محمد كوثراني	1
+COL name VAL محمد الكوثراني	COL name VAL محمد كوثراني	1
+COL name VAL ريتشارد قيومجيان	COL name VAL ريتشارد كويومجيان	1
+COL name VAL ساروج كومار جاه	COL name VAL ساروج كومار جا	1
+COL name VAL خالد عباسي	COL name VAL خالد عباس	1
+COL name VAL أندريه كاساس	COL name VAL أندريه كاسس	1
+COL name VAL وائل خداج	COL name VAL وائل خداجي	1
+COL name VAL كلاوس جان هونتيلار	COL name VAL كلاس جان هونتيلار	1
+COL name VAL عباس خمير	COL name VAL عباس خامة يار	1
+COL name VAL ارام كشيشية	COL name VAL ارام كشيشيان	1
+COL name VAL حزب الشعب الكردي الديمقراطي	COL name VAL حزب الشعوب الديمقراطي المؤيد للأكراد	1
+COL name VAL كرامي انطوان العامرية	COL name VAL كرم انطوان العامرية	1
+COL name VAL كايد غدادة	COL name VAL كايد غداده	1
+COL name VAL آرا خاتشوريان	COL name VAL آرا خاتشاتوريان	1
+COL name VAL خليل حجل	COL name VAL خليل حاجة	1
+COL name VAL عبده ابو قاسم	COL name VAL عبده ابو قسام	1
+COL name VAL عبد الله عبد الكريم الدايس	COL name VAL عبد الله عبد الكريم الدعيس	1
+COL name VAL عبد الله عبد الكريم الدايس	COL name VAL عبد الله عبد الكريم الدعيس	1
+COL name VAL جمعية كون هادي	COL name VAL جمعية كن هادى	1
+COL name VAL ايلي خليفة	COL name VAL إيلي خليفة	1
+COL name VAL مصطفى ابو شقر	COL name VAL مصطفى ابو شقور	1
+COL name VAL منذر أقبيق	COL name VAL منذر عقبق	1
+COL name VAL كارين طويل	COL name VAL كارين تويل	1
+COL name VAL مافرومات	COL name VAL مافروماتيس	1
+COL name VAL جون كيري	COL name VAL جون كاري	1
+COL name VAL بيترو بوروشينكو	COL name VAL بيتر بوروشينكو	1
+COL name VAL علي غديري	COL name VAL علي غدار	0
+COL name VAL محمد جنبة	COL name VAL محمد جنبية	1
+COL name VAL مصطفى حوري	COL name VAL مصطافة هوري	1
+COL name VAL الدفاع لجنة الوطني	COL name VAL الدفاع الوطني	1
+COL name VAL تيهان	COL name VAL دهان	0
+COL name VAL المحكمة الثورية	COL name VAL الحرس الثوري	0
+COL name VAL مجلس الرئاسة	COL name VAL المجلس الرئاسي	1
+COL name VAL سلمان بن عبد العزيز	COL name VAL سلامان بن عبد العزيز	1
+COL name VAL مهدي حسيني	COL name VAL حسن مهدي	0
+COL name VAL فضل شمندور	COL name VAL فاضل الشمندر	1
+COL name VAL نعيم العجمي	COL name VAL نعيم العجيمي	1
+COL name VAL خمار مرابط	COL name VAL خومار مرابط	0
+COL name VAL ابو اياد شعلان	COL name VAL أبو عياد شعلان	1
+COL name VAL حجيري ننا	COL name VAL الحجيري	1
+COL name VAL مابا	COL name VAL ماب	0
+COL name VAL احمد فخران	COL name VAL احمد فكران	1
+COL name VAL المجريف	COL name VAL المقريف	1
+COL name VAL روحاني	COL name VAL مي الريحاني	0
+COL name VAL ياسمين شريف	COL name VAL عثمان شريفي	0
+COL name VAL أديب نعمة	COL name VAL أديب نعمه	1
+COL name VAL تجمع المسيحيين في بلاد الشام	COL name VAL تجمع مسيحيي بلاد الشام	1
+COL name VAL غيوة شاهين	COL name VAL غسان شاهين	0
+COL name VAL كريستوس جورجيو	COL name VAL كريس جورجيان	1
+COL name VAL مار مخايل مغي غالي	COL name VAL هيلين خال ماغي غالي	1
+COL name VAL جيما هاجينز	COL name VAL جيما هاغينز	1
+COL name VAL وسيم مروة جعجع	COL name VAL وسيم جعجع	1
+COL name VAL غيوم كريدوز	COL name VAL غيوم كانيه	0
+COL name VAL جوليا جونيلا	COL name VAL جوليا جيلارد	0
+COL name VAL مجموعة التنمية للدول العربية الشرق الأوسط أفريقيا	COL name VAL مجموعة الإستراتيجية للشرق الأوسط والمنطقة المجاورة لمنطقة الشرق الأوسط وشمال أفريقيا	0
+COL name VAL وزارة المالية اليونانية	COL name VAL وزارة المالية والتبريد	0
+COL name VAL لجنة مجلس الإدارة للخدمة والإصلاح الحكومي	COL name VAL لجنة مجلس الحكومة للهيئة والحكومة	1
+COL name VAL معرض مينديز	COL name VAL معرض مارو	0
+COL name VAL حركة التغيير كوران	COL name VAL حركة كوران	1
+COL name VAL وليام كونيسون	COL name VAL وليام كانيه	0
+COL name VAL أوليفر جابت	COL name VAL أوليفر جورس	0
+COL name VAL غسان شهاب عليلي	COL name VAL غسان الشهابي	0
+COL name VAL جورج القصرجي	COL name VAL جورج ريد	0
+COL name VAL جورج توفيق حداد	COL name VAL جورج حداد	1
+COL name VAL رودريجو جارك	COL name VAL رودريجو غابرييلا	0
+COL name VAL سعد الحريري عبد الغني كبارة	COL name VAL ملفوف عبد الغني	1
+COL name VAL غي بولس نجيم	COL name VAL غي نجيم	1
+COL name VAL جريجوري جاتسيريليا	COL name VAL جريجوري غوز	0
+COL name VAL مارك مكجوان	COL name VAL ماري مكجوان ديفيس	0
+COL name VAL غابرييل هيرنانديز	COL name VAL غابرييل هاينز	0
+COL name VAL جويل غنام	COL name VAL جويل غاريوس	0
+COL name VAL أميرة جبرايل	COL name VAL مارون جبرايل	0
+COL name VAL مارون غالب	COL name VAL مارون غياد	0
+COL name VAL جون لويس جاديس	COL name VAL جون جاديس	0
+COL name VAL جو غنطوس	COL name VAL جو غطاس	0
+COL name VAL مجموعة راسل	COL name VAL مجموعة الساحل	0
+COL name VAL مجموعة ليفانتين	COL name VAL مجموعة سيلين	0
+COL name VAL جيرارد داجير	COL name VAL جيرارد ديبرو	0
+COL name VAL دانا حلاوي نسرين غدار	COL name VAL نسرين غدار	1
+COL name VAL روب غولدستون	COL name VAL ريتشارد غولدستون	0
+COL name VAL هيئة الأركان العامة لجيش الشعب الكوري	COL name VAL هيئة الأركان العامة الحكومية	0
+COL name VAL جماعة غولن الإرهابية	COL name VAL منظمة غولن الإرهابية	1
+COL name VAL غنى عبده	COL name VAL غنى عوض	0
+COL name VAL مركز الجغرافيا الاقتصادية	COL name VAL مركز الجيوفيزياء	0
+COL name VAL أليساندرو جينتيلوتشي	COL name VAL أليساندرو جيسوتي	0
+COL name VAL معرض لندن	COL name VAL معرض واحد	0
+COL name VAL المجموعة الاستشارية لأزمة المناخ	COL name VAL المجموعة الاستشارية للألغام	0
+COL name VAL توم جاي	COL name VAL توم جاريت	0
+COL name VAL جيوفاني باتيستا لامبي	COL name VAL جيوفان باتيستا أليسيو	0
+COL name VAL الرابطة الفيدرالية لصناعة السياحة الشيوعية	COL name VAL الرابطة الشيوعية لصناعة السيارات	0
+COL name VAL جورجيو أندريولي	COL name VAL جوليو أندريوتي	1
+COL name VAL جيوفاني براوزي	COL name VAL جيوفاني ريزو	0
+COL name VAL أسعد الغسان	COL name VAL محمد الغساني	0
+COL name VAL ربيع غندورة	COL name VAL علي غندور	0
+COL name VAL مجلس تجمع رجال الأعمال اللبنانيين العمانيين	COL name VAL تجمع رجال الأعمال اللبنانيين	1
+COL name VAL جوزيف جانيون	COL name VAL جوزيف غنوم	0
+COL name VAL جيان لورينزو كورنادو	COL name VAL جيان لورينزو بيرنيني	0
+COL name VAL غي كوادن	COL name VAL غي نادر	0
+COL name VAL معهد جيدار للسياسة الاقتصادية	COL name VAL المعهد الألماني للبحوث الاقتصادية	0
+COL name VAL الياس غريب	COL name VAL سعيد غريب	0
+COL name VAL سام جوف	COL name VAL فان جوف	0
+COL name VAL دائرة الإشراف العام	COL name VAL دائرة التفتيش العام	0
+COL name VAL أنس القوماتي	COL name VAL أنس قماطي	1
+COL name VAL رابطة خريجي الجامعة الأمريكية	COL name VAL نادي خريجي الجامعة الروسية	0
+COL name VAL جمعية الخريجين الإعلاميين	COL name VAL جمعية خريجي جامعة هارفارد العرب	0
+COL name VAL جريس رزق	COL name VAL جريس ريحان	0
+COL name VAL فيلا جياناندريا	COL name VAL جياناندريا ساندري	0
+COL name VAL جريجوري غوز	COL name VAL جريجوري جيبسون	0
+COL name VAL الاتحاد العام للعمال واللجان الاقتصادية	COL name VAL الاتحاد العام للعمال	0
+COL name VAL مجموعة دراسة التجارة الأوروبية	COL name VAL مجموعة الأبحاث الأوروبية	0
+COL name VAL جاري بولتون	COL name VAL جاري بريتو	0
+COL name VAL مارتن جينسبيرغ	COL name VAL مارتن جيلينز	0
+COL name VAL جريج مونرو	COL name VAL جريج مير	0
+COL name VAL سهام الغتيمي	COL name VAL سهام غانم	0
+COL name VAL نجوم الغانم	COL name VAL الغانم	0
+COL name VAL مجموعة الكوماندوز	COL name VAL مجموعة مان	0
+COL name VAL أثير غريب	COL name VAL سامر غريب	0
+COL name VAL سمر غية	COL name VAL أحمد غية	0
+COL name VAL الحكومة الثورية لجمهورية كوبا	COL name VAL حكومة جمهورية العراق	0
+COL name VAL رندة غجر	COL name VAL ريمون غجر	0
+COL name VAL جيرارد دولوفيو	COL name VAL جيرارد ديبرو	0
+COL name VAL كلود جيان	COL name VAL كلود غانم	0
+COL name VAL اي سي جي إليز كنوتسن	COL name VAL غزالة إليز كنوتسن	0
+COL name VAL بيتر جوبر	COL name VAL بيتر جيلب	0
+COL name VAL جريس كيلي	COL name VAL جريج كيلي	0
+COL name VAL ريكاردو جوميز	COL name VAL رولاندو جوميز	0
+COL name VAL هيرالد الكورية	COL name VAL كوريا هيرالد	1
+COL name VAL بطرس خوند	COL name VAL بوتروس خوند	1
+COL name VAL جزء الكتائب	COL name VAL حزب الكتائب	1
+COL name VAL خالد بن أحمد بن محمد آل خليفة	COL name VAL خالد بن أحمد بن محمد الخليفة	1
+COL name VAL مهدي خليل	COL name VAL مهدي خلي	1
+COL name VAL محمد خليلي	COL name VAL محمد خليل	1
+COL name VAL خليل هبر	COL name VAL خليل حبري	1
+COL name VAL بشرى خليلي	COL name VAL بشرى خليل	1
+COL name VAL هانيبال القذافي	COL name VAL حنبعل القذافي	1
+COL name VAL حزب الجميل الكتائب	COL name VAL حزب الجميل كتائب	1
+COL name VAL مؤسسة غسان كنفاني الثقافية	COL name VAL مؤسسة غسان كنفى الثقافية	1
+COL name VAL بشرى الخليلي	COL name VAL بشرى الخليل	1
+COL name VAL كميل حوى	COL name VAL كميل حوا	1
+COL name VAL كريستل خضر	COL name VAL كريستيل خضر	1
+COL name VAL آية الله علي الخميني	COL name VAL آية الله علي خامنئي	1
+COL name VAL الملك عبدالعزيز آل سعود	COL name VAL الملك عبد العزيز آل سعود	1
+COL name VAL أندري كارتابولوف	COL name VAL أندريه كارتابولوف	1
+COL name VAL خالد حمادي	COL name VAL خالد حمد	1
+COL name VAL خالد بن أحمد بن محمد الخليفة	COL name VAL خالد بن أحمد بن محمد آل خليفة	1
+COL name VAL عباس علي كدخدعي	COL name VAL عباس علي كدخدائي	1
+COL name VAL محمد الكوثراني	COL name VAL محمد كوثراني	1
+COL name VAL محمد الكوثراني	COL name VAL محمد كوثراني	1
+COL name VAL أنطونيوس أبو قاسم	COL name VAL انطونيوس ابو قاسم	1
+COL name VAL الملك لويس الخامس عشر	COL name VAL الملك لويس السادس عشر	1
+COL name VAL مصطفى عبد الكريم عبسي	COL name VAL مصطفى عبد الكريم ابسا	1
+COL name VAL ماري كلود نجم قبة	COL name VAL ماري كلود نجد قبة	1
+COL name VAL احمد كرم	COL name VAL احمد كرامي	1
+COL name VAL نا الاخبار	COL name VAL ننا الاخبار	1
+COL name VAL مؤسسة كو ربر	COL name VAL مؤسسة كوربر	1
+COL name VAL كارمينا كيرالله	COL name VAL كارمينا خيرالله	1
+COL name VAL كيلي كليمنت	COL name VAL كيلي كليمنتس	1
+COL name VAL الفيروسات	COL name VAL فيروز	0
+COL name VAL لاري نصار	COL name VAL لارا نصار	0
+COL name VAL ميشال منير	COL name VAL ميشيل منير	1
+COL name VAL رياض ابي غيدة	COL name VAL رياض ابو غيداء	1
+COL name VAL مجلس الأمن	COL name VAL مجلس الأمن الأعلى	1
+COL name VAL جامعة مانيتوبا	COL name VAL جامعة مونبلييه	0
+COL name VAL احمد شعيب	COL name VAL احمد شويب	1
+COL name VAL ستافان دي ميستورا	COL name VAL ستيفان دي ميستورا	1
+COL name VAL ماك	COL name VAL جو ماكوغ	0
+COL name VAL كلنا وطني	COL name VAL كلونة وطني	1
+COL name VAL المولوي	COL name VAL المولى	1
+COL name VAL عبد القني	COL name VAL عبد القناعي	1
+COL name VAL قانون الصك المالي والصرف	COL name VAL قانون الأدوات المالية والصرف	1
+COL name VAL جيمس سادري	COL name VAL قصة جيمس	0
+COL name VAL الرعية المارونية	COL name VAL رعية ننا المارونية	1
+COL name VAL جوانا هامور	COL name VAL جون هامري	0
+COL name VAL جمعية لا للعنف	COL name VAL جمعية قل لا للعنف	1
+COL name VAL وليد بوخاري	COL name VAL وليد بخاري	1
+COL name VAL ماكميلان	COL name VAL ماكالان	0
+COL name VAL عصام ريس	COL name VAL عصام الريس	1
+COL name VAL جميل احمد	COL name VAL جمال احمد	0
+COL name VAL المديرية العامة للتعليم المهني والتقني	COL name VAL المديرية العامة للتعليم الفني والمهني	1
+COL name VAL احمد الفليطي	COL name VAL أحمد الفليطي	1
+COL name VAL علي حيدر محفوظ	COL name VAL علي محفوظ حيدر	1
+COL name VAL لواء اليرموك	COL name VAL كتائب اليرموك	1
+COL name VAL أنتونيتي	COL name VAL أندوني	0
+COL name VAL المتحف الفلسطيني	COL name VAL متحف فلسطين	1
+COL name VAL نقابة الصرافين	COL name VAL نقابة الصيارفة	1
+COL name VAL سمير الضاهر	COL name VAL سامر الضاهر	1
+COL name VAL فندق هلتون	COL name VAL فندق هيلتون	1
+COL name VAL انطونيو جودي	COL name VAL انطونيو جاديس	0
+COL name VAL مجموعة بان امريكان للطاقة	COL name VAL مجموعة مركوريا للطاقة	0
+COL name VAL جولدمان ساكس	COL name VAL مجموعة جولدمان ساكس إنك	1
+COL name VAL خوان جونزاليس	COL name VAL خوسيه جونزاليس	0
+COL name VAL جوليو أندريوتي	COL name VAL جورجيو أندريولي	0
+COL name VAL السياسة العالمية	COL name VAL البريد العالمي	0
+COL name VAL نادي الجندي والجنس	COL name VAL مركز الموارد والجنسية	0
+COL name VAL الكلية الحربية العامة	COL name VAL النيابة العامة العسكرية	0
+COL name VAL جيرهارد ميكسنر	COL name VAL جيرهارد مولر	0
+COL name VAL جورج توفيق بجاني	COL name VAL جورج بجاني	1
+COL name VAL الاتحاد العام التونسي للشغل	COL name VAL الاتحاد العام للعمال	0
+COL name VAL لينا غيبة	COL name VAL لينا قطمة	0
+COL name VAL شركة كوجيكو	COL name VAL شركة ويجو	0
+COL name VAL المديرية العامة للأصول البترولية	COL name VAL المديرية العامة	0
+COL name VAL جورج جاسكون	COL name VAL جورج جواي	0
+COL name VAL جورج افاكيان	COL name VAL جورج أكيس	0
+COL name VAL جيانلويجي نوزي	COL name VAL جيانلويجي بوفون	0
+COL name VAL جيانلوكا مانجياسوتي	COL name VAL جيانلوكا مارسيان	0
+COL name VAL غلام علي رخشانيمهر	COL name VAL غلام علي راشد	0
+COL name VAL موفر سينغ جريوال	COL name VAL جوربير سينغ جريوال	0
+COL name VAL جوروديف رافي شانكار	COL name VAL جوروديف سري سري رافي شانكار	1
+COL name VAL جويل جاروس	COL name VAL جويل غاريوس	0
+COL name VAL مروان جبران	COL name VAL جان جبران	0
+COL name VAL سافانا جوثري	COL name VAL داني جوثري	0
+COL name VAL جوردون درون	COL name VAL جوردون وود	0
+COL name VAL دونالد بالمشاركة	COL name VAL جيرالد بال	0
+COL name VAL حلاق فاضل غانم	COL name VAL فاضل غانم	1
+COL name VAL دينيس جارسيا	COL name VAL داني جارسيا	0
+COL name VAL جاري بلات	COL name VAL جاري برويت	0
+COL name VAL جورج مونبيوت	COL name VAL جورج ميسون	0
+COL name VAL غابرييلا مونوز	COL name VAL غابرييلا راموس	0
+COL name VAL جون غريندر	COL name VAL جون غارنر	0
+COL name VAL خليل جورج	COL name VAL خليل جبران	0
+COL name VAL جاليري اجيال	COL name VAL جاليري تانيت	0
+COL name VAL نادي الجولف اللبناني	COL name VAL مجموعة أمب اللبنانية	0
+COL name VAL غي معلوف	COL name VAL جورج معلوف	0
+COL name VAL آلان جرايسون	COL name VAL آلان جروس	0
+COL name VAL انطوان عمريه غالي حضاره	COL name VAL انطوان العامرية حزن	0
+COL name VAL بسام الجيتاني	COL name VAL بسام جعجع	0
+COL name VAL مونيكا بالميكا	COL name VAL مونيكا جرايلي	0
+COL name VAL وكالة الأنباء الجغرافية المكانية الوطنية	COL name VAL المنظمة الجغرافية المكانية الأسترالية	0
+COL name VAL تيريزا جيلاردوتشي	COL name VAL مارك جيلاردوتشي	0
+COL name VAL جراهام أشتون	COL name VAL جراهام أليسون	0
+COL name VAL مايكل جرونوالد	COL name VAL مايكل جروب	0
+COL name VAL راجيف غاندي	COL name VAL راهول غاندي	0
+COL name VAL آنا جوتمان	COL name VAL آنا جن	0
+COL name VAL ميغان جيلبرتسون	COL name VAL إيان جيلبرت	0
+COL name VAL جاري رودس	COL name VAL جاري روس	0
+COL name VAL جون جودمان	COL name VAL إلين جودمان	0
+COL name VAL بول جيز	COL name VAL بول بالم	0
+COL name VAL جورج ليتل	COL name VAL جورج ليسكا	0
+COL name VAL كريس جايلز	COL name VAL كريس جونيس	0
+COL name VAL جيلبرت بنوت	COL name VAL جيلبرت بيكود	0
+COL name VAL محمد محمد جالي	COL name VAL محمد جمال	0
+COL name VAL ميريام جبران طوق	COL name VAL جبران طوق	0
+COL name VAL جورج لطفي	COL name VAL جورج لوكاس	0
+COL name VAL نقابة المحامين والحكومة اللبنانية	COL name VAL الحكومة اللبنانية	0
+COL name VAL مركز سياسة الطاقة العالمية	COL name VAL مركز السياسة العالمية	0
+COL name VAL الجمعية اليونانية في لبنان	COL name VAL جمعية الخط الأخضر	0
+COL name VAL كاثرين ماكجينيس	COL name VAL مارتن ماكجينيس	0
+COL name VAL جياني بوتشيني	COL name VAL جياني بيكو	0
+COL name VAL بريجيت جبرائيل	COL name VAL بريجيت جرانفيل	0
+COL name VAL المؤسسة العامة للكهرباء والماء	COL name VAL المديرية العامة للكهرباء وموارد المياه	0
+COL name VAL جورج بيلينج	COL name VAL جورج بيطار	0
+COL name VAL إبراهيم جامبو	COL name VAL ابراهيم جيدام	0
+COL name VAL جويل غاريوس	COL name VAL جويل جاروس	0
+COL name VAL بري غانم	COL name VAL أبي غانم	0
+COL name VAL بهيج ابي غانم	COL name VAL نبيل ابي غانم	0
+COL name VAL غنوة زعتري	COL name VAL غازي زعتري	0
+COL name VAL ماجدة بو داغر خراط	COL name VAL ماجدة بو داغر خراف	1
+COL name VAL زياد ايوب كسوف	COL name VAL زياد ايوب قاصوف	1
+COL name VAL فريد هيكل خزان	COL name VAL فريد هيكل الخازن	1
+COL name VAL وكالة الانباء الكويتية	COL name VAL وكالة الأنباء الكويتية	1
+COL name VAL فلاديمير كولوكولتسف	COL name VAL فلاديمير كولوكولتسيف	1
+COL name VAL كاسبيرسكي لابس	COL name VAL كاسبيرسكي لاب	1
+COL name VAL سيزار بو خليل	COL name VAL سيزار ابو خليل	1
+COL name VAL إيلي خليفة	COL name VAL ايلي خليفة	1
+COL name VAL ثالثا الكويت	COL name VAL الكويت الثاني	1
+COL name VAL كامل رفاه	COL name VAL كامل الرفاعي	1
+COL name VAL أشفق برويز كياني	COL name VAL أشفق برفيز كياني	1
+COL name VAL أكليم الخروب	COL name VAL اكليم الخروب	1
+COL name VAL مروان خير الدين	COL name VAL موران خير الدين	1
+COL name VAL عبد الرحمن خضر	COL name VAL عبد الرحمن قدر	1
+COL name VAL مصطفى قانصو	COL name VAL مصطفى كانسو	1
+COL name VAL بوتروس خوند	COL name VAL بطرس خوند	1
+COL name VAL انطوني عيسى الخوري	COL name VAL انطوني عصام الخوري	1
+COL name VAL كريستيل خضر	COL name VAL كريستل خضر	1
+COL name VAL آرا خجاتوريان	COL name VAL آرا خاجاتوريان	1
+COL name VAL ريما كرنب	COL name VAL ريما كرنبي	1
+COL name VAL كريستينا فيرن نديز دي كيرشنر	COL name VAL كريستينا فرنانديز دي كيرشنر	1
+COL name VAL حزب الأمة الوطني	COL name VAL حزب عوامي الوطني	0
+COL name VAL رافيل كورماشوف	COL name VAL رفائيل كورماتشوف	1
+COL name VAL وكالات الأخبار	COL name VAL وكالة الأنباء	1
+COL name VAL عبير	COL name VAL عبير علي	1
+COL name VAL المباحث العسكرية	COL name VAL التحقيق العسكري	1
+COL name VAL سامي أبو جودة	COL name VAL صوما أبو جودة	1
+COL name VAL حميد احمد	COL name VAL احمد حمودي	1
+COL name VAL الدول العربية	COL name VAL المركز العربي	0
+COL name VAL نعمت فريم	COL name VAL نعمات فريم	1
+COL name VAL عماد ياسين	COL name VAL احمد ياسين	0
+COL name VAL خيري بشارة	COL name VAL بشارة كوري	0
+COL name VAL منيرة	COL name VAL منير	0
+COL name VAL موسى ابراهيم	COL name VAL ابراهيم الموسوي	0
+COL name VAL ايفانوفيتش	COL name VAL إيفانوف	1
+COL name VAL أندرياس ميكايليس	COL name VAL أندريا ميشيلسون	0
+COL name VAL ناصر الدين	COL name VAL نصر الدين	1
+COL name VAL ناصر الدين	COL name VAL نصر الدين	1
+COL name VAL عماد شاهين	COL name VAL احمد شاهين	0
+COL name VAL عبد العال	COL name VAL عبد الناصر العايي	0
+COL name VAL طلال حجر	COL name VAL دلال حيدر	0
+COL name VAL جان فيرتونغين	COL name VAL جان فيرتونغنين	1
+COL name VAL باربرا هارفي	COL name VAL هيرفيه بارباريت	0
+COL name VAL الحركة البيئية اللبنانية	COL name VAL حركة البيئة اللبنانية	1
+COL name VAL مروان المعشر	COL name VAL مروان مشير	1
+COL name VAL يوسف الحضري	COL name VAL يوسف الحضاري	1
+COL name VAL في بيروت	COL name VAL الجامعة الأمريكية في بيروت	1
+COL name VAL محمد الفتحلي	COL name VAL محمد فتالي	1
+COL name VAL مانويل	COL name VAL مانلي	0
+COL name VAL طريق جعجع	COL name VAL ستريدا جعجع	1
+COL name VAL مجموعة من كبار المانحين	COL name VAL مجموعة كبار المانحين لسوريا	1
+COL name VAL جبران صافي	COL name VAL جبران صوفان	0
+COL name VAL سمير جيجي لبناني	COL name VAL سمير جعجع	1
+COL name VAL جيمس جبرا جونزالو هيجوين	COL name VAL جونزالو هيجوين	1
+COL name VAL جيورجي مارجيلاشفيلي	COL name VAL جيورجي كفيريكاشفيلي	0
+COL name VAL الطبعة جورج شقرا	COL name VAL جورج شقرا	1
+COL name VAL مجموعة المستشارين الناشئين	COL name VAL مجموعة المرشدين العرب	1
+COL name VAL جيري خوري	COL name VAL جورج خوري	0
+COL name VAL إليانور جيليسبي	COL name VAL إد جيليسبي	0
+COL name VAL المفتشية الإدارية العامة	COL name VAL المفتشية العامة	1
+COL name VAL ريتشارد جاليانو	COL name VAL ريتشارد جوان	0
+COL name VAL ترانكويلينو غابرييل	COL name VAL كينو جابرييل	0
+COL name VAL الابنية العامة للأمم المتحدة	COL name VAL المديرية العامة للطيران	1
+COL name VAL معهد لاهاي للعدالة العالمية	COL name VAL معهد التغيير العالمي	0
+COL name VAL جورج شولتز	COL name VAL جورج شقير	0
+COL name VAL عبد الرحمن محمد غدادي	COL name VAL عبد الرحمن غادي	1
+COL name VAL الهيئة الوطنية لأهداف التنمية المستدامة	COL name VAL أهداف التنمية المستدامة	0
+COL name VAL هوارد جريف	COL name VAL هوارد جيبس	0
+COL name VAL جورجيو طراف	COL name VAL جورجيو أرماني	0
+COL name VAL سيسيليا جونزاليس	COL name VAL إلسا جونزاليس	0
+COL name VAL غادة جبارة	COL name VAL حياة جبارة	0
+COL name VAL تشي جيفارا	COL name VAL إرنستو تشي جيفارا	0
+COL name VAL غداف سعيد الدين	COL name VAL غسان سيف الدين	0
+COL name VAL يترون جوليانا	COL name VAL ياترون جوليانو	1
+COL name VAL معهد جورج للصحة العالمية	COL name VAL معهد التغيير العالمي	0
+COL name VAL غادة الشريف سحر حمزة	COL name VAL غادة الشريف صلاح ناصر	1
+COL name VAL جاري روس	COL name VAL جاري باس	0
+COL name VAL بول جورج	COL name VAL بول جيز	0
+COL name VAL دانيال الجميل	COL name VAL سميل الجميل	0
+COL name VAL نيكولاي غوغول	COL name VAL نيكولاي جودكوف	0
+COL name VAL جافين هيلف	COL name VAL جافين هايز	0
+COL name VAL رفعت غسطين	COL name VAL فارس غسطين	0
+COL name VAL غازي عباس محمود	COL name VAL غازي محمود	1
+COL name VAL بول جوين	COL name VAL بول بالم	0
+COL name VAL نبيل غلام	COL name VAL نبيل غاوي	0
+COL name VAL فيحان الغامدي	COL name VAL احمد الغامدي	0
+COL name VAL جورجيا تك	COL name VAL جامعة جورجيا للتكنولوجيا	1
+COL name VAL جاد غزيري	COL name VAL علي الغزيري	0
+COL name VAL ميشيل جوندري	COL name VAL ميشيل جور	0
+COL name VAL ايهود جولدفاسر	COL name VAL شافي جولدواسر	0
+COL name VAL الميثاق العالمي	COL name VAL الميثاق العالمي بشأن اللاجئين	1
+COL name VAL مجموعة عمل النطاق العريض للصحة الرقمية	COL name VAL فريق عمل لجنة النطاق العريض للتنمية المعنية بالشؤون الاقتصادية	1
+COL name VAL جورج الحموي	COL name VAL جورج الخوري	0
+COL name VAL مؤسسة جاب مايندر	COL name VAL مؤسسة جيتس	0
+COL name VAL خايمي جوارديولا	COL name VAL بير جوارديولا	0
+COL name VAL المجموعة اللبنانية للصداقة والحوار المسيحي الإسلامي	COL name VAL ملتقى الصداقة اللبناني للحوار الإسلامي المسيحي	1
+COL name VAL ريم الغربي	COL name VAL جمال الغربي	0
+COL name VAL تيمور أزهري ـ الأمن العام	COL name VAL الأمن العام	0
+COL name VAL بيت قيليقية العظيم	COL name VAL كاثوليكوسية بيت قيليقية العظيم	1
+COL name VAL مركز علم الجينوم والسياسة	COL name VAL مركز علم الوراثة والمجتمع	0
+COL name VAL غيوم جريسير	COL name VAL غيوم جوميز	0
+COL name VAL ساندرا غصن	COL name VAL رانيا غصن	0
+COL name VAL الهدف لا	COL name VAL كوم الهدف	0
+COL name VAL ريتشارد جيلفي	COL name VAL ريتشارد جير	0
+COL name VAL غابرييل لينز	COL name VAL غابرييل لانسكي	0
+COL name VAL سيف القذافي	COL name VAL سعدي القذافي	0
+COL name VAL جورج أورويل	COL name VAL جورج ال	0
+COL name VAL غيث الكواري	COL name VAL غيث العمري	0
+COL name VAL ديفيد جوتا	COL name VAL جرو ديفيدين	0
+COL name VAL علي غازي الأسعد	COL name VAL علي غازي عسكر	0
+COL name VAL بيتر غريناواي	COL name VAL بيتر جريست	0
+COL name VAL طوني جمال جبريل أبو محمد	COL name VAL طوني جمال جبرائيل	1
+COL name VAL معرض المرفأ	COL name VAL معرض سناء	0
+COL name VAL جماعي ملكي	COL name VAL جماعي لحم	0
+COL name VAL مجموعة التخطيط النووي	COL name VAL مجموعة موردي المواد النووية	0
+COL name VAL جاري تارن	COL name VAL غاري كورن	0
+COL name VAL الكسندر جنيتيف	COL name VAL الكسندر جابيف	1
+COL name VAL الكسندر جورج اكتشف	COL name VAL الكسندر جورج	1
+COL name VAL نيكول الجميل	COL name VAL جويل الجميل	0
+COL name VAL جوزفين الغول	COL name VAL جوزيف الغزال	0
+COL name VAL الكاردينال جورج بيل	COL name VAL جورج بيل	1
+COL name VAL جريس ماضي	COL name VAL جريس عيد	0
+COL name VAL الكسندر جراهام بيل	COL name VAL الكسندر جرايسر	0
+COL name VAL دائرة الإرشاد الإعلامي والعلاقات العامة	COL name VAL دائرة العلاقات العامة	1
+COL name VAL جورج باملين	COL name VAL جورج بحر	0
+COL name VAL خالد حدادة	COL name VAL خالد حداد	1
+COL name VAL كريستينا وينبرغ	COL name VAL كريسيتينا وينبرغ	1
+COL name VAL عبد الغابي كبارة	COL name VAL عبد الغني كبارة	1
+COL name VAL مكتب شؤون هونغ كونغ وماكاو	COL name VAL مكتب شؤون هونج كونج وماكاو	1
+COL name VAL مركز تأهيل الخيام	COL name VAL مركز الخيام للتأهيل	1
+COL name VAL كارول ابي كرم	COL name VAL كارول ابي كارا	1
+COL name VAL مونيكا شميتز كيرغوز	COL name VAL مونيكا شموتز كيرجوز	1
+COL name VAL بهروز كمالفيندي	COL name VAL بهروز كمالوندي	1
+COL name VAL للتجارة الإلكترونية القطرنجي	COL name VAL الكترونيات القطرنجي للتجارة	1
+COL name VAL خالد يحيى أبو حسنة	COL name VAL خالد يحيى ابو حسنة	1
+COL name VAL محمد شهيد أمين خان	COL name VAL محمد شاهد أمين خان	1
+COL name VAL بيير كرانينبول	COL name VAL بيير كرنينبول	1
+COL name VAL الملك عبدالله الثاني	COL name VAL الملك عبد الله الثاني	1
+COL name VAL خالد حداد	COL name VAL خالد حدادة	1
+COL name VAL حسين كامل جعفر	COL name VAL حسين كمال جعفر	1
+COL name VAL رشيد كرامي	COL name VAL رشيد كرم	1
+COL name VAL كريم بقردوني	COL name VAL كريم بقرادوني	1
+COL name VAL حسن خليلي	COL name VAL حسن خليل	1
+COL name VAL كريم الرفاعي	COL name VAL كريم ريفا	1
+COL name VAL احمد كرامي	COL name VAL احمد كرم	1
+COL name VAL شربل أبو خليل	COL name VAL شربل ابو خليل	1
+COL name VAL لواء المشاة الخامس	COL name VAL لواء المشاة 115	0
+COL name VAL لواء المشاة العاشر	COL name VAL لواء المشاة الثاني عشر	0
+COL name VAL شركة سوني المحدودة	COL name VAL شركة سوني اليابانية المحدودة	1

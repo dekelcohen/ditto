@@ -1,0 +1,72 @@
+COL name VAL كتلة القوميين الاجتماعيين	COL name VAL الكتلة الاجتماعية الوطنية	1
+COL name VAL المعاهد الوطنية للصحة	COL name VAL المعهد الوطني للصحة	1
+COL name VAL غرفة التجارة والصناعة	COL name VAL صناعة الزراعة والغرف التجارية	1
+COL name VAL تطوير زحلة	COL name VAL تطور زحلة	1
+COL name VAL جمعية غدي	COL name VAL جمعية كشافة غد	0
+COL name VAL آرت دبي ماغي غالي آرت	COL name VAL مغي غالي للفنون	0
+COL name VAL الخدمات العامة البترولية	COL name VAL البترول جيو	0
+COL name VAL مستشفى فتوح كسروان الحكومي	COL name VAL المستشفى الحكومي	0
+COL name VAL مجموعة كوهين كادوش	COL name VAL مجموعة كوهين	1
+COL name VAL مجموعة تسينغشان القابضة	COL name VAL المجموعة القابضة	0
+COL name VAL مركز لاو جيلبرت وروز ماري شاغوري للعلوم الصحية	COL name VAL مدرسة جيلبرت وروز ماري شاغوري للطب	0
+COL name VAL تجمع الكنيسة للبنان	COL name VAL التجمع من أجل لبنان	0
+COL name VAL مبادرة الطاقة الخضراء	COL name VAL مبادرة جنيف	0
+COL name VAL مجموعة سيتي بنك	COL name VAL مجموعة سوفتبانك	0
+COL name VAL الجمعية العمومية للمارونية في العالم	COL name VAL الجمعية العمومية للمارونية	1
+COL name VAL وثيقة جنيف	COL name VAL مركز جنيف	1
+COL name VAL المسنون والمساواة بين الجنسين	COL name VAL التحالف من أجل المساواة بين الجنسين	0
+COL name VAL لجنة العفو العام منطقة بعلبك الهرمل	COL name VAL لجنة العفو العام والتنمية	0
+COL name VAL وزارة الطاقة المديرية العامة للنفط	COL name VAL وزارة الطاقة والنشاطات العامة للنفط والنمسا	0
+COL name VAL مركز جنيف للديمقراطية القوات المسلحة	COL name VAL مركز جنيف للعمليات العسكرية	0
+COL name VAL تجمع عودة الوطنية	COL name VAL التجمع الوطني	1
+COL name VAL مركز تأهيل الخايم لضحايا التعذيب	COL name VAL مركز الخيام لتأهيل ضحايا التعذيب	1
+COL name VAL الصندوق الكويتي لتنمية الاقتصاد العربي	COL name VAL الصندوق الكويتي للتنمية الاقتصادية العربية	1
+COL name VAL حزب الشعب الكردي الديمقراطي	COL name VAL حزب الشعوب الديمقراطي المؤيد للأكراد	1
+COL name VAL جمعية كون هادي	COL name VAL جمعية كن هادى	1
+COL name VAL الدفاع لجنة الوطني	COL name VAL الدفاع الوطني	1
+COL name VAL المحكمة الثورية	COL name VAL الحرس الثوري	0
+COL name VAL مجلس الرئاسة	COL name VAL المجلس الرئاسي	1
+COL name VAL مابا	COL name VAL ماب	0
+COL name VAL تجمع المسيحيين في بلاد الشام	COL name VAL تجمع مسيحيي بلاد الشام	1
+COL name VAL مجموعة التنمية للدول العربية الشرق الأوسط أفريقيا	COL name VAL مجموعة الإستراتيجية للشرق الأوسط والمنطقة المجاورة لمنطقة الشرق الأوسط وشمال أفريقيا	0
+COL name VAL وزارة المالية اليونانية	COL name VAL وزارة المالية والتبريد	0
+COL name VAL لجنة مجلس الإدارة للخدمة والإصلاح الحكومي	COL name VAL لجنة مجلس الحكومة للهيئة والحكومة	1
+COL name VAL معرض مينديز	COL name VAL معرض مارو	0
+COL name VAL حركة التغيير كوران	COL name VAL حركة كوران	1
+COL name VAL هيئة الأركان العامة لجيش الشعب الكوري	COL name VAL هيئة الأركان العامة الحكومية	0
+COL name VAL جماعة غولن الإرهابية	COL name VAL منظمة غولن الإرهابية	1
+COL name VAL معرض لندن	COL name VAL معرض واحد	0
+COL name VAL المجموعة الاستشارية لأزمة المناخ	COL name VAL المجموعة الاستشارية للألغام	0
+COL name VAL الرابطة الفيدرالية لصناعة السياحة الشيوعية	COL name VAL الرابطة الشيوعية لصناعة السيارات	0
+COL name VAL مجلس تجمع رجال الأعمال اللبنانيين العمانيين	COL name VAL تجمع رجال الأعمال اللبنانيين	1
+COL name VAL معهد جيدار للسياسة الاقتصادية	COL name VAL المعهد الألماني للبحوث الاقتصادية	0
+COL name VAL دائرة الإشراف العام	COL name VAL دائرة التفتيش العام	0
+COL name VAL رابطة خريجي الجامعة الأمريكية	COL name VAL نادي خريجي الجامعة الروسية	0
+COL name VAL جمعية الخريجين الإعلاميين	COL name VAL جمعية خريجي جامعة هارفارد العرب	0
+COL name VAL الاتحاد العام للعمال واللجان الاقتصادية	COL name VAL الاتحاد العام للعمال	0
+COL name VAL مجموعة دراسة التجارة الأوروبية	COL name VAL مجموعة الأبحاث الأوروبية	0
+COL name VAL الحكومة الثورية لجمهورية كوبا	COL name VAL حكومة جمهورية العراق	0
+COL name VAL مجلس الأمن	COL name VAL مجلس الأمن الأعلى	1
+COL name VAL جامعة مانيتوبا	COL name VAL جامعة مونبلييه	0
+COL name VAL قانون الصك المالي والصرف	COL name VAL قانون الأدوات المالية والصرف	1
+COL name VAL جمعية لا للعنف	COL name VAL جمعية قل لا للعنف	1
+COL name VAL المديرية العامة للتعليم المهني والتقني	COL name VAL المديرية العامة للتعليم الفني والمهني	1
+COL name VAL المتحف الفلسطيني	COL name VAL متحف فلسطين	1
+COL name VAL نقابة الصرافين	COL name VAL نقابة الصيارفة	1
+COL name VAL فندق هلتون	COL name VAL فندق هيلتون	1
+COL name VAL الكلية الحربية العامة	COL name VAL النيابة العامة العسكرية	0
+COL name VAL الاتحاد العام التونسي للشغل	COL name VAL الاتحاد العام للعمال	0
+COL name VAL المديرية العامة للأصول البترولية	COL name VAL المديرية العامة	0
+COL name VAL وكالة الأنباء الجغرافية المكانية الوطنية	COL name VAL المنظمة الجغرافية المكانية الأسترالية	0
+COL name VAL مركز سياسة الطاقة العالمية	COL name VAL مركز السياسة العالمية	0
+COL name VAL المؤسسة العامة للكهرباء والماء	COL name VAL المديرية العامة للكهرباء وموارد المياه	0
+COL name VAL حزب الأمة الوطني	COL name VAL حزب عوامي الوطني	0
+COL name VAL في بيروت	COL name VAL الجامعة الأمريكية في بيروت	1
+COL name VAL معهد لاهاي للعدالة العالمية	COL name VAL معهد التغيير العالمي	0
+COL name VAL الهيئة الوطنية لأهداف التنمية المستدامة	COL name VAL أهداف التنمية المستدامة	0
+COL name VAL معهد جورج للصحة العالمية	COL name VAL معهد التغيير العالمي	0
+COL name VAL تيمور أزهري ـ الأمن العام	COL name VAL الأمن العام	0
+COL name VAL مجموعة التخطيط النووي	COL name VAL مجموعة موردي المواد النووية	0
+COL name VAL لواء المشاة الخامس	COL name VAL لواء المشاة 115	0
+COL name VAL لواء المشاة العاشر	COL name VAL لواء المشاة الثاني عشر	0
+COL name VAL شركة سوني المحدودة	COL name VAL شركة سوني اليابانية المحدودة	1

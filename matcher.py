@@ -87,8 +87,7 @@ def classify(sentence_pairs, model,
     """
     inputs = sentence_pairs
     # print('max_len =', max_len)
-    dataset = DittoDataset(inputs,
-                           max_len=max_len,
+    dataset = DittoDataset(inputs,                           
                            hp=hp)
     # print(dataset[0])
     iterator = data.DataLoader(dataset=dataset,

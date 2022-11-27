@@ -82,6 +82,9 @@ class DittoDataset(data.Dataset):
         right = self.pairs[idx][1]
 
         # left + right
+        left = left.replace('COL name VAL','عمودي')
+        right = right.replace('COL name VAL','عمودي')
+        
         x = self.tokenizer.encode(text=left,
                                   text_pair=right,
                                   max_length=self.max_len,

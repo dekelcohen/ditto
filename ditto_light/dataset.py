@@ -31,9 +31,10 @@ class DittoDataset(data.Dataset):
         self.pairs = []
         self.labels = []
         self.max_len = hp.max_len
-        self.size = hp.size
-        self.langid = hp.langid
-
+        self.size = getattr(hp, 'size', None)
+        self.hp = hp        
+        self.arabert_prep = None
+        
         if pairs is not None: # pairs is a array like (list, Series, np.array) of tuples with pairs of strings. 
             self.pairs = pairs
             assert labels is not None, "pairs is not None --> labels cannot be None"
@@ -81,10 +82,18 @@ class DittoDataset(data.Dataset):
         right = self.pairs[idx][1]
 
         # left + right
-        if self.langid == 'ar':
+        if self.hp.langid == 'ar':
             left = left.replace('COL name VAL','عمودي') # TODO: Fix for multiple columns 
             right = right.replace('COL name VAL','عمودي')
         
+        # Arabertv02 preprocessor 
+        if 'arabertv02' in self.hp.lm:
+            from arabert.preprocess import ArabertPreprocessor
+            if self.arabert_prep is None:            
+                self.arabert_prep = ArabertPreprocessor(model_name=self.hp.lm)
+            left = self.arabert_prep.preprocess(left)
+            right = self.arabert_prep.preprocess(right)
+            
         x = self.tokenizer.encode(text=left,
                                   text_pair=right,
                                   max_length=self.max_len,

@@ -25,6 +25,7 @@ if __name__=="__main__":
     parser.add_argument("--save_model", dest="save_model", action="store_true")
     parser.add_argument("--logdir", type=str, default="checkpoints/")
     parser.add_argument("--lm", type=str, default='distilbert')
+    parser.add_argument("--langid", type=str, default='en')
     parser.add_argument("--fp16", dest="fp16", action="store_true")
     parser.add_argument("--checkpoint_path", type=str, default=None, help='path to a folder containing model.pt')
     parser.add_argument("--da", type=str, default=None)
@@ -81,12 +82,9 @@ if __name__=="__main__":
 
     # load train/dev/test sets
     train_dataset = DittoDataset(trainset,
-                                   lm=hp.lm,
-                                   max_len=hp.max_len,
-                                   size=hp.size,
-                                   da=hp.da)
-    valid_dataset = DittoDataset(validset, lm=hp.lm)
-    test_dataset = DittoDataset(testset, lm=hp.lm)
+                                   hp=hp)
+    valid_dataset = DittoDataset(validset, hp=hp)
+    test_dataset = DittoDataset(testset, hp=hp)
 
     # train and evaluate the model
     if hp.al:

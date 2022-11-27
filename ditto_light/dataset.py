@@ -22,18 +22,17 @@ class DittoDataset(data.Dataset):
 
     def __init__(self,
                  path,
-                 max_len=256,
-                 size=None,
-                 lm='roberta',
-                 da=None,
+                 hp,                 
                  pairs=None,
-                 labels=None):
-        self.tokenizer = get_tokenizer(lm)
+                 labels=None
+                 ):
+        self.tokenizer = get_tokenizer(hp.lm)
         print(f'type(tokenizer) == {type(self.tokenizer)} ')
         self.pairs = []
         self.labels = []
-        self.max_len = max_len
-        self.size = size
+        self.max_len = hp.max_len
+        self.size = hp.size
+        self.langid = hp.langid
 
         if pairs is not None: # pairs is a array like (list, Series, np.array) of tuples with pairs of strings. 
             self.pairs = pairs
@@ -51,10 +50,10 @@ class DittoDataset(data.Dataset):
                 self.pairs.append((s1, s2))
                 self.labels.append(int(label))
 
-        self.pairs = self.pairs[:size]
-        self.labels = self.labels[:size]
-        self.da = da
-        if da is not None:
+        self.pairs = self.pairs[:self.size]
+        self.labels = self.labels[:self.size]
+        self.da = hp.da
+        if self.da is not None:
             self.augmenter = Augmenter()
         else:
             self.augmenter = None
@@ -82,8 +81,9 @@ class DittoDataset(data.Dataset):
         right = self.pairs[idx][1]
 
         # left + right
-        left = left.replace('COL name VAL','عمودي')
-        right = right.replace('COL name VAL','عمودي')
+        if self.langid == 'ar':
+            left = left.replace('COL name VAL','عمودي') # TODO: Fix for multiple columns 
+            right = right.replace('COL name VAL','عمودي')
         
         x = self.tokenizer.encode(text=left,
                                   text_pair=right,

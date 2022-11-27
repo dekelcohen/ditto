@@ -26,7 +26,7 @@ class DittoFitPredictWrapper:
     
     def fit(self, X, y, train_dataset, valid_dataset, test_dataset, run_tag, hp):
         print(f'Enter fit type(X)={type(X)}, X.shape[0]={X.shape[0]}')
-        al_trainset = DittoDataset(path=None, pairs=list(X), labels=list(y), lm=hp.lm, max_len=hp.max_len, size=hp.size, da=hp.da)
+        al_trainset = DittoDataset(path=None, pairs=list(X), labels=list(y), hp=hp)
         
         self.model = train(al_trainset,
                 valid_dataset,
@@ -38,7 +38,7 @@ class DittoFitPredictWrapper:
         hp = fit_kwargs['hp']
         # X --> DittoDataset --> iterator (DataLoader) --> predict probas 
         dummy_labels = [0] * X.shape[0] # Predict doesn't need labels (y) - only X, but DittoDataset requires them
-        unlabeled_dataset = DittoDataset(path=None, pairs=list(X), labels=dummy_labels, lm=hp.lm, max_len=hp.max_len, size=hp.size, da=hp.da)
+        unlabeled_dataset = DittoDataset(path=None, pairs=list(X), labels=dummy_labels, hp=hp)
         
         iterator = data.DataLoader(dataset=unlabeled_dataset,
                              batch_size=hp.batch_size*16,

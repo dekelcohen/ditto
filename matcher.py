@@ -89,7 +89,7 @@ def classify(sentence_pairs, model,
     # print('max_len =', max_len)
     dataset = DittoDataset(inputs,
                            max_len=max_len,
-                           lm=lm)
+                           hp=hp)
     # print(dataset[0])
     iterator = data.DataLoader(dataset=dataset,
                                batch_size=len(dataset),
@@ -210,9 +210,8 @@ def tune_threshold(config, model, hp):
         validset = injector.transform_file(validset)
 
     # load dev sets
-    valid_dataset = DittoDataset(validset,
-                                 max_len=hp.max_len,
-                                 lm=hp.lm)
+    valid_dataset = DittoDataset(validset,                                 
+                                 hp=hp)
 
     # print(valid_dataset[0])
 
@@ -316,6 +315,7 @@ if __name__ == "__main__":
     parser.add_argument("--input_path", type=str, default='input/candidates_small.jsonl')
     parser.add_argument("--output_path", type=str, default='output/matched_small.jsonl')
     parser.add_argument("--lm", type=str, default='distilbert')
+    parser.add_argument("--langid", type=str, default='en')
     parser.add_argument("--use_gpu", dest="use_gpu", action="store_true")
     parser.add_argument("--fp16", dest="fp16", action="store_true")
     parser.add_argument("--checkpoint_path", type=str, default='checkpoints/')

@@ -53,7 +53,7 @@ class DittoDataset(data.Dataset):
 
         self.pairs = self.pairs[:self.size]
         self.labels = self.labels[:self.size]
-        self.da = hp.da
+        self.da = getattr(hp, 'da', None)
         if self.da is not None:
             self.augmenter = Augmenter()
         else:

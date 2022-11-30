@@ -1,0 +1,1733 @@
+COL name VAL دانيال أتينجر	COL name VAL دانيال كيميل	0
+COL name VAL روبرت براون	COL name VAL روبرت س	0
+COL name VAL آدم دي شو	COL name VAL آر دي ريد	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو	COL name VAL فيديريجو ديل بادوفانو	1
+COL name VAL فريتز بيرجر	COL name VAL فريتز روبرت بيرجر	1
+COL name VAL إريك أندرو هيسرير	COL name VAL هنريك أندريه سول كريستيانسن	0
+COL name VAL مايك شو	COL name VAL مايكل جون شو	1
+COL name VAL تاي تمبلتون	COL name VAL تيرون تمبلتون	1
+COL name VAL فريدريش سوستروس	COL name VAL فريدريك سوستريس	1
+COL name VAL توم بيسكاردي	COL name VAL كارمين توماس بيسكاردي	1
+COL name VAL توني باين	COL name VAL أنتوني جونز	0
+COL name VAL ألفريد لوتر	COL name VAL كارلو ألفريد رومانيلي	0
+COL name VAL جون هنري براون	COL name VAL هنري براون	1
+COL name VAL بول غسالة	COL name VAL بول ميلر	0
+COL name VAL ألبرت إتش دبليو باتيسكومب	COL name VAL راسل دبليو كوبر	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	1
+COL name VAL جون سكوديري	COL name VAL جون سولو	1
+COL name VAL أورورا جونزالا بريتون	COL name VAL فاليري أورورا	0
+COL name VAL جون إم هتلاند	COL name VAL جون دولان	0
+COL name VAL ديفيد جيه لوبنسكي	COL name VAL ديفيد لوبينسكي	1
+COL name VAL بيتر ثورن	COL name VAL بيتر شيرر	0
+COL name VAL جوان روب	COL name VAL جوان روس	1
+COL name VAL بوب سكولي	COL name VAL بوليت كوبر	0
+COL name VAL روبرت بوكان دوثي	COL name VAL روبرت دوان لوميس	0
+COL name VAL أوستن سكوت ميلر	COL name VAL سكوت مايكل كليب	0
+COL name VAL روبرت فوكس	COL name VAL روبرت كار	0
+COL name VAL فريدريش سستري	COL name VAL فريدريك سستريس	1
+COL name VAL ستيفن زينسر	COL name VAL ستيفن ج	0
+COL name VAL  øystein  هالفدانسون	COL name VAL  ميخائيل  هالفدانسون	0
+COL name VAL جورج ووترز	COL name VAL جورج كوكس	0
+COL name VAL أندرياس أولسن	COL name VAL هينينج أغسطس أولسن	0
+COL name VAL جوزيف جرانفيل	COL name VAL جوزيف فان روي	0
+COL name VAL ستيفن حسن	COL name VAL ستيفن سيلر	0
+COL name VAL  إليزابيث  دوبارك	COL name VAL  إليزابيث  النعيم	0
+COL name VAL  روسيو  جامونال	COL name VAL  روسيو  فان دي فيلدي	0
+COL name VAL  مانفريدي  ليفيفر	COL name VAL  هيلدغارد  ليفيفر	0
+COL name VAL أندرس هيمستاد	COL name VAL جيمس إي أندرسون	0
+COL name VAL آرني فيدار رود	COL name VAL أرفيد دار نوي	1
+COL name VAL الياس ثامر يوسف	COL name VAL ثامر يوسف	1
+COL name VAL  دييغو  أغيلار	COL name VAL  لويز  أغيلار	0
+COL name VAL  يولاندا  هيراس	COL name VAL  إيفا  هيراس	0
+COL name VAL إليزابيث موريس	COL name VAL إليزابيث موليجان ماسون	0
+COL name VAL ألبرت هنري وليام باتيسكومب	COL name VAL وليام هنري جاكسون	0
+COL name VAL ستيف باركت	COL name VAL ستيفن بارك	0
+COL name VAL داريا نيا أوين	COL name VAL مايا نيدارا كابريرا مامان	0
+COL name VAL آدم فلوريس كروز	COL name VAL أنطونيو فلوريس	0
+COL name VAL  ستيلا  ياكونيس	COL name VAL كارل  ياكونيس	0
+COL name VAL توم ويست	COL name VAL توماس ويلر	0
+COL name VAL فريدريش سوستر	COL name VAL فريدريك سوستريس	1
+COL name VAL ريتشارد لونديل	COL name VAL ريتشارد لويل بليفينز	0
+COL name VAL فورد جرين	COL name VAL كليفورد جيري	0
+COL name VAL ديفيد والش	COL name VAL ديفيد بيتس	0
+COL name VAL جون دي كنوتسون	COL name VAL جون هانسون	0
+COL name VAL جون نيهاردت	COL name VAL جون س	0
+COL name VAL أورورا بريتون	COL name VAL فاليري أنيتا أورورا	0
+COL name VAL  أوتو  بوهلر	COL name VAL  روسلي  بوهلر	0
+COL name VAL إسرائيل أوكسمان	COL name VAL رافائيل بلانكو	0
+COL name VAL جيون سومي	COL name VAL سومي	1
+COL name VAL  نفذ  بريدال	COL name VAL  نفذ  كاسترو	0
+COL name VAL ريموند راي يورك	COL name VAL رايموندو رودريغيز	0
+COL name VAL ستيفن حسن	COL name VAL ستيفن فيزي	0
+COL name VAL ريد فيشر	COL name VAL كريد فيشر	0
+COL name VAL  إيما  جيجي	COL name VAL  إيما  سبيكتور	0
+COL name VAL تشارلز إيه واتسون	COL name VAL تشارلز روجر واتسون	1
+COL name VAL روبرت توماس بيجلو	COL name VAL روبرت بالش	0
+COL name VAL آيلسورث كروفورد جرين الثالث	COL name VAL ماري كروفورد فريزر	0
+COL name VAL إدوارد راين	COL name VAL إدوارد سي رايلي	0
+COL name VAL بيتر بروك	COL name VAL بيتر بريدال	0
+COL name VAL إليزابيث موريس	COL name VAL إليزابيث ووكر موريس	1
+COL name VAL  باسكوالينا  سارو	COL name VAL  كارلا  سارو	0
+COL name VAL ساندرا روبن واكسمان	COL name VAL ساندرا لانج	0
+COL name VAL تاي تمبلتون	COL name VAL جاي تايسي	0
+COL name VAL جو ديسيمون	COL name VAL جون دي موني	0
+COL name VAL بنيامين شيفر	COL name VAL بنيامين هيل شيفر	1
+COL name VAL ساندرا جي هاردينج	COL name VAL ساندرا هاردينج	1
+COL name VAL  ميغيل أنخيل  روبيو	COL name VAL  كارولين  روبيو	0
+COL name VAL بول إبرهارد	COL name VAL بول مكارثي	0
+COL name VAL الكسندرا سيلفيا بيلي	COL name VAL الكسندر فيلمان	0
+COL name VAL توماس جيلوفيتش	COL name VAL توماس مويلان	0
+COL name VAL كيشا بيل	COL name VAL كيشا بيل سويل	1
+COL name VAL جون ويليامز	COL name VAL جون ويليامسون	0
+COL name VAL جيمس فوجاتي	COL name VAL جيمس سميث	0
+COL name VAL ديفيد دريك	COL name VAL ديفيد ورث	0
+COL name VAL آنا ماي هي	COL name VAL ليانا هيندز	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فريدريش سستري	1
+COL name VAL بيتر أولسن	COL name VAL بيتر ليباج	0
+COL name VAL ديفيد كهر	COL name VAL ديفيد مون	0
+COL name VAL سكوت رومني	COL name VAL سكوت كليب	0
+COL name VAL ترافيس ألين	COL name VAL ترافيس إيثان ألين	1
+COL name VAL أليس إي راندال	COL name VAL راندال شوه	0
+COL name VAL جايسون جورسكي	COL name VAL جون جوستافسون	0
+COL name VAL إليزابيث موريس	COL name VAL إليزابيث موليجان	0
+COL name VAL آدم فلوريس	COL name VAL ديدم توريمن	0
+COL name VAL ديفيد شيلتون	COL name VAL ديفيد ورث	0
+COL name VAL جيم دانيلز	COL name VAL جيم كيس	0
+COL name VAL هيذر بارتون	COL name VAL هيذر ديجبي بارتون	1
+COL name VAL أوغست جارسين	COL name VAL هاري أوغسطس جارفيلد	0
+COL name VAL احمد الهموندي	COL name VAL احمد معين	0
+COL name VAL جورج بول ديكابريو	COL name VAL جورج ديكابريو	1
+COL name VAL سكوت إم إيدي	COL name VAL سكوت رومني	0
+COL name VAL  هنري  جينيريت	COL name VAL  فيديريكو  جينيريت	0
+COL name VAL ميراندا مافريك	COL name VAL ميليندا ماري ماركس	0
+COL name VAL إتيان أوبين	COL name VAL دانييل إتيان	0
+COL name VAL ستيفن ل راسل	COL name VAL ستيفن سيلر	0
+COL name VAL  ماركوس  غونزاليس	COL name VAL  آنا  غونزاليس	0
+COL name VAL أوتو بولير	COL name VAL بول ليري	0
+COL name VAL أندرس توفتينج هوف	COL name VAL أندرس فينسث	0
+COL name VAL ريتشارد روجر لافين	COL name VAL ريتشارد برجر	0
+COL name VAL فريتز بيرجر	COL name VAL فريتز ر	1
+COL name VAL جوليا سيرانو	COL name VAL جوليان بوهلر	0
+COL name VAL جون بور ويليامز	COL name VAL جون ثوبرن ويليامسون	0
+COL name VAL  ماريا  باريدا	COL name VAL  جورج  باريدا	0
+COL name VAL خوسيه إل أورتيز	COL name VAL خوسيه جوتيريز	0
+COL name VAL آلان توماس	COL name VAL توماس مويلان	0
+COL name VAL جون ماريك	COL name VAL جون مكوري	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فريدريك سوتريس	1
+COL name VAL  جحش  إريكسون	COL name VAL  جحش  راغسدال	0
+COL name VAL  توماس  زوربوشن	COL name VAL  موج  زوربوشن	0
+COL name VAL  مانويل  فرنانديز	COL name VAL  برنارد  فرنانديز	0
+COL name VAL توماس مويلان	COL name VAL توماس باس	0
+COL name VAL روبرت روبن أوين ليمان	COL name VAL روبرت بنس	0
+COL name VAL جورج سي ويلر	COL name VAL جورج ويلبر ووترز	0
+COL name VAL ديفيد آلان جريمالدي	COL name VAL ديفيد كابلان	0
+COL name VAL علي صالح	COL name VAL علي صالح عمرو	1
+COL name VAL ستيفن أ	COL name VAL ستيفن هـ	1
+COL name VAL م مارتينتي	COL name VAL ماريا مارتينتي	1
+COL name VAL جوستافو فرنانديز	COL name VAL جوستافو فرنانديز هويرتاس	1
+COL name VAL تريسي بوسنر وارد	COL name VAL تريسي سنكلير	0
+COL name VAL بيت بروك	COL name VAL بيتر بريدال	0
+COL name VAL آدم أمين دانيال	COL name VAL دانيال لينش	0
+COL name VAL ستيفن راسل	COL name VAL ستيفن سيلر	0
+COL name VAL افا جراي	COL name VAL نافا بوكر	0
+COL name VAL روبرت س	COL name VAL روبرت موسر	0
+COL name VAL روبرتا هيرشكويتز	COL name VAL روبرت ستارك	0
+COL name VAL جيفري برونو	COL name VAL جيفري جوب	0
+COL name VAL  أولي  اوجين	COL name VAL  ميخائيل  اوجين	0
+COL name VAL توم ويلر	COL name VAL توم باراك	0
+COL name VAL دانيال آلان جيلروي	COL name VAL دانيال سيلر	0
+COL name VAL ريتشارد روزنر	COL name VAL ريتشارد لافين	0
+COL name VAL جون إم سجوجرن	COL name VAL جون إم ماكوري	0
+COL name VAL أدريان دي جروت رويز	COL name VAL بريان ج دويل	0
+COL name VAL  فريدريش  سوستريس	COL name VAL  فريدريش  سيساتي	0
+COL name VAL  ريتشارد  ميد	COL name VAL  ريتشارد  فيشر	0
+COL name VAL  أحمد  جاسم	COL name VAL  شاي  جاسم	0
+COL name VAL ألفريد لوثي	COL name VAL كارلو ألفريد رومانيلي	0
+COL name VAL فريدريش سوستر	COL name VAL فريدريك سوتريس	1
+COL name VAL ساندرا ديل	COL name VAL ساندرا ديل ممثلة	1
+COL name VAL أكينسولا إيهيري عزيز أكينيمي	COL name VAL أكينشولا أكينيمي	1
+COL name VAL  توني  أماتوني	COL name VAL  سوزان  أماتوني	0
+COL name VAL إننيك دوما	COL name VAL إنيك سومي دوما	1
+COL name VAL بابلو رييس جونيور	COL name VAL رييس بابلو	1
+COL name VAL إس إس ويلسون	COL name VAL لويس نيلسون	0
+COL name VAL  موج  تشيفيك	COL name VAL  آلان  تشيفيك	0
+COL name VAL جواكين نوفوا	COL name VAL خواكين نوفوا	1
+COL name VAL ستيفن إتش ليبلا	COL name VAL ستيفن هـ	1
+COL name VAL أنتوني إدوارد ليستر	COL name VAL هنري إدوارد جينيريت	0
+COL name VAL إدوارد جيه باربو	COL name VAL باربرا جيه وولد	0
+COL name VAL إدوارد سي رايلي	COL name VAL وليام إدوارد جالي	0
+COL name VAL تيريزا دالي	COL name VAL تيريزا ماري ماسي فينجر	0
+COL name VAL  مانويل  رويز	COL name VAL  اميل  رويز	0
+COL name VAL  لويز  جامين	COL name VAL  لويس  جامين	0
+COL name VAL  فيني  تشيكاريلو	COL name VAL  كوري  تشيكاريلو	0
+COL name VAL  هيلج  تورسفيك	COL name VAL  مانويل  تورسفيك	0
+COL name VAL أكينسولا أكينيمي	COL name VAL أكينسولا إيهيري عزيز أكينيمي	1
+COL name VAL جاك جافير	COL name VAL جاك فيل	0
+COL name VAL أمي لورين	COL name VAL مهمة لوريلي	0
+COL name VAL ريتشارد بلفينز	COL name VAL ريتشارد بور	0
+COL name VAL دون بارنز	COL name VAL براندون براون	0
+COL name VAL بول غانوس	COL name VAL بول لوزانو	0
+COL name VAL ديفيد راجسدال	COL name VAL ديفيد والش	0
+COL name VAL ديفيد بيتس	COL name VAL ديفيد ديويت	0
+COL name VAL أوبرت سكاي	COL name VAL روبرت زيب	0
+COL name VAL ريتشارد روجر لافين	COL name VAL ريتشارد بلير	0
+COL name VAL نسرين أكوج	COL name VAL نسرين عقوج	1
+COL name VAL أنتوني بيتر درازان	COL name VAL لوك أنتوني بنسابيني	0
+COL name VAL نانسي ستوك	COL name VAL نانسي لورا ستوكي	1
+COL name VAL جوزيف بونوسو	COL name VAL جوزيف خوري	0
+COL name VAL أليس إليزابيث ساوتيل	COL name VAL إليزابيث أليس شانون	0
+COL name VAL روبرت شوش	COL name VAL روبرت كار	0
+COL name VAL أبريجو	COL name VAL جريجوري ديسبريس	0
+COL name VAL  فيديريكو  مادرازو	COL name VAL  فيديريكو  جيبس	0
+COL name VAL جون ب	COL name VAL جون س	0
+COL name VAL  عبد الرحمن  رحمن	COL name VAL  يوليوس  رحمن	0
+COL name VAL درو جيلينج	COL name VAL أندرو ليزلي	0
+COL name VAL أندريا ب	COL name VAL دونا أندريا جوزيف	0
+COL name VAL تريسي ل	COL name VAL تيريسينا	0
+COL name VAL ديفيد شومكا	COL name VAL ديفيد دريك	0
+COL name VAL جون أفلون	COL name VAL جون فيليبس أفلون	1
+COL name VAL إس إس ويلسون	COL name VAL لويس جي نيلسون	0
+COL name VAL آدم أمين دانيال	COL name VAL كينيث دانيال فوكس	0
+COL name VAL آنا ماي هي	COL name VAL ليانا كايلا ماري هيندز	0
+COL name VAL آدم دانيال	COL name VAL دانيال لوبي	0
+COL name VAL إدوين ف براينت	COL name VAL دكتور براينت	0
+COL name VAL جورج مايرز	COL name VAL جورج هو	0
+COL name VAL أليكس بيترز	COL name VAL بيتر فيك	0
+COL name VAL جوزيف مارتينيلي	COL name VAL جوزيف ماريس	0
+COL name VAL  ماري  جاكسون	COL name VAL  ماري  انيدي	0
+COL name VAL أليس إليزابيث راندال	COL name VAL إليزابيث أليس شانون	0
+COL name VAL ريتشارد ألين	COL name VAL ريتشارد كلارك	0
+COL name VAL  ميغيل أنخيل  روبيو	COL name VAL  ميغيل أنخيل  هوف	0
+COL name VAL  ماونو  إريكسون	COL name VAL  ماونو  هاريس	0
+COL name VAL ديفيد إيه برودي	COL name VAL ديفيد رودريجو	0
+COL name VAL تشاو شينا	COL name VAL تشينشو	0
+COL name VAL آدم فلوريس	COL name VAL لوري هـ	0
+COL name VAL  ميتا  أكوش	COL name VAL  ديزموند  أكوش	0
+COL name VAL فيليكس ماير	COL name VAL فيليكس هورن ماير	1
+COL name VAL آلان ميلر توماس	COL name VAL توماس باتريك مويلان	0
+COL name VAL إدوين ف براينت	COL name VAL شايان براينت	0
+COL name VAL ايستين ماجنوسون ملك النرويج	COL name VAL ايستين هالفدانسون	0
+COL name VAL ايلي دانكر	COL name VAL ألي بيلي	0
+COL name VAL نورمان جولدمان	COL name VAL نورمان موريس جولدمان	1
+COL name VAL أليسيا إليزابيث فيكتوريا	COL name VAL إليزابيث أليس سيمينجتون	0
+COL name VAL باري بيدرسون	COL name VAL لاري بتلر	0
+COL name VAL احمد الهموندي	COL name VAL محمد مسعد المولد	0
+COL name VAL تمارا نورا حامل	COL name VAL حامل تمارا	1
+COL name VAL آرني كريستيان إيجوم	COL name VAL ماري إلين كريستيان	0
+COL name VAL  لويز  جامين	COL name VAL  لويز  مولينا	0
+COL name VAL جو بونز	COL name VAL جو بيل	0
+COL name VAL ميندي ت	COL name VAL ميندي فوليلوف	1
+COL name VAL جورج لو	COL name VAL جورج نادر	0
+COL name VAL ريتشارد سانشيز	COL name VAL ريتشارد كلارك	0
+COL name VAL باتريسيا موتا	COL name VAL باتريشيا موتا	1
+COL name VAL ديفيد إي كامبل	COL name VAL ديفيد كامبل	1
+COL name VAL هيلاري مومبيرجر	COL name VAL هيلاري مومبيرجر القوى	1
+COL name VAL راحيل كيويك	COL name VAL راشيل كين	0
+COL name VAL ميندي ت	COL name VAL ميندي طومسون فوليلوف	1
+COL name VAL  جدعون  كوهين	COL name VAL  تشارلز  كوهين	0
+COL name VAL آلان هاستينغز	COL name VAL آلان بورودين	0
+COL name VAL  موج  تشيفيك	COL name VAL  بول  تشيفيك	0
+COL name VAL فريدا راوشينبوش	COL name VAL فريدا فيتزر	1
+COL name VAL  وليام  مارشال	COL name VAL  خوسيه  مارشال	0
+COL name VAL ديفيد مايكلز	COL name VAL ديفيد سيلز	0
+COL name VAL جوزيف ويلبر دورسي	COL name VAL جوزيف بيل	0
+COL name VAL فاتوماتا كابا	COL name VAL فاتوماتا ليجون كابا	1
+COL name VAL  جوستين  جوندرسن	COL name VAL  جوستين  أبيض	0
+COL name VAL ايستين ارليندسون	COL name VAL كريستين لين فيركينز	0
+COL name VAL أندرس ك	COL name VAL هانا أندرسون	0
+COL name VAL جيمس بار	COL name VAL جيمس بارون	0
+COL name VAL تشارلز هاريس لينش	COL name VAL تشارلز مان	0
+COL name VAL  أحمد  ياسين	COL name VAL  تركي  ياسين	0
+COL name VAL جوليا سيرانو	COL name VAL جوليان بولير	0
+COL name VAL بوبولين	COL name VAL هولي بوبو	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فريدريك دي لامبرتو سوستريس	1
+COL name VAL بول روديش	COL name VAL بول ميلر	0
+COL name VAL ريبا كاميرون	COL name VAL ريبيكا كاي واتسون	0
+COL name VAL آن دالي	COL name VAL آن بوليه	0
+COL name VAL جورج ويلبر ووترز	COL name VAL جورج لو	0
+COL name VAL جايسون فابوك	COL name VAL أليسون جيمس	0
+COL name VAL  يعقوب  باجج	COL name VAL  أوربانوس  باجج	0
+COL name VAL ألكسندر ج إنيدي	COL name VAL الكسندر أوبرت	0
+COL name VAL تيرينس ماكنالي	COL name VAL تيريسينا	0
+COL name VAL جون الجلوس لا يزال موني	COL name VAL جون دي موني	1
+COL name VAL  جوليان  ليفي	COL name VAL  فرانسيسكو  ليفي	0
+COL name VAL  ماركوس  غونزاليس	COL name VAL  كلود  غونزاليس	0
+COL name VAL إي إي جيرتنر	COL name VAL إي جي فريزر	1
+COL name VAL تشارلز ريس	COL name VAL تشارلز هيرتيج	0
+COL name VAL توماس داشيف جيلوفيتش	COL name VAL توماس ويست	0
+COL name VAL فيرنر كريستي	COL name VAL فيرنر هوسوينكل كريستي	1
+COL name VAL جيمس ايرا ديكسون	COL name VAL جيمس بارون	0
+COL name VAL ديفيد هاجر	COL name VAL ديفيد ورث	0
+COL name VAL  ديدييه  كيلوز	COL name VAL  ديدييه  سوستريس	0
+COL name VAL ستايسي باتون	COL name VAL ستايسي ليتلجون	0
+COL name VAL روبرت باورز	COL name VAL روبرت بيجلو	0
+COL name VAL فريدريش سوستر	COL name VAL فريدريك سستريس	1
+COL name VAL راسل وينر	COL name VAL راسل جونسون	0
+COL name VAL رودولف إل ليبل	COL name VAL رودولف كيلر	0
+COL name VAL فرانشيسكو سفريسا باربيري	COL name VAL فرانشيسكو سفريساتو	0
+COL name VAL مايكل آر رامبينو	COL name VAL مايكل رامبينو	1
+COL name VAL  نغمة، رنه  ليما	COL name VAL  نغمة، رنه  مارتن	0
+COL name VAL جاي بنسون	COL name VAL جاي تايسي	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL روبرت بنس	COL name VAL روبرت دوثي	0
+COL name VAL تيريز أولاند	COL name VAL تيرينس أوشوغنسي	0
+COL name VAL آلان فيتزجيرالد	COL name VAL آلان يوتر	0
+COL name VAL روبرت بنس	COL name VAL روبرت س	0
+COL name VAL دكتور براينت	COL name VAL دكتور بوراك جوكدينيز	0
+COL name VAL بروكس دوغلاس	COL name VAL ريتشارد بروكس دوغلاس	1
+COL name VAL ليزا كولين	COL name VAL ليزا كولين جراف	1
+COL name VAL جون دي كاريش شيب	COL name VAL جون دي كاريك شيب	1
+COL name VAL احمد ابو المعاطي	COL name VAL احمد الهموندي	0
+COL name VAL مايكل جون شو	COL name VAL مايكل شو	1
+COL name VAL آدم دانيال	COL name VAL دانيال	0
+COL name VAL رافائيل بلانكو ميرينو	COL name VAL رافائيل مورينو	1
+COL name VAL ديفيد هارولد شيلتون	COL name VAL ديفيد مو	0
+COL name VAL فرانشيسكو سفريسا	COL name VAL لو سفريساتو	1
+COL name VAL  ماري  فريزر	COL name VAL  ماري  جوردون	0
+COL name VAL ريتشارد فنسنت برتوليني	COL name VAL فنسنت برتوليني	1
+COL name VAL آنا سكاربولا	COL name VAL آنا م	1
+COL name VAL  جوزيف  هالبيرن	COL name VAL  جوزيف  الرشيدي	0
+COL name VAL أليسيا تيريللي	COL name VAL ديانا تريلينج	0
+COL name VAL ديفيد إدوارد كامبل	COL name VAL ديفيد كامبل	1
+COL name VAL السير ديفيد جورج إيفانز	COL name VAL قائد القوات الجوية المارشال السير ديفيد إيفانز	1
+COL name VAL  ماري  فريزر	COL name VAL  الابن.  فريزر	0
+COL name VAL ألفريدو دي بالتشي	COL name VAL ألفريد كالين	0
+COL name VAL أحمد المعاطي	COL name VAL احمد الهموندي	0
+COL name VAL جيمس بار	COL name VAL جيمس سميث	0
+COL name VAL سارة الفليج	COL name VAL سارة الكسندرا ليلبرغ سوفلين	0
+COL name VAL جيري شيف	COL name VAL جيري هاليفا	0
+COL name VAL براندون براون	COL name VAL براندون روبرت براون	1
+COL name VAL إدوارد دي تروي	COL name VAL ديفيد إدوارد كامبل	0
+COL name VAL أندرس فينسث	COL name VAL هانا أندرسون	0
+COL name VAL أليس دارلينج جلينداى	COL name VAL أليس دريجر	0
+COL name VAL  فيليب  فوشت	COL name VAL  فيليب  ادموندز	0
+COL name VAL إدوارد باربو	COL name VAL جون إدوارد ديكر	0
+COL name VAL  ديدييه  كيلوز	COL name VAL  ديدييه  حداد	0
+COL name VAL  جيني  برادلي	COL name VAL  جيني  واو	0
+COL name VAL  كونراد  برتقالي	COL name VAL  كلير  برتقالي	0
+COL name VAL جون الجلوس لا يزال موني	COL name VAL جون موني	1
+COL name VAL أندرو وايت سميث	COL name VAL سمي وايت	0
+COL name VAL ريتشارد برجر	COL name VAL ريتشارد لافين	0
+COL name VAL آدم فلوريس	COL name VAL لوري فوستر	0
+COL name VAL أندرياس هانش أولسن	COL name VAL فريدريك هيرمان أندرياسين آلين	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فيديريكو دي لامبرتو سوستريس	1
+COL name VAL روبرت فوكس	COL name VAL روبرت براون	0
+COL name VAL ريتشارد يوجين جلوسيب	COL name VAL ريتشارد بلفينز	0
+COL name VAL  فرانشيسكو  باربيري	COL name VAL  سينثيا  باربيري	0
+COL name VAL رادريان سيلفا	COL name VAL آريان تاري	0
+COL name VAL دانيال كيميل	COL name VAL دانيال بيتري	0
+COL name VAL فرانشيسكو سفريسا	COL name VAL فرانشيسكو سفريسا باربيري	1
+COL name VAL البروفيسور روي ماكلويد	COL name VAL روي مالكولم ماكلويد	1
+COL name VAL جيمس دي ستيرن	COL name VAL جيمس ستيوارت	0
+COL name VAL دينيس باور	COL name VAL دينيس نوركسي	0
+COL name VAL برودي	COL name VAL ديفيد آرثر برودي	1
+COL name VAL إد ديكر	COL name VAL مايك دين	0
+COL name VAL إريك أندرو هيسرير	COL name VAL جون أندرو كولبي	0
+COL name VAL أنتوني تي بادوفانو	COL name VAL أنتوني مولتينو	0
+COL name VAL أليكس هاينتزمان	COL name VAL فيليكس ماير	0
+COL name VAL ديفيد جورج ايفانز	COL name VAL ديفيد انتين	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فيديريجو دي لامبرتو فيامنجو	1
+COL name VAL جون دولان	COL name VAL جون هيتلاند	0
+COL name VAL جوليا سيرانو	COL name VAL جوليان سميث	0
+COL name VAL جون بيرجسما	COL name VAL جون س	0
+COL name VAL الكسندر جوزيف انيدي	COL name VAL الكسندر فيلمان	0
+COL name VAL أندرو ساردانيس	COL name VAL أندرو وايت سميث	0
+COL name VAL ألين إيفان شون	COL name VAL جيم ستيفن إيفانز	0
+COL name VAL  نفذ  شيرر	COL name VAL  آندي  شيرر	0
+COL name VAL ديفيد بوت	COL name VAL ديفيد ورث	0
+COL name VAL دانيال أتينجر	COL name VAL دانيال بيجار	0
+COL name VAL ديفيد شومكا	COL name VAL ديفيد شيلتون	0
+COL name VAL جون سيتز بيرجسما	COL name VAL جون س	0
+COL name VAL آيك بيرلماتر	COL name VAL جاك بيريز	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	COL name VAL فيديريجو ديل بادوفانو سوستريس	1
+COL name VAL اروين انجست	COL name VAL اروين سيد انجست	1
+COL name VAL أوستين هالفدانسون	COL name VAL جوستين سيرجنت	0
+COL name VAL توم هانتينج	COL name VAL توم كينيدي	0
+COL name VAL آرني كريستيان إيجوم	COL name VAL جوني كريج	0
+COL name VAL  الكسندر  كريبت	COL name VAL  الكسندر  ليمكي	0
+COL name VAL إيما صوفي جيجي	COL name VAL إيما صوفيا بفايفل كايماريس	0
+COL name VAL إريكا إيفا جيرتنر	COL name VAL إريكا جيرتنر فريزر	1
+COL name VAL جون اروين	COL name VAL جون ب	0
+COL name VAL توماس لينون	COL name VAL توماس ويلر	0
+COL name VAL  ساره  suphellen	COL name VAL  ساره  حمدي	0
+COL name VAL  تشارلز  زندرودي	COL name VAL  تشارلز  رونجلينج	0
+COL name VAL باتريك بيج	COL name VAL باتريك جافني	0
+COL name VAL أليس إليزابيث ساوتيل	COL name VAL لورا إليزابيث لومر	0
+COL name VAL  ينون  تسور	COL name VAL  ينون  بريتون	0
+COL name VAL  سيندر  لانجيل	COL name VAL  كريستال  لانجيل	0
+COL name VAL أنطونيو جانديني	COL name VAL أنطونيو هيرنانديز	0
+COL name VAL مارسيل فلوكيجر	COL name VAL مارسيل فلويكيجر	1
+COL name VAL آرثر لويس تابس	COL name VAL بيلي لويس بروكس	0
+COL name VAL أندرس فينسث	COL name VAL كنوت فينسث	0
+COL name VAL  دومينغو  رودريغيز	COL name VAL  دومينغو  رويز	0
+COL name VAL جون دي كنوتسون	COL name VAL جون نيلسون	0
+COL name VAL أليس إليزابيث راندال	COL name VAL ليندا إليزابيث هوبر	0
+COL name VAL توم ماكلوغلين	COL name VAL تومي ماكلوغلين	1
+COL name VAL روبرت لوميس	COL name VAL روبرت براون	0
+COL name VAL جانيت جويس	COL name VAL جانيت دونر	0
+COL name VAL آنا كاي أكانا	COL name VAL هانا نويل كارنز	0
+COL name VAL أليس إليزابيث راندال	COL name VAL إليزابيث أليس سيمينجتون	0
+COL name VAL ستيفن آلان حسن	COL name VAL ستيفن سيلر	0
+COL name VAL  فخر النساء  زيد	COL name VAL  جوليا  زيد	0
+COL name VAL روبين ثورمان	COL name VAL زوبين قهرماني	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فريدريك سوستريتش	1
+COL name VAL  كنود  بوندي	COL name VAL  كنود  فورهيس	0
+COL name VAL جارل جولي	COL name VAL جارل عينار جولي	1
+COL name VAL بابلو رييس جونيور	COL name VAL بابلو رييس سانتياغو	1
+COL name VAL فالنتين ترانت ماكجليكودي	COL name VAL فالنتين ماكجليكودي	1
+COL name VAL دكتور براينت	COL name VAL دكتور بوراك طبيب أسنان	0
+COL name VAL فيديريكو دي لامبرتو سوستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL آنا أكانا	COL name VAL آنا فريزر	0
+COL name VAL بيتر كالدر	COL name VAL بيتر أولسن	0
+COL name VAL ألان بوشي	COL name VAL آلان يوتر	0
+COL name VAL ايلينا بتلر	COL name VAL هيلينا لي بيل	0
+COL name VAL ستيفن إتش ليبلا	COL name VAL ستيفن أ	1
+COL name VAL جون أ	COL name VAL جون هول	0
+COL name VAL ستيفن أ ليبلا	COL name VAL ستيفن ليبلا	1
+COL name VAL  اميل  فيليول	COL name VAL  اميل  سوستريس	0
+COL name VAL تشارلز إن بيني	COL name VAL تشارلز بيلي	0
+COL name VAL جيم بيكر	COL name VAL جيم كيس	0
+COL name VAL أنجيل سيغورا	COL name VAL أنجيلس برافو	0
+COL name VAL آفي بينيدي	COL name VAL روث ليدي بيرنز	0
+COL name VAL ستيف باركت	COL name VAL ستيف ليبلا	0
+COL name VAL تينا كينت	COL name VAL كريستينا فيجا	0
+COL name VAL ستيف ليبلا	COL name VAL ستيفن ليبلا	1
+COL name VAL مايك شو	COL name VAL مايكل شو	1
+COL name VAL  ماركوس  غونزاليس	COL name VAL  لوسيل  غونزاليس	0
+COL name VAL جون ليروي جوستافسون	COL name VAL جون جونسون	0
+COL name VAL فريد ماندل	COL name VAL فريدريك لورانس ماندل	1
+COL name VAL مايكل أنجيلو موراليس	COL name VAL مايكل موراليس	1
+COL name VAL ديفيد بيتس	COL name VAL ديفيد دريك	0
+COL name VAL جيرالد دبليو توماس	COL name VAL جيرالد ويليت توماس	1
+COL name VAL وليام سالتزمان	COL name VAL وليام مارك سالتزمان	1
+COL name VAL  كريم  محمد	COL name VAL  كريم  شو	0
+COL name VAL أوستين هالفدانسون	COL name VAL جوستين جوندرسن	0
+COL name VAL جورج فاندمان	COL name VAL جورج هو	0
+COL name VAL توماس ماكغراث	COL name VAL توماس ريان	0
+COL name VAL تشارلز باركر روس تورنر	COL name VAL تشارلز براذر	0
+COL name VAL فريدريش سستري	COL name VAL فريدريش سوستر	1
+COL name VAL ستيفن مولينكوف	COL name VAL ستيفن ميرتس	0
+COL name VAL توماس ويست	COL name VAL توماس ويلر	0
+COL name VAL دانيال جيلبرت نسيم	COL name VAL دانيال سيلر	0
+COL name VAL باتريك مكارثي	COL name VAL باتريك وولف	0
+COL name VAL كريستينا فريدا	COL name VAL كريستينا ماري فريدا	1
+COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL بيتر فيك	COL name VAL بيتر ليباج	0
+COL name VAL جون سيتز بيرجسما	COL name VAL جون ايرجينز	0
+COL name VAL جوزيف بونوسو	COL name VAL جوزيف الخوري	0
+COL name VAL أنجيلس برافو	COL name VAL جيني س برادلي	0
+COL name VAL أنجيل سيغورا	COL name VAL أنجيليس برافو	0
+COL name VAL تشارلز إيه واتسون	COL name VAL تشارلز ريس	0
+COL name VAL ستيف أدلر	COL name VAL ستيف ستريت	0
+COL name VAL إدوين فرانسيس براينت	COL name VAL شايان براينت	0
+COL name VAL  ألبرت  سامبي لوكونجا	COL name VAL  ألبرت  سانتياغو كونشا	0
+COL name VAL تشارلز فيفانكو	COL name VAL تشارلز كوفمان	0
+COL name VAL  إيما  جيجي	COL name VAL  إيما  كاروتا	0
+COL name VAL جيمس دانيال تابور	COL name VAL جيمس ريمون دانيلز	0
+COL name VAL جيمس إف جيبونز	COL name VAL جيمس فرانسيس جيبونز	1
+COL name VAL إنيك سومي دوما	COL name VAL جيون سومي	1
+COL name VAL أورورا جونزالا بريتون	COL name VAL فاليري أنيتا أورورا	0
+COL name VAL روبرت فرانك بنس	COL name VAL روبرت س	0
+COL name VAL تولينغز جارن	COL name VAL جارن تولينجز	1
+COL name VAL  إيفا  فودور	COL name VAL  هيلين  فودور	0
+COL name VAL  إريك  ستين	COL name VAL  برناردو  ستين	0
+COL name VAL كايل كريستيان كينان	COL name VAL كايل كينان	1
+COL name VAL إريكا جيرتنر فريزر	COL name VAL إي إي جيرتنر	1
+COL name VAL  فريدريش  سوستريس	COL name VAL  فريدريش  كاري	0
+COL name VAL جيمس إف جيبونز	COL name VAL جيمس جيبونز	1
+COL name VAL ألفريد لويثي	COL name VAL كارلو ألفريد رومانيلي	0
+COL name VAL خوسيه جوتيريز	COL name VAL خوسيه مانويل جوتيريز	1
+COL name VAL جون إندلر	COL name VAL جون كيس	0
+COL name VAL كلير كورليت	COL name VAL كلير مارجريت كورليت	1
+COL name VAL ألي بيلي	COL name VAL تشاك بيلي	0
+COL name VAL أليس إليزابيث راندال	COL name VAL لورا إليزابيث لومر	0
+COL name VAL  الأعلى  فوشت	COL name VAL  فيني  فوشت	0
+COL name VAL أورورا جونزالا بريتون	COL name VAL بريتاني بويد جونز	0
+COL name VAL آلان ميلر توماس	COL name VAL توم مويلان	0
+COL name VAL جون اروين	COL name VAL جون لي اروين	1
+COL name VAL إس إس ويلسون	COL name VAL بول ويلسون	0
+COL name VAL جون كاربنتر	COL name VAL جون كولبي	0
+COL name VAL رافائيل بلانكو	COL name VAL رافائيل بلانكو ميرينو	1
+COL name VAL جان شيبرد	COL name VAL شيب	1
+COL name VAL أو دي جروت رويز	COL name VAL ناتشو رويز	0
+COL name VAL بابلو رييس	COL name VAL بابلو رييس سانتياغو	1
+COL name VAL ريتشارد ورسام ميد	COL name VAL ريتشارد بيفر	0
+COL name VAL  جول  تشيفيك	COL name VAL  جول  كارلايل	0
+COL name VAL جون أوبيجارد	COL name VAL جون إي روبينز	0
+COL name VAL بيبوب جريستا	COL name VAL غابرييل جريستا	1
+COL name VAL  اركوت  يلماز	COL name VAL  دييغو  يلماز	0
+COL name VAL آلان ميلر توماس	COL name VAL توماس مويلان	0
+COL name VAL روبرت ستيفانيوك	COL name VAL روبرت زيب	0
+COL name VAL جاك بركات	COL name VAL جاك بوكانان	0
+COL name VAL ديفيد فايس	COL name VAL ديفيد فريدمان	0
+COL name VAL جيرونيمو أرانجو	COL name VAL جيرونيمو أرانجو راسكادو	1
+COL name VAL جورج لانج	COL name VAL جورج هو	0
+COL name VAL فريدريش سستري	COL name VAL فريدريك سوستريس	1
+COL name VAL جون بول رينولدز	COL name VAL جون سي رينولدز	0
+COL name VAL صموئيل بيترسون	COL name VAL صموئيل دي بيترسون	1
+COL name VAL ألكسندر سميث	COL name VAL شارون الكسندر	0
+COL name VAL البروفيسور روي ماكلويد	COL name VAL روي إم ماكلويد	1
+COL name VAL جون أوسجود	COL name VAL جون كيس	0
+COL name VAL السيد تي جي ويجلز	COL name VAL السيد يتلوى	1
+COL name VAL روبرت بوكان دوثي	COL name VAL روبرت بنس	0
+COL name VAL بيبوب جريستا	COL name VAL بيبوب جي غريستا	1
+COL name VAL ديفيد آرثر برودي	COL name VAL ديفيد رودريجو	0
+COL name VAL جوزيف ل	COL name VAL جوزيف مسعد	0
+COL name VAL أوتو جوزيف نومان	COL name VAL جيمس جوزيف أور	0
+COL name VAL جون القزم	COL name VAL جون موني	0
+COL name VAL  ماريا  سارو	COL name VAL  ماريا  ماجنوسون	0
+COL name VAL توريبيو ألباريز	COL name VAL توريبيو ألفاريز	1
+COL name VAL إدوين فرانسيس براينت	COL name VAL فرانسيس كاجني	0
+COL name VAL السيد رضا غديري	COL name VAL محمد رضا غديري	1
+COL name VAL جون بنتلي	COL name VAL ليون بنينجتون	0
+COL name VAL جورج فاندمان	COL name VAL جورج كوكس	0
+COL name VAL  طارق  قنديل	COL name VAL  راعوث  قنديل	0
+COL name VAL توماس ماكلوغلين	COL name VAL توماس موريس ماكلوغلين	1
+COL name VAL  جان  نيوهاوس	COL name VAL  توم  نيوهاوس	0
+COL name VAL روي	COL name VAL روي بيليج	1
+COL name VAL جوزيف ديسيمون	COL name VAL جوزيف سيجل	0
+COL name VAL كيت فيرنون	COL name VAL كاثرين إليزابيث فيرنون	1
+COL name VAL  يوسي  بيليد	COL name VAL  يوسي  نيهان	0
+COL name VAL ريكاردو دي رينالديس	COL name VAL ريتشارد دي كالينبيرج	0
+COL name VAL ايلينا بينا	COL name VAL هيلينا لي بيل	0
+COL name VAL السيد رامبينو	COL name VAL مايكل رامبينو	1
+COL name VAL  انطونيو  فرنانديز	COL name VAL  زنبق  فرنانديز	0
+COL name VAL بول ايزلين ويلمان	COL name VAL بول ويلمان	1
+COL name VAL فيديريكو دي لامبرتو سوستريس	COL name VAL فريدريك سوستريتش	1
+COL name VAL بول توماس هاريس	COL name VAL بول هاريس	1
+COL name VAL إريك وولين ستين	COL name VAL باتريك جدعون وولف	0
+COL name VAL السير ديفيد إيفانز	COL name VAL قائد القوات الجوية المارشال السير ديفيد إيفانز	1
+COL name VAL فريد إف نوروود	COL name VAL فريد نوروود	1
+COL name VAL آرني كريستيان إيجوم	COL name VAL كريستيان لي	0
+COL name VAL جون إن هانسون	COL name VAL جون هانسون	1
+COL name VAL روبرت هاروود أبيرناثي	COL name VAL روبرت ستارك	0
+COL name VAL توماس جيلوفيتش	COL name VAL توماس ويست	0
+COL name VAL جان شيبرد	COL name VAL جين باركر شيبرد	1
+COL name VAL آيلسورث كروفورد جرين الثالث	COL name VAL ماري كروفورد	0
+COL name VAL هنري ايمونز	COL name VAL هنري جي ايمونز	1
+COL name VAL توماس إل سيرانو	COL name VAL توماس ريكمان	0
+COL name VAL إريكا جيرتنر فريزر	COL name VAL إي جي فريزر	1
+COL name VAL ديفيد جيه بيتس	COL name VAL ديفيد جيه ديويت	0
+COL name VAL ستيفن ليبلا	COL name VAL ستيفن أ	1
+COL name VAL جون جورج اسيف	COL name VAL جورج كون	0
+COL name VAL بارون فروليك	COL name VAL جورون باكلي	0
+COL name VAL بيلي فيرنون	COL name VAL لي فيليب	0
+COL name VAL ديفيد راجسدال	COL name VAL ديفيد هاجر	0
+COL name VAL دبليو ديفيد هاجر	COL name VAL ديفيد هاجر	1
+COL name VAL آن بيل	COL name VAL كيشا بيل	0
+COL name VAL ديك روبرتس	COL name VAL ريتشارد روبرتس	1
+COL name VAL  سام  نسيم	COL name VAL  ميخائيل  نسيم	0
+COL name VAL آدم ماركوس	COL name VAL ماركوس نيسلي	0
+COL name VAL جاكوب باجي	COL name VAL جاكوب توردسون باجي	1
+COL name VAL الكسندر فيلمان	COL name VAL الكسندرا جونر	0
+COL name VAL آنا كاي أكانا	COL name VAL جي إم كاي	0
+COL name VAL جيمس تابور	COL name VAL جيمس جرير	0
+COL name VAL إس إس ويلسون	COL name VAL توماس ويلسون	0
+COL name VAL جيمس إدوين جيليت	COL name VAL جيمس جيبونز	0
+COL name VAL جينا كودي	COL name VAL جينا لي جويس	0
+COL name VAL بول لوزانو	COL name VAL بول لوزانو فيزويت	1
+COL name VAL روبرت يوجين مارتن	COL name VAL روبرت بنس	0
+COL name VAL  فخر النساء  زيد	COL name VAL  فخر النساء  هو	0
+COL name VAL  بيدير  أندرسن	COL name VAL  روب  أندرسن	0
+COL name VAL  الكسندر  كريبت	COL name VAL  ملاك  كريبت	0
+COL name VAL آلان ميلر توماس	COL name VAL توماس آلان كيران بروكس	0
+COL name VAL جيفري تود فيشر	COL name VAL فريد فيبرت	0
+COL name VAL ألفونس ويبر	COL name VAL براد ويب	0
+COL name VAL  ماركوس  غونزاليس	COL name VAL  جون  غونزاليس	0
+COL name VAL بروسارد	COL name VAL ميريديث بروسارد	1
+COL name VAL أندرس ك	COL name VAL أندريا ب	0
+COL name VAL روبرت جريجوري باورز	COL name VAL روبرت جوردون	0
+COL name VAL أليكس أوبرت	COL name VAL أليكس هاينتزمان	0
+COL name VAL  تشارلز  زندرودي	COL name VAL  e.  زندرودي	0
+COL name VAL أورورا بريتون	COL name VAL ستيفن بريت	0
+COL name VAL روي ماكلويد	COL name VAL روي مالكولم ماكلويد	1
+COL name VAL  نيكولاس  جيتاز	COL name VAL  جريجوري  جيتاز	0
+COL name VAL ألكسندر سميث	COL name VAL ك الكسندر	0
+COL name VAL أوسترا	COL name VAL كاتي أوسترا ستيلمانيس	1
+COL name VAL أكينسولا أكينيمي	COL name VAL أكينشولا أكينيمي	1
+COL name VAL جيمس فانديهي	COL name VAL جيمس سميث	0
+COL name VAL بابلو رييس	COL name VAL رييس بابلو	1
+COL name VAL ديفيد دي فريدمان	COL name VAL ديفيد ديويت	0
+COL name VAL تيم براي	COL name VAL تيم بيرن	0
+COL name VAL توم بروكس	COL name VAL توم بيترمات	0
+COL name VAL  بابلو  بيسيرا	COL name VAL  بابلو  روبرسون	0
+COL name VAL جون كورتيس جيلمور	COL name VAL جون كولبي	0
+COL name VAL  أندريه  كريستيانسن	COL name VAL  أندريه  زندرودي	0
+COL name VAL أندرياس تون	COL name VAL أندرياس فينسينت ستولتنبرغ	0
+COL name VAL ألف لونغو	COL name VAL أندريا لونغو	1
+COL name VAL ديفيد المخرج فريدمان	COL name VAL ديفيد فايس	0
+COL name VAL أليسيا إليزابيث فيكتوريا	COL name VAL إليزابيث أليس شانون	0
+COL name VAL إيفان شويبيل	COL name VAL إيفان غالار أوريو	0
+COL name VAL توماس زوربوشن	COL name VAL توماس جون رو	0
+COL name VAL آدم دانيال	COL name VAL دانيال لينش	0
+COL name VAL  دييغو  أغيلار	COL name VAL  نانسي  أغيلار	0
+COL name VAL  رينيه  داهيندن	COL name VAL  توماس  داهيندن	0
+COL name VAL جون كنوتسون	COL name VAL جون هانسون	0
+COL name VAL توماس هندرسون ماونت	COL name VAL توماس ماكلين	0
+COL name VAL بوبولين	COL name VAL هولي لين بوبو	0
+COL name VAL دلفينا إنتريكاناليس	COL name VAL ديانا تريلينج	0
+COL name VAL ريتشارد بيفر	COL name VAL ريتشارد جي جيل	0
+COL name VAL  فريدريش  سوستريس	COL name VAL  هنري  سوستريس	0
+COL name VAL مارتينيتي	COL name VAL ماريا مارتينتي	1
+COL name VAL دلمار دبليو كارول	COL name VAL مارك دبليو ميلر	0
+COL name VAL سارة الفليج	COL name VAL سارة الكسندرا سوفلين	0
+COL name VAL تريسي ميريس	COL name VAL تيريسينا	0
+COL name VAL جون بروم	COL name VAL جون بنتلي	0
+COL name VAL السير ديفيد إيفانز	COL name VAL قائد القوات الجوية المارشال السير ديفيد جورج إيفانز	1
+COL name VAL آلان هاستينغز	COL name VAL أوستين هالفدانسون	0
+COL name VAL  أدولف  مولر	COL name VAL  جين  مولر	0
+COL name VAL أندروميدا 321	COL name VAL أندرو ساردانيس	0
+COL name VAL  فيديريكو  مادرازو	COL name VAL  بيليساريو  مادرازو	0
+COL name VAL إليزا شانون	COL name VAL ليزا كولين	0
+COL name VAL سارة الفليج	COL name VAL سارة عبد الرحمن الفليج	1
+COL name VAL إيفر سي	COL name VAL ايفر وندلين	1
+COL name VAL آرون كاروتا	COL name VAL جون إم كاربنتر	0
+COL name VAL  إيما  تيلر	COL name VAL  رضا  تيلر	0
+COL name VAL كاتي أوسترا ستيلمانيس	COL name VAL كاتي ستيلمانيس	1
+COL name VAL بيل فولي	COL name VAL بيل ويليامز	0
+COL name VAL دانيال دبليو لانج	COL name VAL دانيال بيجل	0
+COL name VAL ديف كلاين	COL name VAL ديف بوت	0
+COL name VAL ديفيد آلان جريمالدي	COL name VAL ديفيد هاجر	0
+COL name VAL أندروميدا 321	COL name VAL أندريا ب	0
+COL name VAL جيمس راندال	COL name VAL جيمس ريمون دانيلز	0
+COL name VAL  بيتينا  كوهن	COL name VAL  كايل  كوهن	0
+COL name VAL ستيفن هوارد ليبلا	COL name VAL ستيفن أ	1
+COL name VAL  يوهي  مياكي	COL name VAL  يوهي  فيوريني	0
+COL name VAL جانيت بورستون	COL name VAL جانيت شولتز	0
+COL name VAL بول بيرمان	COL name VAL بول غانوس	0
+COL name VAL ايلينا بينا	COL name VAL هيلينا بيل	0
+COL name VAL  وليام  مارشال	COL name VAL  وليام  جيبس	0
+COL name VAL روبرت دوثي	COL name VAL روبرت فوكس	0
+COL name VAL جون س	COL name VAL جون ستيفنس	0
+COL name VAL فريدريش دي لامبرتو	COL name VAL فريدريش سوستر	1
+COL name VAL إرنست سكاتون	COL name VAL بيل إرنست	0
+COL name VAL أليس ماريا جلينداي	COL name VAL دلفينا ماريا إنتريكاناليس	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL كارل جيبس	COL name VAL كارل مالينسكي جيبس	1
+COL name VAL أليكس بيترز	COL name VAL أليكس كروز	0
+COL name VAL تشارلز هاريس لينش	COL name VAL تشارلز بيني	0
+COL name VAL جون إم فابريزي	COL name VAL جون إم ماكوري	0
+COL name VAL ستيفن ويزنر	COL name VAL ستيفن حسن	0
+COL name VAL ديفيد لاساتر راجسدال	COL name VAL ديفيد والش	0
+COL name VAL جيسي شابيرو	COL name VAL جيسي ماكوين	0
+COL name VAL جون نيري	COL name VAL جون نيلسون	0
+COL name VAL أكرم خاطر	COL name VAL اكرم فؤاد خاطر	1
+COL name VAL  ماريا لويزا  غارسيا	COL name VAL إليزابيث  غارسيا	0
+COL name VAL جوزي بيليد	COL name VAL جوزيبي بوسي	0
+COL name VAL ستيفن هولاند	COL name VAL ستيفن ج	0
+COL name VAL جورج سي ويلر	COL name VAL جورج ويتمور	0
+COL name VAL جون دي موني	COL name VAL دينار موني	1
+COL name VAL السيد رامبينو	COL name VAL العقيد رايس	0
+COL name VAL ميندي طومسون فوليلوف	COL name VAL ميندي فوليلوف	1
+COL name VAL إريك إيه شجيرفن	COL name VAL إريك الكسندر شجيرفن	1
+COL name VAL روبرت ويليامز	COL name VAL روبرت س	0
+COL name VAL أليساندرو بيناسي	COL name VAL ساندرا	0
+COL name VAL وليام كوري واتسون	COL name VAL ويلي واتسون	1
+COL name VAL السيد رضا غديري	COL name VAL رضا غديري	1
+COL name VAL إدوارد ستيوارت كينيدي	COL name VAL جيمس ستيوارت	0
+COL name VAL أندرو أولسن	COL name VAL أندرو سميث	0
+COL name VAL جون سكوديري	COL name VAL جون منفردا سكوديري	1
+COL name VAL ألفريد كالين	COL name VAL كارل كالين	0
+COL name VAL تشارلي ميدنايت	COL name VAL تشارلز بيلي	0
+COL name VAL جوان روب	COL name VAL جوان روبينز	1
+COL name VAL  فيليبو  روسوتي	COL name VAL  فيليبو  قارب	0
+COL name VAL فيديريجو ديل بادوفانو سوستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL سفريساتو باربيري	COL name VAL لو سفريساتو	1
+COL name VAL جوليا سيرانو	COL name VAL جوليان جولي سميث	0
+COL name VAL فرانشيسكو باربيري	COL name VAL فرانشيسكو سفريسا باربيري	1
+COL name VAL  جوليان  مارتينيز	COL name VAL  جوليان  حاييم	0
+COL name VAL باتريشيا آربوس	COL name VAL باتريشيا جوديال	0
+COL name VAL أونوفريو بارتوليني دي ميديشي	COL name VAL ستيفانو بارتوليني	0
+COL name VAL  جوزيف  روي	COL name VAL  أوميد  روي	0
+COL name VAL توماس باتريك مويلان	COL name VAL توماس باس	0
+COL name VAL جوان روبينز	COL name VAL جوان روس	1
+COL name VAL جون هول	COL name VAL جون هيتلاند	0
+COL name VAL سارة الفليج	COL name VAL سارة سوفلين	0
+COL name VAL جون جورج اسيف	COL name VAL جورج كرونر	0
+COL name VAL ديفيد رودريجو	COL name VAL ديفيد شيري	0
+COL name VAL إتش بي ليمكي	COL name VAL لوري إتش جليمشر	0
+COL name VAL ريتشارد سانشيز الكاراز	COL name VAL ريتشارد كلارك	0
+COL name VAL ريتشارد يوجين جلوسيب	COL name VAL ريتشارد بلير	0
+COL name VAL أفليك شون كونولي	COL name VAL شون كونولي أفلكت	1
+COL name VAL مارك سميث	COL name VAL مارك ل سميث	1
+COL name VAL بيتر ثورن	COL name VAL بيتر حنان	0
+COL name VAL هافارد فجير قبضة	COL name VAL هافارد قبضة	1
+COL name VAL  علي  أفشار	COL name VAL  علي  أميت	0
+COL name VAL  خافيير  بيريز	COL name VAL  جوامع  بيريز	0
+COL name VAL ريتشارد جراسيتي	COL name VAL ريتشارد جونسون	0
+COL name VAL ديفيد إيفانز	COL name VAL ديفيد فايس	0
+COL name VAL ستيفن ل راسل	COL name VAL ستيفن ليفين	0
+COL name VAL مارك دبليو ميلر	COL name VAL ميلر مارك دبليو	1
+COL name VAL  إيفا رونينج	COL name VAL  إيفا  بروم	0
+COL name VAL ديكي روبرتس	COL name VAL ريتشارد روبرتس	1
+COL name VAL ستيفن أ ليبلا	COL name VAL ستيفن هوارد ليبلا	1
+COL name VAL أنطونيو جاندينو	COL name VAL أنطونيو هيرنانديز	0
+COL name VAL آرثر إل تابس	COL name VAL آرثر لويس تابس	1
+COL name VAL السير ديفيد إيفانز	COL name VAL السير ديفيد جورج إيفانز	1
+COL name VAL جورج كارلتون مايرز	COL name VAL جورج كرونر	0
+COL name VAL  دنكان  روس	COL name VAL  جيرالد  روس	0
+COL name VAL فريدريك سستريس	COL name VAL فريدريك سوتريس	1
+COL name VAL ميراندا أليس شريورز	COL name VAL ميراندا شريورز	1
+COL name VAL أليساندرو سيزاتي	COL name VAL أندرو ساردانيس	0
+COL name VAL إد دورن	COL name VAL والتر دورست	0
+COL name VAL ديفيد ريسايد	COL name VAL ديفيد دريك	0
+COL name VAL ألفريدو فيرافانتي	COL name VAL ألفريد لوتر	0
+COL name VAL أوستن سكوت ميلر	COL name VAL سكوت كليب	0
+COL name VAL جيمس جيبونز	COL name VAL جيمسفجيبونس	1
+COL name VAL فريدريش دي لامبرتو	COL name VAL فريدريش سوستروس	1
+COL name VAL جون بيرجسما	COL name VAL جون نيري	0
+COL name VAL ديف بوتر	COL name VAL ديفيد بوت	0
+COL name VAL باتريسيو أوورد	COL name VAL باتريك وولف	0
+COL name VAL فيديريجو ديل بادوفانو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL إتيان أوبين	COL name VAL روبين ثورمان	0
+COL name VAL  ماريا  سنول	COL name VAL  ماريا  جونز	0
+COL name VAL جون إم فابريزي	COL name VAL جون إم ستيفنز	0
+COL name VAL بات مكارثي	COL name VAL باتريك مكارثي	1
+COL name VAL فيديريجو دي لامبرتو فيامنجو	COL name VAL فيديريكو دي لامبرتو سوستريس	1
+COL name VAL اجلس لا يزال موني	COL name VAL جون الجلوس لا يزال موني	1
+COL name VAL  الكسيس  ليفرانسو	COL name VAL  برنارد  ليفرانسو	0
+COL name VAL إليزابيث ماليا	COL name VAL إليزابيث موريس	0
+COL name VAL كريستوفر لين نوكسون	COL name VAL كريستوفر نوكسون	1
+COL name VAL وليام أوستن	COL name VAL وليام أوغست فولي	0
+COL name VAL جيمس فوجاتي	COL name VAL جيمس آش	0
+COL name VAL أندريا جين جيمس	COL name VAL دونا أندريا جوزيف	0
+COL name VAL أندرياس رسام أولسن	COL name VAL لارس أندرياس أندرسن شجيتن	0
+COL name VAL براينت إدوين	COL name VAL شايان براينت	0
+COL name VAL جورج حنا حلاق	COL name VAL جورج رايت	0
+COL name VAL جيل فيليبوفيتش	COL name VAL فيليب ل	0
+COL name VAL جون مايكل فابريزي	COL name VAL جون مايكل لي	0
+COL name VAL توم ماكلوغلين	COL name VAL توماس ماكلوغلين	1
+COL name VAL إسرائيل  أوكسمان	COL name VAL إسرائيل  شانك	0
+COL name VAL ديفيد بيتس	COL name VAL ديفيد مو	0
+COL name VAL جينا لي جويس	COL name VAL دانا لين	0
+COL name VAL  أوسكار  سيفرتسن	COL name VAL  هولدا  سيفرتسن	0
+COL name VAL أندرو شيرر جيلينج	COL name VAL أندرو ليزلي	0
+COL name VAL  هنري  نيجريتي	COL name VAL  جون  نيجريتي	0
+COL name VAL تريسي بوزنر	COL name VAL تريسي سنكلير	0
+COL name VAL ديفيد جورج ايفانز	COL name VAL ديفيد ورث	0
+COL name VAL بول غانوس	COL name VAL بول لوزانو فيزويت	0
+COL name VAL ديانا سانز	COL name VAL كلوديا سانتا تشيفدينو	0
+COL name VAL سيجورد لي موند	COL name VAL سيجورد لي هارالدسون	1
+COL name VAL ايستين الاول من النرويج	COL name VAL ايستين هالفدانسون	0
+COL name VAL شون كونولي أفلكت	COL name VAL شون كونولي أفليك	1
+COL name VAL ريتشارد بايرون كلارك	COL name VAL ريتشارد كلارك	1
+COL name VAL أمي لورين	COL name VAL فيلا لورينا	0
+COL name VAL  دانيال  نسيم	COL name VAL  دانيال  نوردبي	0
+COL name VAL  فرانشيسكو  باربيري	COL name VAL  بيبا  باربيري	0
+COL name VAL  عبد الله  الأحمر	COL name VAL  عبد الله  مكتبي	0
+COL name VAL  ماركو  فيوريني	COL name VAL  ماركو  باتيسكومب	0
+COL name VAL جورج فورهيس الابن	COL name VAL جورج لو	0
+COL name VAL ألكسيس كوخان	COL name VAL الكسيس بولينج	0
+COL name VAL  رونالد  دي سوزا	COL name VAL  رونالد  كلارك	0
+COL name VAL شون أفليك	COL name VAL شون كونولي أفلكت	1
+COL name VAL أنتوني همنغواي	COL name VAL أنتوني بادوفانو	0
+COL name VAL تشارلز لين	COL name VAL تشارلز مان	0
+COL name VAL جورج ديكابريو	COL name VAL جورج نادر	0
+COL name VAL لوك أنتوني بنسابيني	COL name VAL لوك بنسابيني	1
+COL name VAL جون جي هيمري	COL name VAL جون هيتلاند	0
+COL name VAL ديفيد راجسدال	COL name VAL ديفيد كهر	0
+COL name VAL  أليساندرو  بيناسي	COL name VAL  أليساندرو  جرولكس	0
+COL name VAL باري آلان بيدرسون	COL name VAL باري بيدرسون	1
+COL name VAL ايل تانو	COL name VAL كايل باروت	0
+COL name VAL أليس إليزابيث ساوتيل	COL name VAL إليزابيث أليس سيمينجتون	0
+COL name VAL ريموند راي يورك	COL name VAL ريموندو رودريغيز	0
+COL name VAL ستول	COL name VAL هنري ستول	1
+COL name VAL موري ترافيس	COL name VAL موري تروي ترافيس	1
+COL name VAL  بول  إبرهارد	COL name VAL  بول  بروبست	0
+COL name VAL جيمس آش	COL name VAL جيمس جرير	0
+COL name VAL ديفيد جريمالدي	COL name VAL ديفيد فريدمان	0
+COL name VAL  فيليبو  روسوتي	COL name VAL  فيليبو  شانون	0
+COL name VAL جاك بوكانان	COL name VAL جاك بيريز	0
+COL name VAL أنتوني درازان	COL name VAL ميشيل أنتوني	0
+COL name VAL جيمس بلاسكيت	COL name VAL جيمس لانزون	0
+COL name VAL أوربانوس إدموند بوغمان	COL name VAL أوربانوس بوغمان جونيور	1
+COL name VAL تشارلز ستيفن إيفانز	COL name VAL تشارلز سي مان	0
+COL name VAL بابلو رييس	COL name VAL بابلو رييس جونيور	1
+COL name VAL خوسيه ماجانا	COL name VAL خوسيه نهارو	0
+COL name VAL آلان توماس	COL name VAL آلان فيسك	0
+COL name VAL دونالد دين دوريل	COL name VAL رونالد دي سوزا	0
+COL name VAL جون كنوتسون	COL name VAL جون نيلسون	0
+COL name VAL آنا ماي هي	COL name VAL لوري هيل	0
+COL name VAL جون لي	COL name VAL جون مايكل لي	1
+COL name VAL روبرت ستارك	COL name VAL روبرت دوثي	0
+COL name VAL ريتشارد ألين	COL name VAL ريتشارد بلفينز	0
+COL name VAL  مانويل  أوروزكو	COL name VAL  أحمد  أوروزكو	0
+COL name VAL  مصطفى  نور	COL name VAL  تيريزا  نور	0
+COL name VAL ديفيد دي فريدمان	COL name VAL ديفيد فايس	0
+COL name VAL فريدريك سوتريس	COL name VAL فريدريك سوستريتش	1
+COL name VAL إدوارد ستيوارت كينيدي	COL name VAL دبليو إم ستيوارت	0
+COL name VAL بيتر شفايتزر	COL name VAL بيتر اسيف	0
+COL name VAL جيم فلورنتين	COL name VAL جيمس فلورنتين	1
+COL name VAL  أوسكار  فيزكانو	COL name VAL  ستانلي  فيزكانو	0
+COL name VAL روبرت جوردون	COL name VAL روبرت دوثي	0
+COL name VAL روبرت شينك مينتون	COL name VAL روبرت براون	0
+COL name VAL كولين رودس	COL name VAL كولين كوبل	1
+COL name VAL توماس ويلر	COL name VAL توماس ويلسون	0
+COL name VAL روبرت يوجين مارتن	COL name VAL روبرت موسر	0
+COL name VAL روبرت فرانك بنس	COL name VAL روبرت بالش	0
+COL name VAL آرثر ستير	COL name VAL جون آرثر إندلر	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس	1
+COL name VAL جون إريك بنتلي	COL name VAL جون إي بنتلي	1
+COL name VAL  توبياس  مولر	COL name VAL  توبياس  وولين	0
+COL name VAL تشاد لويس دويل	COL name VAL ريتشارد لويس برجر	0
+COL name VAL ديفيد ألين والش	COL name VAL ديفيد والش	1
+COL name VAL دونالد براون	COL name VAL دونالد دنلوب	0
+COL name VAL ألفونسو ستيجمان	COL name VAL جو ستيلمان	0
+COL name VAL جون أفلون	COL name VAL جون ب	0
+COL name VAL  خوان  بوليدو	COL name VAL  إدوين  بوليدو	0
+COL name VAL أليس جلينداي	COL name VAL أليس دريجر	0
+COL name VAL فيليس جان ماكالبين	COL name VAL فيليس ماكالبين	1
+COL name VAL ريتشارد مايكل كوتون	COL name VAL ريتشارد لونديل	0
+COL name VAL سفريساتو باربيري	COL name VAL فرانشيسكو باربيري	1
+COL name VAL إليزابيث أليس شانون	COL name VAL إليزابيث ليسارد	0
+COL name VAL أندرو ساردانيس	COL name VAL أندرو ليزلي	0
+COL name VAL ماغنوس الرابع	COL name VAL ماغنوس الرابع من السويد	1
+COL name VAL جوزيف خوري	COL name VAL جوزيف هالبيرن	0
+COL name VAL جيفري إيه جيلي	COL name VAL جيفري بيتيس	0
+COL name VAL بوب ديلون	COL name VAL بوب مينتون	0
+COL name VAL تشارلز هرتسينبيرج	COL name VAL تشارلز مان	0
+COL name VAL إريك ماكسويل جي	COL name VAL ماكسويل جون	1
+COL name VAL وليام جوردون اميرسون	COL name VAL وليام موريسون	0
+COL name VAL جورج كارلتون مايرز	COL name VAL جورج كون	0
+COL name VAL ستيفن أدلر	COL name VAL ستيفن ستريت	0
+COL name VAL جريجوري هوفرستن	COL name VAL يوري لوهوفي	0
+COL name VAL بلانكا نيري هوالدي	COL name VAL بلانكا هوالدي	1
+COL name VAL ريتشارد يوجين جلوسيب	COL name VAL ريتشارد كوهين	0
+COL name VAL ليزا باتشيليس	COL name VAL ليزا لو	1
+COL name VAL جيمي بايك	COL name VAL جيمس بار	0
+COL name VAL مارك دبليو ميلر	COL name VAL مارك ميلر	1
+COL name VAL جاك جافير	COL name VAL جاك فيرجن بركات	0
+COL name VAL تشارلز تورنر	COL name VAL تشارلز لين	0
+COL name VAL ساندي	COL name VAL كاندي مان	0
+COL name VAL  تيريزا  روكي	COL name VAL  تيريزا  موفات	0
+COL name VAL بنيامين تيريل بيست	COL name VAL بنيامين شيفر	0
+COL name VAL جون كولبي	COL name VAL جون س	0
+COL name VAL جوناثان هاوس	COL name VAL جوان هول	0
+COL name VAL برنارد هنري جونسون	COL name VAL بي جي جونسون	1
+COL name VAL ستيف مولينكوف	COL name VAL ستيف بارك	0
+COL name VAL  مارسيلا  جاكسون	COL name VAL  فريال  جاكسون	0
+COL name VAL  فاليري  فاز	COL name VAL  اِتَّشَح  فاز	0
+COL name VAL دينا نيسن	COL name VAL جينا لي جويس	0
+COL name VAL ماجدة السيد قنديل	COL name VAL ماجدة قنديل	1
+COL name VAL ميراندا مافريك	COL name VAL ميليندا ماركس	0
+COL name VAL ألفريد لوتر	COL name VAL فريد فيبرت	0
+COL name VAL رينيه كليري	COL name VAL مينشيريني	0
+COL name VAL ديفيد إدوارد كامبل	COL name VAL ديفيد إي كامبل	1
+COL name VAL روبرت بيجلو	COL name VAL روبرت توماس بيجلو	1
+COL name VAL باميلا سنيد	COL name VAL جيلا بالاس	0
+COL name VAL جوزيف جرانفيل	COL name VAL جوزيف خوري	0
+COL name VAL  كلير  جودين	COL name VAL  ميلبا  جودين	0
+COL name VAL  جول  تشيفيك	COL name VAL  جول  براثين	0
+COL name VAL روبرت لوميس	COL name VAL روبرت بالش	0
+COL name VAL برنت لايلز	COL name VAL برنت هارولد لايلز	1
+COL name VAL  مرسيدس  مولتو	COL name VAL  مرسيدس  فان ديفانتر	0
+COL name VAL السيد رامبينو	COL name VAL مايكل آر رامبينو	1
+COL name VAL ريك كلارك	COL name VAL ريتشارد كلارك	1
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فيديريجو ديل بادوفانو سوستريس	1
+COL name VAL ديف كير	COL name VAL ديف مون	0
+COL name VAL جوزيف عرب	COL name VAL جوزيف مسعد	0
+COL name VAL مايكل جيه شو	COL name VAL مايك شو	1
+COL name VAL جوزيف جرانفيل	COL name VAL جوزيف عرب	0
+COL name VAL أليس إليزابيث ساوتيل راندال	COL name VAL لورا إليزابيث لومر	0
+COL name VAL آلان توماس	COL name VAL لاري توماس بتلر	0
+COL name VAL أوتو جوزيف نومان	COL name VAL جوزيف سيجل	0
+COL name VAL جون أوبيجارد	COL name VAL جون روبينز	0
+COL name VAL  خافيير  اسبارزا	COL name VAL  ت.  اسبارزا	0
+COL name VAL ألفونسو ويبر	COL name VAL براد ويب	0
+COL name VAL بيل اميرسون	COL name VAL وليام جوردون اميرسون	1
+COL name VAL أنتوني بيتر درازان	COL name VAL تيري أنتوني بلير	0
+COL name VAL فرانشيسكو سفريسا	COL name VAL فرانشيسكو سفريساتو	0
+COL name VAL إريك الكسندر شجيرفن	COL name VAL جون الكسندر فلورش	0
+COL name VAL أوربانوس إدموند بوغمان	COL name VAL يو بوغمان	1
+COL name VAL أماندا جودمان	COL name VAL يهودا جوشوا جليك	0
+COL name VAL لوكا راي كين	COL name VAL لوكا كين	1
+COL name VAL سيجورد الثاني الفم	COL name VAL سيجورد لي موند	1
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL مارثا أوفيليا مور كاماتشو	COL name VAL مارثا مور	1
+COL name VAL جاكي كيسلر	COL name VAL جيم كيس	0
+COL name VAL أليكسا تيفاني ألين	COL name VAL ستيفان ليفين	0
+COL name VAL جيمس ماكنتوش	COL name VAL جيمس أور	0
+COL name VAL ريتشارد بور	COL name VAL ريتشارد لافين	0
+COL name VAL  خوسيه مانويل  اجيا	COL name VAL  خوسيه مانويل  سكوديري	0
+COL name VAL ريبا كاميرون	COL name VAL مايا كابريرا	0
+COL name VAL  آندي  طن	COL name VAL  e.  طن	0
+COL name VAL وليام بيل دبليو بارسونز جونيور	COL name VAL وليام دبليو بارسونز	1
+COL name VAL جون الصغير	COL name VAL جون هول	0
+COL name VAL  ماتياس  رون	COL name VAL  ماتياس  مادرازو	0
+COL name VAL ستيف ليبلا	COL name VAL ستيفن إتش ليبلا	1
+COL name VAL أوربانوس إدموند بوغمان	COL name VAL أوربانوس إدموند بوغمان جونيور	1
+COL name VAL ريك ترينور	COL name VAL السير ريتشارد هيوز ترينور	1
+COL name VAL تشارلز وولكوت باليستير	COL name VAL تشارلز بيلي	0
+COL name VAL فريدريش سوستروس	COL name VAL فريدريك سستريس	1
+COL name VAL توماس كينيدي	COL name VAL توماس ريان	0
+COL name VAL جورج جونسون	COL name VAL جورج لو	0
+COL name VAL فريدريك سوتريس	COL name VAL فريدريك سوستريس	1
+COL name VAL فريدريش سوستروس	COL name VAL فريدريك سوستريتش	1
+COL name VAL ريتشارد جلوسيب	COL name VAL ريتشارد روزنر	0
+COL name VAL فريدريش سستري	COL name VAL فريدريك دي لامبرتو سوستريس	1
+COL name VAL ديف شومكا	COL name VAL ديف دريك	0
+COL name VAL جورج ديكابريو	COL name VAL جورج لانج	0
+COL name VAL إدوين بوتز	COL name VAL إدوين سيباستيان بوتز	1
+COL name VAL أوربانوس إدموند بوغمان	COL name VAL أوربانوس بوغمان	1
+COL name VAL  جحش  بارفود	COL name VAL  جحش  كارلايل	0
+COL name VAL مايكل اريك جون بلاك	COL name VAL مايكل بلاك	1
+COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL ريتشارد لابونسكي	COL name VAL ريتشارد بور	0
+COL name VAL  تروند  تورسفيك	COL name VAL  مارك  تورسفيك	0
+COL name VAL بوليت كوبر	COL name VAL زوي كوليتي	0
+COL name VAL ستيف ليبلا	COL name VAL ستيفن أ ليبلا	1
+COL name VAL آرون كاروتا	COL name VAL بارون فروليك	0
+COL name VAL إليزا شانون	COL name VAL ليزا ليلين	0
+COL name VAL جون كلاين	COL name VAL جون س	0
+COL name VAL  مصطفى  نور	COL name VAL  جون  نور	0
+COL name VAL ديفيد دي فريدمان	COL name VAL ديفيد كودي فايس	0
+COL name VAL آلان روبرتس	COL name VAL جوان روب	0
+COL name VAL بيت بروك	COL name VAL بيتر بروك	1
+COL name VAL ميريام ناكاموتو	COL name VAL ميريام هيربي ناكاموتو	1
+COL name VAL جورج كوكس	COL name VAL جورج نادر	0
+COL name VAL تشارلز ستيفن إيفانز	COL name VAL تشارلز مان	0
+COL name VAL توريبيو ألباريز	COL name VAL توريبيو الفاريز	1
+COL name VAL جيمس إف جيبونز	COL name VAL جيمسفجيبونس	1
+COL name VAL فريدريش سوستروس	COL name VAL فريدريك دي لامبرتو سوستريس	1
+COL name VAL بيتر ستراند	COL name VAL بيتر واجنر	0
+COL name VAL جورج ويتمور	COL name VAL جورج حنا	0
+COL name VAL قائد القوات الجوية المارشال السير ديفيد إيفانز	COL name VAL قائد القوات الجوية المارشال السير ديفيد جورج إيفانز	1
+COL name VAL فريدريش دي لامبرتو	COL name VAL فيديريجو دي لامبرتو فيامنجو	1
+COL name VAL  كوليت  ماركة	COL name VAL  كوليت  بيليا	0
+COL name VAL جون منفردا سكوديري	COL name VAL جون ماريك	0
+COL name VAL  ستيلا  ياكونيس	COL name VAL  ستيلا  وليامز	0
+COL name VAL روي إم ماكلويد	COL name VAL روي ماكلويد	1
+COL name VAL عدي ستيرن	COL name VAL عدي ستيرن غراندلاند	1
+COL name VAL أنتوني تي بادوفانو	COL name VAL جورج أنتوني مولتينو	0
+COL name VAL لارس أو أولسون	COL name VAL لارس أولسون	1
+COL name VAL ستاين بريكين	COL name VAL ستيفن بريت	0
+COL name VAL ديفيد بيتس	COL name VAL ديفيد جيه بيتس	1
+COL name VAL الكسندر أتوود	COL name VAL الكسندر انيدي	0
+COL name VAL أنتوني جونز	COL name VAL أنتوني كينج	0
+COL name VAL  جينارو  جامبوا	COL name VAL  جينارو  leppla	0
+COL name VAL بيتر ثورن	COL name VAL بيتر شيرير	0
+COL name VAL آرثر فارني	COL name VAL جون آرثر إندلر	0
+COL name VAL إريكا إيفا جيرتنر	COL name VAL إي إي جيرتنر	1
+COL name VAL روبرت جوردون	COL name VAL روبرت كار	0
+COL name VAL آرثر توماس مونتيراستيلي	COL name VAL جيرالد ويليت توماس	0
+COL name VAL بيتر اسيف	COL name VAL بيتر مولر	0
+COL name VAL ستيفن دبليو ستريت	COL name VAL ستيفن بريت	0
+COL name VAL  ميرسيا  المصلح	COL name VAL  ميرسيا  لويس	0
+COL name VAL أنتوني موريس همنغواي	COL name VAL أنتوني همنغواي	1
+COL name VAL ديف العبد	COL name VAL ديف شومكا	0
+COL name VAL نوح هنسون	COL name VAL نوح هنسون الأول	1
+COL name VAL جون إيفنسون جرانرود	COL name VAL جون هانسون	0
+COL name VAL رضا غديري	COL name VAL محمد رضا غديري	1
+COL name VAL ألفونسو برناردو ستيجمان	COL name VAL جو ستيلمان	0
+COL name VAL ديفيد لافليش	COL name VAL ديفيد سميث	0
+COL name VAL إس إس ويلسون	COL name VAL بول روبرت ويلسون	0
+COL name VAL أوستن س ميلر	COL name VAL جاستن سلون	0
+COL name VAL روبرت شينك مينتون	COL name VAL روبرت ميلتون شوش	0
+COL name VAL آلان مايكل برافرمان	COL name VAL جون مايكل فابريزي	0
+COL name VAL إيزلين سولهايم	COL name VAL إيزلين لوكن سولهايم	1
+COL name VAL دوغلاس ماكيلروي	COL name VAL دوغلاس هاميلتون إروين	0
+COL name VAL  كارولينا  مونتيجانو	COL name VAL  إدواردو  مونتيجانو	0
+COL name VAL براندون روبرت ستريبلينج بادي	COL name VAL براندون براون	0
+COL name VAL روبرت توماس بيجلو	COL name VAL روبرت تي بيجلو	1
+COL name VAL هارفي فلينك	COL name VAL هارفي واجنر فلينك	1
+COL name VAL روبرت بالش	COL name VAL روبرت كار	0
+COL name VAL علاء احمد رشيد	COL name VAL علاء رشيد	1
+COL name VAL إدوارد فيليول	COL name VAL ماثيو إدوارد فريزر	0
+COL name VAL آدم دانيال	COL name VAL سكوت دانيال دنكان	0
+COL name VAL ستيفن راسل	COL name VAL ستيفن ليفين	0
+COL name VAL توم ويلر	COL name VAL توماس جيه ويلسون	0
+COL name VAL جوردين أولسون	COL name VAL جوردون روبرتسون	0
+COL name VAL ريتشارد بلين ويليامز	COL name VAL ريتشارد ألين	0
+COL name VAL جون هانسون	COL name VAL جون نيلسون	0
+COL name VAL جيون سومي	COL name VAL جيمي سوان	0
+COL name VAL  مارسيل  فاسلر	COL name VAL  مارسيل  أوروزكو	0
+COL name VAL جوستافو فرنانديز هويرتاس	COL name VAL غوستافو كورياندولي	0
+COL name VAL جون جوردون كلارك	COL name VAL جوردون روبرتسون	0
+COL name VAL مايكل دي كيربي	COL name VAL مايكل ديفيد كيربي	1
+COL name VAL روبرتو إنسيناس	COL name VAL روبرت س	0
+COL name VAL أوغست جارسين	COL name VAL سراي جارسيا	0
+COL name VAL الأخت ماري كيروز	COL name VAL ماري كيروز	1
+COL name VAL جون موني	COL name VAL جون نيري	0
+COL name VAL سفريساتو باربيري	COL name VAL فرانشيسكو سفريسا باربيري	1
+COL name VAL آلان بورودين	COL name VAL آلان فيسك	0
+COL name VAL بابلو رييس سانتياغو	COL name VAL رييس بابلو	1
+COL name VAL إرنست سكاتون	COL name VAL ستيفن إرنست سيلر	0
+COL name VAL أوربانوس إي بوغمان	COL name VAL يو بوغمان	1
+COL name VAL إدوارد إلبرت أمبروز	COL name VAL إدي أمبروز	1
+COL name VAL روبرت موريسكو	COL name VAL روبرت زيب	0
+COL name VAL مارك تشارلز كوشنر	COL name VAL مارك كوشنر	1
+COL name VAL جوزيبي بوسي	COL name VAL بوبي بليس	0
+COL name VAL خوسيه ماجانا	COL name VAL خوسيه ماريا نهارو	0
+COL name VAL ريا ويست داونز	COL name VAL بريان إنكويست	0
+COL name VAL  خوسيه فيليب  أورتيجا	COL name VAL  أندريس  أورتيجا	0
+COL name VAL توني بلوم	COL name VAL توني أنسيلمو	0
+COL name VAL ديفيد دريك	COL name VAL ديفيد بوت	0
+COL name VAL جاري بورن	COL name VAL لاري بتلر	0
+COL name VAL آلان بورودين	COL name VAL آلان بيج فيسك	0
+COL name VAL باري بيدرسون	COL name VAL هنري بيرس	0
+COL name VAL ديفيد شيري	COL name VAL ديفيد ورث	0
+COL name VAL بابلو بيسيرا	COL name VAL بابلو ماتياس بيسيرا	1
+COL name VAL إدوارد راين	COL name VAL إدوارد كالفيرلي رايلي	0
+COL name VAL ستيفن واليس	COL name VAL ستيفن سيلر	0
+COL name VAL دانييل إتيان	COL name VAL دانييل مونيك إتيان	1
+COL name VAL أليس إليزابيث ساوتيل راندال	COL name VAL إليزابيث أليس شانون	0
+COL name VAL جيمس جاكوبي	COL name VAL جيمس آش	0
+COL name VAL إريك وولين ستين	COL name VAL باتريك وولف	0
+COL name VAL جيف رايمان	COL name VAL جيفري تشارلز ريمان	1
+COL name VAL  خوسيه لويس  مورينو	COL name VAL  خوسيه لويس  لامونتاني	0
+COL name VAL جورج حنا	COL name VAL جورج رايت	0
+COL name VAL  نيكو  برونغر	COL name VAL  وليام  برونغر	0
+COL name VAL أوربانوس إدموند بوغمان جونيور	COL name VAL أوربانوس إي بوغمان	1
+COL name VAL آيك بيرلماتر	COL name VAL كاترينا بيرغر	0
+COL name VAL روبرت مالكولم جراهام	COL name VAL روبرت موريسكو	0
+COL name VAL بريان بيدل	COL name VAL ليليان برلين	0
+COL name VAL ماركوس جودينيو	COL name VAL ماركوس فالديز بيريرا جودينهو	1
+COL name VAL دييجو كوردوبا لاسو دي لا فيجا	COL name VAL دييغو كوردوبا لاسو دي لا فيجا	1
+COL name VAL ديفيد انتين	COL name VAL ديفيد مو	0
+COL name VAL بيل اميرسون	COL name VAL سيبيل شيرر	0
+COL name VAL زينو ف موسر	COL name VAL زينو موسير	1
+COL name VAL أنتوني درازان	COL name VAL تيري أنتوني بلير	0
+COL name VAL ألبين ويكمان	COL name VAL نورمان ويلدبيرجر	0
+COL name VAL باتريك بيج	COL name VAL باتريك لي	0
+COL name VAL براندون الأصدقاء	COL name VAL براندون براون	0
+COL name VAL الكسندر أوبرت	COL name VAL الكسندر فيلمان	0
+COL name VAL  نيكولاس  غارسيا	COL name VAL  رونالد  غارسيا	0
+COL name VAL بوني كيم	COL name VAL جوني كريج	0
+COL name VAL إدوارد فيرن روبرتس	COL name VAL إدوارد ميرتون دورن	0
+COL name VAL أهارون فيلدمان	COL name VAL نورمان جولدمان	0
+COL name VAL سيجورد الثاني الفم	COL name VAL سيغورد الثاني من النرويج	1
+COL name VAL ألبيرتو جورولا كاسترو	COL name VAL كارل كولبيرت	0
+COL name VAL بيل وولف	COL name VAL بيل بروس	0
+COL name VAL ديف بوتر	COL name VAL ديفيد ديريك بوت	0
+COL name VAL أليس جلينداي	COL name VAL ميراندا أليس شريورز	0
+COL name VAL روبرت بيجلو	COL name VAL روبرت س	0
+COL name VAL الكسندر أتوود	COL name VAL الكسندرا بيترز	0
+COL name VAL  فريتز  شويبلين	COL name VAL  فريتز  فانديهي	0
+COL name VAL ارفيد نوي	COL name VAL هارفي سنور	0
+COL name VAL  خوسيه لويس  مورينو	COL name VAL  خوسيه لويس  بولز	0
+COL name VAL ريتشارد آر لافين	COL name VAL ريتشارد بلير	0
+COL name VAL خوسيه ماجانا	COL name VAL خوسيه ماريا نهارو كالديرون	0
+COL name VAL آنا كاي نابوالاني أكانا	COL name VAL هانا كارنز دي نيرو	0
+COL name VAL توم ويلر	COL name VAL توم ويلسون	0
+COL name VAL أليس دريجر	COL name VAL أليسون دالي	0
+COL name VAL أنخيل هيرنانديز	COL name VAL ديانا سانز فرنانديز	0
+COL name VAL رافائيل بلانكو	COL name VAL رافائيل مورينو	1
+COL name VAL إريك إريكسون	COL name VAL جون باتريك إليس	0
+COL name VAL جين هاتميكر	COL name VAL جينيفر لين هاتماكر	1
+COL name VAL أبريجو	COL name VAL ريجي دوبري	0
+COL name VAL ماثيو جيه مون	COL name VAL ماثيو مون	1
+COL name VAL آدم فلوريس	COL name VAL أنطونيو فلوريس رودريغيز	0
+COL name VAL بيل بروس	COL name VAL وليام بروس	1
+COL name VAL ستيفن بريت	COL name VAL ستيفن ليفين	0
+COL name VAL أندرس جيه هيمستاد	COL name VAL جيمس إي أندرسون	0
+COL name VAL بيتر ليباج	COL name VAL بيتر مولر	0
+COL name VAL جورج سي ويلر	COL name VAL جورج وليام ويتمور	0
+COL name VAL فلورنس ماي رايت هندرسون	COL name VAL فلورنسا ماي رايت	1
+COL name VAL ريتشارد إمرمان	COL name VAL ريتشارد كلارك	0
+COL name VAL جمعة الحبسي	COL name VAL جمعة مرهون الحبسي	1
+COL name VAL آدم دانيال	COL name VAL دانيال سيلر	0
+COL name VAL  جيو  كولوتشي	COL name VAL  جيو  مارتينيلي	0
+COL name VAL مايك هيكس	COL name VAL مايكل هيكس	1
+COL name VAL أرفيد دار نوي	COL name VAL ارفيد نوي	1
+COL name VAL فريدريش سوستر	COL name VAL فريدريك سوستريتش	1
+COL name VAL توماس هنتنغ	COL name VAL توماس ويست	0
+COL name VAL ايستين ارليندسون	COL name VAL سانت ايستين إرليندسون	1
+COL name VAL  سعيد  عابديني	COL name VAL  سعيد  آل الشيخ	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	1
+COL name VAL ألان بوشي	COL name VAL هارلان إل بومباخ	0
+COL name VAL ستيفن ج	COL name VAL ستيفن حسن	0
+COL name VAL أولغا دبليو دال	COL name VAL دانيال دبليو لانج	0
+COL name VAL  عميد  قسطنطين	COL name VAL  مارسيل  قسطنطين	0
+COL name VAL جورج حنا	COL name VAL جورج كوكس	0
+COL name VAL دانيال بيجار	COL name VAL دانيال فوت	0
+COL name VAL ديفيد سي كروس	COL name VAL ديفيد سي كروس جونيور	1
+COL name VAL آلان يوستاس	COL name VAL آلان روبرتس	0
+COL name VAL فريدريك سستريس	COL name VAL فريدريك سوستريتش	1
+COL name VAL إدوارد باربو	COL name VAL إدوارد تروي	0
+COL name VAL إرنست ألدن سكاتون	COL name VAL ستيفن إرنست سيلر	0
+COL name VAL جوستافو فرنانديز	COL name VAL غوستافو كورياندولي	0
+COL name VAL رايموندو رودريغيز	COL name VAL ريموندو رودريغيز	1
+COL name VAL أندريا أرشبولد	COL name VAL دونا أندريا جوزيف	0
+COL name VAL توم ماكلوغلين	COL name VAL توماس موريس ماكلوغلين	1
+COL name VAL رينفورد	COL name VAL كليفورد جيري	0
+COL name VAL أمبرتو روبرتو رومانو	COL name VAL روبرت جنتلمان	0
+COL name VAL مارك وليام ميلر	COL name VAL ميلر مارك دبليو	1
+COL name VAL ريك روزنر	COL name VAL باتريك لي	0
+COL name VAL ريتشارد إمرمان	COL name VAL ريتشارد بلير	0
+COL name VAL بيتر أولسن	COL name VAL بيتر فيك	0
+COL name VAL بوتي آن بليس	COL name VAL بري بلير	0
+COL name VAL ستيفن ليبلا	COL name VAL ستيفن هـ	1
+COL name VAL  ألبرت  باتيسكومب	COL name VAL  ألبرت  كابلان	0
+COL name VAL بيلي فيرنون	COL name VAL ميني فيليب	0
+COL name VAL مايكل جيه شو	COL name VAL مايكل شو	1
+COL name VAL دكستر جريجوري جوي	COL name VAL دكستر جوي	1
+COL name VAL  ماركوس  بوسيجر	COL name VAL  توماس  بوسيجر	0
+COL name VAL آرني فيدار رود	COL name VAL ديفيد رودريجو	0
+COL name VAL ستيفن أ ليبلا	COL name VAL ستيفن إتش ليبلا	1
+COL name VAL ديك روبرتس	COL name VAL ديكي روبرتس	1
+COL name VAL دانيال أتينجر	COL name VAL دانيال لوبي	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس	1
+COL name VAL جون أفلون	COL name VAL جون توز	0
+COL name VAL إدغار راي ميريت	COL name VAL جاي ريتشاردز	0
+COL name VAL فريدريش سستري	COL name VAL فريدريش سوستروس	1
+COL name VAL  كريستينا  رودريغيز	COL name VAL  كريستينا  جينسبرج	0
+COL name VAL جون سومرز	COL name VAL جون أ	0
+COL name VAL تشارلز كوفمان	COL name VAL تشارلز بيلي	0
+COL name VAL أندرياس أولسن	COL name VAL أندرياس تون	0
+COL name VAL فاليري فاز	COL name VAL فاليري كارول ماريان فاز	1
+COL name VAL بيورن هيردال	COL name VAL يوردانو	0
+COL name VAL ديفيد انتين	COL name VAL ديفيد مون	0
+COL name VAL جون بول رينولدز	COL name VAL جون تشارلز رينولدز	0
+COL name VAL دانيال أتينجر	COL name VAL دانيال م	0
+COL name VAL ستيفن بريت	COL name VAL ستيفن ماير	0
+COL name VAL أندرياس هانش أولسن	COL name VAL هانا أندرسون	0
+COL name VAL رافائيل بلانكو	COL name VAL رافائيل بلانكو مورينو	1
+COL name VAL آرثر لويس تابس	COL name VAL سو لويس	0
+COL name VAL  يعقوب  ترومسدال	COL name VAL  ديفيد  ترومسدال	0
+COL name VAL أوربانوس إي بوغمان	COL name VAL أوربانوس بوغمان	1
+COL name VAL ماثيو جيمس مون	COL name VAL ماثيو مون	1
+COL name VAL لاري ليشليتر	COL name VAL لورانس لاري ليتشليتر	1
+COL name VAL بيورن هيردال	COL name VAL يورن ستوبرود	0
+COL name VAL  أحد  كاظمي	COL name VAL  أحد  ألين	0
+COL name VAL أليساندرو بيناسي	COL name VAL ايلينا بينا	0
+COL name VAL فرانشيسكو باربيري	COL name VAL فرانشيسكو سفريسا	1
+COL name VAL إيلينا بينيا	COL name VAL هيلينا لي بيل	0
+COL name VAL ديفيد آرثر برودي	COL name VAL ديفيد إيه برودي	1
+COL name VAL رونالد ريتشلاك	COL name VAL رونالد دين كورنيليوس	0
+COL name VAL آدم فلوريس	COL name VAL أنطونيو فلوريس	0
+COL name VAL روي إم ماكلويد	COL name VAL روي مالكولم ماكلويد	1
+COL name VAL جيمس لانزون	COL name VAL جيمس جرير	0
+COL name VAL أنتوني إدوارد ليستر	COL name VAL جيمس إدوارد أندرسون	0
+COL name VAL آلان بيج فيسك	COL name VAL ألان بوشي	0
+COL name VAL  ميشيل  روسي	COL name VAL  ميشيل  ماكيني	0
+COL name VAL روبرت فريتز فوكس	COL name VAL روبرت كار	0
+COL name VAL جين إيه مولر	COL name VAL جيه بولين	0
+COL name VAL  øystein  هالفدانسون	COL name VAL  øystein  هاريل	0
+COL name VAL سارة الميرا رويستر	COL name VAL سارة هافنيراس	0
+COL name VAL  ياني  فان دن بوش	COL name VAL  تشارلز  فان دن بوش	0
+COL name VAL فريدريك سوستريتش	COL name VAL فريدريك سوستريس	1
+COL name VAL ستيف ستريت	COL name VAL ستيفن بريت	0
+COL name VAL آدم واد ماركوس	COL name VAL ماركوس نسلي	0
+COL name VAL  موج  تشيفيك	COL name VAL  ترولس  تشيفيك	0
+COL name VAL ابراهام بابادوست	COL name VAL ابراهام حمو	0
+COL name VAL روبرت دبليو امبري	COL name VAL روبرت سكولي	0
+COL name VAL خوسيه إم جوتيريز	COL name VAL خوسيه مانويل جوتيريز	1
+COL name VAL  يارل  جولي	COL name VAL  يارل  ترونستاد	0
+COL name VAL أندرو سكوت جافين	COL name VAL جورج سكوت رومني	0
+COL name VAL باتريك واين سويني	COL name VAL باتريك مكارثي	0
+COL name VAL كريس ليليس	COL name VAL كريستوفر ليليس	1
+COL name VAL آر دي ريد	COL name VAL ريكاردو دي رينالديس	0
+COL name VAL آر دبليو سبنسر	COL name VAL أولغا دبليو دال	0
+COL name VAL جيم جاكوبي	COL name VAL جيم ماكجورج	0
+COL name VAL جيمي ديولف	COL name VAL جيمي شانون	0
+COL name VAL أليس إليزابيث ساوتيل راندال	COL name VAL ليندا إليزابيث هوبر	0
+COL name VAL بوب سكولي	COL name VAL بولين	0
+COL name VAL آن رومر	COL name VAL جوان روس	0
+COL name VAL ديفيد لاساتر راجسدال	COL name VAL ديفيد هاجر	0
+COL name VAL بول لوزانو	COL name VAL بول ميلر	0
+COL name VAL  ديدييه  كيلوز	COL name VAL  ساره  كيلوز	0
+COL name VAL توماس ماكلوغلين	COL name VAL تومي ماكلوغلين	1
+COL name VAL بول فراي	COL name VAL بول ليري	0
+COL name VAL جون بنتلي	COL name VAL جون س	0
+COL name VAL فيديريجو ديل بادوفانو	COL name VAL فيديريجو ديل بادوفانو سوستريس	1
+COL name VAL ديفيد إي كامبل	COL name VAL ديفيد إيفانز	0
+COL name VAL دون دوريل	COL name VAL شون دوركين	0
+COL name VAL أوريت بيرجمان	COL name VAL بيت بروك	0
+COL name VAL آرون شرين	COL name VAL كيرون ريردون	0
+COL name VAL إرنست لويثي	COL name VAL سو لويس	0
+COL name VAL  أفشالوم  إليتزور	COL name VAL  هيذر  إليتزور	0
+COL name VAL جانيت جويس	COL name VAL جوانا مارجريت جانيت بونييه	0
+COL name VAL روبرت إس واير	COL name VAL روبرت موسر	0
+COL name VAL توم ويلر	COL name VAL توماس ويلسون	0
+COL name VAL أنتوني ستيفن كينج	COL name VAL أنتوني كينج	1
+COL name VAL السيد ويجلز	COL name VAL السيد يتلوى	1
+COL name VAL أوربانوس بوغمان	COL name VAL يو بوغمان	1
+COL name VAL ياريف جدعون ليفين	COL name VAL ياريف ليفين	1
+COL name VAL ستيبينز	COL name VAL ليبي هيغينز	0
+COL name VAL جون جي اسياف	COL name VAL جون سي جيلمور	0
+COL name VAL إريك الكسندر شجيرفن	COL name VAL ك الكسندر	0
+COL name VAL آلان ميلر توماس	COL name VAL لاري توماس بتلر	0
+COL name VAL  حسين  زندرودي	COL name VAL  جورج  زندرودي	0
+COL name VAL جيم كيس	COL name VAL جيم ياربرو	0
+COL name VAL ستيفن أ ليبلا	COL name VAL ستيفن هـ	1
+COL name VAL رافائيل بلانكو مورينو	COL name VAL رافائيل بلانكو ميرينو	1
+COL name VAL فريدريش سستري	COL name VAL فريدريك سوستريتش	1
+COL name VAL بيتر أورلوف	COL name VAL بيتر ثورن	0
+COL name VAL أوغست جارسين	COL name VAL فيسنتي جارسيا	0
+COL name VAL أليسيا إليزابيث فيكتوريا	COL name VAL لورا إليزابيث لومر	0
+COL name VAL إدوارد رايلي	COL name VAL وليام إدوارد جالي	0
+COL name VAL ريتشارد بور	COL name VAL ريتشارد كلارك	0
+COL name VAL أليس إي راندال	COL name VAL راندال تي شو	0
+COL name VAL  ميريام  بوتشي	COL name VAL  ساره  بوتشي	0
+COL name VAL المارسيلين	COL name VAL مارسيل فلوكيجر	0
+COL name VAL إدوين براينت	COL name VAL دكتور براينت	0
+COL name VAL أليس إي راندال	COL name VAL ليفي راندال	0
+COL name VAL  ميشيل أنج  باليكويشا	COL name VAL  بريان  باليكويشا	0
+COL name VAL بيتر بريدال	COL name VAL بيتر شيرير	0
+COL name VAL إدوارد ستيوارت كينيدي	COL name VAL ديفيد كينيدي	0
+COL name VAL جيون سو مي	COL name VAL جيون سومي	1
+COL name VAL جايسون جورسكي	COL name VAL جايسون فابوك	0
+COL name VAL ريتشارد دي كالينبيرج	COL name VAL ريتشارد كالينبيرج	1
+COL name VAL ديفيد جريمالدي	COL name VAL ديفيد جيمس بادين	0
+COL name VAL آر سي هارفي	COL name VAL لوسي هارت	0
+COL name VAL  ماريا فيكتوريا  ماتيوس	COL name VAL  ماريا فيكتوريا  سوستريس	0
+COL name VAL فيديريكو دي لامبرتو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL جورج فورهيس	COL name VAL جورج لو	0
+COL name VAL أوربانوس إدموند بوغمان جونيور	COL name VAL أوربانوس بوغمان جونيور	1
+COL name VAL جيمس كوفنر	COL name VAL جيمس كيركباتريك	0
+COL name VAL جون جوستافسون	COL name VAL جون إي جونسون	0
+COL name VAL أليكسا تيفاني ألين	COL name VAL ميرلينو ستيفانو	0
+COL name VAL ديفيد آلان جريمالدي	COL name VAL ديفيد فريدمان	0
+COL name VAL جرينفيل ميلين	COL name VAL ميني فيليب	0
+COL name VAL ريكاردو دي رينالديس	COL name VAL ليوناردو بيسكارولو	0
+COL name VAL أدريان هوش	COL name VAL ريان آدم هاينز	0
+COL name VAL فيليس جيه ماكالبين	COL name VAL فيليس ماكالبين	1
+COL name VAL آن بوليه	COL name VAL آن بيل	0
+COL name VAL أنتوني جونز	COL name VAL ميشيل أنتوني	0
+COL name VAL  e.  جارسين	COL name VAL  e.  روسوتي	0
+COL name VAL  ماريا دولوريس  سانشيز	COL name VAL  كاتي  سانشيز	0
+COL name VAL جورج مايرز	COL name VAL جورج كوكس	0
+COL name VAL طارق حسن قنديل	COL name VAL طارق قنديل	1
+COL name VAL ريس طومسون	COL name VAL كريس كريستنسون	0
+COL name VAL أودري أنتوني بلوم	COL name VAL توني أنسيلمو	0
+COL name VAL بيتر دبليو نيسيلروث	COL name VAL بيتر وليام نيسيلروث	1
+COL name VAL إدوارد جيه باربو	COL name VAL وليام إدوارد جالي	0
+COL name VAL أليكس أتوود	COL name VAL أليكس بيترز	0
+COL name VAL ديفيد آرثر برودي	COL name VAL ديفيد فاربر	0
+COL name VAL ديفيد فاربر	COL name VAL ديفيد فريدمان	0
+COL name VAL أوربانوس بوغمان	COL name VAL لويس مكمانوس	0
+COL name VAL إليزابيث أليس سيمينجتون	COL name VAL إليزابيث ليسارد	0
+COL name VAL فريدريش سستري	COL name VAL فريدريك سوتريس	1
+COL name VAL جون إي بنتلي	COL name VAL جون بنتلي	1
+COL name VAL البروفيسور روي ماكلويد	COL name VAL روي ماكلويد	1
+COL name VAL  هنري  جينيريت	COL name VAL  هنري  تانر	0
+COL name VAL  بالوما  لازارو	COL name VAL  بالوما  رودريغيز	0
+COL name VAL بول روبرت ويلسون	COL name VAL بول ويلسون	1
+COL name VAL أليكس أوبرت	COL name VAL جوس ألين	0
+COL name VAL روبرت موريسكو	COL name VAL روبرت موسر	0
+COL name VAL جون ايرجينز	COL name VAL جون س	1
+COL name VAL  أحمد  جاسم	COL name VAL  أحمد  سانت جون	0
+COL name VAL وليام ليو نيهان	COL name VAL وليام نيهان	1
+COL name VAL أروجو إنريكي جراو	COL name VAL جون إي جرانرود	0
+COL name VAL المارسيلين	COL name VAL مارسيل فلويكيجر	0
+COL name VAL  كارولينا  مونتيجانو	COL name VAL  كارولينا  كورتيس	0
+COL name VAL كيفن أو	COL name VAL كيفن أوه	1
+COL name VAL  كليمنس  كابيرنارد	COL name VAL  كليمنس  غيرهتي	0
+COL name VAL تشارلز إيه واتسون	COL name VAL تشارلز لين	0
+COL name VAL جيمي بايك	COL name VAL جيمي ك بايك	1
+COL name VAL مايكل ديفيد كيربي	COL name VAL مايكل كيربي	1
+COL name VAL كريستال ديفيز	COL name VAL كريستال ديفيس	1
+COL name VAL برودي	COL name VAL ديفيد إيه برودي	1
+COL name VAL البرت منصور	COL name VAL البير سامي منصور	1
+COL name VAL تشارلز ماكدونالد	COL name VAL تشارلز ريس	0
+COL name VAL  عيسى  باريدا	COL name VAL  ماركوس  باريدا	0
+COL name VAL جيري أوبيرن شيف	COL name VAL جيري هاليفا	0
+COL name VAL فريدريش سوستر	COL name VAL فريدريش سوستروس	1
+COL name VAL جون القزم	COL name VAL جون هول	0
+COL name VAL آنا كاي أكانا	COL name VAL ميليندا كاي ويلسون	0
+COL name VAL ستيف بارك	COL name VAL ستيف زينغ	0
+COL name VAL ديفيد ماندل	COL name VAL ديفيد ورث	0
+COL name VAL جورج سكوت رومني	COL name VAL جورج ووترز	0
+COL name VAL جون توز	COL name VAL جون لي	0
+COL name VAL روي سبنسر	COL name VAL روي بيليج	0
+COL name VAL دانيال إي أتنجر	COL name VAL دانيال بيجار	0
+COL name VAL ستيف ليبلا	COL name VAL ستيفن هوارد ليبلا	1
+COL name VAL  أوتو  بوهلر	COL name VAL  أوتو  حداد	0
+COL name VAL  سيدريك  شنوولي	COL name VAL  باميلا  شنوولي	0
+COL name VAL راسل لاند	COL name VAL راسل روبرتسون	0
+COL name VAL روبرت شينك مينتون	COL name VAL روبرت شوش	0
+COL name VAL جون جي نيهاردت	COL name VAL جون سي جيلمور	0
+COL name VAL إدوين فرانسيس براينت	COL name VAL فرانسيس فيرنون	0
+COL name VAL ألبرت هاريسون فان ديوسين	COL name VAL هربرت موريسون	0
+COL name VAL أندرس هيمستاد	COL name VAL جيمس إدوارد أندرسون	0
+COL name VAL جانيت جويس	COL name VAL نيت جيمس	0
+COL name VAL ديفيد إي كابلان	COL name VAL ديفيد إيفانز	0
+COL name VAL ستيفن أ	COL name VAL ستيفن أ ليبلا	1
+COL name VAL ريتشارد يوجين جلوسيب	COL name VAL ريتشارد جراسيتي	0
+COL name VAL ليزا جراف	COL name VAL ليزا كولين	1
+COL name VAL باميلا اسطفانيا هاريس	COL name VAL باميلا فابر	0
+COL name VAL  غابرييل  جريستا	COL name VAL  ياعيل  جريستا	0
+COL name VAL أمبرتو روبرتو رومانو	COL name VAL كارلو رومانيلي	0
+COL name VAL جوزيف جرانفيل	COL name VAL جوزيف سيجل	0
+COL name VAL جيم جاكوبي	COL name VAL كيم جوي	0
+COL name VAL روبرت بوكان دوثي	COL name VAL روبرت فوكس	0
+COL name VAL بات فيسك	COL name VAL بات مكارثي	0
+COL name VAL ستيف باركر	COL name VAL ستيف ليبلا	0
+COL name VAL أليكس فيلمان	COL name VAL توماس فيليبس	0
+COL name VAL أنجيليس برافو	COL name VAL جيسي براون	0
+COL name VAL آر دي ريد	COL name VAL مادي راو	0
+COL name VAL جون إم فابريزي	COL name VAL جون إم نيلسون	0
+COL name VAL  هافارد  نيبو	COL name VAL  هافارد  هايز	0
+COL name VAL  سيجورد  مون	COL name VAL  أليس  مون	0
+COL name VAL جون باكمان	COL name VAL يوهان باخمان	1
+COL name VAL توم ويست	COL name VAL توم ويلر	0
+COL name VAL روبرت جنتلمان	COL name VAL روبرت بالش	0
+COL name VAL  رودولف  كوينديت	COL name VAL  لويس  كوينديت	0
+COL name VAL ماثيو جيمس مون	COL name VAL ماثيو جيه مون	1
+COL name VAL جورج سكوت رومني	COL name VAL جورج رايت	0
+COL name VAL بري بلير	COL name VAL هنري براون	0
+COL name VAL ليزا باشليس لو	COL name VAL ليزا لو	1
+COL name VAL إس إس ويلسون	COL name VAL توم ويلسون	0
+COL name VAL آفي بينيدي	COL name VAL لوسيرو بينيش	0
+COL name VAL  ماتياس  رون	COL name VAL  فريدريك  رون	0
+COL name VAL جون إم كاربنتر	COL name VAL جون إم نيلسون	0
+COL name VAL آدم ماركوس	COL name VAL ماركوس نسلي	0
+COL name VAL بريان إسحاق كلايد	COL name VAL بريان كلايد	1
+COL name VAL أليكس أتوود	COL name VAL أليكسا ألين	0
+COL name VAL سكوت بلوم	COL name VAL سكوت مانتز	0
+COL name VAL ستيفن إتش ليبلا	COL name VAL ستيفن ليبلا	1
+COL name VAL السير ديفيد جورج إيفانز	COL name VAL قائد القوات الجوية المارشال السير ديفيد جورج إيفانز	1
+COL name VAL جيمس آش	COL name VAL جيمس جيليت	0
+COL name VAL ستيفن ليبلا	COL name VAL ستيفن هوارد ليبلا	1
+COL name VAL بول بيتريديس	COL name VAL بول بيلوسي	0
+COL name VAL السير ديفيد جورج إيفانز	COL name VAL ديفيد إيفانز	1
+COL name VAL فورد جرين	COL name VAL كليفورد إن جيري	0
+COL name VAL  يوسف  نور	COL name VAL  يوسف  هيبورن	0
+COL name VAL جورج مايرز	COL name VAL جورج كون	0
+COL name VAL إدوين براينت	COL name VAL شايان براينت	0
+COL name VAL جون دولان	COL name VAL جون س	0
+COL name VAL إيلينا بينيا	COL name VAL هيلينا بيل	0
+COL name VAL أفليك شون كونولي	COL name VAL شون كونولي أفليك	1
+COL name VAL آن رومر	COL name VAL دنكان روس	0
+COL name VAL جورج نيل ستيوارت	COL name VAL جي إن ستيوارت	1
+COL name VAL تشارلز لين	COL name VAL تشارلز لينش	0
+COL name VAL راسل وينر	COL name VAL راسل روبرتسون	0
+COL name VAL زاك كوستوبولوس	COL name VAL زكريا كوستوبولوس	1
+COL name VAL آنا كاي أكانا	COL name VAL هانا كارنز دي نيرو	0
+COL name VAL  كيهان  آرال	COL name VAL  روي  آرال	0
+COL name VAL جاك جوردون كلارك	COL name VAL جون جوردون كلارك	1
+COL name VAL تيرون تمبلتون	COL name VAL دون بندلتون	0
+COL name VAL  كريس  فان بويفيلدي	COL name VAL  سكوت  فان بويفيلدي	0
+COL name VAL مارك دبليو ميلر	COL name VAL مارك وليام ميلر	1
+COL name VAL  إيما  تيلر	COL name VAL  إيما  ميسينا	0
+COL name VAL جي جي أسياف	COL name VAL جي سي جيفرسون	0
+COL name VAL ستيف بارك	COL name VAL ستيف ماكين	0
+COL name VAL أليس إليزابيث ساوتيل راندال	COL name VAL إليزابيث أليس سيمينجتون	0
+COL name VAL توم ويست	COL name VAL توماس ويست	1
+COL name VAL فريدريش سوستر	COL name VAL فريدريك دي لامبرتو سوستريس	1
+COL name VAL أودرا بليس	COL name VAL بوتي بليس	0
+COL name VAL جون رينولدز	COL name VAL جون سي رينولدز	0
+COL name VAL ريتشارد ألين	COL name VAL ريتشارد لافين	0
+COL name VAL جون موسغراف	COL name VAL جون مورلي ستيفنس	0
+COL name VAL أومبرتو رومانو	COL name VAL كارلو رومانيلي	0
+COL name VAL أوغست جارسين	COL name VAL إي جارسين	1
+COL name VAL جون مكوري	COL name VAL جون أ	0
+COL name VAL أفليك شون كونولي	COL name VAL شون أفليك	1
+COL name VAL  إيفار نوردكيلد	COL name VAL  سيمون نوردكيلد	0
+COL name VAL ريتشارد إي لابونسكي	COL name VAL ريتشارد لافين	0
+COL name VAL بيبا مالمجرين	COL name VAL فيليبا مالمغرين	1
+COL name VAL بوز هادلي	COL name VAL جورج هادلي جارسيا	1
+COL name VAL دونالد دنلوب	COL name VAL دونالد ليفين	0
+COL name VAL أوريليو أرشينتو	COL name VAL أوريليو أرشيني	1
+COL name VAL ريتشارد جونسون	COL name VAL ريتشارد لابونسكي	0
+COL name VAL إنيك سومي دوما	COL name VAL سومي	1
+COL name VAL روبرت فاريل سميث	COL name VAL روبرت زيب	0
+COL name VAL فيليس جان ماكالبين	COL name VAL فيليس جيه ماكالبين	1
+COL name VAL تشارلز باركر تورنر	COL name VAL تشارلز براذر	0
+COL name VAL فريدريك دي لامبرتو سوستريس	COL name VAL فريدريك سستريس	1
+COL name VAL جيم هوغان	COL name VAL جيم واليس	0
+COL name VAL فرانشيسكو سفريسا باربيري	COL name VAL لو سفريساتو	1
+COL name VAL  إريك  وولين	COL name VAL  إريك  فيكتوريا	0
+COL name VAL تونيو ك	COL name VAL أنطونيو جاندينو	0
+COL name VAL إميليانو ساليناس	COL name VAL كاتيلينا	0
+COL name VAL خوسيه إم جوتيريز	COL name VAL خوسيه جوتيريز	1
+COL name VAL بلانش أمون	COL name VAL بلانش شارليت	0
+COL name VAL ستيف باركر	COL name VAL ستيف سيلر	0
+COL name VAL  دلفينا  إنتريكاناليس	COL name VAL  روبرت  إنتريكاناليس	0
+COL name VAL توماس كينيدي	COL name VAL توماس ويلر	0
+COL name VAL جوزيف بونوسو	COL name VAL جوزيف مسعد	0
+COL name VAL آنا أكانا	COL name VAL لانا روي	0
+COL name VAL تشارلز ماكدونالد	COL name VAL تشارلز لين	0
+COL name VAL بول غانوس	COL name VAL بول ميلر	0
+COL name VAL  ليز  نوستفولد	COL name VAL  ليز  روكي	0
+COL name VAL أوديسا أدلون	COL name VAL فلويد أودلوم	0
+COL name VAL أليس إي سوتيل	COL name VAL تيرينس إي ماكنالي	0
+COL name VAL وليام بوديفورد	COL name VAL وليام م	1
+COL name VAL جون ايرجينز	COL name VAL جون أ	0
+COL name VAL إريك ماكسويل جي	COL name VAL ماكسويل بنتلي	1
+COL name VAL ماغنوس الرابع من السويد	COL name VAL ماغنوس السابع	1
+COL name VAL  ميغيل أنخيل  أراوجو إغليسياس	COL name VAL  جوامع  أراوجو إغليسياس	0
+COL name VAL رينيه سميث كليري	COL name VAL مينشيريني	0
+COL name VAL دانيال آلان جيلروي	COL name VAL دانيال راي سيلر	0
+COL name VAL جوليا لين مادالينا	COL name VAL جوليان مارتينيز	0
+COL name VAL جيفري آلان لوكوود	COL name VAL جيفري لورانس بيتانكورت	0
+COL name VAL خوسيه لويس أورتيز	COL name VAL خوسيه مانويل جوتيريز	0
+COL name VAL أليسيا إليزابيث فيكتوريا	COL name VAL إليزابيث موريس	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو	COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	1
+COL name VAL آدم أمين دانيال	COL name VAL دانيال	0
+COL name VAL أنتوني إدوارد ليستر	COL name VAL إدوارد ميرتون دورن	0
+COL name VAL ديفيد مايكلز	COL name VAL ديفيد كهر	0
+COL name VAL  إيزابيل  رودريغيز	COL name VAL  هافارد  رودريغيز	0
+COL name VAL  خوسيه مانويل  جوتيريز	COL name VAL  تايفون  جوتيريز	0
+COL name VAL آن مارجريت رومر	COL name VAL جوانا مارجريت جانيت بونييه	0
+COL name VAL  مارغريت  سيتشهاي	COL name VAL  مارغريت  رزق	0
+COL name VAL ألفريد إتش دبليو باتيسكومب	COL name VAL فرانسيس دبليو هاتش	0
+COL name VAL بول بيتريدس	COL name VAL بول بيرمان	0
+COL name VAL  أوليغ  كيسليوف	COL name VAL  جيفري  كيسليوف	0
+COL name VAL جون اسيف	COL name VAL جون ب	0
+COL name VAL روبرت سكولي	COL name VAL روبرت فوكس	0
+COL name VAL آن بيرك دالي	COL name VAL آن بوليه	0
+COL name VAL إيلينا بينيا	COL name VAL ديانا تريلينج	0
+COL name VAL أندرو ساردانيس	COL name VAL أندرو سميث	0
+COL name VAL أوريليو أرشيني	COL name VAL تونيو موري	0
+COL name VAL أندرو سوتيريس ساردانيس	COL name VAL أندرو سميث	0
+COL name VAL أنطونيو جيه مانجون	COL name VAL أنطونيو خيمينيز مانجون	1
+COL name VAL احد كاظمي	COL name VAL احد كاظمي سراي	1
+COL name VAL جيم فرينش	COL name VAL جيم فلورنتين	0
+COL name VAL أونوفريو بارتوليني	COL name VAL ستيفانو بارتوليني	0
+COL name VAL فريدريك سستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL آرثر ستير	COL name VAL آرثر فلوم	0
+COL name VAL رودولف كيلر	COL name VAL رودي كيلر	1
+COL name VAL أودري مارس	COL name VAL أودري ماري مارس	1
+COL name VAL ستيفن إم فيزي	COL name VAL ستيفن فيزي	1
+COL name VAL جيمي بايك	COL name VAL جيمي وانج	0
+COL name VAL ميشيل	COL name VAL ميشيل أنتوني	1
+COL name VAL جيريس لي بويندكستر	COL name VAL كريس ليليس	0
+COL name VAL ستيان رينجستاد	COL name VAL ستيان لوندر رينغستاد	1
+COL name VAL  خوسيه لويس  مورينو	COL name VAL  خوسيه لويس  داود	0
+COL name VAL دونالد دين دوريل	COL name VAL دونالد ليفين	0
+COL name VAL ديفيد والش	COL name VAL ديفيد دريك	0
+COL name VAL أدولفو برادا	COL name VAL نيكو برانجر	0
+COL name VAL  ثورا  هاردي	COL name VAL  ثورا  كريستنسون	0
+COL name VAL ألبين ويكمان	COL name VAL ماتس ألبين ويكمان	1
+COL name VAL ستيفن سيث ويلسون	COL name VAL ستيفن ستريت	0
+COL name VAL إليزا شانون	COL name VAL ليزا شنايدر	0
+COL name VAL باتريك سويني	COL name VAL باتريك لي	0
+COL name VAL باتريك دبليو سويني	COL name VAL باتريك لي	0
+COL name VAL أنتوني درازان	COL name VAL أنتوني همنغواي	0
+COL name VAL روبرت س	COL name VAL روبرت سي هارفي	0
+COL name VAL بيتر حنان	COL name VAL بيتر ليباج	0
+COL name VAL جون إليوت بورش	COL name VAL جون بنتلي	0
+COL name VAL إد ديكر	COL name VAL جون إدوارد ديكر	1
+COL name VAL خوان كوريا الأكبر	COL name VAL خوان غارسيا أوبراغو	0
+COL name VAL  هنري  نيجريتي	COL name VAL  دوروثي  نيجريتي	0
+COL name VAL كيفن ديفيد كيك	COL name VAL كيفن كيك	1
+COL name VAL ديفيد براي	COL name VAL ديفيد بوت	0
+COL name VAL ألبرت أبراهام حمو	COL name VAL ابراهام بابادوست	0
+COL name VAL جيفري بيتيس	COL name VAL جيفري واين جرينبيرج	0
+COL name VAL ديفيد مايكلز	COL name VAL ديفيد ب	0
+COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	COL name VAL فريدريك سوستريس	1
+COL name VAL جيم ياربرو	COL name VAL جيمس إدوارد ياربرو	1
+COL name VAL مرسيدس مولتو	COL name VAL مرسيدس مولتو كونتريراس	1
+COL name VAL  جريت  موسر	COL name VAL  جريت كوفمان	0
+COL name VAL جوستين سيرجنت	COL name VAL كريستين بيلوسي	0
+COL name VAL قبضة هافارد فيجر	COL name VAL هافارد فجير قبضة	1
+COL name VAL إس إس ويلسون	COL name VAL توماس جيه ويلسون	0
+COL name VAL  هوغو  منته كاس	COL name VAL  هوغو  إندلر	0
+COL name VAL جيمس بار	COL name VAL جيمس تورمان بارون	0
+COL name VAL  فخر النساء  زيد	COL name VAL  فخر النساء  جينيريت	0
+COL name VAL  هاري  مكنولتي	COL name VAL  هاري  سوهيل	0
+COL name VAL جيفري جوب	COL name VAL جيفريبكام	0
+COL name VAL جي إم روبسون	COL name VAL جي إم كاي	0
+COL name VAL قائد القوات الجوية المارشال السير ديفيد إيفانز	COL name VAL ديفيد إيفانز	1
+COL name VAL  مارتن  هوفستاد	COL name VAL  آلان  هوفستاد	0
+COL name VAL  روسيو  رويز	COL name VAL  نوفا  رويز	0
+COL name VAL ألكسندر ج إنيدي	COL name VAL الكسندر فيلمان	0
+COL name VAL آر دي ريد	COL name VAL ميري رينك	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	COL name VAL فيديريجو ديل بادوفانو	1
+COL name VAL مارك ميلر	COL name VAL ميلر مارك دبليو	1
+COL name VAL احمد سعد	COL name VAL احمد معين	0
+COL name VAL أوستن سكوت ميلر	COL name VAL سكوت بلوم	0
+COL name VAL أدريان دي جروت رويز	COL name VAL أدريان سيرانو	0
+COL name VAL بريان إسحاق كلايد	COL name VAL بريان فراي	0
+COL name VAL آرون مايكل كاروتا	COL name VAL مايكل ماسنيك	0
+COL name VAL جيمس توماس ليمون	COL name VAL جيمس تي ليمون	1
+COL name VAL  فرانتز هوفمان	COL name VAL  يوليوس هوفمان	0
+COL name VAL ديف بوت	COL name VAL ديف هيبورن	0
+COL name VAL  برنارد  مولر	COL name VAL  برنارد  سيلفا	0
+COL name VAL جورج نيل روبرتسون	COL name VAL جورج نيل ستيوارت	0
+COL name VAL إدوارد باربو	COL name VAL وليام إدوارد جالي	0
+COL name VAL ماكسويل بنتلي	COL name VAL ماكسويل جون	1
+COL name VAL أستريد يونغ	COL name VAL فينديلا أستريد يونغ	1
+COL name VAL ديفيد إيفانز	COL name VAL ديفيد إيه برودي	0
+COL name VAL توم ماكلين	COL name VAL توماس ماكغراث	0
+COL name VAL توم بيترمات	COL name VAL توم بيسكاردي	0
+COL name VAL رافائيل بلانكو مورينو	COL name VAL رافائيل مورينو	1
+COL name VAL جيمس أور	COL name VAL جيمس كوفنر	0
+COL name VAL أولي سي براترود	COL name VAL كوليت براند	0
+COL name VAL  ألبرت  باتيسكومب	COL name VAL  مانويل  باتيسكومب	0
+COL name VAL  نيكو  برونغر	COL name VAL  نيكو  يوسف	0
+COL name VAL توم بيسكاردي	COL name VAL توم رو	0
+COL name VAL بيتر ميلمان	COL name VAL بيتر اوهلر	0
+COL name VAL فريدريش سوستروس	COL name VAL فريدريك سوتريس	1
+COL name VAL تيرينس ماكنالي	COL name VAL تيريزا ماريا كاريني	0
+COL name VAL أوربانوس إدموند بوغمان جونيور	COL name VAL يو بوغمان	1
+COL name VAL جوزيف ويلبر دورسي	COL name VAL جيري دورسي	1
+COL name VAL ايلينا بتلر	COL name VAL هيلينا بيل	0
+COL name VAL نيك تفوري	COL name VAL نيكولاس تافوري	1
+COL name VAL جون بور ويليامز	COL name VAL جون ويليامسون	0
+COL name VAL بيل شيلتر	COL name VAL وليام فريدريك شيلتر	1
+COL name VAL ريتشارد جلوسيب	COL name VAL ريتشارد كلارك	0
+COL name VAL أنابيل هيرنانديز	COL name VAL تيريزا سيلفا فرنانديز	0
+COL name VAL جيسيكا كوك دريبر	COL name VAL كريستينا كوكالسكا	0
+COL name VAL  إستيلا  دومينغيز	COL name VAL  ساندرا  دومينغيز	0
+COL name VAL آلان هاستينغز	COL name VAL ستيفن آلان حسن	0
+COL name VAL داستن لانكر	COL name VAL جاستن فوليامي	0
+COL name VAL ميغان كاثلين ميشلر	COL name VAL ميغان ميشلر	1
+COL name VAL ستيفان ليفين	COL name VAL ستيفانو فيشي	0
+COL name VAL جوليا ميشيل سيرانو	COL name VAL جوليان سميث	0
+COL name VAL آلان توماس	COL name VAL توماس آلان كيران بروكس	0
+COL name VAL تشارلز جي ماكدونالد	COL name VAL تشارلز لين	0
+COL name VAL ديف العبد	COL name VAL ديف بوت	0
+COL name VAL  هوكون  إريكسون	COL name VAL  هوكون  سارو	0
+COL name VAL خوسيه لويس أورتيز مورينو	COL name VAL خوسيه مانويل جوتيريز	0
+COL name VAL ستيفن أ	COL name VAL ستيفن حسن	0
+COL name VAL  عبد العزيز  الزامل	COL name VAL  عبد العزيز  جونسون	0
+COL name VAL تشارلز لينش	COL name VAL تشارلز مان	0
+COL name VAL دون بارنز	COL name VAL ريتشارد دونالد بارنز	1
+COL name VAL  إسبن  براثين	COL name VAL  بالوما  براثين	0
+COL name VAL ريتشارد بلفينز	COL name VAL ريتشارد لافين	0
+COL name VAL  روبرتو  كوارتا	COL name VAL  روبرتو  وولد	0
+COL name VAL ستيفن ليفين	COL name VAL ستيفن واليس	0
+COL name VAL  موج  تشيفيك	COL name VAL  موج  أغيري	0
+COL name VAL سارة الفليج	COL name VAL سارة لي شتاينر	0
+COL name VAL ستيف باركت	COL name VAL ستيف سيلر	0
+COL name VAL بات لي	COL name VAL باتريك لي	1
+COL name VAL أليس إي سوتيل	COL name VAL بوتي بليس	0
+COL name VAL جون بروس جيسن	COL name VAL دون براون	0
+COL name VAL تانكريد دوماس	COL name VAL فريد ماندل	0
+COL name VAL جون إريك بنتلي	COL name VAL جون بنتلي	1
+COL name VAL فيديريكو دي لامبرتو سوستريس سوستريس	COL name VAL فريدريك سوستريتش	1
+COL name VAL تشارلز روجر واتسون	COL name VAL تشارلز ريس	0
+COL name VAL أوربانوس إي بوغمان	COL name VAL أوربانوس بوغمان جونيور	1
+COL name VAL جون دي موني	COL name VAL جون موني	1
+COL name VAL جوزيف يهودا هالبيرن	COL name VAL جوزيف هاشم	0
+COL name VAL جوش ليموس	COL name VAL جوشوا راموس	0
+COL name VAL  ألبرت  باتيسكومب	COL name VAL  موج  باتيسكومب	0
+COL name VAL آلان توماس	COL name VAL توماس ريكمان	0
+COL name VAL سيليستينو إنريكو بانشيري	COL name VAL سيليستينو بانشيري	1
+COL name VAL أخبر كارول شرايبر	COL name VAL لي كارول	0
+COL name VAL ريتشارد دي كالينبيرج	COL name VAL ريتشارد ألين	0
+COL name VAL توم ويلر	COL name VAL توماس ويست	0
+COL name VAL هارفي سنور	COL name VAL هارفي هـ	1
+COL name VAL كريس كوكس	COL name VAL كريستوفر كوكس	1
+COL name VAL أنجيليس برافو	COL name VAL جيني س برادلي	0
+COL name VAL أندرو بيري أرشبالد	COL name VAL الأخ أندرويد	0
+COL name VAL إدوين فرانسيس براينت	COL name VAL جون فرانسيس ريان	0
+COL name VAL جون إي أوبيجارد	COL name VAL جون إي روبينز	0
+COL name VAL كارلو أوتيني	COL name VAL كارلو كاسبارو سيموني أوتيني	1
+COL name VAL  جون  هانسون	COL name VAL  إلين  هانسون	0
+COL name VAL إليزا شانون	COL name VAL ليزا جراف	0
+COL name VAL ديفيد شيلتون	COL name VAL ديفيد هارولد شيلتون	1
+COL name VAL جون سي وارنر	COL name VAL جون سومرز	0
+COL name VAL شيريل دين سولينجر	COL name VAL شيريل سولينجر	1
+COL name VAL أودرا بليس	COL name VAL بوتي آن بليس	0
+COL name VAL أنطونيو موري فيلارينيو	COL name VAL غراسييلا يوجينيا دي لا كاريداد موري فيلارينو	0
+COL name VAL جيفري إيه جيلي	COL name VAL ليفي جيه	0
+COL name VAL  هيو  لوزينيان	COL name VAL  هيو  براينت	0
+COL name VAL دينيس كامبل باور	COL name VAL دينيس نوركسي	0
+COL name VAL  فيديريكو  مادرازو	COL name VAL  دليلة  مادرازو	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو	COL name VAL فيديريجو دي لامبرتو فيامنجو سوستريس	1
+COL name VAL بيل اميرسون	COL name VAL بيل موريسون	0
+COL name VAL ستيفن إتش ليبلا	COL name VAL ستيفن هوارد ليبلا	1
+COL name VAL جورج ادوارد فوكس	COL name VAL جورج هاردي	0
+COL name VAL ديفيد دريك	COL name VAL ديفيد ديريك بوت	0
+COL name VAL أندرس جيه هيمستاد	COL name VAL جيمس إدوارد أندرسون	0
+COL name VAL ريتشارد إمرمان	COL name VAL ريتشارد ألين	0
+COL name VAL سفريساتو باربيري	COL name VAL فرانشيسكو سفريساتو	0
+COL name VAL جيم آش	COL name VAL جيم جاكوبي	0
+COL name VAL أندريا جيمس	COL name VAL دونا أندريا جوزيف	0
+COL name VAL  هوكون  إريكسون	COL name VAL  خوسيه لويس  إريكسون	0
+COL name VAL جورج كوكس	COL name VAL جورج كون	0
+COL name VAL روبرت دبليو امبري	COL name VAL روبرت دي موسر	0
+COL name VAL قبضة هافارد فيجر	COL name VAL هافارد قبضة	1
+COL name VAL آدم أمين دانيال	COL name VAL سكوت دانيال دنكان	0
+COL name VAL جيمس إدوارد أندرسون	COL name VAL جيمس إدوارد ياربرو	0
+COL name VAL آنا ماي هي	COL name VAL سوزانا هيشل	0
+COL name VAL  ريكاردو  دي رينالديس	COL name VAL  ريكاردو  فورهيس	0
+COL name VAL أونوفريو بارتوليني	COL name VAL سفريساتو باربيري	0
+COL name VAL سكوت رومني	COL name VAL سكوت ميلر	0
+COL name VAL  موج  تشيفيك	COL name VAL  شون  تشيفيك	0
+COL name VAL تريسي ل	COL name VAL تريسي ميريس	1
+COL name VAL جيمي شانون	COL name VAL جيمي كينيدي	0
+COL name VAL بينيديتو الكاردينال لورينزيلي	COL name VAL بينيديتو لورينزيلي	1
+COL name VAL لورا جولييت كوينزبرج	COL name VAL لورا كوينزبرج	1
+COL name VAL جون إي أوبيجارد	COL name VAL جون روبينز	0
+COL name VAL جوزيف انساين جرانفيل	COL name VAL جوزيف الخوري	0
+COL name VAL جوزيف الخوري	COL name VAL جوزيف هالبيرن	0
+COL name VAL جون جوستافسون	COL name VAL جون جونسون	0
+COL name VAL جيمس ماكنتوش	COL name VAL جيمس آش	0
+COL name VAL توماس ريان	COL name VAL توماس ويلر	0
+COL name VAL  أولاف  تريغفاسون	COL name VAL  أولاف  أرانجو	0
+COL name VAL ديفيد آرثر برودي	COL name VAL ديفيد كهر	0
+COL name VAL إدوارد جيه باربو	COL name VAL ديفيد جيه فاربر	0
+COL name VAL سكوت بلوم	COL name VAL سكوت دنكان	0
+COL name VAL أليكس أوبرت	COL name VAL أليكس فيلمان	0
+COL name VAL روبرت ستيفانيوك	COL name VAL روبرت سي هارفي	0
+COL name VAL  زياد  جراح	COL name VAL  راجنهيلد  جراح	0
+COL name VAL  لويز  جامين	COL name VAL  لويز  رورتي	0
+COL name VAL جون نيهاردت	COL name VAL جون أ	0
+COL name VAL إس إس ويلسون	COL name VAL توماس ويلر	0
+COL name VAL  رينيه  جيلارد	COL name VAL  رينيه  امرسون	0
+COL name VAL روب بايك	COL name VAL روبرت باورز	0
+COL name VAL  تربيتة  لو بولمير	COL name VAL  ألبرت  لو بولمير	0
+COL name VAL دانيال فوت	COL name VAL دانيال هارينجتون فوت	1
+COL name VAL دونالد إدوارد جراهام	COL name VAL دونالد براون	0
+COL name VAL أليساندرو سيزاتي	COL name VAL أندرو سوتيريس ساردانيس	0
+COL name VAL ستيفن أدلر	COL name VAL ستيفن راسل	0
+COL name VAL خلدون ابراهيم	COL name VAL دون براون	0
+COL name VAL جورج كريج لورانس	COL name VAL جورج لورانس	1
+COL name VAL بوب جوزاردي	COL name VAL روبرت ريتشارد جوزاردي	1
+COL name VAL إدوارد كالفيرلي رايلي	COL name VAL وليام إدوارد جالي	0
+COL name VAL جون جاكي داميكو	COL name VAL جون جودفري ساكس	0
+COL name VAL بوبي بليس	COL name VAL بوتي بليس	0
+COL name VAL مارك ميلر	COL name VAL مارك وليام ميلر	1
+COL name VAL ماريوس بوستجارد لارسن	COL name VAL ماريوس لارسن	1
+COL name VAL شارلوت جين تشابمان	COL name VAL شارلوت جين مورتون	1
+COL name VAL السير ديفيد إيفانز	COL name VAL ديفيد إيفانز	1
+COL name VAL أليسا راي نيكول لامب	COL name VAL نيكوراي	0
+COL name VAL ستيفن هوارد ليبلا	COL name VAL ستيفن هـ	1
+COL name VAL ألين إيفان شون	COL name VAL تشارلز ستيفن إيفانز	0
+COL name VAL آلان بيج فيسك	COL name VAL بريان بيدل	0
+COL name VAL ألبرت إتش دبليو باتيسكومب	COL name VAL فرانسيس دبليو هاتش	0
+COL name VAL آر جي فان جيلدر	COL name VAL دان جيلروي	0
+COL name VAL باتريشيا أربويس	COL name VAL باتريشيا جوديال	0
+COL name VAL دوريس جونز	COL name VAL دون دوريل	0
+COL name VAL ماغنوس الرابع	COL name VAL ماغنوس السابع	1
+COL name VAL ديفيد بيتس	COL name VAL ديفيد هاجر	0
+COL name VAL ستيبينز م	COL name VAL ليبي هيغينز	0
+COL name VAL  جوزيف  هالبيرن	COL name VAL  جوزيف  ألين	0
+COL name VAL ديفيد جريمالدي	COL name VAL ديفيد هاجر	0
+COL name VAL ريتشارد جمال جونسون	COL name VAL ريتشارد لابونسكي	0
+COL name VAL  روسلي  رومينجر	COL name VAL  فريد  رومينجر	0
+COL name VAL  فخر النساء  زيد	COL name VAL  جون  زيد	0
+COL name VAL  فريدريش  سوستريس	COL name VAL  فريدريش  وليامز	0
+COL name VAL جيمس راندال	COL name VAL جيمس مايكل راندال	1
+COL name VAL  جوزيف  روي	COL name VAL  جوزيف  وولد	0
+COL name VAL  ديفيد  كامبوس	COL name VAL  توني  كامبوس	0
+COL name VAL كريستيان لي	COL name VAL كريستين لين فيركينز	0
+COL name VAL جورج كارلوس ويلر	COL name VAL جورج ويتمور	0
+COL name VAL جورج كارلوس ويلر	COL name VAL جورج ويلبر ووترز	0
+COL name VAL دانيال نوسو جونيور	COL name VAL دانيال فوت	0
+COL name VAL أوربانوس إدموند بوغمان	COL name VAL أوربانوس إي بوغمان	1
+COL name VAL أوربانوس إدموند بوغمان جونيور	COL name VAL أوربانوس بوغمان	1
+COL name VAL أليكسا تيفاني ألين	COL name VAL ستيفانو ميرلينو	0
+COL name VAL سيجورد الثاني الفم	COL name VAL سيجورد لي هارالدسون	1
+COL name VAL بولين	COL name VAL كولين كوبل	0
+COL name VAL أنخيل هيرنانديز ريكالدي	COL name VAL ريكاردو دي رينالديس	0
+COL name VAL ستيف باركت	COL name VAL ستيف باركر	1
+COL name VAL  هنري  ايمونز	COL name VAL  ألفريدو  ايمونز	0
+COL name VAL  ستيفانو  بارتوليني	COL name VAL  تركي  بارتوليني	0
+COL name VAL اولي لوجين	COL name VAL بولين	0
+COL name VAL ساندرا ديل	COL name VAL ساندرا واكسمان	0
+COL name VAL مود دورانت	COL name VAL مود ألين	1
+COL name VAL ستيف سيلر	COL name VAL ستيف هيتنر	0
+COL name VAL تشارلز وولكوت باليستير	COL name VAL تشارلز لينش	0
+COL name VAL أوسكار فيزكاينو أويونو	COL name VAL سيزار فينسينزو أورسينيجو	0
+COL name VAL باتريشيا أربويس	COL name VAL باتريشيا جوديال مارتينيز	0
+COL name VAL توماس موريس ماكلوغلين	COL name VAL تومي ماكلوغلين	1
+COL name VAL جون موني	COL name VAL دينار موني	1
+COL name VAL علي حسني	COL name VAL علي حسني فيصل	1
+COL name VAL جوزيف وينتربوتام شو	COL name VAL جوزيف بوسي	0
+COL name VAL باتريك سويني	COL name VAL باتريك مكارثي	0
+COL name VAL دبليو مارك سالتزمان	COL name VAL وليام مارك سالتزمان	1
+COL name VAL دبليو مارك سالتزمان	COL name VAL وليام سالتزمان	1
+COL name VAL جيف دان	COL name VAL جيف رايمان	0
+COL name VAL روبرت بيجلو	COL name VAL روبرت تي بيجلو	1
+COL name VAL مايكل دي كيربي	COL name VAL مايكل كيربي	1
+COL name VAL بيل إرنست	COL name VAL بيل وولف	0
+COL name VAL مايكل جون شو	COL name VAL مايكل جيه شو	1
+COL name VAL أدريان دي جروت رويز	COL name VAL أو دي جروت رويز	1
+COL name VAL أليس ماريا جلينداي	COL name VAL دوريس ماري جونز	0
+COL name VAL كارل كالين	COL name VAL كارل كايلين	1
+COL name VAL بول بيتريديس	COL name VAL بول بيرمان	0
+COL name VAL  ديلسا  دميرباغ	COL name VAL  فيديريكو  دميرباغ	0
+COL name VAL تشارلز لين	COL name VAL تشارلز هاريس لينش	0
+COL name VAL تشارلز سي جونسون	COL name VAL تشارلز سي مان	0
+COL name VAL شون أفليك	COL name VAL شون كونولي أفليك	1
+COL name VAL ستايسي باميلا باتون	COL name VAL ستايسي ليتلجون	0
+COL name VAL لويس إل لاتشينال	COL name VAL لويس لاتشينال	1
+COL name VAL  رينيه  بدر	COL name VAL  ميليندا  بدر	0
+COL name VAL ليزا باتشيليس	COL name VAL ليزا باشليس لو	1
+COL name VAL إس إس ويلسون	COL name VAL جون نيلسون	0
+COL name VAL  بيورنستجيرن  إيدز فولد	COL name VAL  بيورنستجيرن  بونييه	0
+COL name VAL إدوارد ستيوارت كينيدي	COL name VAL إدوارد راين	0
+COL name VAL جوليوس جيفرسون جونيور	COL name VAL جيمس إي واليس جونيور	0
+COL name VAL ستيف زينغ	COL name VAL ستيف ليبلا	0
+COL name VAL م مارتينتي	COL name VAL مارتينيتي	1
+COL name VAL ريتشارد لابونسكي	COL name VAL ريتشارد لافين	0
+COL name VAL جيمس بارون	COL name VAL جيمس تورمان بارون	1
+COL name VAL  نيلز  إليرتسون	COL name VAL  فريدريك  إليرتسون	0
+COL name VAL إننيك دوما	COL name VAL نيك لوب	0
+COL name VAL أوريستل بيريز أرياس	COL name VAL مايك بيريس	0
+COL name VAL تود ألين	COL name VAL تود د	0
+COL name VAL  خوسيه لويس  مورينو	COL name VAL  عميد  مورينو	0
+COL name VAL أورورا بريتون	COL name VAL فاليري أورورا	0
+COL name VAL ديفيد شيلتون	COL name VAL ديفيد مو	0
+COL name VAL آدم واد ماركوس	COL name VAL ماركوس نيسلي	0
+COL name VAL تشارلز كوفمان	COL name VAL تشارلز ريس	0
+COL name VAL توم ويلر	COL name VAL توماس مويلان	0
+COL name VAL جو بونز	COL name VAL جون ب	0
+COL name VAL  ماريا  سنول	COL name VAL  لوسيل  سنول	0
+COL name VAL بريانكا آير	COL name VAL بيانكي	0
+COL name VAL أونوفريو بارتوليني	COL name VAL كريستوفر بارنز	0
+COL name VAL سفريساتو باربيري	COL name VAL فرانشيسكو سفريسا	1
+COL name VAL ستيفن ج	COL name VAL ستيفن واليس	0
+COL name VAL ميرت أيتوغ	COL name VAL ميرت ايتوج	1
+COL name VAL  بيدير  هنريكس	COL name VAL  جوزيف  هنريكس	0
+COL name VAL  فرانسيسكو  لوسيني	COL name VAL  أندرس  لوسيني	0
+COL name VAL إريك أندرو هيسرير	COL name VAL إريك هيسرير	1
+COL name VAL  ريكاردو  سانتوريلي	COL name VAL  والتر  سانتوريلي	0
+COL name VAL  كريستوف  شاتيمان	COL name VAL  اِتَّشَح  شاتيمان	0
+COL name VAL السيد تي جي ويجلز	COL name VAL السيد ويجلز	1
+COL name VAL أنتوني بادوفانو	COL name VAL أنتوني مولتينو	0
+COL name VAL روبرت جنتلمان	COL name VAL روبرت فوكس	0
+COL name VAL جيمس بارون	COL name VAL جيمس جيبونز	0
+COL name VAL جيمس فرانسيس جيبونز	COL name VAL جيمسفجيبونس	1
+COL name VAL أليس إليزابيث ساوتيل	COL name VAL ليندا إليزابيث هوبر	0
+COL name VAL جوزيف جرانفيل	COL name VAL جوزيف ل	0
+COL name VAL قائد القوات الجوية المارشال السير ديفيد جورج إيفانز	COL name VAL ديفيد إيفانز	1
+COL name VAL فيكتوريا جرين هوشبرج	COL name VAL فيكتوريا هوشبرج	1
+COL name VAL فريتز ر	COL name VAL فريتز روبرت بيرجر	1
+COL name VAL مايكل باورز	COL name VAL مايكل تي باورز	1
+COL name VAL  محمد  الزبيدي	COL name VAL  أليساندرو  الزبيدي	0
+COL name VAL روي براون	COL name VAL فرانسيس روي براون	1
+COL name VAL آنا كاي أكانا	COL name VAL مارلين كاي فانس	0
+COL name VAL دانيال وايتسايدز	COL name VAL دانيال سيلر	0
+COL name VAL أنابيل هيرنانديز غارسيا	COL name VAL تيريزا سيلفا فرنانديز	0
+COL name VAL ديفيد فاربر	COL name VAL ديفيد ورث	0
+COL name VAL جيمي بايك	COL name VAL جيمي شانون	0
+COL name VAL بيورن هيردال	COL name VAL جيوردانو	0
+COL name VAL  ايلي  دنكر	COL name VAL  ايلي  نسيم	0
+COL name VAL ليزا جراف	COL name VAL ليزا كولين جراف	1
+COL name VAL بيت ثورن	COL name VAL بيتر ثورن	1
+COL name VAL تيريزا سيلفا	COL name VAL تيريزا ماريا كاريني	0
+COL name VAL تيم بولز	COL name VAL تيموثي بولز	1
+COL name VAL ديجبي	COL name VAL هيذر ديجبي بارتون	1
+COL name VAL روبرت ستارك	COL name VAL روبرت سي هارفي	0
+COL name VAL آلان برافرمان	COL name VAL توماس آلان كيران بروكس	0
+COL name VAL فرانسيس العاشر مكارثي	COL name VAL فرانسيس كزافييه مكارثي	1
+COL name VAL ريتشارد جلوسيب	COL name VAL ريتشارد بلير	0
+COL name VAL أوربانوس بوغمان جونيور	COL name VAL يو بوغمان	1
+COL name VAL  فاسيلي  يكيموف	COL name VAL  ألبرت  يكيموف	0
+COL name VAL  جون  كنوتسون	COL name VAL  فيفيان  كنوتسون	0
+COL name VAL توريبيو ألفاريز	COL name VAL توريبيو الفاريز	1
+COL name VAL بوبي بليس	COL name VAL بوتي آن بليس	0
+COL name VAL الكسندر انيدي	COL name VAL الكسندر فيلمان	0
+COL name VAL ديف دريك	COL name VAL ديفيد ديريك بوت	0
+COL name VAL ألفريد كايلين	COL name VAL كارل كايلين	0
+COL name VAL روبرت بنس	COL name VAL روبرت موسر	0
+COL name VAL ستيف باركر	COL name VAL ستيفن بارك	0
+COL name VAL جوزيف بونوسو	COL name VAL جوزيف بيل	0
+COL name VAL أوربانوس بوغمان	COL name VAL أوربانوس بوغمان جونيور	1
+COL name VAL آن مارجريت رومر	COL name VAL فريتز روبرت بيرجر	0
+COL name VAL جون أوسجود	COL name VAL جون إي أوبيجارد	0
+COL name VAL أندرس توفتينج هوف	COL name VAL أندرس ك	0
+COL name VAL إدوارد فرانك فيليول	COL name VAL ماثيو إدوارد فريزر	0
+COL name VAL آن رومر	COL name VAL جوان روب	0
+COL name VAL بيتر بريدال	COL name VAL بيتر شيرر	0
+COL name VAL آدم فلوريس كروز	COL name VAL أنطونيو فلوريس رودريغيز	0
+COL name VAL  بالوما  لازارو	COL name VAL  ايمي  لازارو	0
+COL name VAL  غابرييل  جريستا	COL name VAL  بول  جريستا	0
+COL name VAL الجولي	COL name VAL وليد الجفالي	0
+COL name VAL ريتشارد جوزيف جيل	COL name VAL ريتشارد بيفر	0
+COL name VAL جيمس جيبونز	COL name VAL جيمس فرانسيس جيبونز	1
+COL name VAL  جيدو  بيزارو	COL name VAL  جيدو  سالتزمان	0
+COL name VAL ريتشارد كوهين	COL name VAL ريتشارد لافين	0
+COL name VAL أوريستل بيريز أرياس	COL name VAL مايكل بيريس	0
+COL name VAL  دومينغو  كامبوس	COL name VAL  دومينغو  كريكوريان	0
+COL name VAL فيديريجو دي لامبرتو فيامنجو	COL name VAL فيديريجو ديل بادوفانو سوستريس	1
+COL name VAL بول بيتريدس	COL name VAL بول بيلوسي	0
+COL name VAL توماس باس	COL name VAL توماس لوبيز	0
+COL name VAL فيديريجو ديل بادوفانو سوستريس	COL name VAL فيديريكو دي لامبرتو سوستريس	1
+COL name VAL ديف بوتر	COL name VAL ديف شومكا	0

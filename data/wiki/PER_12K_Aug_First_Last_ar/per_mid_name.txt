@@ -1,0 +1,500 @@
+COL name VAL  إيفار  أليكسا  نورفيه	COL name VAL  إيفار  نورفيه	1
+COL name VAL  مزق  بول  هايردال	COL name VAL  مزق  هايردال	1
+COL name VAL  مزق  جيم  هايردال	COL name VAL  مزق  هايردال	1
+COL name VAL  نفذ  اغناطيوس  بريدال	COL name VAL  نفذ  بريدال	1
+COL name VAL  إيفار  øystein نوردكيلد	COL name VAL  إيفار نوردكيلد	1
+COL name VAL  أندرو لويجي  ستولتنبرغ	COL name VAL  أندرو  ستولتنبرغ	1
+COL name VAL  أندرو  راعوث  ستولتنبرغ	COL name VAL  أندرو  ستولتنبرغ	1
+COL name VAL  أستريد  ماركوس  جوهانسن	COL name VAL  أستريد  جوهانسن	1
+COL name VAL  فلاستا  ألكسندر  فرانا	COL name VAL  فلاستا  فرانا	1
+COL name VAL  ويرنر  لارس  كريستي	COL name VAL  ويرنر  كريستي	1
+COL name VAL  بيورن  هايدي  هايردال	COL name VAL  بيورن  هايردال	1
+COL name VAL  بيورن  ايستين  هايردال	COL name VAL  بيورن  هايردال	1
+COL name VAL  øystein  جون  هالفدانسون	COL name VAL  øystein  هالفدانسون	1
+COL name VAL  ايستين  جوامع  هالفدانسون	COL name VAL  ايستين  هالفدانسون	1
+COL name VAL  øystein  أليس  هالفدانسون	COL name VAL  øystein  هالفدانسون	1
+COL name VAL  ايستين  الأعلى  هالفدانسون	COL name VAL  ايستين  هالفدانسون	1
+COL name VAL  øystein  جوامع  هالفدانسون	COL name VAL  øystein  هالفدانسون	1
+COL name VAL  ايستين  هيلاري  هالفدانسون	COL name VAL  ايستين  هالفدانسون	1
+COL name VAL  آرني  ترولس  رود	COL name VAL  آرني  رود	1
+COL name VAL  آرني كيفن  رود	COL name VAL  آرني  رود	1
+COL name VAL  آرني  دانا  رود	COL name VAL  آرني  رود	1
+COL name VAL  كاميلو  جون  ايفراردي	COL name VAL  كاميلو  ايفراردي	1
+COL name VAL  كميل  الكسندر  ايفراردي	COL name VAL  كميل  ايفراردي	1
+COL name VAL  الكسندرا  موج  جونر	COL name VAL  الكسندرا  جونر	1
+COL name VAL  solfrid  جول  هاير	COL name VAL  solfrid  هاير	1
+COL name VAL  كريستوف  تود  شاتيمان	COL name VAL  كريستوف  شاتيمان	1
+COL name VAL  إريك  جون  شجيرفن	COL name VAL  إريك  شجيرفن	1
+COL name VAL  جارد  أدريان  إيدز فولد	COL name VAL  جارد  إيدز فولد	1
+COL name VAL  بيورنستجيرن  ليزا  إيدز فولد	COL name VAL  بيورنستجيرن  إيدز فولد	1
+COL name VAL  هاري  الكسندرا  حجز	COL name VAL  هاري  حجز	1
+COL name VAL  أولاف  زوي  تريغفاسون	COL name VAL  أولاف  تريغفاسون	1
+COL name VAL  فيكتور  جون  فيرشورين	COL name VAL  فيكتور  فيرشورين	1
+COL name VAL  بوليت  ساندي  كوبر	COL name VAL  بوليت  كوبر	1
+COL name VAL  أغسطس  سنان  أولسن	COL name VAL  أغسطس  أولسن	1
+COL name VAL  سيسيلي  فاتح  موسلي	COL name VAL  سيسيلي  موسلي	1
+COL name VAL  سيسيلي  خافيير  موسلي	COL name VAL  سيسيلي  موسلي	1
+COL name VAL  سوندري  ميشيل  ترونستاد	COL name VAL  سوندري  ترونستاد	1
+COL name VAL  ترولس  جوامع  كورساث	COL name VAL  ترولس  كورساث	1
+COL name VAL  ترولس  ديفيد  كورساث	COL name VAL  ترولس  كورساث	1
+COL name VAL  ترولس  دوريس  كورساث	COL name VAL  ترولس  كورساث	1
+COL name VAL  نغمة، رنه  كات  ليما	COL name VAL  نغمة، رنه  ليما	1
+COL name VAL  انجريد  ألفينا  وولد	COL name VAL  انجريد  وولد	1
+COL name VAL  هينينج  ماري  أولسن	COL name VAL  هينينج  أولسن	1
+COL name VAL  جحش  راجنهيلد  إريكسون	COL name VAL  جحش  إريكسون	1
+COL name VAL  ماونو  جول  إريكسون	COL name VAL  ماونو  إريكسون	1
+COL name VAL  جحش  كارلوس  إريكسون	COL name VAL  جحش  إريكسون	1
+COL name VAL  ماونو  إلا  إريكسون	COL name VAL  ماونو  إريكسون	1
+COL name VAL  øystein  ادموند  ماجنوسون	COL name VAL  øystein  ماجنوسون	1
+COL name VAL  ايستين  جيم  ماجنوسون	COL name VAL  ايستين  ماجنوسون	1
+COL name VAL  سيجورد  كورت  مون	COL name VAL  سيجورد  مون	1
+COL name VAL  سيجورد  إيما  مون	COL name VAL  سيجورد  مون	1
+COL name VAL  سيجورد  جوزيف  مون	COL name VAL  سيجورد  مون	1
+COL name VAL  ستيفاني أصحر  فان فيف	COL name VAL  ستيفاني  فان فيف	1
+COL name VAL  يارل  مصطفى  جولي	COL name VAL  يارل  جولي	1
+COL name VAL  جون  موريا  روبسون	COL name VAL  جون  روبسون	1
+COL name VAL  إيفان  ريجي  روبسون	COL name VAL  إيفان  روبسون	1
+COL name VAL جون  ألفينا  روبسون	COL name VAL جون  روبسون	1
+COL name VAL  إيفان  براندي  روبسون	COL name VAL  إيفان  روبسون	1
+COL name VAL  جون  أديوداتو  روبسون	COL name VAL  جون  روبسون	1
+COL name VAL  إيفان  عيسى  روبسون	COL name VAL  إيفان  روبسون	1
+COL name VAL  ليز  اليكس  نوستفولد	COL name VAL  ليز  نوستفولد	1
+COL name VAL  ليز  فلاستا  نوستفولد	COL name VAL  ليز  نوستفولد	1
+COL name VAL  ليز  مايك  نوستفولد	COL name VAL  ليز  نوستفولد	1
+COL name VAL  كاري  جين  جرونسوند	COL name VAL  كاري  جرونسوند	1
+COL name VAL  هوكون  روكسي  إريكسون	COL name VAL  هوكون  إريكسون	1
+COL name VAL  ايستين  بوبي  ماجنوسون	COL name VAL  ايستين  ماجنوسون	1
+COL name VAL  جحش  ماثيو  بارفود	COL name VAL  جحش  بارفود	1
+COL name VAL  راجنهيلد  يعقوب  ميكلسن	COL name VAL  راجنهيلد  ميكلسن	1
+COL name VAL  هيلين  ايستين  جودين	COL name VAL  هيلين  جودين	1
+COL name VAL  كلير  لوز  جودين	COL name VAL  كلير  جودين	1
+COL name VAL  هنري  جوامع  فان دن بولكي	COL name VAL  هنري  فان دن بولكي	1
+COL name VAL  جوزيف  ميليسا  روي	COL name VAL  جوزيف  روي	1
+COL name VAL  إرنست  رينيه  روي	COL name VAL  إرنست  روي	1
+COL name VAL  جوزيف  جورج  روي	COL name VAL  جوزيف  روي	1
+COL name VAL  إرنست  جون  روي	COL name VAL  إرنست  روي	1
+COL name VAL  ليف  رقاقة  لوبرغ	COL name VAL  ليف  لوبرغ	1
+COL name VAL  ليف  رينيه  لوبرغ	COL name VAL  ليف  لوبرغ	1
+COL name VAL  ليف  خوسيه مانويل  لوبرغ	COL name VAL  ليف  لوبرغ	1
+COL name VAL  ستيان  عوفرا  رينجستاد	COL name VAL  ستيان  رينجستاد	1
+COL name VAL  سيري  جورج  نوردبي	COL name VAL  سيري  نوردبي	1
+COL name VAL  سيري  الأردن  نوردبي	COL name VAL  سيري  نوردبي	1
+COL name VAL  يوري  لانا  لوهوفيج	COL name VAL  يوري  لوهوفيج	1
+COL name VAL  يوري  محمد  لوهوفيج	COL name VAL  يوري  لوهوفيج	1
+COL name VAL  يوري  أوديسا  لوهوفيج	COL name VAL  يوري  لوهوفيج	1
+COL name VAL  هنريك  تشاك  بجوردال	COL name VAL  هنريك  بجوردال	1
+COL name VAL  هنري  جون  فان دن بولكي	COL name VAL  هنري  فان دن بولكي	1
+COL name VAL  هارالد  توريبيو  paalgard	COL name VAL  هارالد  paalgard	1
+COL name VAL  بنت  جون  نوردبي	COL name VAL  بنت  نوردبي	1
+COL name VAL  تيتي  جوزيف  مارتمان	COL name VAL  تيتي  مارتمان	1
+COL name VAL  إنجلبرت  أبنير  ستركس	COL name VAL  إنجلبرت  ستركس	1
+COL name VAL  إنجلبرت  كيفن  ستركس	COL name VAL  إنجلبرت  ستركس	1
+COL name VAL  مارتن  دان  تورب	COL name VAL  مارتن  تورب	1
+COL name VAL  بيير  إيفان  لاغرانج	COL name VAL  بيير  لاغرانج	1
+COL name VAL  جوهان  راعوث  شوارتز	COL name VAL  جوهان  شوارتز	1
+COL name VAL  إيلين  جون  بروستاد	COL name VAL  إيلين  بروستاد	1
+COL name VAL  بيتر  كريستينا  ساحل	COL name VAL  بيتر  ساحل	1
+COL name VAL  آريان  بلانش  تاري	COL name VAL  آريان  تاري	1
+COL name VAL  كارلوس  جيسي  كاناس	COL name VAL  كارلوس  كاناس	1
+COL name VAL  جوري  ريتشارد  شانك	COL name VAL  جوري  شانك	1
+COL name VAL  أنيكا  عيدان  شانك	COL name VAL  أنيكا  شانك	1
+COL name VAL  هوغو  مانويل  منته كاس	COL name VAL  هوغو  منته كاس	1
+COL name VAL  اميلي  جيرالد  رورتي	COL name VAL  اميلي  رورتي	1
+COL name VAL  اميلي  جيدا  رورتي	COL name VAL  اميلي  رورتي	1
+COL name VAL  آرني  ليتيسيا  البيض	COL name VAL  آرني  البيض	1
+COL name VAL لاج  لوكا  لوند	COL name VAL لاج  لوند	1
+COL name VAL  العين  أوربانوس  ديهز	COL name VAL  العين  ديهز	1
+COL name VAL  فرانسيسكو  جين  سيريجو	COL name VAL  فرانسيسكو  سيريجو	1
+COL name VAL  فرانسيسكو  روسلي  سيريجو	COL name VAL  فرانسيسكو  سيريجو	1
+COL name VAL  جواكين  توني  كاناس	COL name VAL  جواكين  كاناس	1
+COL name VAL  مارسيل  شون  فاسلر	COL name VAL  مارسيل  فاسلر	1
+COL name VAL  دانيال  جمال  مولر	COL name VAL  دانيال  مولر	1
+COL name VAL  ديتليف  شونا  الاهتزاز	COL name VAL  ديتليف  الاهتزاز	1
+COL name VAL  بيدير جيم  أندرسن	COL name VAL  بيدير  أندرسن	1
+COL name VAL  مينا  حسين  هولتمان	COL name VAL  مينا  هولتمان	1
+COL name VAL  مينا  عيسى  هولتمان	COL name VAL  مينا  هولتمان	1
+COL name VAL  فريدريك  روبرتا  جالتا	COL name VAL  فريدريك  جالتا	1
+COL name VAL  أنكه  فيفيان  فانهورين	COL name VAL  أنكه  فانهورين	1
+COL name VAL  انطونيو  ياعيل  سنول	COL name VAL  انطونيو  سنول	1
+COL name VAL  انطونيو  هافارد  سنول	COL name VAL  انطونيو  سنول	1
+COL name VAL  انطونيو  باسكوالينا  سنول	COL name VAL  انطونيو  سنول	1
+COL name VAL  انطونيو  كارلوس  سنول	COL name VAL  انطونيو  سنول	1
+COL name VAL  جوستافو  دكستر  فرنانديز	COL name VAL  جوستافو  فرنانديز	1
+COL name VAL  فاليريا ريتشارد  باتشيكو	COL name VAL  فاليريا  باتشيكو	1
+COL name VAL  أوسكار  فيليب  فيزكانو	COL name VAL  أوسكار  فيزكانو	1
+COL name VAL  أوسكار  ماريا  فيزكانو	COL name VAL  أوسكار  فيزكانو	1
+COL name VAL  أوسكار  ايمي  فيزكانو	COL name VAL  أوسكار  فيزكانو	1
+COL name VAL  أوسكار  ساندرا  فيزكانو	COL name VAL  أوسكار  فيزكانو	1
+COL name VAL  فاليريا  جاكي  أنتولينو	COL name VAL  فاليريا  أنتولينو	1
+COL name VAL  جوستافو  تود  هويرتاس	COL name VAL  جوستافو  هويرتاس	1
+COL name VAL  ايستين  ماتياس  إرليندسون	COL name VAL  ايستين  إرليندسون	1
+COL name VAL  ايستين  هنري  إرليندسون	COL name VAL  ايستين  إرليندسون	1
+COL name VAL  صديق  جواكين  جوهانسن	COL name VAL  صديق  جوهانسن	1
+COL name VAL  بيتر  جوليان  أولسن	COL name VAL  بيتر  أولسن	1
+COL name VAL  يوهي  لي  مياكي	COL name VAL  يوهي  مياكي	1
+COL name VAL  يوهي  ميشيل  مياكي	COL name VAL  يوهي  مياكي	1
+COL name VAL  أكينسولا  جدعون  أكينيمي	COL name VAL  أكينسولا  أكينيمي	1
+COL name VAL  أكينسولا  سلجوق  أكينيمي	COL name VAL  أكينسولا  أكينيمي	1
+COL name VAL  ديلشاد  زوبين  شيمشك	COL name VAL  ديلشاد  شيمشك	1
+COL name VAL  رينيه  كوري  جينسبرج	COL name VAL  رينيه  جينسبرج	1
+COL name VAL  رينيه  لورين  رابينوفيتش	COL name VAL  رينيه  رابينوفيتش	1
+COL name VAL  امبرتو  آرثر  كورداني	COL name VAL  امبرتو  كورداني	1
+COL name VAL  فرانسيسكو  أندرياس  لوسيني	COL name VAL  فرانسيسكو  لوسيني	1
+COL name VAL  فرانسيسكو  هايك  لوسيني	COL name VAL  فرانسيسكو  لوسيني	1
+COL name VAL  خوان  جوزيف  بوليدو	COL name VAL  خوان  بوليدو	1
+COL name VAL  يولاندا  ثورا  هيراس	COL name VAL  يولاندا  هيراس	1
+COL name VAL  بلانكا  اروان  هوالد	COL name VAL  بلانكا  هوالد	1
+COL name VAL  ماريا  مايكل أنجلو  سنول	COL name VAL  ماريا  سنول	1
+COL name VAL  ماريا  بول  سنول	COL name VAL  ماريا  سنول	1
+COL name VAL  ماريا  ميخائيل  سنول	COL name VAL  ماريا  سنول	1
+COL name VAL  ماريا  كين  سنول	COL name VAL  ماريا  سنول	1
+COL name VAL  يوسي  إدي  بيليد	COL name VAL  يوسي  بيليد	1
+COL name VAL  يوسي  ميريديث  بيليد	COL name VAL  يوسي  بيليد	1
+COL name VAL  الكسيس  ساندرا  شول	COL name VAL  الكسيس  شول	1
+COL name VAL  أندرياس  جون  هانش أولسن	COL name VAL  أندرياس  هانش أولسن	1
+COL name VAL  فيني  شعاع  الضحك	COL name VAL  فيني  الضحك	1
+COL name VAL  الكسيس  كارلتون  ليفرانسو	COL name VAL  الكسيس  ليفرانسو	1
+COL name VAL  ماريا فيكتوريا  مايكل أنجلو  ماتيوس	COL name VAL  ماريا فيكتوريا  ماتيوس	1
+COL name VAL  ماريا فيكتوريا  ليانا  ماتيوس	COL name VAL  ماريا فيكتوريا  ماتيوس	1
+COL name VAL  دلفينا  بول  إنتريكاناليس	COL name VAL  دلفينا  إنتريكاناليس	1
+COL name VAL  هنريك  صموئيل  كريستيانسن	COL name VAL  هنريك  كريستيانسن	1
+COL name VAL  هنريك  علامة  كريستيانسن	COL name VAL  هنريك  كريستيانسن	1
+COL name VAL  يعقوب  دانيال  باجج	COL name VAL  يعقوب  باجج	1
+COL name VAL  هافارد  برنت  نيبو	COL name VAL  هافارد  نيبو	1
+COL name VAL  اميل  ماريا  فيليول	COL name VAL  اميل  فيليول	1
+COL name VAL  إريك  بالوما  ستين	COL name VAL  إريك  ستين	1
+COL name VAL  مارسيلا  علي  جاكسون	COL name VAL  مارسيلا  جاكسون	1
+COL name VAL  ماري  ديلسا  جاكسون	COL name VAL  ماري  جاكسون	1
+COL name VAL  مارسيلا  أولي  جاكسون	COL name VAL  مارسيلا  جاكسون	1
+COL name VAL  ماري  فيليب  جاكسون	COL name VAL  ماري  جاكسون	1
+COL name VAL  بول  راندال  لوزانو	COL name VAL  بول  لوزانو	1
+COL name VAL  كلوديا  جون  سيفدينو	COL name VAL  كلوديا  سيفدينو	1
+COL name VAL  كريستينا  ميراندا  مونتيجانو	COL name VAL  كريستينا  مونتيجانو	1
+COL name VAL  خوان  نغمة، رنه  خيمينيز	COL name VAL  خوان  خيمينيز	1
+COL name VAL  جينارو  ميرلين  جامبوا	COL name VAL  جينارو  جامبوا	1
+COL name VAL  جبريل  جوزيف  خيمينيز	COL name VAL  جبريل  خيمينيز	1
+COL name VAL  إريك  انطونيو  وولين	COL name VAL  إريك  وولين	1
+COL name VAL  كارولينا  رينيه  مونتيجانو	COL name VAL  كارولينا  مونتيجانو	1
+COL name VAL  أندريه  لوري  كريستيانسن	COL name VAL  أندريه  كريستيانسن	1
+COL name VAL  أندريه  مايك  كريستيانسن	COL name VAL  أندريه  كريستيانسن	1
+COL name VAL  سفين  سارا  كريستيانسن	COL name VAL  سفين  كريستيانسن	1
+COL name VAL  نفذ  أمين  شيرر	COL name VAL  نفذ  شيرر	1
+COL name VAL  مورتن  تشانينج  سولفيك	COL name VAL  مورتن  سولفيك	1
+COL name VAL  مورتن  سو مي  سولفيك	COL name VAL  مورتن  سولفيك	1
+COL name VAL  iselin  ماري  سولهايم	COL name VAL  iselin  سولهايم	1
+COL name VAL  ماريا  خوان  سارو	COL name VAL  ماريا  سارو	1
+COL name VAL  ماريا  ستيفن  سارو	COL name VAL  ماريا  سارو	1
+COL name VAL  ماريا  باميلا  سارو	COL name VAL  ماريا  سارو	1
+COL name VAL  ماريا  كات  مارتينيتي	COL name VAL  ماريا  مارتينيتي	1
+COL name VAL  ماريا  بريان  مارتينيتي	COL name VAL  ماريا  مارتينيتي	1
+COL name VAL  ماريا  ج.  مارتينيتي	COL name VAL  ماريا  مارتينيتي	1
+COL name VAL  خافيير  ريتشارد  اسبارزا	COL name VAL  خافيير  اسبارزا	1
+COL name VAL  خافيير  جيو  اسبارزا	COL name VAL  خافيير  اسبارزا	1
+COL name VAL  خورخي  أوسكار  غارسيا	COL name VAL  خورخي  غارسيا	1
+COL name VAL  خورخي  راحيل  غارسيا	COL name VAL  خورخي  غارسيا	1
+COL name VAL  هانز  براندي  اونا	COL name VAL  هانز  اونا	1
+COL name VAL  أوريليو  وليام  archinti	COL name VAL  أوريليو  archinti	1
+COL name VAL  ألبرت  آنا  سامبي لوكونجا	COL name VAL  ألبرت  سامبي لوكونجا	1
+COL name VAL  جان كلود  ايستين  كلاري	COL name VAL  جان كلود  كلاري	1
+COL name VAL  ديليا  سارا  فاليري	COL name VAL  ديليا  فاليري	1
+COL name VAL  ديليا  جوشوا  فاليري	COL name VAL  ديليا  فاليري	1
+COL name VAL  ماريا  جورج  إشيزاريتا	COL name VAL  ماريا  إشيزاريتا	1
+COL name VAL  ماريا  يوهي  إشيزاريتا	COL name VAL  ماريا  إشيزاريتا	1
+COL name VAL  إيفان  ماثيو  جالار	COL name VAL  إيفان  جالار	1
+COL name VAL  إيفان  ماري  جالار	COL name VAL  إيفان  جالار	1
+COL name VAL  تربيتة  بابلو  لو بولمير	COL name VAL  تربيتة  لو بولمير	1
+COL name VAL  تربيتة  جوستين  لو بولمير	COL name VAL  تربيتة  لو بولمير	1
+COL name VAL  مارسيل  نفذ  فلوكيجر	COL name VAL  مارسيل  فلوكيجر	1
+COL name VAL  هاينز  ميراندا  lüdi	COL name VAL  هاينز  lüdi	1
+COL name VAL  كريس  نفذ  كريستنسون	COL name VAL  كريس  كريستنسون	1
+COL name VAL  مارغريت  علامة  سيتشهاي	COL name VAL  مارغريت  سيتشهاي	1
+COL name VAL  رينيه  ألوندرا  جيلارد	COL name VAL  رينيه  جيلارد	1
+COL name VAL  دومينيكو  ميليسا  بوزوني	COL name VAL  دومينيكو  بوزوني	1
+COL name VAL  جوستين  ليندا  جوندرسن	COL name VAL  جوستين  جوندرسن	1
+COL name VAL  ميريام  يوليوس  بوتشي	COL name VAL  ميريام  بوتشي	1
+COL name VAL  ميشيل  فخر النساء  روسي	COL name VAL  ميشيل  روسي	1
+COL name VAL  جيروين  ديفيد  فان دن بروك	COL name VAL  جيروين  فان دن بروك	1
+COL name VAL  ماركوس  جوليان  wüst	COL name VAL  ماركوس  wüst	1
+COL name VAL  ستيفانو  كونراد  ميرلينو	COL name VAL  ستيفانو  ميرلينو	1
+COL name VAL  ستيفانو  جين  ميرلينو	COL name VAL  ستيفانو  ميرلينو	1
+COL name VAL  ميكائيل  علي  تربان	COL name VAL  ميكائيل  تربان	1
+COL name VAL  ميكائيل  باربرا  تربان	COL name VAL  ميكائيل  تربان	1
+COL name VAL  خوسيه مانويل  مارك  جوتيريز	COL name VAL  خوسيه مانويل  جوتيريز	1
+COL name VAL  خوسيه مانويل  بوب  جوتيريز	COL name VAL  خوسيه مانويل  جوتيريز	1
+COL name VAL  إيزابيل  إيلين  رودريغيز	COL name VAL  إيزابيل  رودريغيز	1
+COL name VAL  باسكوالينا  ج.  سارو	COL name VAL  باسكوالينا  سارو	1
+COL name VAL  باسكوالينا  اميل  سارو	COL name VAL  باسكوالينا  سارو	1
+COL name VAL  باسكوالينا  إرنست  سارو	COL name VAL  باسكوالينا  سارو	1
+COL name VAL  جوهان  ليزلي  بولين	COL name VAL  جوهان  بولين	1
+COL name VAL  جوهان  ج.  بولين	COL name VAL  جوهان  بولين	1
+COL name VAL  جوهان  آن  بولين	COL name VAL  جوهان  بولين	1
+COL name VAL  جوهان  بوب  بولين	COL name VAL  جوهان  بولين	1
+COL name VAL  جون  ألفينا  جرانرود	COL name VAL  جون  جرانرود	1
+COL name VAL  جون  أرشيبالد  جرانرود	COL name VAL  جون  جرانرود	1
+COL name VAL  غابرييل  إنريكي  جريستا	COL name VAL  غابرييل  جريستا	1
+COL name VAL  غابرييل  وليام  جريستا	COL name VAL  غابرييل  جريستا	1
+COL name VAL  مانويل  دانيال  مارتوس	COL name VAL  مانويل  مارتوس	1
+COL name VAL  مانويل  الكسيس  بارا	COL name VAL  مانويل  بارا	1
+COL name VAL  نيلدي  دومينيكو  باراشي	COL name VAL  نيلدي  باراشي	1
+COL name VAL  فرانتز  ماري هوفمان	COL name VAL  فرانتز هوفمان	1
+COL name VAL  لورينا  ألفريدو  فيلا	COL name VAL  لورينا  فيلا	1
+COL name VAL  أندريه  ترولس  فيرديل	COL name VAL  أندريه  فيرديل	1
+COL name VAL  ماركوس  موج  نصلي	COL name VAL  ماركوس  نصلي	1
+COL name VAL  توم  ريان  بيترمات	COL name VAL  توم  بيترمات	1
+COL name VAL  جيوفاني  م.  بيانكي	COL name VAL  جيوفاني  بيانكي	1
+COL name VAL  رودولف  ميليندا  كيلر	COL name VAL  رودولف  كيلر	1
+COL name VAL  f.  سيبل  من	COL name VAL  f.  من	1
+COL name VAL  جيلبرت  سالي  من	COL name VAL  جيلبرت  من	1
+COL name VAL  جان  لوري  نيوهاوس	COL name VAL  جان  نيوهاوس	1
+COL name VAL  كارولينا  بريان  ولترز	COL name VAL  كارولينا  ولترز	1
+COL name VAL  جوليان  أوسكار  مارتينيز	COL name VAL  جوليان  مارتينيز	1
+COL name VAL  روبرتو  كريس  إنسيناس	COL name VAL  روبرتو  إنسيناس	1
+COL name VAL  رودي  جاد  كيلر	COL name VAL  رودي  كيلر	1
+COL name VAL  كريس  ألونا  فان بويفيلدي	COL name VAL  كريس  فان بويفيلدي	1
+COL name VAL  برنارد  ايستين  مولر	COL name VAL  برنارد  مولر	1
+COL name VAL  ميغيل أنخيل  نعومي  روبيو	COL name VAL  ميغيل أنخيل  روبيو	1
+COL name VAL  موديستو  كايل  روميرو	COL name VAL  موديستو  روميرو	1
+COL name VAL  كلوي  منحة  فان دي فيلدي	COL name VAL  كلوي  فان دي فيلدي	1
+COL name VAL  كلوي  لويس  فان دي فيلدي	COL name VAL  كلوي  فان دي فيلدي	1
+COL name VAL  كلوي  آن  فان دي فيلدي	COL name VAL  كلوي  فان دي فيلدي	1
+COL name VAL  جوانا  هيلين  غارسيا	COL name VAL  جوانا  غارسيا	1
+COL name VAL  ديفيد  جوامع  كامبوس	COL name VAL  ديفيد  كامبوس	1
+COL name VAL  زينو  جونغ سيونغ  موسر	COL name VAL  زينو  موسر	1
+COL name VAL  دومينيك  جيري  بوزوني	COL name VAL  دومينيك  بوزوني	1
+COL name VAL  دومينغو  يوليوس  كامبوس	COL name VAL  دومينغو  كامبوس	1
+COL name VAL  يورن  أندريا  ستابيرود	COL name VAL  يورن  ستابيرود	1
+COL name VAL  يورغ  نصري  wegelin	COL name VAL  يورغ  wegelin	1
+COL name VAL  ويلي  آلان  شيفر	COL name VAL  ويلي  شيفر	1
+COL name VAL  فيليبو  حيدر  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  فيليبو  جيرالد روسوتي	COL name VAL  فيليبو روسوتي	1
+COL name VAL  فيليبو  نفذ  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  فيليبو  كارلوس  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  فيليبو  ديف  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  فيليبو  كارول  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  فيليبو  ميشيل أنج  روسوتي	COL name VAL  فيليبو  روسوتي	1
+COL name VAL  بيليساريو  بلانش  أكوافيفا	COL name VAL  بيليساريو  أكوافيفا	1
+COL name VAL  انطونيو  فرانسيسكو  غانديني	COL name VAL  انطونيو  غانديني	1
+COL name VAL  باولو  سيزار  رويرو	COL name VAL  باولو  رويرو	1
+COL name VAL  فينسينزو  ريا  رويرو	COL name VAL  فينسينزو  رويرو	1
+COL name VAL  ريكاردو  جوامع  جراسيتي	COL name VAL  ريكاردو  جراسيتي	1
+COL name VAL  فريتز  خوسيه لويس  شويبلين	COL name VAL  فريتز  شويبلين	1
+COL name VAL  والتر  كوينتين  دورست	COL name VAL  والتر  دورست	1
+COL name VAL  üli  أنيتا  هوفمان	COL name VAL  üli  هوفمان	1
+COL name VAL  هنري  ديفيد  نيجريتي	COL name VAL  هنري  نيجريتي	1
+COL name VAL  هنري  دانيال  نيجريتي	COL name VAL  هنري  نيجريتي	1
+COL name VAL  هنري  إيفار  نيجريتي	COL name VAL  هنري  نيجريتي	1
+COL name VAL  سلستينو  إيزورا بانشيري	COL name VAL  سلستينو بانشيري	1
+COL name VAL  رينيه  فيرونيكا  ظهر السفينة	COL name VAL  رينيه  ظهر السفينة	1
+COL name VAL  رينيه  مارلين  بدر	COL name VAL  رينيه  بدر	1
+COL name VAL  أليساندرو  e.  بيناسي	COL name VAL  أليساندرو  بيناسي	1
+COL name VAL  أليساندرو  سوندري  بيناسي	COL name VAL  أليساندرو  بيناسي	1
+COL name VAL  فرانشيسكو  إرنست  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  فرانشيسكو  جيروين  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  فرانشيسكو  أليس  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  فرانشيسكو  سيمون  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  فرانشيسكو  فاتوماتا  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  فرانشيسكو  جوامع  باربيري	COL name VAL  فرانشيسكو  باربيري	1
+COL name VAL  إدوين  بوب  براينت	COL name VAL  إدوين  براينت	1
+COL name VAL  إدوين  لينا  براينت	COL name VAL  إدوين  براينت	1
+COL name VAL  إدوين  ليزي  براينت	COL name VAL  إدوين  براينت	1
+COL name VAL  ماريوس  رنا  لارسن	COL name VAL  ماريوس  لارسن	1
+COL name VAL  كاثرين  جيك  فيرليسن	COL name VAL  كاثرين  فيرليسن	1
+COL name VAL  ألفريدو  جوزيف  فيرافانتي	COL name VAL  ألفريدو  فيرافانتي	1
+COL name VAL  أندرياس  كارل  طن	COL name VAL  أندرياس  طن	1
+COL name VAL  رونالد  كين  دي سوزا	COL name VAL  رونالد  دي سوزا	1
+COL name VAL  فيليكس  الكسيس  مهر	COL name VAL  فيليكس  مهر	1
+COL name VAL  تريز  آرثر  åsland	COL name VAL  تريز  åsland	1
+COL name VAL  عيسى  بيرت  باريدا	COL name VAL  عيسى  باريدا	1
+COL name VAL  عيسى آنا  باريدا	COL name VAL  عيسى  باريدا	1
+COL name VAL  يوسي  فرانسيس  هاد	COL name VAL  يوسي  هاد	1
+COL name VAL  آندي  بنيامين  طن	COL name VAL  آندي  طن	1
+COL name VAL  ماريا  بريان  باريدا	COL name VAL  ماريا  باريدا	1
+COL name VAL  ماريا  جورج  باريدا	COL name VAL  ماريا  باريدا	1
+COL name VAL  كارل  مارتن  كالين	COL name VAL  كارل  كالين	1
+COL name VAL  باتريك  ناثانيال  بولمان	COL name VAL  باتريك  بولمان	1
+COL name VAL  مانويل  أحمد  فرنانديز	COL name VAL  مانويل  فرنانديز	1
+COL name VAL  توماس  روفين  فرنانديز	COL name VAL  توماس  فرنانديز	1
+COL name VAL  إليزابيث  رينيه  دوبارك	COL name VAL  إليزابيث  دوبارك	1
+COL name VAL  جاستن  ريكاردو  فوليامي	COL name VAL  جاستن  فوليامي	1
+COL name VAL  بيتينا  خوسيه  كوهن	COL name VAL  بيتينا  كوهن	1
+COL name VAL  لارس  ماريا  شجيتن	COL name VAL  لارس  شجيتن	1
+COL name VAL  يعقوب  كريستال  ترومسدال	COL name VAL  يعقوب  ترومسدال	1
+COL name VAL  يعقوب  ستايسي  ترومسدال	COL name VAL  يعقوب  ترومسدال	1
+COL name VAL  ريكي  إليزابيث  نيجارد	COL name VAL  ريكي  نيجارد	1
+COL name VAL ريكي  فريد  بوجيتفيت	COL name VAL ريكي  بوجيتفيت	1
+COL name VAL  غابرييل  ستيفن  يكذب	COL name VAL  غابرييل  يكذب	1
+COL name VAL  غابرييل  خوان  يكذب	COL name VAL  غابرييل  يكذب	1
+COL name VAL  ميا  ستيفن  هووز	COL name VAL  ميا  هووز	1
+COL name VAL  جيدو  مشروع قانون  بيزارو	COL name VAL  جيدو  بيزارو	1
+COL name VAL  الكسندر  جوليان  كريبت	COL name VAL  الكسندر  كريبت	1
+COL name VAL  مايكل أنجلو أليسيا  دي بيترو	COL name VAL  مايكل أنجلو  دي بيترو	1
+COL name VAL  مايكل أنجلو  راندال  دي بيترو	COL name VAL  مايكل أنجلو  دي بيترو	1
+COL name VAL  مايكل أنجلو  جورج دي بيترو	COL name VAL  مايكل أنجلو دي بيترو	1
+COL name VAL  مايكل أنجلو  مشروع قانون  دي بيترو	COL name VAL  مايكل أنجلو  دي بيترو	1
+COL name VAL  دييغو  أكرم  دا سيلفا	COL name VAL  دييغو  دا سيلفا	1
+COL name VAL  دييغو  إدواردو  جياريتا	COL name VAL  دييغو  جياريتا	1
+COL name VAL  اروان  راسل  قصر	COL name VAL  اروان  قصر	1
+COL name VAL  فيليب  عيسى  فوشت	COL name VAL  فيليب  فوشت	1
+COL name VAL  الأعلى  ماريا لويزا  فوشت	COL name VAL  الأعلى  فوشت	1
+COL name VAL  فيليب  ايستين  فوشت	COL name VAL  فيليب  فوشت	1
+COL name VAL  الأعلى  لويس  فوشت	COL name VAL  الأعلى  فوشت	1
+COL name VAL  كيم جوي  كاثرين  هيوليت	COL name VAL  كيم جوي  هيوليت	1
+COL name VAL  كيم جوي  تربيتة  هيوليت	COL name VAL  كيم جوي  هيوليت	1
+COL name VAL  كلارا  لي  سبورسيم	COL name VAL  كلارا  سبورسيم	1
+COL name VAL  فريدريش  راعوث  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  حواء  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  جارث  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش دانيال  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  داستن  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  جون  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  ستيفن  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  ديف  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  جوامع  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  ديفيد ابراهام  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  أورورا  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  إدوارد  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  كاتيا  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  توبياس  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  توماس  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  فريدريش  سلفاتور  سوستريس	COL name VAL  فريدريش  سوستريس	1
+COL name VAL  نفذ  ستيان  مولر	COL name VAL  نفذ  مولر	1
+COL name VAL  بلانش  جون  شارليت	COL name VAL  بلانش  شارليت	1
+COL name VAL  عيد الحب  علامة  شارليت	COL name VAL  عيد الحب  شارليت	1
+COL name VAL  كارل  امير حسن  كولبيرت	COL name VAL  كارل  كولبيرت	1
+COL name VAL  تانكريد  بيليساريو  دوما	COL name VAL  تانكريد  دوما	1
+COL name VAL  تانكريد  افي  دوما	COL name VAL  تانكريد  دوما	1
+COL name VAL  تانكريد  فاسيلي  دوما	COL name VAL  تانكريد  دوما	1
+COL name VAL  نيكو  ملاك  برونغر	COL name VAL  نيكو  برونغر	1
+COL name VAL  نيكو  دييغو  برونغر	COL name VAL  نيكو  برونغر	1
+COL name VAL  آرثر  تشارلز  فارني	COL name VAL  آرثر  فارني	1
+COL name VAL  آرثر  أورورا  فارني	COL name VAL  آرثر  فارني	1
+COL name VAL  جايتانو  توماس  مينياني	COL name VAL  جايتانو  مينياني	1
+COL name VAL  هايدي  مشروع قانون  ellingsen	COL name VAL  هايدي  ellingsen	1
+COL name VAL  فرود  ريبيكا  هيجلاند	COL name VAL  فرود  هيجلاند	1
+COL name VAL  الكسندر  توماس  هيجلاند	COL name VAL  الكسندر  هيجلاند	1
+COL name VAL  رودريغو  فرود  دي بورخا	COL name VAL  رودريغو  دي بورخا	1
+COL name VAL  جوليان  ديفيد  لوبيز	COL name VAL  جوليان  لوبيز	1
+COL name VAL  جوليان  إيما  لوبيز	COL name VAL  جوليان  لوبيز	1
+COL name VAL  أوتو  أوغوستو  بوهلر	COL name VAL  أوتو  بوهلر	1
+COL name VAL  أوتو  آلان  بوهلر	COL name VAL  أوتو  بوهلر	1
+COL name VAL  أوتو  أمالي  شليبفر	COL name VAL  أوتو  شليبفر	1
+COL name VAL  رالف  ديفيد  روج	COL name VAL  رالف  روج	1
+COL name VAL  أندريه  ميليسا  نيدرهاوسر	COL name VAL  أندريه  نيدرهاوسر	1
+COL name VAL  فالنتينا  جين  بوسيتي	COL name VAL  فالنتينا  بوسيتي	1
+COL name VAL  امبرتو  ميني  رومانو	COL name VAL  امبرتو  رومانو	1
+COL name VAL  جورج  ويليام  مولتينو	COL name VAL  جورج  مولتينو	1
+COL name VAL  جيانفرانكو  جيم  فيلي	COL name VAL  جيانفرانكو  فيلي	1
+COL name VAL  إيفا  أندرياس رونينج	COL name VAL  إيفا رونينج	1
+COL name VAL  إيفا  سيجورد  فودور	COL name VAL  إيفا  فودور	1
+COL name VAL  جريت  هدسون  مان	COL name VAL  جريت  مان	1
+COL name VAL  جريت  كارل  موسر	COL name VAL  جريت  موسر	1
+COL name VAL  جورون  كارلتون  باكلي	COL name VAL  جورون  باكلي	1
+COL name VAL  جورون  ماري  باكلي	COL name VAL  جورون  باكلي	1
+COL name VAL  جوان  مارجريت  ماساجي	COL name VAL  جوان  ماساجي	1
+COL name VAL  جوان  فيليكس  ماساجي	COL name VAL  جوان  ماساجي	1
+COL name VAL  جوان  مارك  ماساجي	COL name VAL  جوان  ماساجي	1
+COL name VAL  جوان  ساندرا  ماساجي	COL name VAL  جوان  ماساجي	1
+COL name VAL  ديفيد  كيارا  رودريغو	COL name VAL  ديفيد  رودريغو	1
+COL name VAL  ميغيل أنخيل  جو  أراوجو إغليسياس	COL name VAL  ميغيل أنخيل  أراوجو إغليسياس	1
+COL name VAL  خوسيه مانويل  هشام  اجيا	COL name VAL  خوسيه مانويل  اجيا	1
+COL name VAL  جواكين  سيلفستر  نوفوا	COL name VAL  جواكين  نوفوا	1
+COL name VAL  رودولف  ابراهيم  كوينديت	COL name VAL  رودولف  كوينديت	1
+COL name VAL  سيلفان  وليام  بوشلي	COL name VAL  سيلفان  بوشلي	1
+COL name VAL  هنري  وليام  مولر	COL name VAL  هنري  مولر	1
+COL name VAL  ليو  سفين  بيسكارولو	COL name VAL  ليو  بيسكارولو	1
+COL name VAL  داني  كريستينا  دا سيلفا	COL name VAL  داني  دا سيلفا	1
+COL name VAL  ماري  ريموندو  أوبيرت	COL name VAL  ماري  أوبيرت	1
+COL name VAL  ميرسيا  لويس  هاريسون	COL name VAL  ميرسيا  هاريسون	1
+COL name VAL  مارتن  تركي  تشودي	COL name VAL  مارتن  تشودي	1
+COL name VAL  مارتن ميليسا  تشودي	COL name VAL  مارتن  تشودي	1
+COL name VAL  ميرسيا  فاليريا  المصلح	COL name VAL  ميرسيا  المصلح	1
+COL name VAL  خوسيه  إريك  سانتياغو كونشا	COL name VAL  خوسيه  سانتياغو كونشا	1
+COL name VAL  انطونيو  جون  خيمينيز	COL name VAL  انطونيو  خيمينيز	1
+COL name VAL  ناثانيال  جورون  أندريه	COL name VAL  ناثانيال  أندريه	1
+COL name VAL  كارلوس  مارلين  أرويو	COL name VAL  كارلوس  أرويو	1
+COL name VAL  أدولفو  أرشيبالد  برادا	COL name VAL  أدولفو  برادا	1
+COL name VAL  جوليان  ماريا  ليفي	COL name VAL  جوليان  ليفي	1
+COL name VAL  مانفريدي  سيري  ليفيفر	COL name VAL  مانفريدي  ليفيفر	1
+COL name VAL  مانفريدي  علي  ليفيفر	COL name VAL  مانفريدي  ليفيفر	1
+COL name VAL  مانفريدي  والتر  ليفيفر	COL name VAL  مانفريدي  ليفيفر	1
+COL name VAL  ماركوس  أكينسولا  بوسيجر	COL name VAL  ماركوس  بوسيجر	1
+COL name VAL  كونراد  ريتشارد  برتقالي	COL name VAL  كونراد  برتقالي	1
+COL name VAL  كونراد  صريح  برتقالي	COL name VAL  كونراد  برتقالي	1
+COL name VAL  جواو  وليام  أوليفيرا	COL name VAL  جواو  أوليفيرا	1
+COL name VAL  e.  مارك  جارسين	COL name VAL  e.  جارسين	1
+COL name VAL  فرانسين  بوز  لاكوا	COL name VAL  فرانسين  لاكوا	1
+COL name VAL  كات  أندريه  أرني	COL name VAL  كات  أرني	1
+COL name VAL  ساره  لويزا  suphellen	COL name VAL  ساره  suphellen	1
+COL name VAL  ساره  ماتس  suphellen	COL name VAL  ساره  suphellen	1
+COL name VAL  لارس  اغناطيوس  أولسون	COL name VAL  لارس  أولسون	1
+COL name VAL  جون  أنيتا  أوبيجارد	COL name VAL  جون  أوبيجارد	1
+COL name VAL  أوغست  هوراس  جارسين	COL name VAL  أوغست  جارسين	1
+COL name VAL  خوسيه  ميني  اسبليوس	COL name VAL  خوسيه  اسبليوس	1
+COL name VAL  مرسيدس  فيل  مولتو	COL name VAL  مرسيدس  مولتو	1
+COL name VAL  دييغو  اروين  دي هولغوين	COL name VAL  دييغو  دي هولغوين	1
+COL name VAL  إرنست  سيث  جوسويلر	COL name VAL  إرنست  جوسويلر	1
+COL name VAL أونوفريو  ايستين  بارتوليني	COL name VAL أونوفريو  بارتوليني	1
+COL name VAL  أونوفريو  سينثيا  بارتوليني	COL name VAL  أونوفريو  بارتوليني	1
+COL name VAL  أونوفريو  ديف  بارتوليني	COL name VAL  أونوفريو  بارتوليني	1
+COL name VAL  إرنست  سيمون  lüthi	COL name VAL  إرنست  lüthi	1
+COL name VAL  جون  يوسف  نيلسون	COL name VAL  جون  نيلسون	1
+COL name VAL  صموئيل  أليسون  بيترسون	COL name VAL  صموئيل  بيترسون	1
+COL name VAL  أندرياس  حسين  أولسن	COL name VAL  أندرياس  أولسن	1
+COL name VAL  أندرياس  كريس  أولسن	COL name VAL  أندرياس  أولسن	1
+COL name VAL  أندرياس  مناحيم  أولسن	COL name VAL  أندرياس  أولسن	1
+COL name VAL  مصطفى  هارون  نور	COL name VAL  مصطفى  نور	1
+COL name VAL  مصطفى  ت.  نور	COL name VAL  مصطفى  نور	1
+COL name VAL  مصطفى  ريتشارد  نور	COL name VAL  مصطفى  نور	1
+COL name VAL  إنريكي  علامة  غراو	COL name VAL  إنريكي  غراو	1
+COL name VAL  خوان  كلوي  مارتينيز	COL name VAL  خوان  مارتينيز	1
+COL name VAL  لويس  سوزان  فرنانديز	COL name VAL  لويس  فرنانديز	1
+COL name VAL  تروند  لورينا  تورسفيك	COL name VAL  تروند  تورسفيك	1
+COL name VAL  تروند  كريم  تورسفيك	COL name VAL  تروند  تورسفيك	1
+COL name VAL  أوغباد  سو مي  نور	COL name VAL  أوغباد  نور	1
+COL name VAL  يوسف  مانويلا  نور	COL name VAL  يوسف  نور	1
+COL name VAL  أوغباد  علي  نور	COL name VAL  أوغباد  نور	1
+COL name VAL  يوسف  آلان  نور	COL name VAL  يوسف  نور	1
+COL name VAL  أوغباد  إنجلبرت  نور	COL name VAL  أوغباد  نور	1
+COL name VAL  يوسف  ماريا  نور	COL name VAL  يوسف  نور	1
+COL name VAL  لويس  ليف  نيلسون	COL name VAL  لويس  نيلسون	1
+COL name VAL  نيكولاس  ألفينا  جيتاز	COL name VAL  نيكولاس  جيتاز	1
+COL name VAL  هيلج  هيل  تورسفيك	COL name VAL  هيلج  تورسفيك	1
+COL name VAL  هيلج  إنريكي  تورسفيك	COL name VAL  هيلج  تورسفيك	1
+COL name VAL  جيوفاني  فريدريك  بينيلي	COL name VAL  جيوفاني  بينيلي	1
+COL name VAL  بول  جيفرسون  إبرهارد	COL name VAL  بول  إبرهارد	1
+COL name VAL  فريتز  فيديريكو  فاغنر	COL name VAL  فريتز  فاغنر	1
+COL name VAL  كريستينا  جريس  رودريغيز	COL name VAL  كريستينا  رودريغيز	1
+COL name VAL  كريستينا  إلياس  رودريغيز	COL name VAL  كريستينا  رودريغيز	1
+COL name VAL  كريستينا  هنري رودريغيز	COL name VAL  كريستينا رودريغيز	1
+COL name VAL  سيزار  زياد  كاباليرو	COL name VAL  سيزار  كاباليرو	1
+COL name VAL  خوان  نيكولاس  غارسيا	COL name VAL  خوان  غارسيا	1
+COL name VAL  ثورا  دينا  هاردي	COL name VAL  ثورا  هاردي	1
+COL name VAL  ثورا  لورانس  هاردي	COL name VAL  ثورا  هاردي	1
+COL name VAL  ثورا  سام  هاردي	COL name VAL  ثورا  هاردي	1
+COL name VAL  ثورا  أولي  هاردي	COL name VAL  ثورا  هاردي	1
+COL name VAL  ثورا  سليمان  هاردي	COL name VAL  ثورا  هاردي	1
+COL name VAL  ايرين  محمد  دوفوكس	COL name VAL  ايرين  دوفوكس	1
+COL name VAL  جيلبرت  جوشوا  نسيم	COL name VAL  جيلبرت  نسيم	1
+COL name VAL  جيلبرت  هاري  نسيم	COL name VAL  جيلبرت  نسيم	1
+COL name VAL  سيندر  ألفينا  لانجيل	COL name VAL  سيندر  لانجيل	1
+COL name VAL  تشارلز  جاك  ريس	COL name VAL  تشارلز  ريس	1
+COL name VAL  أولغا  هاري  دحل	COL name VAL  أولغا  دحل	1
+COL name VAL  غريغوري  هيلاري  راسبوتين	COL name VAL  غريغوري  راسبوتين	1
+COL name VAL  غريغوري  إميليو  راسبوتين	COL name VAL  غريغوري  راسبوتين	1
+COL name VAL  دانيال  يهودا  نسيم	COL name VAL  دانيال  نسيم	1
+COL name VAL  دانيال  مورتن  نسيم	COL name VAL  دانيال  نسيم	1
+COL name VAL  خوسيه لويس  لوك  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  ديفيد  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  جوهان  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  إنريكي  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  رودولف  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  آنا  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  روبرت  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  شون  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  خوسيه لويس  وليام  مورينو	COL name VAL  خوسيه لويس  مورينو	1
+COL name VAL  فيديريكو  إريك  مادرازو	COL name VAL  فيديريكو  مادرازو	1
+COL name VAL  فيديريكو  دوين  مادرازو	COL name VAL  فيديريكو  مادرازو	1
+COL name VAL  فيديريكو  جوامع  مادرازو	COL name VAL  فيديريكو  مادرازو	1
+COL name VAL فيديريكو  ميشيل  مادرازو	COL name VAL فيديريكو  مادرازو	1
+COL name VAL  فيديريكو  ليانغ  مادرازو	COL name VAL  فيديريكو  مادرازو	1
+COL name VAL  فيديريكو  دي لا كاريداد  مادرازو	COL name VAL  فيديريكو  مادرازو	1

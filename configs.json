@@ -38,6 +38,14 @@
     "trainset": "data/wiki/PER_12K_Aug_First_Last/chars_aug/train.txt",
     "validset": "data/wiki/PER_12K_Aug_First_Last/chars_aug/valid.txt",
     "testset":  "data/wiki/PER_12K_Aug_First_Last/chars_aug/test.txt"
+  },
+  {
+    "name": "wiki/PER_12K_Aug_First_Last_ar",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/wiki/PER_12K_Aug_First_Last_ar/train.txt",
+    "validset": "data/wiki/PER_12K_Aug_First_Last_ar/valid.txt",
+    "testset":  "data/wiki/PER_12K_Aug_First_Last_ar/test.txt"
   },  
   {
     "name": "wiki/PER_12K_Aug_First_Last",

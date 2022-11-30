@@ -7,10 +7,18 @@ import sys
 sys.path.insert(0,'../preprocess')
 from features import read_split_df
 
-DITTO_PATH = r'D:\Dekel\Data\NLP\EntityMatching\ditto' # r'D:\NLP\Entity-Matching\hub\ditto'
+DITTO_PATH = r'D:\NLP\Entity-Matching\hub\ditto' # r'D:\Dekel\Data\NLP\EntityMatching\ditto' #
+
 TEMP_PATH = Path(DITTO_PATH) / 'results_ditto/temp'
 ORG_75K_PATH = Path(DITTO_PATH) / r'data\wiki\ORG_2_toks_75K'
 ORG_PRED_FOLDER = r'test_predictions_train_4_to_1_test_7_to_1'
+
+# ar - Wiki Org
+ORG_75K_AR_PATH = Path(DITTO_PATH) / r'data\wiki\ORG_2_toks_75K_ar'
+ORG_AR_WIKI_PRED_FOLDER = r'predictions\test_wiki_f1_74_arabase'
+ORG_AR_NEWS_PRED_FOLDER = r'predictions\train_wiki_arabase_f1_58_news_org'
+
+
 
 PER_12K_PATH = Path(DITTO_PATH) / r'data\wiki\PER_12K'
 PER_NEWS_PRED_FOLDER = r'predictions\train_wikidata_per_12k_test_news_f1_83'
@@ -29,10 +37,13 @@ NEWS_PER_ORG_PRED = r'predictions\train_10K_per_10K_org_predict_news_per_org'
 PER_ORG_eq_amount_PATH = Path(DITTO_PATH) / r'data\wiki\PER_ORG_eq_amount'
 NEWS_PER_ORG_PRED = r'predictions\train_10K_per_20K_org_predict_news_org'
 
-GT_PATH = Path(DITTO_PATH) / r'data\news\test\test_news_per.txt'
-data_base_path = Path(PER_12K_AUG_FIRST_LAST_PATH) # PER_ORG_eq_amount_PATH # PER_12K_AUG_FIRST_LAST_PATH
+langid = 'ar'
+GT_PATH = Path(DITTO_PATH) / f'data/news/test/{langid}/test_news_org.txt'
+data_base_path = Path(ORG_75K_AR_PATH) # PER_12K_AUG_FIRST_LAST_PATH # PER_ORG_eq_amount_PATH # PER_12K_AUG_FIRST_LAST_PATH
 
-preds_json_path = data_base_path / PER_NEWS_PRED_FOLDER_AUG_FIRST_LAST_2000_UNCASED_FIX_LABELS_ROBERTA_LARGE / 'output_small.jsonl'
+
+
+preds_json_path = data_base_path / ORG_AR_NEWS_PRED_FOLDER / 'output_small_org.jsonl'
 df_pred = pd.read_json(preds_json_path, lines=True)
 df_pred['match'] = df_pred['match'].astype('bool')
 
@@ -94,9 +105,9 @@ if __name__=="__main__":
     ConfusionMatrixDisplay.from_predictions(df_pred.gt_label, df_pred['match'])
     # Examples of errors (FP): many unrelated pairs are predicted match=True    
     # FP
-    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_fp_test_news_org.html')
+    df_pred[df_pred['match'] & (~df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'ORG_2_toks_75K_ar__f1_58_fp_test_news_org.html')
     # FN
-    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_FN_test_news_org.html')
+    df_pred[~df_pred['match'] & (df_pred.gt_label)].to_html(Path(TEMP_PATH) / 'ORG_2_toks_75K_ar__f1_58_fn_test_news_org.html')
     # TP + TN
     df_pred[df_pred.match == df_pred.gt_label].to_html(Path(TEMP_PATH) / 'PER_ORG_eq_amount_20K_orgs_train_10K_PEr__f1_85_TP_TN_test_news__org.html')
     

@@ -26,8 +26,7 @@ class DittoDataset(data.Dataset):
                  pairs=None,
                  labels=None
                  ):
-        self.tokenizer = get_tokenizer(hp.lm)
-        print(f'type(tokenizer) == {type(self.tokenizer)} ')
+        self.tokenizer = get_tokenizer(hp.lm)        
         self.pairs = []
         self.labels = []
         self.max_len = hp.max_len

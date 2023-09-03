@@ -1,0 +1,24 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens_str": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "m_tokens_str": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "gt_label": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "type": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
